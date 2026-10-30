@@ -1,0 +1,20 @@
+#EXTM3U
+# Working Czech channels, updated 2026-10-30 19:25 UTC
+#EXTINF:-1 tvg-id="ArenaSport1.sk@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/2qf67zW.png" x-category="Sports" tvg-language="Czech" group-title="Czech",Arena Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.212.15.50/live/test_arenasport/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport4KCzechia.cz@UHD" x-categories="Sports" tvg-logo="https://i.imgur.com/0o3zjC7.png" x-category="Sports" tvg-language="Czech" group-title="Czech",Eurosport 4K Czechia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.cz@SD" x-categories="Sports" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png" x-category="Sports" tvg-language="Czech" group-title="Czech",Golf Channel
+https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport1.cz@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/X5X3tKC.png" x-category="Sports" tvg-language="Czech" group-title="Czech",Sport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport2.cz@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/UxflVoU.png" x-category="Sports" tvg-language="Czech" group-title="Czech",Sport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_sport_2/playlist.m3u8
+#EXTINF:-1 tvg-id="SportyTV.cz@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/Wz5bQKx.jpeg" x-category="Sports" tvg-language="Czech" group-title="Czech",Sporty TV
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+#EXTINF:-1 tvg-id="CTSport.cz@SD" x-categories="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png" x-category="Sports" tvg-language="Czech" group-title="Czech" height="720",ČT Sport (720p)
+http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8
