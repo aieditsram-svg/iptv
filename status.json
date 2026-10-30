@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30 20:31 UTC",
-  "fingerprint": "78191d04015cdfc771c4a20c0fd4fdd5",
+  "updated_at": "2026-10-30 21:11 UTC",
+  "fingerprint": "f2e8697d684511b0151bf6e798ceceeb",
   "total": 2112,
-  "working": 1727,
+  "working": 1725,
   "in_grace_period": 15,
-  "dead": 385,
-  "hd_channels": 819,
+  "dead": 387,
+  "hd_channels": 818,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 114,
-      "working": 81,
+      "working": 80,
       "hd": 40
     },
     "Bhojpuri": {
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 572,
+      "working": 573,
       "hd": 240
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 13
+      "hd": 11
     },
     "Polish": {
       "total": 6,
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 50,
-      "working": 35,
+      "working": 33,
       "hd": 17
     },
     "Santali": {
@@ -225,7 +225,7 @@
     "Spanish": {
       "total": 103,
       "working": 57,
-      "hd": 43
+      "hd": 44
     },
     "Swedish": {
       "total": 1,
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 247,
-      "working": 198
+      "working": 196
     },
     "General": {
       "total": 174,
-      "working": 151
+      "working": 152
     },
     "Kids": {
       "total": 28,
@@ -335,15 +335,15 @@
     },
     "Movies": {
       "total": 124,
-      "working": 95
+      "working": 97
     },
     "Music": {
       "total": 130,
-      "working": 115
+      "working": 113
     },
     "News": {
       "total": 642,
-      "working": 599
+      "working": 600
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 483,
-      "working": 303
+      "working": 301
     },
     "Travel": {
       "total": 5,
@@ -677,24 +677,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Movies (576p)",
@@ -702,8 +687,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -715,6 +700,11 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -1042,6 +1032,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Q TV (576p) [Geo-blocked]",
       "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
@@ -1050,6 +1045,11 @@
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Balle Balle (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
@@ -1522,6 +1522,16 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Belarus-5 (1080p) [Not 24/7]",
+      "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
+      "reason": "not a valid HLS manifest"
+    },
+    {
+      "name": "Беларусь 5 Интернет (1080p) [Not 24/7]",
+      "url": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+      "reason": "RemoteDisconnected"
+    },
+    {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
       "reason": "not a valid HLS manifest"
@@ -1682,11 +1692,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "CDN Deportes (720p) [Not 24/7]",
-      "url": "https://hls.tvabierta.net/hls/036.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Awapa Sports TV (1080p) [Not 24/7]",
       "url": "https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8",
       "reason": "HTTP 400"
@@ -1789,12 +1794,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -1804,7 +1809,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2194,12 +2199,17 @@
     {
       "name": "Fox Deportes (720p)",
       "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Golf Channel Latin America (720p)",
+      "url": "http://143.14.178.35/TCM-HD/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
