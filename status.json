@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-30 20:01 UTC",
-  "fingerprint": "d4718a6f87976169d464ea5dcfe07a0d",
+  "updated_at": "2026-10-30 20:31 UTC",
+  "fingerprint": "78191d04015cdfc771c4a20c0fd4fdd5",
   "total": 2112,
-  "working": 1725,
-  "in_grace_period": 9,
-  "dead": 387,
+  "working": 1727,
+  "in_grace_period": 15,
+  "dead": 385,
   "hd_channels": 819,
   "languages": {
     "Albanian": {
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 132,
-      "working": 125,
+      "working": 126,
       "hd": 51
     },
     "Romanian": {
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 50,
-      "working": 34,
+      "working": 35,
       "hd": 17
     },
     "Santali": {
@@ -339,7 +339,7 @@
     },
     "Music": {
       "total": 130,
-      "working": 114
+      "working": 115
     },
     "News": {
       "total": 642,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 483,
-      "working": 302
+      "working": 303
     },
     "Travel": {
       "total": 5,
@@ -519,7 +519,7 @@
     {
       "name": "Harvest TV Keralam (720p)",
       "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Jonack TV (360p) [Not 24/7]",
@@ -674,11 +674,6 @@
     {
       "name": "Nagaland TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1794,12 +1789,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -1809,7 +1804,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2057,11 +2052,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "viju+ Sport (576p)",
-      "url": "http://stream.mcquack.net/333/index.m3u8",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Setanta Sports 1",
       "url": "http://158.101.222.193:88/georgia_play.php?id=setanta_georgia",
       "reason": "URLError"
@@ -2209,7 +2199,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
