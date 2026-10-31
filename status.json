@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 03:28 UTC",
-  "fingerprint": "5bf2799c93acb711620ced78c889a194",
+  "updated_at": "2026-10-31 04:09 UTC",
+  "fingerprint": "af8460ce27dccbcfd219b01c015e89f6",
   "total": 2137,
-  "working": 1751,
-  "in_grace_period": 22,
-  "dead": 386,
-  "hd_channels": 819,
+  "working": 1748,
+  "in_grace_period": 13,
+  "dead": 389,
+  "hd_channels": 824,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 115,
-      "working": 83,
+      "working": 80,
       "hd": 42
     },
     "Bhojpuri": {
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 285,
-      "working": 218,
-      "hd": 120
+      "working": 219,
+      "hd": 123
     },
     "Estonian": {
       "total": 1,
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 699,
       "working": 586,
-      "hd": 237
+      "hd": 239
     },
     "Hungarian": {
       "total": 11,
@@ -159,13 +159,13 @@
     },
     "Marathi": {
       "total": 46,
-      "working": 38,
+      "working": 39,
       "hd": 20
     },
     "Nepali": {
       "total": 5,
       "working": 5,
-      "hd": 2
+      "hd": 1
     },
     "Odia": {
       "total": 31,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 10
+      "hd": 12
     },
     "Polish": {
       "total": 6,
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 50,
-      "working": 34,
+      "working": 33,
       "hd": 17
     },
     "Santali": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 228,
-      "working": 215
+      "working": 216
     },
     "Documentary": {
       "total": 12,
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 248,
-      "working": 201
+      "working": 200
     },
     "General": {
       "total": 178,
-      "working": 156
+      "working": 157
     },
     "Kids": {
       "total": 28,
@@ -335,15 +335,15 @@
     },
     "Movies": {
       "total": 126,
-      "working": 97
+      "working": 96
     },
     "Music": {
       "total": 133,
-      "working": 115
+      "working": 114
     },
     "News": {
       "total": 642,
-      "working": 599
+      "working": 598
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 486,
-      "working": 304
+      "working": 303
     },
     "Travel": {
       "total": 5,
@@ -512,11 +512,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Hare Krsna TV (720p)",
-      "url": "https://airtelapp.shemaroo.com/harekrsnatv/smil:harekrsnatvadp.smil/playlist.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "Jonack TV (360p) [Not 24/7]",
       "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
       "reason": "HTTP 403"
@@ -552,6 +547,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "R Plus (768p)",
+      "url": "https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
@@ -570,11 +570,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (720p)",
-      "url": "https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Sony Wah (1080p) [Geo-blocked]",
@@ -682,8 +677,18 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines Bollywood (576p)",
       "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -800,6 +805,11 @@
       "name": "StarPlus HD (1080p)",
       "url": "http://66.102.126.10:8000/play/a008/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
+      "reason": "HTTP 458"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -1017,6 +1027,16 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -1037,19 +1057,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo Marathi Bana (720p)",
-      "url": "https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1517,6 +1527,11 @@
       "reason": "not a valid HLS manifest"
     },
     {
+      "name": "Беларусь 5 Интернет (1080p) [Not 24/7]",
+      "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
       "reason": "not a valid HLS manifest"
@@ -1759,7 +1774,7 @@
     {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "5Plus (1080p)",
@@ -1774,12 +1789,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -1789,7 +1804,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2204,7 +2219,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
