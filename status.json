@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30 23:50 UTC",
-  "fingerprint": "2591c67afaac557f8f3d31557f1714db",
-  "total": 2112,
-  "working": 1729,
-  "in_grace_period": 10,
-  "dead": 383,
-  "hd_channels": 817,
+  "updated_at": "2026-10-31 00:20 UTC",
+  "fingerprint": "32962857b64e6e49e6238bf58fc3a19e",
+  "total": 2137,
+  "working": 1755,
+  "in_grace_period": 9,
+  "dead": 382,
+  "hd_channels": 819,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -18,8 +18,8 @@
       "hd": 9
     },
     "Assamese": {
-      "total": 39,
-      "working": 32,
+      "total": 38,
+      "working": 31,
       "hd": 12
     },
     "Belarusian": {
@@ -28,13 +28,13 @@
       "hd": 1
     },
     "Bengali": {
-      "total": 114,
-      "working": 79,
-      "hd": 40
+      "total": 115,
+      "working": 81,
+      "hd": 41
     },
     "Bhojpuri": {
-      "total": 31,
-      "working": 29,
+      "total": 32,
+      "working": 30,
       "hd": 13
     },
     "Bulgarian": {
@@ -68,9 +68,9 @@
       "hd": 0
     },
     "English": {
-      "total": 279,
-      "working": 215,
-      "hd": 120
+      "total": 285,
+      "working": 222,
+      "hd": 121
     },
     "Estonian": {
       "total": 1,
@@ -103,8 +103,8 @@
       "hd": 1
     },
     "Hindi": {
-      "total": 684,
-      "working": 576,
+      "total": 699,
+      "working": 591,
       "hd": 238
     },
     "Hungarian": {
@@ -153,8 +153,8 @@
       "hd": 0
     },
     "Malayalam": {
-      "total": 113,
-      "working": 96,
+      "total": 114,
+      "working": 97,
       "hd": 40
     },
     "Marathi": {
@@ -193,13 +193,13 @@
       "hd": 51
     },
     "Romanian": {
-      "total": 4,
-      "working": 3,
+      "total": 5,
+      "working": 4,
       "hd": 3
     },
     "Russian": {
       "total": 50,
-      "working": 35,
+      "working": 34,
       "hd": 17
     },
     "Santali": {
@@ -223,9 +223,9 @@
       "hd": 0
     },
     "Spanish": {
-      "total": 103,
-      "working": 57,
-      "hd": 44
+      "total": 101,
+      "working": 58,
+      "hd": 45
     },
     "Swedish": {
       "total": 1,
@@ -233,13 +233,13 @@
       "hd": 1
     },
     "Tamil": {
-      "total": 181,
+      "total": 182,
       "working": 147,
       "hd": 72
     },
     "Telugu": {
-      "total": 171,
-      "working": 138,
+      "total": 173,
+      "working": 139,
       "hd": 58
     },
     "Thai": {
@@ -258,8 +258,8 @@
       "hd": 10
     },
     "Urdu": {
-      "total": 22,
-      "working": 20,
+      "total": 23,
+      "working": 21,
       "hd": 9
     },
     "Vietnamese": {
@@ -299,27 +299,27 @@
     },
     "Culture": {
       "total": 17,
-      "working": 11
+      "working": 12
     },
     "Devotional": {
-      "total": 217,
-      "working": 203
+      "total": 228,
+      "working": 215
     },
     "Documentary": {
-      "total": 11,
-      "working": 10
+      "total": 12,
+      "working": 11
     },
     "Education": {
       "total": 18,
       "working": 9
     },
     "Entertainment": {
-      "total": 247,
-      "working": 196
+      "total": 248,
+      "working": 197
     },
     "General": {
-      "total": 174,
-      "working": 152
+      "total": 178,
+      "working": 155
     },
     "Kids": {
       "total": 28,
@@ -334,12 +334,12 @@
       "working": 16
     },
     "Movies": {
-      "total": 124,
-      "working": 99
+      "total": 126,
+      "working": 101
     },
     "Music": {
-      "total": 130,
-      "working": 114
+      "total": 133,
+      "working": 116
     },
     "News": {
       "total": 642,
@@ -362,8 +362,8 @@
       "working": 2
     },
     "Sports": {
-      "total": 483,
-      "working": 303
+      "total": 486,
+      "working": 308
     },
     "Travel": {
       "total": 5,
@@ -497,6 +497,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -525,11 +530,6 @@
       "name": "Joy TV (576p)",
       "url": "https://joy.inet.moe/live/joytv/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "JTBS Classic",
-      "url": "https://jtbsclassic.dpdns.org/live.m3u8",
-      "reason": "HTTP 429"
     },
     {
       "name": "KCL TV (720p)",
@@ -680,11 +680,6 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -1457,6 +1452,16 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Prarthana Bhawan TV (576p)",
+      "url": "https://fta.ektv.in/live/623/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Dhool TV (576p)",
+      "url": "https://fta.ektv.in/live/631/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Asianet News Telugu Ⓨ",
       "url": "https://www.youtube.com/@AsianetNewsTelugu/live",
       "reason": "returned HTML page"
@@ -1474,11 +1479,6 @@
     {
       "name": "El-Heddaf TV (1080p)",
       "url": "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Canal Showsport (720p)",
-      "url": "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1510,6 +1510,11 @@
       "name": "T Sports (1080p)",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Беларусь 5 Интернет (1080p) [Not 24/7]",
+      "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
@@ -1590,16 +1595,6 @@
       "name": "TSN4 (720p)",
       "url": "http://109.104.153.220:80/TSN-4/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Teletrak (720p)",
-      "url": "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "ESPN Premium",
-      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/playlist.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "CCTV-5+",
@@ -2179,7 +2174,7 @@
     {
       "name": "Fox Deportes (720p)",
       "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Golf Channel Latin America (720p)",
