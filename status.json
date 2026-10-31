@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 21:26 UTC",
-  "fingerprint": "f4d61b256dc7034b0736a359647b3d5b",
+  "updated_at": "2026-10-31 21:57 UTC",
+  "fingerprint": "f84d810d6dc6ca9bf534d859b1539d59",
   "total": 2137,
-  "working": 1745,
-  "in_grace_period": 15,
-  "dead": 392,
-  "hd_channels": 814,
+  "working": 1744,
+  "in_grace_period": 24,
+  "dead": 393,
+  "hd_channels": 815,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 591,
+      "working": 588,
       "hd": 238
     },
     "Hungarian": {
@@ -154,7 +154,7 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 98,
+      "working": 97,
       "hd": 41
     },
     "Marathi": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 11
+      "hd": 12
     },
     "Polish": {
       "total": 6,
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 50,
-      "working": 33,
+      "working": 35,
       "hd": 17
     },
     "Santali": {
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 101,
-      "working": 53,
-      "hd": 40
+      "working": 54,
+      "hd": 41
     },
     "Swedish": {
       "total": 1,
@@ -235,7 +235,7 @@
     "Tamil": {
       "total": 182,
       "working": 148,
-      "hd": 72
+      "hd": 71
     },
     "Telugu": {
       "total": 173,
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 248,
-      "working": 197
+      "working": 196
     },
     "General": {
       "total": 178,
-      "working": 157
+      "working": 156
     },
     "Kids": {
       "total": 28,
@@ -339,7 +339,7 @@
     },
     "Music": {
       "total": 133,
-      "working": 116
+      "working": 114
     },
     "News": {
       "total": 642,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 486,
-      "working": 297
+      "working": 300
     },
     "Travel": {
       "total": 5,
@@ -584,7 +584,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -620,6 +620,11 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
+    },
+    {
+      "name": "Vision (576p)",
+      "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "YRF Music (1080p)",
@@ -675,6 +680,11 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -1017,6 +1027,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Balle Balle (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Bhagyam TV (576p) [Not 24/7]",
       "url": "https://bhagyam.iptv.pics/bhagyam/index.m3u8",
       "reason": "HTTP 404"
@@ -1332,6 +1347,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "9X Jalwa (576p)",
+      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjalwa.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "FashionTV (576p)",
       "url": "https://fta.ektv.in/live/144/144_0.m3u8",
       "reason": "HTTP 404"
@@ -1510,16 +1530,6 @@
       "name": "T Sports (1080p)",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Belarus-5 (1080p) [Not 24/7]",
-      "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
-      "reason": "not a valid HLS manifest"
-    },
-    {
-      "name": "Беларусь 5 Интернет (1080p) [Not 24/7]",
-      "url": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
-      "reason": "RemoteDisconnected"
     },
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
@@ -2204,7 +2214,7 @@
     {
       "name": "Fox Deportes (720p)",
       "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Golf Channel Latin America (1080p)",
@@ -2294,11 +2304,6 @@
     {
       "name": "ESPN 2 Latin America (1080p)",
       "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "ESPN 5 Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8",
       "reason": "URLError"
     },
     {
