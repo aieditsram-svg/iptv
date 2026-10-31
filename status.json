@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 08:53 UTC",
-  "fingerprint": "8c7a5fc1c8bd64c42254516a1f714ffb",
+  "updated_at": "2026-10-31 09:25 UTC",
+  "fingerprint": "aaaa1a0d1bd8ed52925bf35a9cbc6efb",
   "total": 2137,
-  "working": 1745,
-  "in_grace_period": 15,
-  "dead": 392,
-  "hd_channels": 821,
+  "working": 1747,
+  "in_grace_period": 21,
+  "dead": 390,
+  "hd_channels": 820,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 285,
       "working": 213,
-      "hd": 121
+      "hd": 120
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 589,
+      "working": 591,
       "hd": 240
     },
     "Hungarian": {
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 248,
-      "working": 197
+      "working": 199
     },
     "General": {
       "total": 178,
-      "working": 158
+      "working": 157
     },
     "Kids": {
       "total": 28,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 642,
-      "working": 598
+      "working": 599
     },
     "Outdoor": {
       "total": 17,
@@ -399,6 +399,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -677,19 +682,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -1015,11 +1010,6 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
@@ -2209,7 +2199,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
