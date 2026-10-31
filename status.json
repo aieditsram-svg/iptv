@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 12:28 UTC",
-  "fingerprint": "f3d94f99645cf8c87711ace2f4499fd4",
+  "updated_at": "2026-10-31 13:18 UTC",
+  "fingerprint": "025ee188f492e97b01bb595f36d591f0",
   "total": 2137,
-  "working": 1737,
-  "in_grace_period": 19,
-  "dead": 400,
-  "hd_channels": 817,
+  "working": 1739,
+  "in_grace_period": 23,
+  "dead": 398,
+  "hd_channels": 819,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 285,
-      "working": 212,
-      "hd": 118
+      "working": 213,
+      "hd": 120
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 585,
-      "hd": 240
+      "working": 589,
+      "hd": 241
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 12
+      "hd": 10
     },
     "Polish": {
       "total": 6,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 50,
       "working": 32,
-      "hd": 15
+      "hd": 16
     },
     "Santali": {
       "total": 1,
@@ -224,7 +224,7 @@
     },
     "Spanish": {
       "total": 101,
-      "working": 57,
+      "working": 55,
       "hd": 44
     },
     "Swedish": {
@@ -265,7 +265,7 @@
     "Vietnamese": {
       "total": 7,
       "working": 5,
-      "hd": 3
+      "hd": 4
     }
   },
   "categories": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 228,
-      "working": 217
+      "working": 216
     },
     "Documentary": {
       "total": 12,
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 248,
-      "working": 197
+      "working": 199
     },
     "General": {
       "total": 178,
-      "working": 155
+      "working": 157
     },
     "Kids": {
       "total": 28,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 126,
-      "working": 98
+      "working": 99
     },
     "Music": {
       "total": 133,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 486,
-      "working": 293
+      "working": 291
     },
     "Travel": {
       "total": 5,
@@ -682,23 +682,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines Movies (576p)",
       "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -729,11 +714,6 @@
     {
       "name": "Disha TV (396p)",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1057,14 +1037,14 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1737,6 +1717,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Eurosport 1 Spain (576p)",
+      "url": "http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Eurosport 2 Spain (1080p)",
       "url": "http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8",
       "reason": "HTTP 404"
@@ -1804,12 +1789,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -1819,7 +1804,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -1970,6 +1955,11 @@
       "name": "Tigo Sports+ (1280p)",
       "url": "https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Tigo Sports",
+      "url": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "L1 (1080p)",
@@ -2229,7 +2219,7 @@
     {
       "name": "Fox Deportes (720p)",
       "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Golf Channel Latin America (1080p)",
