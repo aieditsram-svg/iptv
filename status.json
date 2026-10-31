@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 22:55 UTC",
-  "fingerprint": "da64da1d0a4e9d437b762eac1c13ab4a",
+  "updated_at": "2026-10-31 23:19 UTC",
+  "fingerprint": "ad1ae41674c3635cea9d02defdabdfa2",
   "total": 2137,
-  "working": 1752,
-  "in_grace_period": 7,
-  "dead": 385,
-  "hd_channels": 821,
+  "working": 1751,
+  "in_grace_period": 18,
+  "dead": 386,
+  "hd_channels": 819,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -69,7 +69,7 @@
     },
     "English": {
       "total": 285,
-      "working": 218,
+      "working": 219,
       "hd": 122
     },
     "Estonian": {
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 699,
       "working": 593,
-      "hd": 239
+      "hd": 238
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 12
+      "hd": 13
     },
     "Polish": {
       "total": 6,
@@ -194,13 +194,13 @@
     },
     "Romanian": {
       "total": 5,
-      "working": 4,
-      "hd": 3
+      "working": 3,
+      "hd": 2
     },
     "Russian": {
       "total": 50,
-      "working": 35,
-      "hd": 17
+      "working": 34,
+      "hd": 16
     },
     "Santali": {
       "total": 1,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 101,
-      "working": 57,
-      "hd": 44
+      "working": 58,
+      "hd": 45
     },
     "Swedish": {
       "total": 1,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 486,
-      "working": 303
+      "working": 302
     },
     "Travel": {
       "total": 5,
@@ -399,7 +399,7 @@
     {
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Ayush TV (360p) [Not 24/7]",
@@ -579,7 +579,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -824,7 +824,7 @@
     {
       "name": "News Nation 81 (1080p)",
       "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "NH BollyGold (1080p)",
@@ -1507,6 +1507,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Belarus-5 (1080p) [Not 24/7]",
+      "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
       "reason": "not a valid HLS manifest"
@@ -1514,7 +1519,7 @@
     {
       "name": "Band Sports (1080p)",
       "url": "https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Canal do Inter (720p) [Not 24/7]",
@@ -1779,7 +1784,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2002,6 +2007,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Realitatea Sportiva (720p)",
+      "url": "https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sport Extra",
       "url": "https://tvextra-hls.b-cdn.net/sportextra/sportextra.m3u8",
       "reason": "HTTP 403"
@@ -2180,11 +2190,6 @@
       "name": "TNT Sports 4",
       "url": "http://37.49.224.5:80/stream/4/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Fox Deportes (720p)",
-      "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Golf Channel Latin America (1080p)",
