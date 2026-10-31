@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-31 11:57 UTC",
-  "fingerprint": "40145136f24b976379a8d2cc52d9d5cf",
+  "updated_at": "2026-10-31 12:28 UTC",
+  "fingerprint": "f3d94f99645cf8c87711ace2f4499fd4",
   "total": 2137,
-  "working": 1739,
-  "in_grace_period": 26,
-  "dead": 398,
+  "working": 1737,
+  "in_grace_period": 19,
+  "dead": 400,
   "hd_channels": 817,
   "languages": {
     "Albanian": {
@@ -70,7 +70,7 @@
     "English": {
       "total": 285,
       "working": 212,
-      "hd": 119
+      "hd": 118
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 587,
-      "hd": 239
+      "working": 585,
+      "hd": 240
     },
     "Hungarian": {
       "total": 11,
@@ -169,13 +169,13 @@
     },
     "Odia": {
       "total": 31,
-      "working": 21,
+      "working": 23,
       "hd": 10
     },
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 11
+      "hd": 12
     },
     "Polish": {
       "total": 6,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 50,
       "working": 32,
-      "hd": 14
+      "hd": 15
     },
     "Santali": {
       "total": 1,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 101,
-      "working": 58,
-      "hd": 45
+      "working": 57,
+      "hd": 44
     },
     "Swedish": {
       "total": 1,
@@ -264,8 +264,8 @@
     },
     "Vietnamese": {
       "total": 7,
-      "working": 6,
-      "hd": 4
+      "working": 5,
+      "hd": 3
     }
   },
   "categories": {
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 178,
-      "working": 156
+      "working": 155
     },
     "Kids": {
       "total": 28,
@@ -335,11 +335,11 @@
     },
     "Movies": {
       "total": 126,
-      "working": 99
+      "working": 98
     },
     "Music": {
       "total": 133,
-      "working": 114
+      "working": 116
     },
     "News": {
       "total": 642,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 486,
-      "working": 295
+      "working": 293
     },
     "Travel": {
       "total": 5,
@@ -487,11 +487,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Ekamra Bharat Odia (400p)",
-      "url": "https://live.ekamraott.com/bharat/bharat/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "ET Now (720p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8",
       "reason": "HTTP 403"
@@ -560,11 +555,6 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "One Paschima (400p)",
-      "url": "https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -682,24 +672,44 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -819,7 +829,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -1035,11 +1045,6 @@
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Balle Balle (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
@@ -1350,11 +1355,6 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "9XM (576p)",
-      "url": "https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "FashionTV (576p)",
@@ -1735,6 +1735,11 @@
       "name": "Eurosport 2 Russia (1080p)",
       "url": "http://stream.mcquack.net/192/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Eurosport 2 Spain (1080p)",
+      "url": "http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Adjarasport 1",
@@ -2224,7 +2229,7 @@
     {
       "name": "Fox Deportes (720p)",
       "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Golf Channel Latin America (1080p)",
@@ -2360,6 +2365,11 @@
       "name": "VTV6 (1080p)",
       "url": "https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "HTV Sports (1080i)",
+      "url": "https://vmttv.dpdns.org/tv360/?id=htv-the-thao",
+      "reason": "TimeoutError"
     }
   ]
 }
