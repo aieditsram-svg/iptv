@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 05:59 UTC",
-  "fingerprint": "940bb7da9cfe3ca8d4217fbc2764c3d9",
+  "updated_at": "2026-10-31 06:36 UTC",
+  "fingerprint": "c7b6369faf96f99796dc12001f316e35",
   "total": 2137,
-  "working": 1748,
-  "in_grace_period": 24,
-  "dead": 389,
-  "hd_channels": 822,
+  "working": 1749,
+  "in_grace_period": 21,
+  "dead": 388,
+  "hd_channels": 823,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 115,
-      "working": 82,
+      "working": 81,
       "hd": 43
     },
     "Bhojpuri": {
@@ -70,7 +70,7 @@
     "English": {
       "total": 285,
       "working": 219,
-      "hd": 122
+      "hd": 123
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 586,
-      "hd": 239
+      "working": 587,
+      "hd": 240
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 12
+      "hd": 10
     },
     "Polish": {
       "total": 6,
@@ -199,8 +199,8 @@
     },
     "Russian": {
       "total": 50,
-      "working": 33,
-      "hd": 16
+      "working": 34,
+      "hd": 17
     },
     "Santali": {
       "total": 1,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 178,
-      "working": 158
+      "working": 157
     },
     "Kids": {
       "total": 28,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 126,
-      "working": 96
+      "working": 95
     },
     "Music": {
       "total": 133,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 642,
-      "working": 599
+      "working": 601
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 486,
-      "working": 304
+      "working": 305
     },
     "Travel": {
       "total": 5,
@@ -642,6 +642,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Manoranjan Grand (576p)",
+      "url": "https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
       "reason": "HTTP 404"
@@ -682,8 +687,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1027,14 +1032,14 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Balle Balle (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
@@ -1312,11 +1317,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Bharat AtoZ (720p)",
-      "url": "https://live.ekamraott.com/4tv/bharata2z/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Zee Tamil (576p) [Geo-blocked]",
       "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd",
       "reason": "HTTP 403"
@@ -1530,11 +1530,6 @@
       "name": "Беларусь 5 Интернет (1080p) [Not 24/7]",
       "url": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
       "reason": "RemoteDisconnected"
-    },
-    {
-      "name": "Беларусь 5 Интернет (1080p) [Not 24/7]",
-      "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
@@ -1789,12 +1784,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -1804,7 +1799,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis (1080p)",
