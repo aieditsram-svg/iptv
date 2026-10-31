@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 20:01 UTC",
-  "fingerprint": "4b273a4e8bebd1dd0a331c407452f98f",
+  "updated_at": "2026-10-31 20:27 UTC",
+  "fingerprint": "2321297441a6e8fbb2fb0cdab51edf3b",
   "total": 2137,
-  "working": 1731,
-  "in_grace_period": 10,
-  "dead": 406,
-  "hd_channels": 814,
+  "working": 1735,
+  "in_grace_period": 19,
+  "dead": 402,
+  "hd_channels": 812,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 584,
+      "working": 588,
       "hd": 237
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 12
+      "hd": 10
     },
     "Polish": {
       "total": 6,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 248,
-      "working": 194
+      "working": 195
     },
     "General": {
       "total": 178,
@@ -335,11 +335,11 @@
     },
     "Movies": {
       "total": 126,
-      "working": 97
+      "working": 99
     },
     "Music": {
       "total": 133,
-      "working": 114
+      "working": 115
     },
     "News": {
       "total": 642,
@@ -692,11 +692,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -712,19 +707,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -1060,11 +1045,6 @@
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Balle Balle (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
