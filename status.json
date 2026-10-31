@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-31 19:01 UTC",
-  "fingerprint": "dc4d6b0217b1426283c1434b262a336b",
+  "updated_at": "2026-10-31 19:31 UTC",
+  "fingerprint": "0c31cccfd5160a8d8240c1b984b4f0ea",
   "total": 2137,
-  "working": 1745,
-  "in_grace_period": 33,
-  "dead": 392,
+  "working": 1744,
+  "in_grace_period": 30,
+  "dead": 393,
   "hd_channels": 819,
   "languages": {
     "Albanian": {
@@ -70,7 +70,7 @@
     "English": {
       "total": 285,
       "working": 218,
-      "hd": 122
+      "hd": 121
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 587,
+      "working": 586,
       "hd": 238
     },
     "Hungarian": {
@@ -154,7 +154,7 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 98,
+      "working": 97,
       "hd": 41
     },
     "Marathi": {
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 101,
-      "working": 54,
-      "hd": 41
+      "working": 55,
+      "hd": 42
     },
     "Swedish": {
       "total": 1,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 228,
-      "working": 217
+      "working": 216
     },
     "Documentary": {
       "total": 12,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 178,
-      "working": 157
+      "working": 158
     },
     "Kids": {
       "total": 28,
@@ -335,15 +335,15 @@
     },
     "Movies": {
       "total": 126,
-      "working": 98
+      "working": 97
     },
     "Music": {
       "total": 133,
-      "working": 115
+      "working": 113
     },
     "News": {
       "total": 642,
-      "working": 599
+      "working": 600
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 486,
-      "working": 299
+      "working": 300
     },
     "Travel": {
       "total": 5,
@@ -510,6 +510,11 @@
       "name": "Joy TV (576p)",
       "url": "https://joy.inet.moe/live/joytv/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Kalika TV (576p)",
+      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "KCL TV (720p)",
@@ -677,16 +682,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -844,7 +839,7 @@
     {
       "name": "News Nation 81 (1080p)",
       "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "NH BollyGold (1080p)",
@@ -1037,6 +1032,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Balle Balle (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Bhagyam TV (576p) [Not 24/7]",
       "url": "https://bhagyam.iptv.pics/bhagyam/index.m3u8",
       "reason": "HTTP 404"
@@ -1055,6 +1055,11 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1315,6 +1320,11 @@
       "name": "Sun Surya HD (1080p)",
       "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "India Talkies (360p)",
+      "url": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee Tamil (576p) [Geo-blocked]",
@@ -2209,7 +2219,7 @@
     {
       "name": "Fox Deportes (720p)",
       "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Golf Channel Latin America (1080p)",
@@ -2289,11 +2299,6 @@
     {
       "name": "USA Network (720p)",
       "url": "http://200.32.231.178/USA_NETWORK/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "ESPN 6 Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8",
       "reason": "URLError"
     },
     {
