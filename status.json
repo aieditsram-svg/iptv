@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 02:12 UTC",
-  "fingerprint": "990a43d0e2151d837de54efee52b2ef9",
+  "updated_at": "2026-10-31 02:52 UTC",
+  "fingerprint": "16fb38abc703ff7e019fe581acff8ec9",
   "total": 2137,
-  "working": 1757,
-  "in_grace_period": 26,
-  "dead": 380,
-  "hd_channels": 819,
+  "working": 1749,
+  "in_grace_period": 22,
+  "dead": 388,
+  "hd_channels": 816,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -69,7 +69,7 @@
     },
     "English": {
       "total": 285,
-      "working": 222,
+      "working": 218,
       "hd": 120
     },
     "Estonian": {
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 590,
-      "hd": 238
+      "working": 587,
+      "hd": 236
     },
     "Hungarian": {
       "total": 11,
@@ -159,7 +159,7 @@
     },
     "Marathi": {
       "total": 46,
-      "working": 38,
+      "working": 37,
       "hd": 20
     },
     "Nepali": {
@@ -199,8 +199,8 @@
     },
     "Russian": {
       "total": 50,
-      "working": 35,
-      "hd": 17
+      "working": 34,
+      "hd": 16
     },
     "Santali": {
       "total": 1,
@@ -234,7 +234,7 @@
     },
     "Tamil": {
       "total": 182,
-      "working": 147,
+      "working": 148,
       "hd": 72
     },
     "Telugu": {
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 248,
-      "working": 200
+      "working": 199
     },
     "General": {
       "total": 178,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 642,
-      "working": 599
+      "working": 597
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 486,
-      "working": 309
+      "working": 304
     },
     "Travel": {
       "total": 5,
@@ -572,6 +572,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Shemaroo Umang (720p)",
+      "url": "https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "Sony Wah (1080p) [Geo-blocked]",
       "url": "https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8",
       "reason": "not a valid HLS manifest"
@@ -670,6 +675,11 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
@@ -1037,6 +1047,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Shemaroo Marathi Bana (720p)",
+      "url": "https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "StarPlus HD (1080p)",
       "url": "http://103.185.24.134:3001/Star-Plus/index.m3u8",
       "reason": "URLError"
@@ -1297,6 +1312,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Bharat AtoZ (720p)",
+      "url": "https://live.ekamraott.com/4tv/bharata2z/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Zee Tamil (576p) [Geo-blocked]",
       "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd",
       "reason": "HTTP 403"
@@ -1305,11 +1325,6 @@
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "AMN TV (576p)",
-      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Dukhniwaran (576p)",
@@ -1505,6 +1520,11 @@
       "name": "T Sports (1080p)",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Belarus-5 (1080p) [Not 24/7]",
+      "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
@@ -2162,6 +2182,26 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "TNT Sports 1",
+      "url": "http://37.49.224.5:80/stream/1/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "TNT Sports 2",
+      "url": "http://37.49.224.5:80/stream/2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "TNT Sports 3",
+      "url": "http://37.49.224.5:80/stream/3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "TNT Sports 4",
+      "url": "http://37.49.224.5:80/stream/4/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Fox Deportes (720p)",
       "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
       "reason": "TimeoutError"
@@ -2174,7 +2214,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
