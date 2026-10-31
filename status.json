@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 18:19 UTC",
-  "fingerprint": "bfcc88ba396f2d72ad23a2c2988d6083",
+  "updated_at": "2026-10-31 19:01 UTC",
+  "fingerprint": "dc4d6b0217b1426283c1434b262a336b",
   "total": 2137,
-  "working": 1750,
-  "in_grace_period": 20,
-  "dead": 387,
-  "hd_channels": 821,
+  "working": 1745,
+  "in_grace_period": 33,
+  "dead": 392,
+  "hd_channels": 819,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 285,
       "working": 218,
-      "hd": 121
+      "hd": 122
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 589,
-      "hd": 239
+      "working": 587,
+      "hd": 238
     },
     "Hungarian": {
       "total": 11,
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 50,
-      "working": 34,
+      "working": 33,
       "hd": 17
     },
     "Santali": {
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 101,
-      "working": 56,
-      "hd": 43
+      "working": 54,
+      "hd": 41
     },
     "Swedish": {
       "total": 1,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 248,
-      "working": 198
+      "working": 197
     },
     "General": {
       "total": 178,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 642,
-      "working": 600
+      "working": 599
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 486,
-      "working": 302
+      "working": 299
     },
     "Travel": {
       "total": 5,
@@ -574,7 +574,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -662,6 +662,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines (576p)",
       "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
@@ -674,6 +679,11 @@
     {
       "name": "Network 10 (576p)",
       "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1517,6 +1527,11 @@
       "reason": "not a valid HLS manifest"
     },
     {
+      "name": "Беларусь 5 Интернет (1080p) [Not 24/7]",
+      "url": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+      "reason": "RemoteDisconnected"
+    },
+    {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
       "reason": "not a valid HLS manifest"
@@ -1774,12 +1789,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -1789,7 +1804,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2274,6 +2289,16 @@
     {
       "name": "USA Network (720p)",
       "url": "http://200.32.231.178/USA_NETWORK/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "ESPN 6 Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "ESPN 7 Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8",
       "reason": "URLError"
     },
     {
