@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 23:19 UTC",
-  "fingerprint": "ad1ae41674c3635cea9d02defdabdfa2",
+  "updated_at": "2026-10-31 23:49 UTC",
+  "fingerprint": "59b56ce0ff1b9021da2129477578504e",
   "total": 2137,
   "working": 1751,
-  "in_grace_period": 18,
+  "in_grace_period": 17,
   "dead": 386,
-  "hd_channels": 819,
+  "hd_channels": 820,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 699,
       "working": 593,
-      "hd": 238
+      "hd": 239
     },
     "Hungarian": {
       "total": 11,
@@ -824,7 +824,7 @@
     {
       "name": "News Nation 81 (1080p)",
       "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "NH BollyGold (1080p)",
