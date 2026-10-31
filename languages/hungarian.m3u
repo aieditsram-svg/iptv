@@ -1,5 +1,5 @@
 #EXTM3U
-# Working Hungarian channels, updated 2026-10-31 04:09 UTC
+# Working Hungarian channels, updated 2026-10-31 04:47 UTC
 #EXTINF:-1 tvg-id="Arena4.hu@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/uAaQDr6.png" x-category="Sports" tvg-language="Hungarian" group-title="Hungarian",Arena4
 http://88.212.7.14/live/arena4/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Hungary" x-categories="Sports" tvg-logo="https://i.imgur.com/olQJgm7.png" x-category="Sports" tvg-language="Hungarian" group-title="Hungarian",Eurosport 1 Hungary
@@ -9,6 +9,8 @@ http://88.212.7.14/live/esp2_hun/index.m3u8
 #EXTINF:-1 tvg-id="M4Sport.hu@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/TQ4uJZk.png" x-category="Sports" tvg-language="Hungarian" group-title="Hungarian" height="1080",M4 Sport (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/uatlmvixrr/index.m3u8
+#EXTINF:-1 tvg-id="Match4.hu@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/hzexBLX.png" x-category="Sports" tvg-language="Hungarian" group-title="Hungarian" height="1080",Match4 (1080p)
+http://141.94.193.53:80/Match4_HD/index.m3u8
 #EXTINF:-1 tvg-id="Spiler1.hu@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/pbk8c4x.png" x-category="Sports" tvg-language="Hungarian" group-title="Hungarian",Spiler 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/spiler1/index.m3u8
