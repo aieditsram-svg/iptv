@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-31 14:57 UTC",
-  "fingerprint": "b7e58a2a90195298f66c7a424eef1bcf",
+  "updated_at": "2026-10-31 15:22 UTC",
+  "fingerprint": "2208722e2eea6b3d7909d65de00636be",
   "total": 2137,
-  "working": 1743,
-  "in_grace_period": 21,
-  "dead": 394,
+  "working": 1742,
+  "in_grace_period": 25,
+  "dead": 395,
   "hd_channels": 822,
   "languages": {
     "Albanian": {
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 590,
+      "working": 587,
       "hd": 241
     },
     "Hungarian": {
@@ -154,7 +154,7 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 98,
+      "working": 99,
       "hd": 42
     },
     "Marathi": {
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 50,
       "working": 34,
-      "hd": 17
+      "hd": 16
     },
     "Santali": {
       "total": 1,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 101,
-      "working": 54,
-      "hd": 43
+      "working": 55,
+      "hd": 44
     },
     "Swedish": {
       "total": 1,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 178,
-      "working": 159
+      "working": 157
     },
     "Kids": {
       "total": 28,
@@ -335,11 +335,11 @@
     },
     "Movies": {
       "total": 126,
-      "working": 99
+      "working": 98
     },
     "Music": {
       "total": 133,
-      "working": 114
+      "working": 115
     },
     "News": {
       "total": 642,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 486,
-      "working": 298
+      "working": 299
     },
     "Travel": {
       "total": 5,
@@ -399,6 +399,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -530,11 +535,6 @@
       "name": "Joy TV (576p)",
       "url": "https://joy.inet.moe/live/joytv/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Kalika TV (576p)",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "MTV HD (396p)",
@@ -697,6 +697,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1 India (576p)",
       "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
@@ -729,6 +734,11 @@
     {
       "name": "Disha TV (396p)",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1527,8 +1537,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Belarus-5 (1080p) [Not 24/7]",
-      "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
+      "name": "Беларусь 5 Интернет (1080p) [Not 24/7]",
+      "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
       "reason": "not a valid HLS manifest"
     },
     {
@@ -1794,12 +1804,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -1809,7 +1819,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2219,7 +2229,7 @@
     {
       "name": "Fox Deportes (720p)",
       "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Golf Channel Latin America (1080p)",
@@ -2234,7 +2244,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
@@ -2299,11 +2309,6 @@
     {
       "name": "USA Network (720p)",
       "url": "http://200.32.231.178/USA_NETWORK/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "ESPN Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
       "reason": "URLError"
     },
     {
