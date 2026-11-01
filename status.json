@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 23:49 UTC",
-  "fingerprint": "59b56ce0ff1b9021da2129477578504e",
-  "total": 2137,
-  "working": 1751,
-  "in_grace_period": 17,
-  "dead": 386,
-  "hd_channels": 820,
+  "updated_at": "2026-11-01 00:18 UTC",
+  "fingerprint": "ff3145b07a4cbdc5a939deda98a926a7",
+  "total": 2147,
+  "working": 1756,
+  "in_grace_period": 10,
+  "dead": 391,
+  "hd_channels": 819,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -28,8 +28,8 @@
       "hd": 1
     },
     "Bengali": {
-      "total": 115,
-      "working": 81,
+      "total": 112,
+      "working": 80,
       "hd": 42
     },
     "Bhojpuri": {
@@ -68,9 +68,9 @@
       "hd": 0
     },
     "English": {
-      "total": 285,
-      "working": 219,
-      "hd": 122
+      "total": 292,
+      "working": 221,
+      "hd": 120
     },
     "Estonian": {
       "total": 1,
@@ -83,9 +83,9 @@
       "hd": 6
     },
     "German": {
-      "total": 8,
-      "working": 6,
-      "hd": 4
+      "total": 9,
+      "working": 7,
+      "hd": 5
     },
     "Greek": {
       "total": 3,
@@ -103,9 +103,9 @@
       "hd": 1
     },
     "Hindi": {
-      "total": 699,
-      "working": 593,
-      "hd": 239
+      "total": 696,
+      "working": 592,
+      "hd": 238
     },
     "Hungarian": {
       "total": 11,
@@ -123,7 +123,7 @@
       "hd": 9
     },
     "Kannada": {
-      "total": 70,
+      "total": 69,
       "working": 56,
       "hd": 27
     },
@@ -153,12 +153,12 @@
       "hd": 0
     },
     "Malayalam": {
-      "total": 114,
+      "total": 113,
       "working": 97,
       "hd": 41
     },
     "Marathi": {
-      "total": 46,
+      "total": 45,
       "working": 38,
       "hd": 20
     },
@@ -168,7 +168,7 @@
       "hd": 2
     },
     "Odia": {
-      "total": 31,
+      "total": 30,
       "working": 23,
       "hd": 10
     },
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 132,
-      "working": 125,
+      "working": 124,
       "hd": 51
     },
     "Romanian": {
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 50,
       "working": 34,
-      "hd": 16
+      "hd": 17
     },
     "Santali": {
       "total": 1,
@@ -223,9 +223,9 @@
       "hd": 0
     },
     "Spanish": {
-      "total": 101,
-      "working": 58,
-      "hd": 45
+      "total": 107,
+      "working": 64,
+      "hd": 46
     },
     "Swedish": {
       "total": 1,
@@ -233,12 +233,12 @@
       "hd": 1
     },
     "Tamil": {
-      "total": 182,
+      "total": 179,
       "working": 148,
       "hd": 72
     },
     "Telugu": {
-      "total": 173,
+      "total": 170,
       "working": 140,
       "hd": 58
     },
@@ -259,8 +259,8 @@
     },
     "Urdu": {
       "total": 23,
-      "working": 21,
-      "hd": 9
+      "working": 20,
+      "hd": 8
     },
     "Vietnamese": {
       "total": 7,
@@ -270,7 +270,7 @@
   },
   "categories": {
     "Animation": {
-      "total": 8,
+      "total": 6,
       "working": 5
     },
     "Auto": {
@@ -295,7 +295,7 @@
     },
     "Cricket": {
       "total": 35,
-      "working": 17
+      "working": 13
     },
     "Culture": {
       "total": 17,
@@ -314,15 +314,15 @@
       "working": 9
     },
     "Entertainment": {
-      "total": 248,
-      "working": 197
+      "total": 247,
+      "working": 196
     },
     "General": {
       "total": 178,
       "working": 157
     },
     "Kids": {
-      "total": 28,
+      "total": 25,
       "working": 13
     },
     "Legislative": {
@@ -334,7 +334,7 @@
       "working": 16
     },
     "Movies": {
-      "total": 126,
+      "total": 125,
       "working": 100
     },
     "Music": {
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 642,
-      "working": 599
+      "working": 597
     },
     "Outdoor": {
       "total": 17,
@@ -362,8 +362,8 @@
       "working": 2
     },
     "Sports": {
-      "total": 486,
-      "working": 302
+      "total": 501,
+      "working": 310
     },
     "Travel": {
       "total": 5,
@@ -389,6 +389,11 @@
     {
       "name": "Aaj Tak (1080p)",
       "url": "http://103.213.31.109:90/AajtakHD/playlist.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Aakaash Aath (576p)",
+      "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -537,6 +542,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "News 24 (576p)",
+      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "HTTP 403"
@@ -585,6 +595,11 @@
       "name": "Star Sports 2 Hindi (720p)",
       "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Star Sports Select 2 HD (720p)",
+      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -722,11 +737,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Super Hungama (576p)",
-      "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Zee Bangla Sonar (576p)",
       "url": "http://103.185.24.134:3001/ZEE-BANGLA-CINEMA/index.m3u8",
       "reason": "URLError"
@@ -734,11 +744,6 @@
     {
       "name": "Sony Aath (576p)",
       "url": "http://103.165.93.31:8095/sonyAath/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Sony Yay! (576p)",
-      "url": "http://103.165.93.31:8095/sonyYay/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -764,11 +769,6 @@
     {
       "name": "B4U Movies (576p)",
       "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Hungama TV (576p)",
-      "url": "http://66.102.126.10:8000/play/a023/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -814,6 +814,11 @@
     {
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "World Punjabi TV (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1102,11 +1107,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Jalsha Movies HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a00x/index.m3u8?hls",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Movies Now HD (1080p)",
       "url": "http://103.151.60.162:2122/play/a02w/index.m3u8?hls",
       "reason": "HTTP 403"
@@ -1234,11 +1234,6 @@
     {
       "name": "Zee Bangla (576p)",
       "url": "http://103.151.60.162:2122/play/a011/index.m3u8?hls",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Zee Bangla HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a02p/index.m3u8?hls",
       "reason": "HTTP 403"
     },
     {
@@ -1917,6 +1912,11 @@
       "reason": "URLError"
     },
     {
+      "name": "PTV Sports (720p)",
+      "url": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Ten Sports Pakistan",
       "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
       "reason": "URLError"
@@ -2204,7 +2204,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
@@ -2219,6 +2219,16 @@
     {
       "name": "The Cycling Channel",
       "url": "https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Willow (720p)",
+      "url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Willow (720p)",
+      "url": "http://tvsen7.aynascope.net/rEBp38Ax/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -2295,6 +2305,21 @@
       "name": "ESPN 6 Latin America (720p)",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "ESPN (432p)",
+      "url": "http://tvsen7.aynascope.net/espn/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Fox Sports 1 (720p)",
+      "url": "https://tvsen7.aynascope.net/foxsports1/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Fox Sports 2 (720p)",
+      "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "VTV6 (1080p)",
