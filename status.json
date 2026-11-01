@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 16:57 UTC",
-  "fingerprint": "1308f51b51377ebc35205d1875e08e25",
+  "updated_at": "2026-11-01 17:21 UTC",
+  "fingerprint": "a300e01443eb532934cf0e630ab3838e",
   "total": 2147,
-  "working": 1755,
-  "in_grace_period": 23,
-  "dead": 392,
-  "hd_channels": 819,
+  "working": 1754,
+  "in_grace_period": 20,
+  "dead": 393,
+  "hd_channels": 815,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -69,13 +69,13 @@
     },
     "English": {
       "total": 292,
-      "working": 217,
+      "working": 216,
       "hd": 120
     },
     "Estonian": {
       "total": 1,
-      "working": 0,
-      "hd": 0
+      "working": 1,
+      "hd": 1
     },
     "French": {
       "total": 10,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 590,
-      "hd": 240
+      "working": 591,
+      "hd": 239
     },
     "Hungarian": {
       "total": 11,
@@ -139,13 +139,13 @@
     },
     "Latvian": {
       "total": 1,
-      "working": 0,
-      "hd": 0
+      "working": 1,
+      "hd": 1
     },
     "Lithuanian": {
       "total": 3,
-      "working": 1,
-      "hd": 1
+      "working": 2,
+      "hd": 2
     },
     "Macedonian": {
       "total": 2,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 10
+      "hd": 9
     },
     "Polish": {
       "total": 6,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 107,
-      "working": 64,
-      "hd": 46
+      "working": 60,
+      "hd": 42
     },
     "Swedish": {
       "total": 1,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 139,
+      "working": 140,
       "hd": 58
     },
     "Thai": {
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 247,
-      "working": 197
+      "working": 198
     },
     "General": {
       "total": 178,
-      "working": 158
+      "working": 157
     },
     "Kids": {
       "total": 25,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 125,
-      "working": 97
+      "working": 99
     },
     "Music": {
       "total": 133,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 501,
-      "working": 305
+      "working": 302
     },
     "Travel": {
       "total": 5,
@@ -475,11 +475,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -667,19 +662,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -1024,6 +1009,11 @@
     {
       "name": "Prarthana Bhawan TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHANABHAWAN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1645,11 +1635,6 @@
       "name": "Tigo Sports (1080p)",
       "url": "http://45.167.2.101:8000/play/a0pp/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Go3 Sport 1 (1080p)",
-      "url": "http://stream.mcquack.net/416/index.m3u8",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Canal+ Sport (1080p) [Geo-blocked]",
@@ -2284,6 +2269,26 @@
     {
       "name": "USA Network (720p)",
       "url": "http://200.32.231.178/USA_NETWORK/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "ESPN 2 Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "ESPN 3 Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "ESPN 4 Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "ESPN 5 Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8",
       "reason": "URLError"
     },
     {
