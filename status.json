@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 22:43 UTC",
-  "fingerprint": "f791486f4184e51e0c5195187c73f78f",
+  "updated_at": "2026-11-01 23:14 UTC",
+  "fingerprint": "a4f39cab9544716ed3408eec92e70337",
   "total": 2147,
-  "working": 1759,
-  "in_grace_period": 13,
-  "dead": 388,
-  "hd_channels": 817,
+  "working": 1755,
+  "in_grace_period": 45,
+  "dead": 392,
+  "hd_channels": 803,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -30,7 +30,7 @@
     "Bengali": {
       "total": 112,
       "working": 83,
-      "hd": 42
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 32,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 591,
-      "hd": 238
+      "working": 587,
+      "hd": 232
     },
     "Hungarian": {
       "total": 11,
@@ -160,7 +160,7 @@
     "Marathi": {
       "total": 45,
       "working": 38,
-      "hd": 20
+      "hd": 19
     },
     "Nepali": {
       "total": 5,
@@ -190,7 +190,7 @@
     "Punjabi": {
       "total": 132,
       "working": 125,
-      "hd": 50
+      "hd": 47
     },
     "Romanian": {
       "total": 5,
@@ -235,12 +235,12 @@
     "Tamil": {
       "total": 179,
       "working": 145,
-      "hd": 70
+      "hd": 68
     },
     "Telugu": {
       "total": 170,
       "working": 140,
-      "hd": 58
+      "hd": 57
     },
     "Thai": {
       "total": 1,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 228,
-      "working": 217
+      "working": 216
     },
     "Documentary": {
       "total": 12,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 178,
-      "working": 155
+      "working": 154
     },
     "Kids": {
       "total": 25,
@@ -339,11 +339,11 @@
     },
     "Music": {
       "total": 133,
-      "working": 116
+      "working": 115
     },
     "News": {
       "total": 642,
-      "working": 600
+      "working": 599
     },
     "Outdoor": {
       "total": 17,
@@ -539,7 +539,7 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Raj Digital Plus (1080p)",
@@ -667,6 +667,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Dangal TV (576p)",
       "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
       "reason": "HTTP 404"
@@ -685,6 +690,11 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -1032,6 +1042,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "StarPlus HD (1080p)",
       "url": "http://103.185.24.134:3001/Star-Plus/index.m3u8",
       "reason": "URLError"
@@ -1284,7 +1299,7 @@
     {
       "name": "India Talkies (360p)",
       "url": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Zee Tamil (576p) [Geo-blocked]",
@@ -1320,6 +1335,11 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "9XM (576p)",
+      "url": "https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "FashionTV (576p)",
@@ -1744,12 +1764,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -1759,7 +1779,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2214,7 +2234,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
