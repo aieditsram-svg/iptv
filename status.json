@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-01 17:51 UTC",
-  "fingerprint": "f7a7c9f32e7fc5520a0f0a8c08b9863e",
+  "updated_at": "2026-11-01 18:19 UTC",
+  "fingerprint": "d5372b6442f81134a5d63fd78a37a961",
   "total": 2147,
-  "working": 1754,
-  "in_grace_period": 20,
-  "dead": 393,
+  "working": 1753,
+  "in_grace_period": 32,
+  "dead": 394,
   "hd_channels": 817,
   "languages": {
     "Albanian": {
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 112,
-      "working": 84,
+      "working": 83,
       "hd": 43
     },
     "Bhojpuri": {
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 292,
-      "working": 215,
-      "hd": 119
+      "working": 216,
+      "hd": 120
     },
     "Estonian": {
       "total": 1,
@@ -94,8 +94,8 @@
     },
     "Gujarati": {
       "total": 34,
-      "working": 34,
-      "hd": 17
+      "working": 33,
+      "hd": 16
     },
     "Hebrew": {
       "total": 3,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 590,
+      "working": 589,
       "hd": 238
     },
     "Hungarian": {
@@ -199,8 +199,8 @@
     },
     "Russian": {
       "total": 50,
-      "working": 32,
-      "hd": 16
+      "working": 34,
+      "hd": 17
     },
     "Santali": {
       "total": 1,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 107,
-      "working": 62,
-      "hd": 44
+      "working": 61,
+      "hd": 43
     },
     "Swedish": {
       "total": 1,
@@ -254,13 +254,13 @@
     },
     "Ukrainian": {
       "total": 15,
-      "working": 11,
-      "hd": 9
+      "working": 12,
+      "hd": 10
     },
     "Urdu": {
       "total": 23,
-      "working": 20,
-      "hd": 8
+      "working": 21,
+      "hd": 9
     },
     "Vietnamese": {
       "total": 7,
@@ -295,7 +295,7 @@
     },
     "Cricket": {
       "total": 35,
-      "working": 16
+      "working": 17
     },
     "Culture": {
       "total": 17,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 247,
-      "working": 198
+      "working": 197
     },
     "General": {
       "total": 178,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 125,
-      "working": 99
+      "working": 98
     },
     "Music": {
       "total": 133,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 642,
-      "working": 600
+      "working": 599
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 501,
-      "working": 303
+      "working": 305
     },
     "Travel": {
       "total": 5,
@@ -652,6 +652,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -810,6 +815,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "News Capital Gujarat (1080p)",
+      "url": "https://newscapital.com/hls/main4/stream.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "NH BollyGold (1080p)",
@@ -985,6 +995,11 @@
       "name": "Hindi Khabar (576p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1477,11 +1492,6 @@
       "reason": "not a valid HLS manifest"
     },
     {
-      "name": "Беларусь 5 Интернет (1080p) [Not 24/7]",
-      "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
       "reason": "not a valid HLS manifest"
@@ -1922,11 +1932,6 @@
       "reason": "URLError"
     },
     {
-      "name": "PTV Sports (720p)",
-      "url": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Ten Sports Pakistan",
       "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
       "reason": "URLError"
@@ -2147,11 +2152,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Sport 1 Baltic (1080p)",
-      "url": "http://stream.mcquack.net/461/index.m3u8",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "UPL.TV",
       "url": "http://dtv.vol.net.ua/UPL-TV/index.m3u8",
       "reason": "HTTP 404"
@@ -2279,6 +2279,11 @@
     {
       "name": "USA Network (720p)",
       "url": "http://200.32.231.178/USA_NETWORK/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "ESPN Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
       "reason": "URLError"
     },
     {
