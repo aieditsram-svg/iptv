@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 09:37 UTC",
-  "fingerprint": "922ba07028b00fee07a8a8347afdbcb8",
+  "updated_at": "2026-11-01 10:16 UTC",
+  "fingerprint": "7cb19c8d554f90868edafe2f205ab51d",
   "total": 2147,
-  "working": 1762,
-  "in_grace_period": 23,
-  "dead": 385,
-  "hd_channels": 819,
+  "working": 1765,
+  "in_grace_period": 13,
+  "dead": 382,
+  "hd_channels": 821,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -14,8 +14,8 @@
     },
     "Arabic": {
       "total": 11,
-      "working": 8,
-      "hd": 8
+      "working": 9,
+      "hd": 9
     },
     "Assamese": {
       "total": 38,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 590,
-      "hd": 238
+      "working": 593,
+      "hd": 239
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 11
+      "hd": 12
     },
     "Polish": {
       "total": 6,
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 50,
-      "working": 34,
+      "working": 35,
       "hd": 17
     },
     "Santali": {
@@ -234,7 +234,7 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 147,
+      "working": 146,
       "hd": 71
     },
     "Telugu": {
@@ -259,8 +259,8 @@
     },
     "Urdu": {
       "total": 23,
-      "working": 21,
-      "hd": 9
+      "working": 20,
+      "hd": 8
     },
     "Vietnamese": {
       "total": 7,
@@ -295,7 +295,7 @@
     },
     "Cricket": {
       "total": 35,
-      "working": 17
+      "working": 16
     },
     "Culture": {
       "total": 17,
@@ -335,11 +335,11 @@
     },
     "Movies": {
       "total": 125,
-      "working": 99
+      "working": 100
     },
     "Music": {
       "total": 133,
-      "working": 115
+      "working": 116
     },
     "News": {
       "total": 642,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 501,
-      "working": 315
+      "working": 316
     },
     "Travel": {
       "total": 5,
@@ -394,11 +394,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -662,11 +657,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -694,6 +684,11 @@
     {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Zee TV HD (720p) [Geo-blocked]",
+      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1267,11 +1262,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Colors HD (1080p)",
-      "url": "http://103.135.253.32:8080/Color-HD/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "India Talkies (360p)",
       "url": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
@@ -1285,6 +1275,11 @@
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "AMN TV (576p)",
+      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
+      "reason": "HTTP 503"
     },
     {
       "name": "Dukhniwaran (576p)",
@@ -1305,11 +1300,6 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "9XM (576p)",
-      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xmusic4.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "FashionTV (576p)",
@@ -1490,11 +1480,6 @@
       "name": "T Sports (1080p)",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Belarus-5 (1080p) [Not 24/7]",
-      "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
@@ -1737,11 +1722,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Al Iraqia Sport (720p)",
-      "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "5Plus (1080p)",
       "url": "http://89.33.29.115:8080/sportplus/index.m3u8",
       "reason": "HTTP 403"
@@ -1754,12 +1734,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -1769,7 +1749,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -1900,6 +1880,11 @@
       "name": "PTV Sports (1080p)",
       "url": "http://103.250.28.74:8000/play/a019/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "PTV Sports (720p)",
+      "url": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Ten Sports Pakistan",
