@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 14:58 UTC",
-  "fingerprint": "0f1fdb9735f8f8243201358acaef2cf9",
+  "updated_at": "2026-11-01 15:24 UTC",
+  "fingerprint": "d7877c81d8bae8af4528bc2df1ed8413",
   "total": 2147,
-  "working": 1761,
+  "working": 1757,
   "in_grace_period": 20,
-  "dead": 386,
-  "hd_channels": 820,
+  "dead": 390,
+  "hd_channels": 819,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 594,
-      "hd": 240
+      "working": 591,
+      "hd": 239
     },
     "Hungarian": {
       "total": 11,
@@ -129,8 +129,8 @@
     },
     "Konkani": {
       "total": 3,
-      "working": 3,
-      "hd": 2
+      "working": 2,
+      "hd": 1
     },
     "Korean": {
       "total": 1,
@@ -174,8 +174,8 @@
     },
     "Other": {
       "total": 36,
-      "working": 20,
-      "hd": 10
+      "working": 21,
+      "hd": 11
     },
     "Polish": {
       "total": 6,
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 50,
-      "working": 34,
+      "working": 33,
       "hd": 17
     },
     "Santali": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 228,
-      "working": 217
+      "working": 216
     },
     "Documentary": {
       "total": 12,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 125,
-      "working": 100
+      "working": 99
     },
     "Music": {
       "total": 133,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 642,
-      "working": 601
+      "working": 599
     },
     "Outdoor": {
       "total": 17,
@@ -400,6 +400,11 @@
       "name": "Aryan TV National (576p)",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Bansal News (720p)",
+      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
+      "reason": "HTTP 401"
     },
     {
       "name": "Chardikla Time TV (1080p)",
@@ -532,6 +537,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "RDX Goa (720p) [Geo-blocked]",
+      "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+      "reason": "HTTP 401"
+    },
+    {
       "name": "Sai TV",
       "url": "https://account31.livebox.co.in/saitvhls/live.m3u8",
       "reason": "HTTP 404"
@@ -647,18 +657,23 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1005,6 +1020,11 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1457,6 +1477,11 @@
       "reason": "not a valid HLS manifest"
     },
     {
+      "name": "Беларусь 5 Интернет (1080p) [Not 24/7]",
+      "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
       "reason": "not a valid HLS manifest"
@@ -1799,11 +1824,6 @@
     {
       "name": "PX Sports (1080p)",
       "url": "http://38.65.175.84:8000/play/a0ku/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "MRTV Sports [Not 24/7]",
-      "url": "https://mrtvott.com/cache/MRTV-SPORT/master.m3u8",
       "reason": "URLError"
     },
     {
