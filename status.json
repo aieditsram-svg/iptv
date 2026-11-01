@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 00:18 UTC",
-  "fingerprint": "ff3145b07a4cbdc5a939deda98a926a7",
+  "updated_at": "2026-11-01 01:26 UTC",
+  "fingerprint": "3458202f961fefb75ba0373460f3b232",
   "total": 2147,
-  "working": 1756,
-  "in_grace_period": 10,
-  "dead": 391,
-  "hd_channels": 819,
+  "working": 1758,
+  "in_grace_period": 34,
+  "dead": 389,
+  "hd_channels": 816,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 292,
       "working": 221,
-      "hd": 120
+      "hd": 119
     },
     "Estonian": {
       "total": 1,
@@ -124,7 +124,7 @@
     },
     "Kannada": {
       "total": 69,
-      "working": 56,
+      "working": 57,
       "hd": 27
     },
     "Konkani": {
@@ -170,12 +170,12 @@
     "Odia": {
       "total": 30,
       "working": 23,
-      "hd": 10
+      "hd": 9
     },
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 13
+      "hd": 11
     },
     "Polish": {
       "total": 6,
@@ -194,13 +194,13 @@
     },
     "Romanian": {
       "total": 5,
-      "working": 3,
-      "hd": 2
+      "working": 4,
+      "hd": 3
     },
     "Russian": {
       "total": 50,
-      "working": 34,
-      "hd": 17
+      "working": 35,
+      "hd": 16
     },
     "Santali": {
       "total": 1,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 140,
+      "working": 139,
       "hd": 58
     },
     "Thai": {
@@ -331,11 +331,11 @@
     },
     "Lifestyle": {
       "total": 21,
-      "working": 16
+      "working": 17
     },
     "Movies": {
       "total": 125,
-      "working": 100
+      "working": 99
     },
     "Music": {
       "total": 133,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 501,
-      "working": 310
+      "working": 312
     },
     "Travel": {
       "total": 5,
@@ -404,11 +404,6 @@
     {
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Ayush TV (360p) [Not 24/7]",
-      "url": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -490,6 +485,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -1502,11 +1502,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Belarus-5 (1080p) [Not 24/7]",
-      "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
       "reason": "not a valid HLS manifest"
@@ -2007,11 +2002,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Realitatea Sportiva (720p)",
-      "url": "https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Sport Extra",
       "url": "https://tvextra-hls.b-cdn.net/sportextra/sportextra.m3u8",
       "reason": "HTTP 403"
@@ -2204,7 +2194,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
