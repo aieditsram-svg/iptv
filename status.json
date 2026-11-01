@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 07:31 UTC",
-  "fingerprint": "fafb9a5041145a36942659059ead9ef9",
+  "updated_at": "2026-11-01 08:18 UTC",
+  "fingerprint": "0b305112d99e52723272275ce8df69a8",
   "total": 2147,
-  "working": 1766,
-  "in_grace_period": 15,
-  "dead": 381,
-  "hd_channels": 820,
+  "working": 1768,
+  "in_grace_period": 19,
+  "dead": 379,
+  "hd_channels": 819,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 592,
+      "working": 593,
       "hd": 239
     },
     "Hungarian": {
@@ -119,8 +119,8 @@
     },
     "Italian": {
       "total": 17,
-      "working": 9,
-      "hd": 8
+      "working": 11,
+      "hd": 9
     },
     "Kannada": {
       "total": 69,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 11
+      "hd": 9
     },
     "Polish": {
       "total": 6,
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 132,
-      "working": 124,
+      "working": 123,
       "hd": 50
     },
     "Romanian": {
@@ -335,15 +335,15 @@
     },
     "Movies": {
       "total": 125,
-      "working": 99
+      "working": 98
     },
     "Music": {
       "total": 133,
-      "working": 116
+      "working": 115
     },
     "News": {
       "total": 642,
-      "working": 598
+      "working": 600
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 501,
-      "working": 316
+      "working": 318
     },
     "Travel": {
       "total": 5,
@@ -647,6 +647,16 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -654,11 +664,6 @@
     {
       "name": "Goldmines Movies (576p)",
       "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -799,11 +804,6 @@
     {
       "name": "World Punjabi TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Vistaar News (1080p)",
-      "url": "https://stream.ottlive.co.in/vistaartv/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1737,34 +1737,24 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Sportitalia (1080p)",
-      "url": "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8",
-      "reason": "HTTP 502"
-    },
-    {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
       "url": "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Sportitalia Solocalcio (1080p)",
-      "url": "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8",
-      "reason": "HTTP 502"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -1774,7 +1764,7 @@
     {
       "name": "Lazio Style Channel HD (720p)",
       "url": "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "QazSport (1080p)",
