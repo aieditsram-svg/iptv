@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 16:23 UTC",
-  "fingerprint": "07475939b57917c49734e150606a613b",
+  "updated_at": "2026-11-01 16:57 UTC",
+  "fingerprint": "1308f51b51377ebc35205d1875e08e25",
   "total": 2147,
-  "working": 1757,
-  "in_grace_period": 16,
-  "dead": 390,
-  "hd_channels": 820,
+  "working": 1755,
+  "in_grace_period": 23,
+  "dead": 392,
+  "hd_channels": 819,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,12 +70,12 @@
     "English": {
       "total": 292,
       "working": 217,
-      "hd": 119
+      "hd": 120
     },
     "Estonian": {
       "total": 1,
-      "working": 1,
-      "hd": 1
+      "working": 0,
+      "hd": 0
     },
     "French": {
       "total": 10,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 592,
-      "hd": 239
+      "working": 590,
+      "hd": 240
     },
     "Hungarian": {
       "total": 11,
@@ -139,13 +139,13 @@
     },
     "Latvian": {
       "total": 1,
-      "working": 1,
-      "hd": 1
+      "working": 0,
+      "hd": 0
     },
     "Lithuanian": {
       "total": 3,
-      "working": 2,
-      "hd": 2
+      "working": 1,
+      "hd": 1
     },
     "Macedonian": {
       "total": 2,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 12
+      "hd": 10
     },
     "Polish": {
       "total": 6,
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 132,
-      "working": 124,
+      "working": 125,
       "hd": 50
     },
     "Romanian": {
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 247,
-      "working": 199
+      "working": 197
     },
     "General": {
       "total": 178,
@@ -339,7 +339,7 @@
     },
     "Music": {
       "total": 133,
-      "working": 116
+      "working": 117
     },
     "News": {
       "total": 642,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 501,
-      "working": 306
+      "working": 305
     },
     "Travel": {
       "total": 5,
@@ -394,11 +394,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -657,14 +652,19 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Movies (576p)",
@@ -675,6 +675,11 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -1640,6 +1645,11 @@
       "name": "Tigo Sports (1080p)",
       "url": "http://45.167.2.101:8000/play/a0pp/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Go3 Sport 1 (1080p)",
+      "url": "http://stream.mcquack.net/416/index.m3u8",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Canal+ Sport (1080p) [Geo-blocked]",
