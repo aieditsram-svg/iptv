@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 13:53 UTC",
-  "fingerprint": "e07cf2faa6a2f73cb3d562e45cad65ff",
+  "updated_at": "2026-11-01 14:24 UTC",
+  "fingerprint": "2a54d19ffe6af6247ff9240fc7cf74f9",
   "total": 2147,
-  "working": 1765,
-  "in_grace_period": 25,
-  "dead": 382,
-  "hd_channels": 818,
+  "working": 1752,
+  "in_grace_period": 16,
+  "dead": 395,
+  "hd_channels": 820,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 112,
-      "working": 82,
+      "working": 81,
       "hd": 43
     },
     "Bhojpuri": {
@@ -69,7 +69,7 @@
     },
     "English": {
       "total": 292,
-      "working": 222,
+      "working": 214,
       "hd": 119
     },
     "Estonian": {
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 594,
-      "hd": 241
+      "working": 590,
+      "hd": 240
     },
     "Hungarian": {
       "total": 11,
@@ -174,8 +174,8 @@
     },
     "Other": {
       "total": 36,
-      "working": 21,
-      "hd": 9
+      "working": 20,
+      "hd": 10
     },
     "Polish": {
       "total": 6,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 50,
       "working": 34,
-      "hd": 16
+      "hd": 17
     },
     "Santali": {
       "total": 1,
@@ -234,8 +234,8 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 147,
-      "hd": 71
+      "working": 148,
+      "hd": 72
     },
     "Telugu": {
       "total": 170,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 247,
-      "working": 198
+      "working": 197
     },
     "General": {
       "total": 178,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 125,
-      "working": 100
+      "working": 98
     },
     "Music": {
       "total": 133,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 642,
-      "working": 600
+      "working": 599
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 501,
-      "working": 312
+      "working": 303
     },
     "Travel": {
       "total": 5,
@@ -547,11 +547,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Oli TV (1080p)",
-      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Sai TV",
       "url": "https://account31.livebox.co.in/saitvhls/live.m3u8",
       "reason": "HTTP 404"
@@ -670,6 +665,21 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
@@ -992,6 +1002,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -999,6 +1014,11 @@
     {
       "name": "Sangeet Bangla (576p) [Geo-blocked]",
       "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1817,6 +1837,11 @@
       "reason": "URLError"
     },
     {
+      "name": "MRTV Sports [Not 24/7]",
+      "url": "https://mrtvott.com/cache/MRTV-SPORT/master.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "ESPN (360p)",
       "url": "https://lb.iptvnetwork.net/ls28/10041/playlist.m3u8",
       "reason": "URLError"
@@ -1834,6 +1859,46 @@
     {
       "name": "ESPN 3",
       "url": "https://lb.iptvnetwork.net/ls28/10043/playlist.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Sky Sport 1",
+      "url": "http://37.49.224.5/stream/44/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Sky Sport 2",
+      "url": "http://37.49.224.5/stream/45/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Sky Sport 3",
+      "url": "http://37.49.224.5/stream/46/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Sky Sport 4",
+      "url": "http://37.49.224.5/stream/51/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Sky Sport 7",
+      "url": "http://37.49.224.5/stream/50/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Sky Sport 8",
+      "url": "http://37.49.224.5/stream/70/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Sky Sport 9",
+      "url": "http://37.49.224.5/stream/52/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Sky Sport Select",
+      "url": "http://37.49.224.5/stream/53/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -1999,37 +2064,37 @@
     {
       "name": "KHL Prime (1080p)",
       "url": "https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv",
-      "reason": "HTTP 403"
+      "reason": "TimeoutError"
     },
     {
       "name": "KHL (576p)",
       "url": "https://fs.uplink.kz/telekanal_khl/mono.m3u8?token=onlinetv",
-      "reason": "HTTP 403"
+      "reason": "TimeoutError"
     },
     {
       "name": "Match! Ultra (576p)",
       "url": "https://fs.uplink.kz/match/mono.m3u8?token=onlinetv",
-      "reason": "HTTP 403"
+      "reason": "TimeoutError"
     },
     {
       "name": "Match! Planeta (576p)",
       "url": "https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv",
-      "reason": "HTTP 403"
+      "reason": "TimeoutError"
     },
     {
       "name": "viju+ Sport (576p)",
       "url": "https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv",
-      "reason": "HTTP 403"
+      "reason": "TimeoutError"
     },
     {
       "name": "MMA-TV.com (576p)",
       "url": "https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv",
-      "reason": "HTTP 403"
+      "reason": "TimeoutError"
     },
     {
       "name": "Extreme Sports Channel (576p)",
       "url": "https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv",
-      "reason": "HTTP 403"
+      "reason": "TimeoutError"
     },
     {
       "name": "SOS Kanal Plus (720p)",
@@ -2159,7 +2224,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
