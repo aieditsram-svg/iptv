@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-01 04:29 UTC",
-  "fingerprint": "1b958183c94000a3874a520619d8579c",
+  "updated_at": "2026-11-01 05:15 UTC",
+  "fingerprint": "11bb32377e19ea187b4637b94631c856",
   "total": 2147,
   "working": 1751,
-  "in_grace_period": 48,
+  "in_grace_period": 23,
   "dead": 396,
   "hd_channels": 819,
   "languages": {
@@ -30,7 +30,7 @@
     "Bengali": {
       "total": 112,
       "working": 81,
-      "hd": 42
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 32,
@@ -69,7 +69,7 @@
     },
     "English": {
       "total": 292,
-      "working": 226,
+      "working": 227,
       "hd": 120
     },
     "Estonian": {
@@ -154,8 +154,8 @@
     },
     "Malayalam": {
       "total": 113,
-      "working": 96,
-      "hd": 41
+      "working": 97,
+      "hd": 42
     },
     "Marathi": {
       "total": 45,
@@ -174,8 +174,8 @@
     },
     "Other": {
       "total": 36,
-      "working": 20,
-      "hd": 10
+      "working": 19,
+      "hd": 9
     },
     "Polish": {
       "total": 6,
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 247,
-      "working": 196
+      "working": 197
     },
     "General": {
       "total": 178,
-      "working": 143
+      "working": 144
     },
     "Kids": {
       "total": 25,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 125,
-      "working": 98
+      "working": 97
     },
     "Music": {
       "total": 133,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 501,
-      "working": 318
+      "working": 317
     },
     "Travel": {
       "total": 5,
@@ -384,7 +384,7 @@
     {
       "name": "&TV International (1080p)",
       "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Aaj Tak (1080p)",
@@ -507,11 +507,6 @@
       "reason": "URLError"
     },
     {
-      "name": "KCL TV (720p)",
-      "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "MTV HD (396p)",
       "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
       "reason": "HTTP 451"
@@ -564,7 +559,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -652,6 +647,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines Movies (576p)",
       "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
       "reason": "HTTP 404"
@@ -659,11 +659,6 @@
     {
       "name": "Goldmines Bollywood (576p)",
       "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -769,7 +764,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -799,6 +794,11 @@
     {
       "name": "World Punjabi TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "KBP Times (1080p)",
+      "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1009,11 +1009,6 @@
     {
       "name": "Prarthana Bhawan TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHANABHAWAN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1564,7 +1559,7 @@
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Band Sports (1080p)",
@@ -1919,6 +1914,11 @@
     {
       "name": "PX Sports (1080p)",
       "url": "http://38.65.175.84:8000/play/a0ku/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "MRTV Sports [Not 24/7]",
+      "url": "https://mrtvott.com/cache/MRTV-SPORT/master.m3u8",
       "reason": "URLError"
     },
     {
