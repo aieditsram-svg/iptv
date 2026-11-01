@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 02:16 UTC",
-  "fingerprint": "2f9a719474af6721db39b06f5a98c94c",
+  "updated_at": "2026-11-01 02:58 UTC",
+  "fingerprint": "614f0fa0cb2a1476bff5bef8340b6de1",
   "total": 2147,
-  "working": 1758,
-  "in_grace_period": 29,
-  "dead": 389,
-  "hd_channels": 815,
+  "working": 1741,
+  "in_grace_period": 14,
+  "dead": 406,
+  "hd_channels": 816,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 112,
-      "working": 80,
+      "working": 78,
       "hd": 42
     },
     "Bhojpuri": {
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 292,
-      "working": 221,
-      "hd": 118
+      "working": 220,
+      "hd": 119
     },
     "Estonian": {
       "total": 1,
@@ -94,7 +94,7 @@
     },
     "Gujarati": {
       "total": 34,
-      "working": 34,
+      "working": 33,
       "hd": 18
     },
     "Hebrew": {
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 591,
+      "working": 584,
       "hd": 238
     },
     "Hungarian": {
@@ -129,7 +129,7 @@
     },
     "Konkani": {
       "total": 3,
-      "working": 2,
+      "working": 1,
       "hd": 1
     },
     "Korean": {
@@ -154,12 +154,12 @@
     },
     "Malayalam": {
       "total": 113,
-      "working": 97,
+      "working": 96,
       "hd": 41
     },
     "Marathi": {
       "total": 45,
-      "working": 38,
+      "working": 36,
       "hd": 20
     },
     "Nepali": {
@@ -169,13 +169,13 @@
     },
     "Odia": {
       "total": 30,
-      "working": 23,
+      "working": 22,
       "hd": 9
     },
     "Other": {
       "total": 36,
-      "working": 21,
-      "hd": 10
+      "working": 20,
+      "hd": 11
     },
     "Polish": {
       "total": 6,
@@ -234,13 +234,13 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 148,
+      "working": 147,
       "hd": 72
     },
     "Telugu": {
       "total": 170,
-      "working": 140,
-      "hd": 58
+      "working": 139,
+      "hd": 57
     },
     "Thai": {
       "total": 1,
@@ -299,7 +299,7 @@
     },
     "Culture": {
       "total": 17,
-      "working": 12
+      "working": 11
     },
     "Devotional": {
       "total": 228,
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 247,
-      "working": 196
+      "working": 195
     },
     "General": {
       "total": 178,
-      "working": 156
+      "working": 143
     },
     "Kids": {
       "total": 25,
@@ -339,11 +339,11 @@
     },
     "Music": {
       "total": 133,
-      "working": 116
+      "working": 115
     },
     "News": {
       "total": 642,
-      "working": 597
+      "working": 595
     },
     "Outdoor": {
       "total": 17,
@@ -682,6 +682,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -785,11 +790,6 @@
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
       "reason": "HTTP 456"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 458"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -1007,9 +1007,19 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
@@ -1387,8 +1397,28 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "DD Bihar (576p)",
+      "url": "https://fta.ektv.in/live/172/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "DD Punjabi (576p)",
       "url": "https://fta.ektv.in/live/177/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Sahyadri (576p)",
+      "url": "https://fta.ektv.in/live/187/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Bangla (576p)",
+      "url": "https://fta.ektv.in/live/197/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Arun Prabha (576p)",
+      "url": "https://fta.ektv.in/live/203/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1399,6 +1429,46 @@
     {
       "name": "Zee Bharat (576p)",
       "url": "https://fta.ektv.in/live/244/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Kashir (576p)",
+      "url": "https://fta.ektv.in/live/248/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Uttar Pradesh (576p)",
+      "url": "https://fta.ektv.in/live/263/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Goa (576p)",
+      "url": "https://fta.ektv.in/live/367/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Girnar (576p)",
+      "url": "https://fta.ektv.in/live/368/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Mizoram (576p)",
+      "url": "https://fta.ektv.in/live/381/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Odia (576p)",
+      "url": "https://fta.ektv.in/live/384/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Himachal Pradesh (576p)",
+      "url": "https://fta.ektv.in/live/575/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Madhya Pradesh (576p)",
+      "url": "https://fta.ektv.in/live/578/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1434,6 +1504,21 @@
     {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Yadagiri (576p)",
+      "url": "https://fta.ektv.in/live/678/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Tamil (576p)",
+      "url": "https://fta.ektv.in/live/679/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Malayalam (576p)",
+      "url": "https://fta.ektv.in/live/680/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1759,12 +1844,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -1774,7 +1859,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2194,7 +2279,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
