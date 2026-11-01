@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 11:19 UTC",
-  "fingerprint": "43e4b0c6b6f8d8c1ae6f591cb2b55e15",
+  "updated_at": "2026-11-01 11:50 UTC",
+  "fingerprint": "1a767e1475b57072662fed0182037a0e",
   "total": 2147,
-  "working": 1766,
-  "in_grace_period": 42,
-  "dead": 381,
-  "hd_channels": 819,
+  "working": 1760,
+  "in_grace_period": 17,
+  "dead": 387,
+  "hd_channels": 817,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -19,8 +19,8 @@
     },
     "Assamese": {
       "total": 38,
-      "working": 31,
-      "hd": 11
+      "working": 30,
+      "hd": 12
     },
     "Belarusian": {
       "total": 2,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 112,
-      "working": 82,
+      "working": 81,
       "hd": 43
     },
     "Bhojpuri": {
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 292,
-      "working": 225,
-      "hd": 121
+      "working": 222,
+      "hd": 120
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 594,
-      "hd": 239
+      "working": 593,
+      "hd": 238
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 12
+      "hd": 10
     },
     "Polish": {
       "total": 6,
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 50,
-      "working": 34,
+      "working": 33,
       "hd": 17
     },
     "Santali": {
@@ -239,8 +239,8 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 139,
-      "hd": 57
+      "working": 140,
+      "hd": 58
     },
     "Thai": {
       "total": 1,
@@ -295,7 +295,7 @@
     },
     "Cricket": {
       "total": 35,
-      "working": 16
+      "working": 13
     },
     "Culture": {
       "total": 17,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 228,
-      "working": 216
+      "working": 217
     },
     "Documentary": {
       "total": 12,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 247,
-      "working": 198
+      "working": 196
     },
     "General": {
       "total": 178,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 125,
-      "working": 99
+      "working": 100
     },
     "Music": {
       "total": 133,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 642,
-      "working": 600
+      "working": 598
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 501,
-      "working": 315
+      "working": 311
     },
     "Travel": {
       "total": 5,
@@ -392,9 +392,19 @@
       "reason": "URLError"
     },
     {
+      "name": "Aakaash Aath (576p)",
+      "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Assam Talks (576p)",
+      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Bansal News (720p)",
@@ -477,11 +487,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -527,6 +532,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "News 24 (576p)",
+      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "HTTP 403"
@@ -564,7 +574,7 @@
     {
       "name": "Sony Wah (1080p) [Geo-blocked]",
       "url": "https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8",
-      "reason": "URLError"
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Spondon (1080p)",
@@ -580,6 +590,11 @@
       "name": "Star Sports 2 Hindi (720p)",
       "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Star Sports Select 2 HD (720p)",
+      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -789,7 +804,7 @@
     {
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "World Punjabi TV (576p)",
@@ -1000,11 +1015,6 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1257,6 +1267,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Colors HD (1080p)",
+      "url": "http://103.135.253.32:8080/Color-HD/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "India Talkies (360p)",
       "url": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
@@ -1472,6 +1487,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Belarus-5 (1080p) [Not 24/7]",
+      "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Беларусь 5 Интернет (1080p) [Not 24/7]",
       "url": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
       "reason": "RemoteDisconnected"
@@ -1619,7 +1639,7 @@
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 502"
     },
     {
       "name": "Alfa Sport (1080p) [Not 24/7]",
@@ -2179,6 +2199,16 @@
     {
       "name": "The Cycling Channel",
       "url": "https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Willow (720p)",
+      "url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Willow (720p)",
+      "url": "http://tvsen7.aynascope.net/rEBp38Ax/index.m3u8",
       "reason": "URLError"
     },
     {
