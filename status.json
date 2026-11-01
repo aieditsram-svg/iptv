@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 11:50 UTC",
-  "fingerprint": "1a767e1475b57072662fed0182037a0e",
+  "updated_at": "2026-11-01 12:22 UTC",
+  "fingerprint": "915a1b70c16197f2e2630757d863a5f8",
   "total": 2147,
-  "working": 1760,
-  "in_grace_period": 17,
-  "dead": 387,
-  "hd_channels": 817,
+  "working": 1757,
+  "in_grace_period": 18,
+  "dead": 390,
+  "hd_channels": 814,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 292,
-      "working": 222,
-      "hd": 120
+      "working": 221,
+      "hd": 118
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 593,
-      "hd": 238
+      "working": 590,
+      "hd": 237
     },
     "Hungarian": {
       "total": 11,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 50,
       "working": 33,
-      "hd": 17
+      "hd": 16
     },
     "Santali": {
       "total": 1,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 178,
-      "working": 158
+      "working": 156
     },
     "Kids": {
       "total": 25,
@@ -339,7 +339,7 @@
     },
     "Music": {
       "total": 133,
-      "working": 116
+      "working": 115
     },
     "News": {
       "total": 642,
@@ -399,6 +399,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1002,6 +1007,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Balle Balle (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Bhagyam TV (576p) [Not 24/7]",
       "url": "https://bhagyam.iptv.pics/bhagyam/index.m3u8",
       "reason": "HTTP 404"
@@ -1009,6 +1019,11 @@
     {
       "name": "Prarthana Bhawan TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHANABHAWAN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1639,7 +1654,7 @@
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8",
-      "reason": "HTTP 502"
+      "reason": "HTTP 404"
     },
     {
       "name": "Alfa Sport (1080p) [Not 24/7]",
