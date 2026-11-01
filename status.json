@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 21:09 UTC",
-  "fingerprint": "014bd0c6eb8ed2c18734ecb6c00d132b",
+  "updated_at": "2026-11-01 21:40 UTC",
+  "fingerprint": "42fb188a133f1158d368b455a7df9d26",
   "total": 2147,
-  "working": 1751,
+  "working": 1757,
   "in_grace_period": 13,
-  "dead": 396,
-  "hd_channels": 814,
+  "dead": 390,
+  "hd_channels": 815,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 292,
-      "working": 216,
-      "hd": 119
+      "working": 219,
+      "hd": 120
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 590,
-      "hd": 239
+      "working": 592,
+      "hd": 238
     },
     "Hungarian": {
       "total": 11,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 107,
-      "working": 62,
-      "hd": 44
+      "working": 63,
+      "hd": 45
     },
     "Swedish": {
       "total": 1,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 228,
-      "working": 216
+      "working": 217
     },
     "Documentary": {
       "total": 12,
@@ -323,7 +323,7 @@
     },
     "Kids": {
       "total": 25,
-      "working": 13
+      "working": 12
     },
     "Legislative": {
       "total": 8,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 642,
-      "working": 599
+      "working": 600
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 501,
-      "working": 304
+      "working": 309
     },
     "Travel": {
       "total": 5,
@@ -539,6 +539,11 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "Peques TV (720p)",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -679,11 +684,6 @@
     {
       "name": "Goldmines Bollywood (576p)",
       "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1035,11 +1035,6 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1484,7 +1479,7 @@
     {
       "name": "CBC Sport HD [Geo-blocked]",
       "url": "https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "RemoteDisconnected"
     },
     {
       "name": "T Sports (1080p)",
@@ -2297,16 +2292,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ESPN 4 Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "ESPN 5 Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "ESPN Latin America Argentina",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8",
       "reason": "HTTP 403"
@@ -2330,21 +2315,6 @@
       "name": "ESPN 6 Latin America (720p)",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "ESPN (432p)",
-      "url": "http://tvsen7.aynascope.net/espn/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Fox Sports 1 (720p)",
-      "url": "https://tvsen7.aynascope.net/foxsports1/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Fox Sports 2 (720p)",
-      "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "VTV6 (1080p)",
