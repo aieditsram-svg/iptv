@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 10:51 UTC",
-  "fingerprint": "0f4653c96e8bd0c4d233be9b1d60aefe",
+  "updated_at": "2026-11-01 11:19 UTC",
+  "fingerprint": "43e4b0c6b6f8d8c1ae6f591cb2b55e15",
   "total": 2147,
   "working": 1766,
-  "in_grace_period": 20,
+  "in_grace_period": 42,
   "dead": 381,
-  "hd_channels": 822,
+  "hd_channels": 819,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -20,7 +20,7 @@
     "Assamese": {
       "total": 38,
       "working": 31,
-      "hd": 12
+      "hd": 11
     },
     "Belarusian": {
       "total": 2,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 112,
-      "working": 81,
+      "working": 82,
       "hd": 43
     },
     "Bhojpuri": {
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 595,
-      "hd": 240
+      "working": 594,
+      "hd": 239
     },
     "Hungarian": {
       "total": 11,
@@ -234,13 +234,13 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 146,
+      "working": 147,
       "hd": 71
     },
     "Telugu": {
       "total": 170,
-      "working": 140,
-      "hd": 58
+      "working": 139,
+      "hd": 57
     },
     "Thai": {
       "total": 1,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 228,
-      "working": 217
+      "working": 216
     },
     "Documentary": {
       "total": 12,
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 247,
-      "working": 197
+      "working": 198
     },
     "General": {
       "total": 178,
-      "working": 157
+      "working": 158
     },
     "Kids": {
       "total": 25,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 125,
-      "working": 100
+      "working": 99
     },
     "Music": {
       "total": 133,
@@ -477,6 +477,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -559,7 +564,7 @@
     {
       "name": "Sony Wah (1080p) [Geo-blocked]",
       "url": "https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8",
-      "reason": "not a valid HLS manifest"
+      "reason": "URLError"
     },
     {
       "name": "Spondon (1080p)",
@@ -762,11 +767,6 @@
       "reason": "HTTP 456"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
       "reason": "HTTP 404"
@@ -789,7 +789,7 @@
     {
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "World Punjabi TV (576p)",
@@ -1000,6 +1000,11 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1264,11 +1269,6 @@
     {
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "AMN TV (576p)",
-      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "HTTP 403"
     },
     {
@@ -1729,12 +1729,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -1744,7 +1744,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
