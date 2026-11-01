@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 22:13 UTC",
-  "fingerprint": "fd90871f43991c8c00471c1175f9f81e",
+  "updated_at": "2026-11-01 22:43 UTC",
+  "fingerprint": "f791486f4184e51e0c5195187c73f78f",
   "total": 2147,
   "working": 1759,
-  "in_grace_period": 9,
+  "in_grace_period": 13,
   "dead": 388,
-  "hd_channels": 815,
+  "hd_channels": 817,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 592,
+      "working": 591,
       "hd": 238
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 10
+      "hd": 11
     },
     "Polish": {
       "total": 6,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 107,
-      "working": 63,
-      "hd": 45
+      "working": 64,
+      "hd": 46
     },
     "Swedish": {
       "total": 1,
@@ -315,15 +315,15 @@
     },
     "Entertainment": {
       "total": 247,
-      "working": 199
+      "working": 200
     },
     "General": {
       "total": 178,
-      "working": 156
+      "working": 155
     },
     "Kids": {
       "total": 25,
-      "working": 12
+      "working": 13
     },
     "Legislative": {
       "total": 8,
@@ -339,7 +339,7 @@
     },
     "Music": {
       "total": 133,
-      "working": 117
+      "working": 116
     },
     "News": {
       "total": 642,
@@ -394,6 +394,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -534,11 +539,6 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Peques TV (720p)",
-      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -784,12 +784,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "returned HTML page"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "returned HTML page"
+      "reason": "HTTP 456"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -1005,6 +1000,11 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
