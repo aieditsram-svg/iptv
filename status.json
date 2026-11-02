@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-02 21:39 UTC",
-  "fingerprint": "2e27e66e492acccf95bb964c2c2ff573",
+  "updated_at": "2026-11-02 22:20 UTC",
+  "fingerprint": "e586b098186d76c9ea8df684f607d346",
   "total": 2152,
-  "working": 1648,
-  "in_grace_period": 16,
-  "dead": 504,
+  "working": 1649,
+  "in_grace_period": 12,
+  "dead": 503,
   "hd_channels": 766,
   "languages": {
     "Albanian": {
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 550,
-      "hd": 221
+      "working": 551,
+      "hd": 220
     },
     "Hungarian": {
       "total": 11,
@@ -159,7 +159,7 @@
     },
     "Marathi": {
       "total": 45,
-      "working": 37,
+      "working": 36,
       "hd": 20
     },
     "Nepali": {
@@ -174,8 +174,8 @@
     },
     "Other": {
       "total": 36,
-      "working": 20,
-      "hd": 11
+      "working": 21,
+      "hd": 12
     },
     "Polish": {
       "total": 6,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 228,
-      "working": 195
+      "working": 196
     },
     "Documentary": {
       "total": 12,
@@ -339,7 +339,7 @@
     },
     "Music": {
       "total": 135,
-      "working": 108
+      "working": 107
     },
     "News": {
       "total": 643,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 503,
-      "working": 311
+      "working": 312
     },
     "Travel": {
       "total": 5,
@@ -897,6 +897,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1 India (576p)",
       "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
@@ -905,11 +910,6 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -1492,11 +1492,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "StarPlus HD (1080p)",
       "url": "http://103.185.24.134:3001/Star-Plus/index.m3u8",
       "reason": "URLError"
@@ -1897,6 +1892,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "9X Jhakaas (576p)",
+      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjhakaas.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "FashionTV (576p)",
       "url": "https://fta.ektv.in/live/144/144_0.m3u8",
       "reason": "HTTP 404"
@@ -2057,9 +2057,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Беларусь 5 Интернет (1080p) [Not 24/7]",
-      "url": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
-      "reason": "RemoteDisconnected"
+      "name": "Belarus-5 (1080p) [Not 24/7]",
+      "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
@@ -2880,11 +2880,6 @@
       "name": "ESPN 6 Latin America (720p)",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Sport",
-      "url": "https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "VTV6 (1080p)",
