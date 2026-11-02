@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-02 11:24 UTC",
-  "fingerprint": "c775fd219073dac5eae53c1f5fa78ba0",
+  "updated_at": "2026-11-02 12:13 UTC",
+  "fingerprint": "606ef7a3416a1c1a4254c1d631a864c7",
   "total": 2152,
-  "working": 1655,
-  "in_grace_period": 24,
-  "dead": 497,
-  "hd_channels": 768,
+  "working": 1653,
+  "in_grace_period": 15,
+  "dead": 499,
+  "hd_channels": 766,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 292,
       "working": 212,
-      "hd": 117
+      "hd": 116
     },
     "Estonian": {
       "total": 1,
@@ -94,7 +94,7 @@
     },
     "Gujarati": {
       "total": 34,
-      "working": 30,
+      "working": 29,
       "hd": 13
     },
     "Hebrew": {
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 554,
-      "hd": 221
+      "working": 553,
+      "hd": 220
     },
     "Hungarian": {
       "total": 11,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 228,
-      "working": 196
+      "working": 195
     },
     "Documentary": {
       "total": 12,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 643,
-      "working": 556
+      "working": 555
     },
     "Outdoor": {
       "total": 17,
@@ -1012,6 +1012,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "TV13 Gujarati (480p)",
+      "url": "https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8",
+      "reason": "empty HLS manifest"
+    },
+    {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
       "reason": "HTTP 404"
@@ -1465,6 +1470,11 @@
       "name": "Jinvani Channel (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
