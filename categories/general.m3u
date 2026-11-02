@@ -1,5 +1,5 @@
 #EXTM3U
-# General channels, one link per channel, all languages, updated 2026-11-02 05:30 UTC
+# General channels, one link per channel, all languages, updated 2026-11-02 06:29 UTC
 #EXTINF:-1 tvg-id="Prime.sy@HD" x-categories="General;Sports" tvg-logo="https://prime1tv.com/wp-content/uploads/2025/12/7-1.png" x-category="General" tvg-language="Arabic" group-title="Arabic",Prime
 https://cdn.bestream.io/prime/prime.m3u8
 #EXTINF:-1 tvg-id="DDAssam.in@SD" x-categories="General" tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540" x-category="General" tvg-language="Assamese" group-title="Assamese",DD Assam
@@ -87,8 +87,8 @@ https://fta.ektv.in/live/576/master.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8
 #EXTINF:-1 tvg-id="HSTV.in@SD" tvg-logo="https://ibb.co/Ng5nkX6F" x-categories="General" x-category="General" tvg-language="Hindi" group-title="Hindi",HSTV
 https://live.castmaxcloud.com/live/hstv.m3u8
-#EXTINF:-1 tvg-id="JanTV.in@SD" x-categories="General" tvg-logo="https://i.imgur.com/RfJBuf5.png" x-category="General" tvg-language="Hindi" group-title="Hindi" height="720",Jan TV
-https://mumt03.tangotv.in/Dsly5z3HJANTV/index.m3u8
+#EXTINF:-1 tvg-id="JanTV.in@SD" x-categories="General" tvg-logo="https://i.imgur.com/RfJBuf5.png" x-category="General" tvg-language="Hindi" group-title="Hindi" height="396",Jan TV
+https://d1msejlow1t3l4.cloudfront.net/fta/jantv/playlist.m3u8
 #EXTINF:-1 tvg-id="KaumudyTV.in@SD" x-categories="General" tvg-logo="https://dtil.tmsimg.com/assets/s143259_ld_h15_aa.png?lock=720x540" x-category="General" tvg-language="Hindi" group-title="Hindi" height="576",Kaumudy TV
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Mh1Prime.in@SD" x-categories="General" x-category="General" tvg-language="Hindi" group-title="Hindi" height="720",Mh 1 Prime
@@ -138,13 +138,13 @@ https://fta.ektv.in/live/367/master.m3u8
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 #EXTINF:-1 tvg-id="JeevanTV.in@SD" x-categories="General" tvg-logo="https://i.imgur.com/zKDrzDq.png" x-category="General" tvg-language="Malayalam" group-title="Malayalam" height="396",Jeevan TV
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/JeevanTV.m3u8
-#EXTINF:-1 tvg-id="KairaliArabia.in@SD" x-categories="General" tvg-logo="https://i.imgur.com/BBEfplL.png" x-category="General" tvg-language="Malayalam" group-title="Malayalam" height="720",Kairali Arabia
+#EXTINF:-1 tvg-id="KairaliArabia.in@SD" x-categories="General" tvg-logo="https://i.imgur.com/BBEfplL.png" x-category="General" tvg-language="Malayalam" group-title="Malayalam",Kairali Arabia
 https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
 #EXTINF:-1 tvg-id="KairaliTV.in@SD" x-categories="General" tvg-logo="https://dtil.tmsimg.com/assets/s143247_ld_h15_aa.png?lock=720x540" x-category="General" tvg-language="Malayalam" group-title="Malayalam" height="720",Kairali TV
 https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
 #EXTINF:-1 tvg-id="PravasiChannel.in@SD" tvg-logo="https://i.imgur.com/1dHarb7.png" x-categories="General" x-category="General" tvg-language="Malayalam" group-title="Malayalam" height="1080",Pravasi Channel
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ShekinahTV.in@SD" tvg-logo="https://i.imgur.com/6hTshsG.png" x-categories="General" x-category="General" tvg-language="Malayalam" group-title="Malayalam" height="720",Shekinah TV
+#EXTINF:-1 tvg-id="ShekinahTV.in@SD" tvg-logo="https://i.imgur.com/6hTshsG.png" x-categories="General" x-category="General" tvg-language="Malayalam" group-title="Malayalam",Shekinah TV
 https://mumt03.tangotv.in/Dsly5z3HSHEKINAHTV/index.m3u8
 #EXTINF:-1 tvg-id="Starnet.in@SD" x-categories="General" tvg-logo="https://i.imgur.com/J3jB7Kr.png" x-category="General" tvg-language="Malayalam" group-title="Malayalam" height="480",Starnet
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
@@ -176,7 +176,7 @@ https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SarvDharamSangam.in@SD" x-categories="General" x-category="General" tvg-language="Other" group-title="Other",Sarv Dharam Sangam
 https://live.castmaxcloud.com/live/sdsangam2.m3u8
 #EXTINF:-1 tvg-id="Fast1.in@SD" tvg-logo="https://papaji.freetvindia.com/media/channels/fast1.png" x-categories="General" x-category="General" tvg-language="Punjabi" group-title="Punjabi" height="720",Fast1
-https://mumt03.tangotv.in/Dsly5z3HFast1/index.m3u8
+https://samitaorigin.tangotv.in/FAST1/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="MHOne.in@SD" x-categories="General" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/mh1_Music.png" x-category="General" tvg-language="Punjabi" group-title="Punjabi" height="720",MH One
 https://samitaorigin.tangotv.in/MHONE/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="TVRSport.ro@SD" x-categories="General;Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png" x-category="General" tvg-language="Romanian" group-title="Romanian" height="1440",TVR Sport
@@ -218,6 +218,8 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/in
 https://fta.ektv.in/live/678/master.m3u8
 #EXTINF:-1 tvg-id="HMTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143136_ld_h15_aa.png?lock=720x540" x-categories="General" x-category="General" tvg-language="Telugu" group-title="Telugu" height="576",HMTV (India)
 https://cdn.pishow.tv/ott/live/280/master.m3u8
+#EXTINF:-1 tvg-id="INews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/I_News.png" x-categories="General" x-category="General" tvg-language="Telugu" group-title="Telugu" height="576",INews
+https://cdn.pishow.tv/ott/live/411/master.m3u8
 #EXTINF:-1 tvg-id="MetroTV.in@SD" x-categories="General" tvg-logo="https://i.ibb.co/CBgJ4QV/metro-logo.jpg" x-category="General" tvg-language="Telugu" group-title="Telugu" height="1080",Metro TV
 https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
 #EXTINF:-1 tvg-name="News18 Telugu" tvg-logo="https://i.imgur.com/NsieorM.jpeg" tvg-id="News18.com" tvg-chno="26" tvg-country="IN" x-categories="General" x-category="General" tvg-language="Telugu" group-title="Telugu",News18 Telugu Ⓨ
