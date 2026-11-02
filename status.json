@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-02 20:23 UTC",
-  "fingerprint": "961ac5f9fd2692754706b80f00bc53db",
+  "updated_at": "2026-11-02 21:03 UTC",
+  "fingerprint": "0984f818dcfdd429dc5f50c7db12004a",
   "total": 2152,
-  "working": 1653,
-  "in_grace_period": 16,
-  "dead": 499,
-  "hd_channels": 762,
+  "working": 1652,
+  "in_grace_period": 18,
+  "dead": 500,
+  "hd_channels": 763,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 112,
-      "working": 77,
+      "working": 76,
       "hd": 40
     },
     "Bhojpuri": {
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 292,
-      "working": 211,
-      "hd": 115
+      "working": 212,
+      "hd": 116
     },
     "Estonian": {
       "total": 1,
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 697,
       "working": 553,
-      "hd": 221
+      "hd": 220
     },
     "Hungarian": {
       "total": 11,
@@ -174,7 +174,7 @@
     },
     "Other": {
       "total": 36,
-      "working": 20,
+      "working": 19,
       "hd": 10
     },
     "Polish": {
@@ -199,8 +199,8 @@
     },
     "Russian": {
       "total": 50,
-      "working": 34,
-      "hd": 16
+      "working": 35,
+      "hd": 17
     },
     "Santali": {
       "total": 1,
@@ -225,7 +225,7 @@
     "Spanish": {
       "total": 108,
       "working": 65,
-      "hd": 46
+      "hd": 47
     },
     "Swedish": {
       "total": 1,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 178,
-      "working": 144
+      "working": 146
     },
     "Kids": {
       "total": 25,
@@ -339,11 +339,11 @@
     },
     "Music": {
       "total": 135,
-      "working": 109
+      "working": 108
     },
     "News": {
       "total": 643,
-      "working": 555
+      "working": 553
     },
     "Outdoor": {
       "total": 17,
@@ -892,19 +892,14 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Taaza TV (576p)",
-      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -1207,6 +1202,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "NH BollyGold (1080p)",
       "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
       "reason": "HTTP 404"
@@ -1395,6 +1395,11 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
@@ -2277,11 +2282,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Setanta Sports 2 Eurasia (1080p)",
-      "url": "http://stream.mcquack.net/235/index.m3u8",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "5Plus (1080p)",
       "url": "http://89.33.29.115:8080/sportplus/index.m3u8",
       "reason": "HTTP 403"
@@ -2769,7 +2769,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
@@ -2860,6 +2860,11 @@
       "name": "ESPN 6 Latin America (720p)",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Sport",
+      "url": "https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "VTV6 (1080p)",
