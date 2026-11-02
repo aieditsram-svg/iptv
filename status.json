@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-02 03:36 UTC",
-  "fingerprint": "3a53dbfab58842d2dcef63c4f5d91941",
+  "updated_at": "2026-11-02 04:32 UTC",
+  "fingerprint": "88054c1810290923778e085a508a0233",
   "total": 2152,
-  "working": 1769,
-  "in_grace_period": 23,
-  "dead": 383,
-  "hd_channels": 820,
+  "working": 1771,
+  "in_grace_period": 18,
+  "dead": 381,
+  "hd_channels": 822,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,8 +29,8 @@
     },
     "Bengali": {
       "total": 112,
-      "working": 83,
-      "hd": 41
+      "working": 84,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 32,
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 292,
-      "working": 219,
-      "hd": 120
+      "working": 220,
+      "hd": 122
     },
     "Estonian": {
       "total": 1,
@@ -84,8 +84,8 @@
     },
     "German": {
       "total": 10,
-      "working": 8,
-      "hd": 5
+      "working": 7,
+      "hd": 4
     },
     "Greek": {
       "total": 3,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 592,
+      "working": 593,
       "hd": 239
     },
     "Hungarian": {
@@ -234,8 +234,8 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 146,
-      "hd": 71
+      "working": 147,
+      "hd": 72
     },
     "Telugu": {
       "total": 170,
@@ -299,11 +299,11 @@
     },
     "Culture": {
       "total": 17,
-      "working": 11
+      "working": 12
     },
     "Devotional": {
       "total": 228,
-      "working": 217
+      "working": 216
     },
     "Documentary": {
       "total": 12,
@@ -311,15 +311,15 @@
     },
     "Education": {
       "total": 18,
-      "working": 8
+      "working": 9
     },
     "Entertainment": {
       "total": 247,
-      "working": 198
+      "working": 199
     },
     "General": {
       "total": 178,
-      "working": 157
+      "working": 158
     },
     "Kids": {
       "total": 25,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 125,
-      "working": 98
+      "working": 99
     },
     "Music": {
       "total": 135,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 503,
-      "working": 315
+      "working": 314
     },
     "Travel": {
       "total": 5,
@@ -532,11 +532,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Oli TV (1080p)",
-      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
@@ -564,7 +559,7 @@
     {
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 HD (720p)",
@@ -659,11 +654,6 @@
     {
       "name": "Goldmines (576p)",
       "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1007,9 +997,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "HTTP 404"
+      "name": "Anand Wari TV (576p)",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
@@ -1284,12 +1274,7 @@
     {
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shiksha TV (720p)",
-      "url": "http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8",
-      "reason": "empty HLS manifest"
+      "reason": "HTTP 503"
     },
     {
       "name": "Dukhniwaran (576p)",
@@ -1670,6 +1655,11 @@
       "name": "Setanta Sports 3",
       "url": "http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3",
       "reason": "URLError"
+    },
+    {
+      "name": "More Than Sports TV (1080p)",
+      "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "ERT Sports 1 (1080p)",
@@ -2189,7 +2179,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
