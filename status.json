@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-02 02:03 UTC",
-  "fingerprint": "65d653eedca1c2af6e99e07477608253",
+  "updated_at": "2026-11-02 02:47 UTC",
+  "fingerprint": "65208058f3b025c8567cdb279441dcb4",
   "total": 2152,
-  "working": 1737,
-  "in_grace_period": 17,
-  "dead": 415,
-  "hd_channels": 799,
+  "working": 1740,
+  "in_grace_period": 13,
+  "dead": 412,
+  "hd_channels": 797,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 581,
-      "hd": 230
+      "working": 582,
+      "hd": 228
     },
     "Hungarian": {
       "total": 11,
@@ -174,7 +174,7 @@
     },
     "Other": {
       "total": 36,
-      "working": 20,
+      "working": 21,
       "hd": 11
     },
     "Polish": {
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 138,
+      "working": 139,
       "hd": 57
     },
     "Thai": {
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 125,
-      "working": 94
+      "working": 95
     },
     "Music": {
       "total": 135,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 643,
-      "working": 594
+      "working": 595
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 503,
-      "working": 313
+      "working": 314
     },
     "Travel": {
       "total": 5,
@@ -475,11 +475,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -655,11 +650,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Dangal TV (576p)",
@@ -1769,7 +1759,7 @@
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 502"
     },
     {
       "name": "Alfa Sport (1080p) [Not 24/7]",
@@ -2435,11 +2425,6 @@
       "name": "ESPN 6 Latin America (720p)",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Sport",
-      "url": "https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "VTV6 (1080p)",
