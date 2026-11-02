@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-02 10:33 UTC",
-  "fingerprint": "d0956f34298ed72e7937eb05e935e513",
+  "updated_at": "2026-11-02 11:24 UTC",
+  "fingerprint": "c775fd219073dac5eae53c1f5fa78ba0",
   "total": 2152,
-  "working": 1653,
-  "in_grace_period": 18,
-  "dead": 499,
-  "hd_channels": 766,
+  "working": 1655,
+  "in_grace_period": 24,
+  "dead": 497,
+  "hd_channels": 768,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 292,
       "working": 212,
-      "hd": 116
+      "hd": 117
     },
     "Estonian": {
       "total": 1,
@@ -174,7 +174,7 @@
     },
     "Other": {
       "total": 36,
-      "working": 20,
+      "working": 21,
       "hd": 10
     },
     "Polish": {
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 50,
-      "working": 34,
+      "working": 35,
       "hd": 17
     },
     "Santali": {
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 130,
+      "working": 129,
       "hd": 55
     },
     "Thai": {
@@ -259,8 +259,8 @@
     },
     "Urdu": {
       "total": 23,
-      "working": 20,
-      "hd": 8
+      "working": 21,
+      "hd": 9
     },
     "Vietnamese": {
       "total": 7,
@@ -295,7 +295,7 @@
     },
     "Cricket": {
       "total": 35,
-      "working": 16
+      "working": 17
     },
     "Culture": {
       "total": 17,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 247,
-      "working": 185
+      "working": 184
     },
     "General": {
       "total": 178,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 503,
-      "working": 309
+      "working": 312
     },
     "Travel": {
       "total": 5,
@@ -525,6 +525,11 @@
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -2027,11 +2032,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Belarus-5 (1080p) [Not 24/7]",
-      "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
       "reason": "not a valid HLS manifest"
@@ -2294,12 +2294,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2309,7 +2309,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2384,11 +2384,6 @@
     {
       "name": "PX Sports (1080p)",
       "url": "http://38.65.175.84:8000/play/a0ku/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "MRTV Sports [Not 24/7]",
-      "url": "https://mrtvott.com/cache/MRTV-SPORT/master.m3u8",
       "reason": "URLError"
     },
     {
@@ -2485,11 +2480,6 @@
       "name": "PTV Sports (1080p)",
       "url": "http://103.250.28.74:8000/play/a019/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "PTV Sports (720p)",
-      "url": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Ten Sports Pakistan",
@@ -2769,7 +2759,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
