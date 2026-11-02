@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-02 22:58 UTC",
-  "fingerprint": "df2df1d0f41b4731df9d9e4991674865",
+  "updated_at": "2026-11-02 23:28 UTC",
+  "fingerprint": "230c8d6f60737936c3831f3456293420",
   "total": 2152,
-  "working": 1649,
-  "in_grace_period": 5,
-  "dead": 503,
-  "hd_channels": 765,
+  "working": 1648,
+  "in_grace_period": 6,
+  "dead": 504,
+  "hd_channels": 766,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 697,
       "working": 551,
-      "hd": 220
+      "hd": 221
     },
     "Hungarian": {
       "total": 11,
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 50,
-      "working": 34,
+      "working": 33,
       "hd": 17
     },
     "Santali": {
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 178,
-      "working": 145
+      "working": 146
     },
     "Kids": {
       "total": 25,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 125,
-      "working": 92
+      "working": 91
     },
     "Music": {
       "total": 135,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 503,
-      "working": 312
+      "working": 311
     },
     "Travel": {
       "total": 5,
@@ -515,6 +515,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -1080,11 +1085,6 @@
       "name": "StarPlus HD (1080p)",
       "url": "http://66.102.126.10:8000/play/a008/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sun Gemini (576p)",
-      "url": "http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Fast1 (576p)",
@@ -2059,6 +2059,11 @@
     {
       "name": "Belarus-5 (1080p) [Not 24/7]",
       "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
+      "reason": "not a valid HLS manifest"
+    },
+    {
+      "name": "Беларусь 5 Интернет (1080p) [Not 24/7]",
+      "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
       "reason": "not a valid HLS manifest"
     },
     {
