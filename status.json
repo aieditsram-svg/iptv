@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-02 09:41 UTC",
-  "fingerprint": "275c2c4a59936c571d7e3c9287191e18",
+  "updated_at": "2026-11-02 10:33 UTC",
+  "fingerprint": "d0956f34298ed72e7937eb05e935e513",
   "total": 2152,
-  "working": 1656,
-  "in_grace_period": 21,
-  "dead": 496,
-  "hd_channels": 765,
+  "working": 1653,
+  "in_grace_period": 18,
+  "dead": 499,
+  "hd_channels": 766,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 112,
-      "working": 77,
+      "working": 76,
       "hd": 42
     },
     "Bhojpuri": {
@@ -94,8 +94,8 @@
     },
     "Gujarati": {
       "total": 34,
-      "working": 31,
-      "hd": 14
+      "working": 30,
+      "hd": 13
     },
     "Hebrew": {
       "total": 3,
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 697,
       "working": 554,
-      "hd": 220
+      "hd": 221
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 20,
-      "hd": 9
+      "hd": 10
     },
     "Polish": {
       "total": 6,
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 50,
-      "working": 35,
+      "working": 34,
       "hd": 17
     },
     "Santali": {
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 178,
-      "working": 146
+      "working": 145
     },
     "Kids": {
       "total": 25,
@@ -335,15 +335,15 @@
     },
     "Movies": {
       "total": 125,
-      "working": 91
+      "working": 92
     },
     "Music": {
       "total": 135,
-      "working": 109
+      "working": 108
     },
     "News": {
       "total": 643,
-      "working": 557
+      "working": 556
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 503,
-      "working": 310
+      "working": 309
     },
     "Travel": {
       "total": 5,
@@ -425,6 +425,11 @@
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet Middle East (576p)",
@@ -1002,11 +1007,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
       "reason": "HTTP 404"
@@ -1207,6 +1207,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Pradesh24 Gujarati (1080p)",
+      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
@@ -1380,6 +1385,11 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
@@ -2015,6 +2025,11 @@
       "name": "T Sports (1080p)",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Belarus-5 (1080p) [Not 24/7]",
+      "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
