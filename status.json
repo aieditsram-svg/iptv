@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 11:54 UTC",
-  "fingerprint": "442b38a0e8f333e612b63df8b18055d4",
+  "updated_at": "2026-11-03 12:42 UTC",
+  "fingerprint": "f5d1833552d0dc3795adf124ce3f10d6",
   "total": 2152,
-  "working": 1662,
-  "in_grace_period": 25,
-  "dead": 490,
-  "hd_channels": 774,
+  "working": 1660,
+  "in_grace_period": 18,
+  "dead": 492,
+  "hd_channels": 775,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -69,7 +69,7 @@
     },
     "English": {
       "total": 292,
-      "working": 209,
+      "working": 210,
       "hd": 116
     },
     "Estonian": {
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 554,
-      "hd": 221
+      "working": 551,
+      "hd": 222
     },
     "Hungarian": {
       "total": 11,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 107,
-      "working": 64,
-      "hd": 46
+      "working": 65,
+      "hd": 47
     },
     "Swedish": {
       "total": 1,
@@ -234,12 +234,12 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 139,
+      "working": 138,
       "hd": 69
     },
     "Telugu": {
       "total": 170,
-      "working": 130,
+      "working": 131,
       "hd": 55
     },
     "Thai": {
@@ -259,8 +259,8 @@
     },
     "Urdu": {
       "total": 23,
-      "working": 21,
-      "hd": 9
+      "working": 20,
+      "hd": 8
     },
     "Vietnamese": {
       "total": 7,
@@ -295,7 +295,7 @@
     },
     "Cricket": {
       "total": 35,
-      "working": 17
+      "working": 16
     },
     "Culture": {
       "total": 17,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 178,
-      "working": 146
+      "working": 144
     },
     "Kids": {
       "total": 25,
@@ -335,15 +335,15 @@
     },
     "Movies": {
       "total": 125,
-      "working": 91
+      "working": 90
     },
     "Music": {
       "total": 135,
-      "working": 108
+      "working": 107
     },
     "News": {
       "total": 643,
-      "working": 557
+      "working": 559
     },
     "Outdoor": {
       "total": 17,
@@ -582,11 +582,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Mirror Now (720p)",
-      "url": "https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "MTV HD (396p)",
       "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
       "reason": "HTTP 451"
@@ -714,7 +709,7 @@
     {
       "name": "Vision (576p)",
       "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "YRF Music (1080p)",
@@ -909,6 +904,16 @@
     {
       "name": "Goldmines Movies (576p)",
       "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1215,11 +1220,6 @@
       "name": "ETV Telangana (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVTG/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "INews (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/INews/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Vanitha TV (576p)",
@@ -1737,6 +1737,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "AMN TV (576p)",
+      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "News Live (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWSLIVE24X7/index.m3u8",
       "reason": "HTTP 403"
@@ -1855,6 +1860,11 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "9XM (576p)",
+      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xmusic4.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "FashionTV (576p)",
@@ -1979,11 +1989,6 @@
     {
       "name": "El-Heddaf TV (1080p)",
       "url": "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Canal Showsport (720p)",
-      "url": "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -2435,6 +2440,11 @@
       "name": "PTV Sports (1080p)",
       "url": "http://103.250.28.74:8000/play/a019/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "PTV Sports (720p)",
+      "url": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Ten Sports Pakistan",
