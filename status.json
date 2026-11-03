@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 20:49 UTC",
-  "fingerprint": "06708ac400b10c8b0239bf161a9804d2",
+  "updated_at": "2026-11-03 21:27 UTC",
+  "fingerprint": "33330ced7c66949b718a848485114029",
   "total": 2152,
-  "working": 1650,
-  "in_grace_period": 22,
-  "dead": 502,
-  "hd_channels": 762,
+  "working": 1653,
+  "in_grace_period": 20,
+  "dead": 499,
+  "hd_channels": 765,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 547,
+      "working": 549,
       "hd": 220
     },
     "Hungarian": {
@@ -174,7 +174,7 @@
     },
     "Other": {
       "total": 35,
-      "working": 21,
+      "working": 20,
       "hd": 10
     },
     "Polish": {
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 50,
       "working": 37,
-      "hd": 18
+      "hd": 19
     },
     "Santali": {
       "total": 1,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 107,
-      "working": 58,
-      "hd": 40
+      "working": 60,
+      "hd": 42
     },
     "Swedish": {
       "total": 1,
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 247,
-      "working": 183
+      "working": 184
     },
     "General": {
       "total": 178,
-      "working": 145
+      "working": 146
     },
     "Kids": {
       "total": 25,
@@ -335,11 +335,11 @@
     },
     "Movies": {
       "total": 125,
-      "working": 91
+      "working": 90
     },
     "Music": {
       "total": 135,
-      "working": 107
+      "working": 108
     },
     "News": {
       "total": 643,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 502,
-      "working": 309
+      "working": 310
     },
     "Travel": {
       "total": 6,
@@ -917,8 +917,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1392,11 +1392,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -1415,11 +1410,6 @@
       "name": "MH One Dil Se (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MHONEDILSE/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Balle Balle (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Rang (576p)",
@@ -2749,7 +2739,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
@@ -2817,11 +2807,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ESPN Extra Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?",
-      "reason": "URLError"
-    },
-    {
       "name": "ESPN Latin America (1080p)",
       "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
       "reason": "URLError"
@@ -2844,11 +2829,6 @@
     {
       "name": "ESPN 6 Latin America (1080p)",
       "url": "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "ESPN 7 Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8",
       "reason": "URLError"
     },
     {
@@ -2875,6 +2855,11 @@
       "name": "ESPN 6 Latin America (720p)",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Sport",
+      "url": "https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "VTV6 (1080p)",
