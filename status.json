@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 08:37 UTC",
-  "fingerprint": "6828ed1945d1ca283e707d8d704ebbff",
+  "updated_at": "2026-11-03 09:27 UTC",
+  "fingerprint": "2253c05f38db59ba678c93f8b8f6aea3",
   "total": 2152,
-  "working": 1665,
-  "in_grace_period": 19,
-  "dead": 487,
-  "hd_channels": 772,
+  "working": 1664,
+  "in_grace_period": 24,
+  "dead": 488,
+  "hd_channels": 769,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -30,7 +30,7 @@
     "Bengali": {
       "total": 112,
       "working": 77,
-      "hd": 42
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 32,
@@ -70,7 +70,7 @@
     "English": {
       "total": 292,
       "working": 212,
-      "hd": 116
+      "hd": 115
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 555,
-      "hd": 222
+      "working": 556,
+      "hd": 221
     },
     "Hungarian": {
       "total": 11,
@@ -154,7 +154,7 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 87,
+      "working": 86,
       "hd": 34
     },
     "Marathi": {
@@ -185,7 +185,7 @@
     "Portuguese": {
       "total": 30,
       "working": 13,
-      "hd": 10
+      "hd": 11
     },
     "Punjabi": {
       "total": 133,
@@ -259,8 +259,8 @@
     },
     "Urdu": {
       "total": 23,
-      "working": 21,
-      "hd": 9
+      "working": 20,
+      "hd": 8
     },
     "Vietnamese": {
       "total": 7,
@@ -295,7 +295,7 @@
     },
     "Cricket": {
       "total": 35,
-      "working": 17
+      "working": 16
     },
     "Culture": {
       "total": 17,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 228,
-      "working": 195
+      "working": 196
     },
     "Documentary": {
       "total": 12,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 178,
-      "working": 147
+      "working": 146
     },
     "Kids": {
       "total": 25,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 502,
-      "working": 317
+      "working": 316
     },
     "Travel": {
       "total": 6,
@@ -710,6 +710,11 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Vision (576p)",
+      "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "YRF Music (1080p)",
@@ -1440,11 +1445,6 @@
       "name": "Jinvani Channel (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -2430,6 +2430,11 @@
       "name": "PTV Sports (1080p)",
       "url": "http://103.250.28.74:8000/play/a019/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "PTV Sports (720p)",
+      "url": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Ten Sports Pakistan",
