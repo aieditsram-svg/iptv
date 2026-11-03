@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 06:29 UTC",
-  "fingerprint": "112ef96968074c54f52560f1494465b8",
+  "updated_at": "2026-11-03 07:42 UTC",
+  "fingerprint": "6473cdeb26aad7b06f49ce5037ce8364",
   "total": 2152,
-  "working": 1658,
-  "in_grace_period": 23,
-  "dead": 494,
-  "hd_channels": 768,
+  "working": 1661,
+  "in_grace_period": 17,
+  "dead": 491,
+  "hd_channels": 769,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -94,8 +94,8 @@
     },
     "Gujarati": {
       "total": 34,
-      "working": 29,
-      "hd": 12
+      "working": 30,
+      "hd": 13
     },
     "Hebrew": {
       "total": 3,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 547,
+      "working": 551,
       "hd": 219
     },
     "Hungarian": {
@@ -154,7 +154,7 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 88,
+      "working": 87,
       "hd": 34
     },
     "Marathi": {
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 50,
-      "working": 37,
+      "working": 36,
       "hd": 19
     },
     "Santali": {
@@ -335,15 +335,15 @@
     },
     "Movies": {
       "total": 125,
-      "working": 89
+      "working": 91
     },
     "Music": {
       "total": 135,
-      "working": 109
+      "working": 108
     },
     "News": {
       "total": 643,
-      "working": 554
+      "working": 557
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 502,
-      "working": 318
+      "working": 317
     },
     "Travel": {
       "total": 6,
@@ -580,6 +580,11 @@
       "name": "Kairali TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Kalika TV (576p)",
+      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Madhimugam TV (576p)",
@@ -902,16 +907,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Network 10 (576p)",
       "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
@@ -1132,11 +1127,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "India Voice (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "MH One Movies (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8",
       "reason": "HTTP 403"
@@ -1210,11 +1200,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "News Capital Gujarat (1080p)",
-      "url": "https://newscapital.com/hls/main4/stream.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "News Nation 81 (1080p)",
@@ -1882,11 +1867,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Public First (576p)",
-      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "FashionTV (576p)",
       "url": "https://fta.ektv.in/live/144/144_0.m3u8",
       "reason": "HTTP 404"
@@ -2045,6 +2025,11 @@
       "name": "T Sports (1080p)",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Belarus-5 (1080p) [Not 24/7]",
+      "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
