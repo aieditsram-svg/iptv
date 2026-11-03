@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-03 18:26 UTC",
-  "fingerprint": "b52e17ae91ea328462a2911c450f0130",
+  "updated_at": "2026-11-03 19:20 UTC",
+  "fingerprint": "9820c36f6830619c52155450a738d17a",
   "total": 2152,
-  "working": 1653,
-  "in_grace_period": 27,
-  "dead": 499,
+  "working": 1648,
+  "in_grace_period": 29,
+  "dead": 504,
   "hd_channels": 767,
   "languages": {
     "Albanian": {
@@ -19,7 +19,7 @@
     },
     "Assamese": {
       "total": 38,
-      "working": 27,
+      "working": 26,
       "hd": 10
     },
     "Belarusian": {
@@ -30,7 +30,7 @@
     "Bengali": {
       "total": 112,
       "working": 75,
-      "hd": 40
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 32,
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 292,
-      "working": 210,
-      "hd": 115
+      "working": 204,
+      "hd": 114
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 545,
-      "hd": 221
+      "working": 547,
+      "hd": 220
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 35,
       "working": 21,
-      "hd": 9
+      "hd": 11
     },
     "Polish": {
       "total": 6,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 50,
       "working": 37,
-      "hd": 19
+      "hd": 18
     },
     "Santali": {
       "total": 1,
@@ -295,7 +295,7 @@
     },
     "Cricket": {
       "total": 35,
-      "working": 16
+      "working": 13
     },
     "Culture": {
       "total": 17,
@@ -315,15 +315,15 @@
     },
     "Entertainment": {
       "total": 247,
-      "working": 184
+      "working": 183
     },
     "General": {
       "total": 178,
-      "working": 144
+      "working": 145
     },
     "Kids": {
       "total": 25,
-      "working": 12
+      "working": 13
     },
     "Legislative": {
       "total": 8,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 125,
-      "working": 89
+      "working": 90
     },
     "Music": {
       "total": 135,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 643,
-      "working": 557
+      "working": 556
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 502,
-      "working": 315
+      "working": 309
     },
     "Travel": {
       "total": 6,
@@ -413,6 +413,11 @@
     },
     {
       "name": "Aakaash Aath (576p)",
+      "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Aakaash Aath (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8",
       "reason": "HTTP 403"
     },
@@ -435,6 +440,11 @@
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Assam Talks (576p)",
+      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Bansal News (720p)",
@@ -682,6 +692,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Star Sports Select 2 HD (720p)",
+      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Studio Yuva (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3STUDIOYUVA/index.m3u8",
       "reason": "HTTP 403"
@@ -725,11 +740,6 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ZB Cartoon (1080p)",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee Cine Classic (1080p)",
@@ -924,16 +934,6 @@
     {
       "name": "Goldmines (576p)",
       "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -2787,6 +2787,16 @@
       "reason": "URLError"
     },
     {
+      "name": "Willow (720p)",
+      "url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Willow (720p)",
+      "url": "http://tvsen7.aynascope.net/rEBp38Ax/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Fubo Sports Network (720p)",
       "url": "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8",
       "reason": "HTTP 404"
@@ -2860,6 +2870,21 @@
       "name": "ESPN 6 Latin America (720p)",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "ESPN (432p)",
+      "url": "http://tvsen7.aynascope.net/espn/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Fox Sports 1 (720p)",
+      "url": "https://tvsen7.aynascope.net/foxsports1/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Fox Sports 2 (720p)",
+      "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "VTV6 (1080p)",
