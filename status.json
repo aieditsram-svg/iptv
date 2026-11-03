@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 07:42 UTC",
-  "fingerprint": "6473cdeb26aad7b06f49ce5037ce8364",
+  "updated_at": "2026-11-03 08:37 UTC",
+  "fingerprint": "6828ed1945d1ca283e707d8d704ebbff",
   "total": 2152,
-  "working": 1661,
-  "in_grace_period": 17,
-  "dead": 491,
-  "hd_channels": 769,
+  "working": 1665,
+  "in_grace_period": 19,
+  "dead": 487,
+  "hd_channels": 772,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -30,7 +30,7 @@
     "Bengali": {
       "total": 112,
       "working": 77,
-      "hd": 41
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 32,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 551,
-      "hd": 219
+      "working": 555,
+      "hd": 222
     },
     "Hungarian": {
       "total": 11,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 50,
       "working": 36,
-      "hd": 19
+      "hd": 18
     },
     "Santali": {
       "total": 1,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 178,
-      "working": 145
+      "working": 147
     },
     "Kids": {
       "total": 25,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 125,
-      "working": 91
+      "working": 92
     },
     "Music": {
       "total": 135,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 643,
-      "working": 557
+      "working": 558
     },
     "Outdoor": {
       "total": 17,
@@ -425,11 +425,6 @@
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Asianet Middle East (576p)",
@@ -902,16 +897,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -1200,11 +1185,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "News Nation 81 (1080p)",
-      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "NH BollyGold (1080p)",
@@ -2269,12 +2249,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2284,7 +2264,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2729,7 +2709,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
