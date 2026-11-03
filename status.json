@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 21:27 UTC",
-  "fingerprint": "33330ced7c66949b718a848485114029",
+  "updated_at": "2026-11-03 22:11 UTC",
+  "fingerprint": "404924ff3b98303d0209e3a33ae90cdd",
   "total": 2152,
   "working": 1653,
-  "in_grace_period": 20,
+  "in_grace_period": 8,
   "dead": 499,
-  "hd_channels": 765,
+  "hd_channels": 768,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,8 +29,8 @@
     },
     "Bengali": {
       "total": 112,
-      "working": 76,
-      "hd": 40
+      "working": 75,
+      "hd": 39
     },
     "Bhojpuri": {
       "total": 32,
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 292,
-      "working": 210,
-      "hd": 116
+      "working": 207,
+      "hd": 114
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 549,
+      "working": 548,
       "hd": 220
     },
     "Hungarian": {
@@ -174,8 +174,8 @@
     },
     "Other": {
       "total": 35,
-      "working": 20,
-      "hd": 10
+      "working": 21,
+      "hd": 12
     },
     "Polish": {
       "total": 6,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 107,
-      "working": 60,
-      "hd": 42
+      "working": 65,
+      "hd": 47
     },
     "Swedish": {
       "total": 1,
@@ -254,8 +254,8 @@
     },
     "Ukrainian": {
       "total": 15,
-      "working": 12,
-      "hd": 10
+      "working": 11,
+      "hd": 9
     },
     "Urdu": {
       "total": 23,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 247,
-      "working": 184
+      "working": 183
     },
     "General": {
       "total": 178,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 643,
-      "working": 557
+      "working": 556
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 502,
-      "working": 310
+      "working": 312
     },
     "Travel": {
       "total": 6,
@@ -930,6 +930,11 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -1737,6 +1742,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "BHI Channel (720p)",
+      "url": "https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "Zee Tamil (576p) [Geo-blocked]",
       "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd",
       "reason": "HTTP 403"
@@ -2269,12 +2279,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2284,7 +2294,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2424,7 +2434,7 @@
     {
       "name": "M-Net Sport",
       "url": "https://live.mnet.mk/hls/mnet-sport.m3u8",
-      "reason": "HTTP 500"
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Arena Sport Premium M1",
@@ -2672,6 +2682,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Maincast Sport (1080p)",
+      "url": "http://stream.mcquack.net/490/index.m3u8",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Setanta Sports+ Ukraine (1080p)",
       "url": "http://stream.mcquack.net/390/index.m3u8",
       "reason": "HTTP 403"
@@ -2739,7 +2754,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
@@ -2760,6 +2775,11 @@
       "name": "Fubo Sports Network (720p)",
       "url": "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ACC Network (720p)",
+      "url": "http://23.239.31.26:8989/accnetwork/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "ESPN Deportes HD (720p)",
@@ -2807,28 +2827,8 @@
       "reason": "URLError"
     },
     {
-      "name": "ESPN Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "ESPN 2 Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "ESPN 3 Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "ESPN 4 Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "ESPN 6 Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8",
+      "name": "NBA TV (720p)",
+      "url": "http://198.58.104.90:8989/nba/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -2857,9 +2857,9 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Sport",
-      "url": "https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8",
-      "reason": "not a valid HLS manifest"
+      "name": "NFL Network (720p)",
+      "url": "http://198.58.104.90:8989/nfl/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "VTV6 (1080p)",
