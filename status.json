@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 10:19 UTC",
-  "fingerprint": "8c9c7cbd9a0a099fd36372b7e3ca4ba9",
+  "updated_at": "2026-11-03 11:10 UTC",
+  "fingerprint": "39e7944b9328246236f8454853c9aa64",
   "total": 2152,
-  "working": 1663,
-  "in_grace_period": 22,
-  "dead": 489,
-  "hd_channels": 773,
+  "working": 1665,
+  "in_grace_period": 19,
+  "dead": 487,
+  "hd_channels": 774,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 292,
-      "working": 209,
-      "hd": 115
+      "working": 210,
+      "hd": 116
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 556,
-      "hd": 221
+      "working": 555,
+      "hd": 222
     },
     "Hungarian": {
       "total": 11,
@@ -129,8 +129,8 @@
     },
     "Konkani": {
       "total": 3,
-      "working": 1,
-      "hd": 0
+      "working": 2,
+      "hd": 1
     },
     "Korean": {
       "total": 1,
@@ -154,7 +154,7 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 86,
+      "working": 87,
       "hd": 34
     },
     "Marathi": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 35,
       "working": 21,
-      "hd": 11
+      "hd": 10
     },
     "Polish": {
       "total": 6,
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 50,
-      "working": 36,
+      "working": 37,
       "hd": 19
     },
     "Santali": {
@@ -335,15 +335,15 @@
     },
     "Movies": {
       "total": 125,
-      "working": 92
+      "working": 91
     },
     "Music": {
       "total": 135,
-      "working": 108
+      "working": 109
     },
     "News": {
       "total": 643,
-      "working": 558
+      "working": 559
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 502,
-      "working": 315
+      "working": 316
     },
     "Travel": {
       "total": 6,
@@ -577,11 +577,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Kalika TV (576p)",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Madhimugam TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8",
       "reason": "HTTP 403"
@@ -609,12 +604,12 @@
     {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Pasand TV (576p)",
@@ -625,11 +620,6 @@
       "name": "Pear TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Prudent Media (1080p)",
-      "url": "https://prudentmcdn.rixcast.com/prudentm.m3u8",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -664,7 +654,7 @@
     {
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 HD (720p)",
@@ -907,6 +897,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -1089,7 +1084,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 403"
+      "reason": "HTTP 456"
     },
     {
       "name": "Sandesh News (576p)",
@@ -2005,11 +2000,6 @@
       "name": "T Sports (1080p)",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Belarus-5 (1080p) [Not 24/7]",
-      "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
