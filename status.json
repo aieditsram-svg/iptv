@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-03 16:11 UTC",
-  "fingerprint": "ab1a69d3b41a2c2cbc80bbab442bdd69",
+  "updated_at": "2026-11-03 17:00 UTC",
+  "fingerprint": "0aeb3f05175105306e69f523f19295c8",
   "total": 2152,
-  "working": 1658,
-  "in_grace_period": 17,
-  "dead": 494,
+  "working": 1659,
+  "in_grace_period": 26,
+  "dead": 493,
   "hd_channels": 771,
   "languages": {
     "Albanian": {
@@ -19,7 +19,7 @@
     },
     "Assamese": {
       "total": 38,
-      "working": 26,
+      "working": 27,
       "hd": 10
     },
     "Belarusian": {
@@ -70,7 +70,7 @@
     "English": {
       "total": 292,
       "working": 210,
-      "hd": 116
+      "hd": 115
     },
     "Estonian": {
       "total": 1,
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 697,
       "working": 551,
-      "hd": 220
+      "hd": 221
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 35,
       "working": 21,
-      "hd": 10
+      "hd": 11
     },
     "Polish": {
       "total": 6,
@@ -185,7 +185,7 @@
     "Portuguese": {
       "total": 30,
       "working": 13,
-      "hd": 11
+      "hd": 10
     },
     "Punjabi": {
       "total": 133,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 125,
-      "working": 90
+      "working": 91
     },
     "Music": {
       "total": 135,
@@ -435,11 +435,6 @@
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Assam Talks (576p)",
-      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Bansal News (720p)",
@@ -620,6 +615,11 @@
       "name": "News 24 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWS24/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News 24 (576p)",
+      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -925,11 +925,6 @@
       "name": "Goldmines (576p)",
       "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Rupasi Bangla (576p)",
@@ -2744,7 +2739,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
