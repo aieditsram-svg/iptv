@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-03 01:41 UTC",
-  "fingerprint": "ea7d1a0a3d10b298c6894053a9b5990c",
+  "updated_at": "2026-11-03 02:27 UTC",
+  "fingerprint": "1b9e97b94371ce7b8c930f6f6e62070f",
   "total": 2152,
   "working": 1659,
-  "in_grace_period": 15,
+  "in_grace_period": 23,
   "dead": 493,
   "hd_channels": 765,
   "languages": {
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 112,
-      "working": 77,
+      "working": 76,
       "hd": 40
     },
     "Bhojpuri": {
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 697,
       "working": 554,
-      "hd": 218
+      "hd": 219
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 35,
       "working": 21,
-      "hd": 11
+      "hd": 10
     },
     "Polish": {
       "total": 6,
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 50,
-      "working": 36,
+      "working": 37,
       "hd": 19
     },
     "Santali": {
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 178,
-      "working": 147
+      "working": 146
     },
     "Kids": {
       "total": 25,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 502,
-      "working": 316
+      "working": 317
     },
     "Travel": {
       "total": 6,
@@ -630,6 +630,11 @@
       "name": "Pear TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "R Plus (768p)",
+      "url": "https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -2035,11 +2040,6 @@
       "name": "T Sports (1080p)",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Belarus-5 (1080p) [Not 24/7]",
-      "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
