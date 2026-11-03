@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 09:27 UTC",
-  "fingerprint": "2253c05f38db59ba678c93f8b8f6aea3",
+  "updated_at": "2026-11-03 10:19 UTC",
+  "fingerprint": "8c9c7cbd9a0a099fd36372b7e3ca4ba9",
   "total": 2152,
-  "working": 1664,
-  "in_grace_period": 24,
-  "dead": 488,
-  "hd_channels": 769,
+  "working": 1663,
+  "in_grace_period": 22,
+  "dead": 489,
+  "hd_channels": 773,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -30,7 +30,7 @@
     "Bengali": {
       "total": 112,
       "working": 77,
-      "hd": 41
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 32,
@@ -69,7 +69,7 @@
     },
     "English": {
       "total": 292,
-      "working": 212,
+      "working": 209,
       "hd": 115
     },
     "Estonian": {
@@ -94,8 +94,8 @@
     },
     "Gujarati": {
       "total": 34,
-      "working": 30,
-      "hd": 13
+      "working": 31,
+      "hd": 14
     },
     "Hebrew": {
       "total": 3,
@@ -129,8 +129,8 @@
     },
     "Konkani": {
       "total": 3,
-      "working": 2,
-      "hd": 1
+      "working": 1,
+      "hd": 0
     },
     "Korean": {
       "total": 1,
@@ -194,13 +194,13 @@
     },
     "Romanian": {
       "total": 6,
-      "working": 6,
+      "working": 5,
       "hd": 4
     },
     "Russian": {
       "total": 50,
       "working": 36,
-      "hd": 18
+      "hd": 19
     },
     "Santali": {
       "total": 1,
@@ -259,8 +259,8 @@
     },
     "Urdu": {
       "total": 23,
-      "working": 20,
-      "hd": 8
+      "working": 21,
+      "hd": 9
     },
     "Vietnamese": {
       "total": 7,
@@ -295,7 +295,7 @@
     },
     "Cricket": {
       "total": 35,
-      "working": 16
+      "working": 17
     },
     "Culture": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 502,
-      "working": 316
+      "working": 315
     },
     "Travel": {
       "total": 6,
@@ -625,6 +625,11 @@
       "name": "Pear TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Prudent Media (1080p)",
+      "url": "https://prudentmcdn.rixcast.com/prudentm.m3u8",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -1084,7 +1089,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sandesh News (576p)",
@@ -1194,11 +1199,6 @@
     {
       "name": "NH BollyGold (1080p)",
       "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Pradesh24 Gujarati (1080p)",
-      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -2249,12 +2249,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2264,7 +2264,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2432,11 +2432,6 @@
       "reason": "URLError"
     },
     {
-      "name": "PTV Sports (720p)",
-      "url": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Ten Sports Pakistan",
       "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
       "reason": "URLError"
@@ -2525,6 +2520,16 @@
       "name": "Sport TV+",
       "url": "http://znty.dyndns.org:5010/hls/sportv+.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "NHL AntenaPlay",
+      "url": "https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "AntenaPlay Events (576p) [Not 24/7]",
+      "url": "https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Extreme Sports Channel (576p)",
