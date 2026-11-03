@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 22:49 UTC",
-  "fingerprint": "8077b9e36e4901b8850829ccb4c3533f",
+  "updated_at": "2026-11-03 23:26 UTC",
+  "fingerprint": "fb183d291bb87761047b52f20fe85124",
   "total": 2152,
-  "working": 1655,
-  "in_grace_period": 20,
-  "dead": 497,
-  "hd_channels": 769,
+  "working": 1653,
+  "in_grace_period": 25,
+  "dead": 499,
+  "hd_channels": 766,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -30,7 +30,7 @@
     "Bengali": {
       "total": 112,
       "working": 75,
-      "hd": 39
+      "hd": 38
     },
     "Bhojpuri": {
       "total": 32,
@@ -70,7 +70,7 @@
     "English": {
       "total": 292,
       "working": 207,
-      "hd": 114
+      "hd": 115
     },
     "Estonian": {
       "total": 1,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 35,
       "working": 21,
-      "hd": 12
+      "hd": 10
     },
     "Polish": {
       "total": 6,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 107,
-      "working": 64,
-      "hd": 46
+      "working": 62,
+      "hd": 45
     },
     "Swedish": {
       "total": 1,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 178,
-      "working": 146
+      "working": 147
     },
     "Kids": {
       "total": 25,
@@ -339,7 +339,7 @@
     },
     "Music": {
       "total": 135,
-      "working": 108
+      "working": 107
     },
     "News": {
       "total": 643,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 502,
-      "working": 312
+      "working": 310
     },
     "Travel": {
       "total": 6,
@@ -425,11 +425,6 @@
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Asianet Middle East (576p)",
@@ -669,7 +664,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -1407,6 +1402,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Balle Balle (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Rang (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3RANG/index.m3u8",
       "reason": "HTTP 403"
@@ -1997,8 +1997,18 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Fox Sports (1080p)",
+      "url": "http://158.172.155.130:8000/play/a09x/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "DeporTV (1080p)",
       "url": "http://158.172.155.130:8000/play/a09y/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "ESPN Premium HD (1080p)",
+      "url": "http://158.172.155.130:8000/play/a0ao/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -2744,7 +2754,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
