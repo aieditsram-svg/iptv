@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-02 23:58 UTC",
-  "fingerprint": "bbd75fce384d6a24cdc2a2b6a0c43762",
+  "updated_at": "2026-11-03 00:36 UTC",
+  "fingerprint": "885c6fddf6cd6b418a9dc0d6bfebfbc8",
   "total": 2152,
-  "working": 1651,
-  "in_grace_period": 7,
-  "dead": 501,
-  "hd_channels": 769,
+  "working": 1654,
+  "in_grace_period": 9,
+  "dead": 498,
+  "hd_channels": 768,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -58,8 +58,8 @@
       "hd": 2
     },
     "Czech": {
-      "total": 7,
-      "working": 7,
+      "total": 10,
+      "working": 10,
       "hd": 1
     },
     "Dutch": {
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 292,
-      "working": 212,
-      "hd": 117
+      "working": 211,
+      "hd": 116
     },
     "Estonian": {
       "total": 1,
@@ -88,7 +88,7 @@
       "hd": 5
     },
     "Greek": {
-      "total": 3,
+      "total": 1,
       "working": 0,
       "hd": 0
     },
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 697,
       "working": 551,
-      "hd": 222
+      "hd": 221
     },
     "Hungarian": {
       "total": 11,
@@ -173,9 +173,9 @@
       "hd": 9
     },
     "Other": {
-      "total": 36,
+      "total": 35,
       "working": 21,
-      "hd": 12
+      "hd": 10
     },
     "Polish": {
       "total": 6,
@@ -193,14 +193,14 @@
       "hd": 49
     },
     "Romanian": {
-      "total": 5,
-      "working": 5,
-      "hd": 3
+      "total": 6,
+      "working": 6,
+      "hd": 4
     },
     "Russian": {
       "total": 50,
-      "working": 34,
-      "hd": 17
+      "working": 36,
+      "hd": 19
     },
     "Santali": {
       "total": 1,
@@ -223,8 +223,8 @@
       "hd": 0
     },
     "Spanish": {
-      "total": 108,
-      "working": 65,
+      "total": 107,
+      "working": 64,
       "hd": 47
     },
     "Swedish": {
@@ -264,7 +264,7 @@
     },
     "Vietnamese": {
       "total": 7,
-      "working": 6,
+      "working": 5,
       "hd": 4
     }
   },
@@ -295,7 +295,7 @@
     },
     "Cricket": {
       "total": 35,
-      "working": 16
+      "working": 15
     },
     "Culture": {
       "total": 17,
@@ -339,11 +339,11 @@
     },
     "Music": {
       "total": 135,
-      "working": 107
+      "working": 108
     },
     "News": {
       "total": 643,
-      "working": 554
+      "working": 553
     },
     "Outdoor": {
       "total": 17,
@@ -362,12 +362,12 @@
       "working": 2
     },
     "Sports": {
-      "total": 503,
-      "working": 312
+      "total": 502,
+      "working": 314
     },
     "Travel": {
-      "total": 5,
-      "working": 3
+      "total": 6,
+      "working": 4
     }
   },
   "dead_channels": [
@@ -677,6 +677,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Star Sports Select 2 HD (720p)",
+      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Studio Yuva (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3STUDIOYUVA/index.m3u8",
       "reason": "HTTP 403"
@@ -904,6 +909,11 @@
     {
       "name": "Dangal 2 (576p)",
       "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1422,6 +1432,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Balle Balle (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Rang (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3RANG/index.m3u8",
       "reason": "HTTP 403"
@@ -1877,16 +1892,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "9XM (576p)",
-      "url": "https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
-      "name": "9X Jalwa (576p)",
-      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjalwa.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "FashionTV (576p)",
       "url": "https://fta.ektv.in/live/144/144_0.m3u8",
       "reason": "HTTP 404"
@@ -2232,16 +2237,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Eurosport 1 Russia (1080p)",
-      "url": "http://stream.mcquack.net/176/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Eurosport 2 Russia (1080p)",
-      "url": "http://stream.mcquack.net/192/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Adjarasport 1",
       "url": "https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8",
       "reason": "HTTP 403"
@@ -2250,16 +2245,6 @@
       "name": "Setanta Sports 3",
       "url": "http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3",
       "reason": "URLError"
-    },
-    {
-      "name": "ERT Sports 1 (1080p)",
-      "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "ERT Sports 2 (1080p)",
-      "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts",
-      "reason": "HTTP 403"
     },
     {
       "name": "Multivisión Sports (720p) [Not 24/7]",
@@ -2309,12 +2294,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2339,11 +2324,6 @@
     {
       "name": "QazSport (1080p)",
       "url": "http://stream.mcquack.net/72/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "QazSport (576p)",
-      "url": "https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv",
       "reason": "HTTP 403"
     },
     {
@@ -2779,7 +2759,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
@@ -2875,6 +2855,11 @@
       "name": "VTV6 (1080p)",
       "url": "https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "HTV Sports (1080i)",
+      "url": "https://vmttv.dpdns.org/tv360/?id=htv-the-thao",
+      "reason": "HTTP 404"
     }
   ]
 }
