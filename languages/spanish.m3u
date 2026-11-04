@@ -1,5 +1,5 @@
 #EXTM3U
-# Working Spanish channels, updated 2026-11-04 14:31 UTC
+# Working Spanish channels, updated 2026-11-04 15:19 UTC
 #EXTINF:-1 tvg-id="AngelTV.in@Spanish" x-categories="Devotional" tvg-logo="https://i.imgur.com/qKLEGU7.png" x-category="Devotional" tvg-language="Spanish" group-title="Spanish" height="720",Angel TV Spanish (720p)
 https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AS3SportTV.ve@SD" x-categories="Sports" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",AS3 Sport TV (1080p)
@@ -8,8 +8,6 @@ https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 http://168.196.127.137:6001/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx@SD" x-categories="Sports" tvg-logo="https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="720",Azteca Deportes Network (720p)
 https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalShowsport.ar@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/0L9tW3Z.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="720",Canal Showsport (720p)
-https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
 #EXTINF:-1 tvg-id="CDNDeportes.do@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/yU5LqTL.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="720",CDN Deportes (720p) [Not 24/7]
 https://hls.tvabierta.net/hls/036.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/n0kd17r.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",Claro Sports (1080p)
@@ -53,6 +51,8 @@ http://190.61.47.54:8000/play/a004/index.m3u8
 http://168.228.44.241:9997/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium.ar@HD" x-categories="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish",ESPN Premium HD
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
+#EXTINF:-1 tvg-id="ESPNPremium.ar@HD" x-categories="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",ESPN Premium HD (1080p)
+http://158.172.155.130:8000/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Spain" x-categories="Sports" tvg-logo="https://i.imgur.com/olQJgm7.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="576",Eurosport 1 Spain (576p)
 http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Spain" x-categories="Sports" tvg-logo="https://i.imgur.com/f56dHgR.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",Eurosport 2 Spain (1080p)
@@ -89,7 +89,7 @@ http://181.78.8.199:8000/play/a0fr/index.m3u8
 https://h.jcp.live.opencaster.com/play_src/index.m3u8
 #EXTINF:-1 tvg-id="OvacionTV.pe@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/7Xndgxk.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PequesTV.pe@SD" x-categories="Kids" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png" x-category="Kids" tvg-language="Spanish" group-title="Spanish" height="1080",Peques TV (720p)
+#EXTINF:-1 tvg-id="PequesTV.pe@SD" x-categories="Kids" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png" x-category="Kids" tvg-language="Spanish" group-title="Spanish" height="720",Peques TV (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/5pMo7dL.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="726",Real Madrid TV (726p)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
