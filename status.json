@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04 22:33 UTC",
-  "fingerprint": "f8a57061d8f57872bb6b81bfd8bb0945",
+  "updated_at": "2026-11-04 23:16 UTC",
+  "fingerprint": "233ae59ef9f6c3ba5885db546a5f5dfa",
   "total": 2149,
-  "working": 1618,
-  "in_grace_period": 17,
-  "dead": 531,
-  "hd_channels": 754,
+  "working": 1622,
+  "in_grace_period": 18,
+  "dead": 527,
+  "hd_channels": 757,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 112,
-      "working": 74,
+      "working": 75,
       "hd": 40
     },
     "Bhojpuri": {
@@ -69,7 +69,7 @@
     },
     "English": {
       "total": 289,
-      "working": 193,
+      "working": 195,
       "hd": 108
     },
     "Estonian": {
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 695,
       "working": 547,
-      "hd": 216
+      "hd": 217
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 35,
       "working": 21,
-      "hd": 10
+      "hd": 11
     },
     "Polish": {
       "total": 6,
@@ -184,8 +184,8 @@
     },
     "Portuguese": {
       "total": 30,
-      "working": 10,
-      "hd": 8
+      "working": 11,
+      "hd": 9
     },
     "Punjabi": {
       "total": 133,
@@ -299,7 +299,7 @@
     },
     "Culture": {
       "total": 17,
-      "working": 10
+      "working": 11
     },
     "Devotional": {
       "total": 228,
@@ -311,11 +311,11 @@
     },
     "Education": {
       "total": 18,
-      "working": 8
+      "working": 9
     },
     "Entertainment": {
       "total": 247,
-      "working": 174
+      "working": 175
     },
     "General": {
       "total": 178,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 123,
-      "working": 90
+      "working": 89
     },
     "Music": {
       "total": 135,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 500,
-      "working": 300
+      "working": 303
     },
     "Travel": {
       "total": 7,
@@ -512,14 +512,14 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -1807,11 +1807,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Shiksha TV (720p)",
-      "url": "http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8",
-      "reason": "empty HLS manifest"
-    },
-    {
       "name": "Shaheedan Shahib (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHAHEEDBABADEEPSINGH/index.m3u8",
       "reason": "HTTP 403"
@@ -2154,7 +2149,7 @@
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
-      "reason": "not a valid HLS manifest"
+      "reason": "TimeoutError"
     },
     {
       "name": "Band Sports (1080p)",
@@ -2389,12 +2384,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2404,7 +2399,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2827,19 +2822,14 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "DAZN 3 Portugal (720p)",
-      "url": "http://23.237.104.106:8080/DAZN_3/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "DAZN 4 (540p)",
       "url": "http://23.237.104.106:8080/DAZN_4/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "DAZN 5 (720p)",
       "url": "http://23.237.104.106:8080/DAZN_5/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "TNT Sports 1",
@@ -2864,7 +2854,7 @@
     {
       "name": "Fox Deportes (720p)",
       "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Golf Channel Latin America (720p)",
@@ -2874,22 +2864,12 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
       "url": "http://23.237.104.106:8080/USA_MSG/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "NBA TV (720p)",
-      "url": "http://23.237.104.106:8080/USA_NBA/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Tennis Channel (1080p)",
-      "url": "http://23.237.104.106:8080/USA_TENNIS/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Tennis Channel (720p)",
