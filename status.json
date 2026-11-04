@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04 21:53 UTC",
-  "fingerprint": "50ada78352ddc9a9b64c001a0e16986f",
+  "updated_at": "2026-11-04 22:33 UTC",
+  "fingerprint": "f8a57061d8f57872bb6b81bfd8bb0945",
   "total": 2149,
-  "working": 1617,
-  "in_grace_period": 22,
-  "dead": 532,
-  "hd_channels": 756,
+  "working": 1618,
+  "in_grace_period": 17,
+  "dead": 531,
+  "hd_channels": 754,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 289,
       "working": 193,
-      "hd": 109
+      "hd": 108
     },
     "Estonian": {
       "total": 1,
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 695,
       "working": 547,
-      "hd": 217
+      "hd": 216
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 35,
       "working": 21,
-      "hd": 11
+      "hd": 10
     },
     "Polish": {
       "total": 6,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 107,
-      "working": 64,
-      "hd": 45
+      "working": 65,
+      "hd": 46
     },
     "Swedish": {
       "total": 1,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 500,
-      "working": 299
+      "working": 300
     },
     "Travel": {
       "total": 7,
@@ -404,7 +404,7 @@
     {
       "name": "&TV International (1080p)",
       "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Aaj Tak (1080p)",
@@ -2154,7 +2154,7 @@
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Band Sports (1080p)",
@@ -2214,7 +2214,7 @@
     {
       "name": "Olympic Channel [Geo-blocked]",
       "url": "https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "TSN4 (720p)",
@@ -2389,12 +2389,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2404,7 +2404,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2969,11 +2969,6 @@
     {
       "name": "NBA TV (720p)",
       "url": "http://198.58.104.90:8989/nba/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "ESPN 2 Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
       "reason": "URLError"
     },
     {
