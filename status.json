@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04 05:41 UTC",
-  "fingerprint": "dc12e722ee4b4bee3af26ca3b9ef0dba",
+  "updated_at": "2026-11-04 06:37 UTC",
+  "fingerprint": "3db8210305b3fb532fa98256aded7b9c",
   "total": 2149,
-  "working": 1658,
-  "in_grace_period": 17,
-  "dead": 491,
-  "hd_channels": 772,
+  "working": 1651,
+  "in_grace_period": 16,
+  "dead": 498,
+  "hd_channels": 767,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,8 +29,8 @@
     },
     "Bengali": {
       "total": 112,
-      "working": 77,
-      "hd": 42
+      "working": 76,
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 32,
@@ -70,7 +70,7 @@
     "English": {
       "total": 289,
       "working": 207,
-      "hd": 115
+      "hd": 113
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 550,
-      "hd": 221
+      "working": 546,
+      "hd": 219
     },
     "Hungarian": {
       "total": 11,
@@ -174,7 +174,7 @@
     },
     "Other": {
       "total": 35,
-      "working": 21,
+      "working": 20,
       "hd": 11
     },
     "Polish": {
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 133,
-      "working": 118,
+      "working": 117,
       "hd": 49
     },
     "Romanian": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 228,
-      "working": 194
+      "working": 193
     },
     "Documentary": {
       "total": 12,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 247,
-      "working": 184
+      "working": 183
     },
     "General": {
       "total": 178,
@@ -323,7 +323,7 @@
     },
     "Kids": {
       "total": 25,
-      "working": 13
+      "working": 12
     },
     "Legislative": {
       "total": 8,
@@ -335,15 +335,15 @@
     },
     "Movies": {
       "total": 123,
-      "working": 91
+      "working": 90
     },
     "Music": {
       "total": 135,
-      "working": 107
+      "working": 106
     },
     "News": {
       "total": 643,
-      "working": 558
+      "working": 557
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 500,
-      "working": 312
+      "working": 311
     },
     "Travel": {
       "total": 7,
@@ -712,6 +712,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ZB Cartoon (1080p)",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Zee Cine Classic (1080p)",
       "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
@@ -887,6 +892,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -905,6 +915,11 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -1697,6 +1712,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Bhakti Dhara (720p)",
+      "url": "https://newsliveindia.com:4433/bhaktidhara/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Chintpurni Live (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8",
       "reason": "HTTP 403"
@@ -1710,6 +1730,11 @@
       "name": "Nanaksar Live (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NANAKSARLIVE/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "ATN Samachar (1080p)",
+      "url": "https://newsliveindia.com:4433/atn/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Zee Tamil (576p) [Geo-blocked]",
@@ -1849,6 +1874,11 @@
     {
       "name": "9XM (576p)",
       "url": "https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xtashan.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
       "reason": "not a valid HLS manifest"
     },
     {
@@ -2249,12 +2279,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2264,7 +2294,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2280,6 +2310,11 @@
       "name": "QazSport (1080p)",
       "url": "http://stream.mcquack.net/72/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "QazSport (480p) [Geo-blocked]",
+      "url": "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "Sport+ Qazaqstan (1080p)",
@@ -2709,7 +2744,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
