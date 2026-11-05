@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 07:29 UTC",
-  "fingerprint": "34708aa977f39e4eb6f8c7963204b86c",
+  "updated_at": "2026-11-05 08:33 UTC",
+  "fingerprint": "e4730d379f21f69ea0950097e55f6434",
   "total": 2150,
-  "working": 1652,
-  "in_grace_period": 15,
-  "dead": 498,
-  "hd_channels": 765,
+  "working": 1653,
+  "in_grace_period": 18,
+  "dead": 497,
+  "hd_channels": 764,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -19,7 +19,7 @@
     },
     "Assamese": {
       "total": 38,
-      "working": 29,
+      "working": 27,
       "hd": 10
     },
     "Belarusian": {
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 546,
+      "working": 548,
       "hd": 219
     },
     "Hungarian": {
@@ -234,13 +234,13 @@
     },
     "Tamil": {
       "total": 178,
-      "working": 140,
+      "working": 139,
       "hd": 70
     },
     "Telugu": {
       "total": 170,
-      "working": 129,
-      "hd": 55
+      "working": 131,
+      "hd": 54
     },
     "Thai": {
       "total": 1,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 228,
-      "working": 196
+      "working": 195
     },
     "Documentary": {
       "total": 12,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 247,
-      "working": 182
+      "working": 184
     },
     "General": {
       "total": 178,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 123,
-      "working": 89
+      "working": 91
     },
     "Music": {
       "total": 135,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 643,
-      "working": 560
+      "working": 558
     },
     "Outdoor": {
       "total": 17,
@@ -479,11 +479,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -687,6 +682,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "DY 365 (360p)",
+      "url": "https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "E-Vidya 4 (576p)",
       "url": "http://103.72.101.252:8080/live/406.m3u8",
       "reason": "URLError"
@@ -782,11 +782,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -805,11 +800,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -865,11 +855,6 @@
       "name": "Food Food (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines 2 (576p)",
@@ -1012,6 +997,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Jonack TV (360p) [Not 24/7]",
+      "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Joy TV (576p)",
       "url": "https://joy.inet.moe/live/joytv/index.m3u8",
       "reason": "URLError"
@@ -1100,6 +1090,11 @@
       "name": "Makkal TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1852,6 +1847,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Velicham TV (576p)",
+      "url": "https://mumbai-edge.smartplaytv.in/Velichamtv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
@@ -1950,11 +1950,6 @@
       "name": "Zee TV (576p)",
       "url": "http://103.151.60.162:2122/play/a01u/index.m3u8?hls",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Zee TV HD (720p) [Geo-blocked]",
-      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
