@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 23:16 UTC",
-  "fingerprint": "ac778ec951451e39cb375eed2bde69d5",
+  "updated_at": "2026-11-05 23:54 UTC",
+  "fingerprint": "aec469648d5bf8ddb04b4801efc51353",
   "total": 2150,
-  "working": 1653,
-  "in_grace_period": 7,
-  "dead": 497,
-  "hd_channels": 759,
+  "working": 1652,
+  "in_grace_period": 9,
+  "dead": 498,
+  "hd_channels": 758,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 555,
-      "hd": 220
+      "working": 554,
+      "hd": 219
     },
     "Hungarian": {
       "total": 11,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 643,
-      "working": 559
+      "working": 558
     },
     "Outdoor": {
       "total": 17,
@@ -1235,6 +1235,11 @@
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News State MP & CHG (576p)",
@@ -2239,12 +2244,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2254,7 +2259,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2794,7 +2799,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
