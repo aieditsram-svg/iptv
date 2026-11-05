@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 02:36 UTC",
-  "fingerprint": "5518554681e273ca043d6e1f102cde2d",
+  "updated_at": "2026-11-05 03:24 UTC",
+  "fingerprint": "f15c891170e42dfc246d9e60ff5f704b",
   "total": 2150,
-  "working": 1623,
-  "in_grace_period": 12,
-  "dead": 527,
-  "hd_channels": 759,
+  "working": 1622,
+  "in_grace_period": 32,
+  "dead": 528,
+  "hd_channels": 755,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 544,
-      "hd": 218
+      "working": 543,
+      "hd": 216
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 35,
       "working": 21,
-      "hd": 12
+      "hd": 10
     },
     "Polish": {
       "total": 6,
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 133,
-      "working": 117,
+      "working": 116,
       "hd": 49
     },
     "Romanian": {
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 121,
+      "working": 122,
       "hd": 55
     },
     "Thai": {
@@ -339,7 +339,7 @@
     },
     "Music": {
       "total": 135,
-      "working": 109
+      "working": 108
     },
     "News": {
       "total": 643,
@@ -395,6 +395,11 @@
       "name": "9X Tashan (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -832,11 +837,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -930,6 +930,11 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
