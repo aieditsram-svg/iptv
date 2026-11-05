@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 21:54 UTC",
-  "fingerprint": "b5e35d911efd6063ed9b67989989fdf7",
+  "updated_at": "2026-11-05 22:33 UTC",
+  "fingerprint": "f47404df4ac5cea322ecd06aece5b847",
   "total": 2150,
-  "working": 1650,
-  "in_grace_period": 19,
-  "dead": 500,
-  "hd_channels": 757,
+  "working": 1652,
+  "in_grace_period": 5,
+  "dead": 498,
+  "hd_channels": 758,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 112,
-      "working": 75,
+      "working": 76,
       "hd": 40
     },
     "Bhojpuri": {
@@ -69,7 +69,7 @@
     },
     "English": {
       "total": 290,
-      "working": 201,
+      "working": 202,
       "hd": 110
     },
     "Estonian": {
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 555,
+      "working": 554,
       "hd": 220
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 35,
       "working": 21,
-      "hd": 11
+      "hd": 12
     },
     "Polish": {
       "total": 6,
@@ -199,8 +199,8 @@
     },
     "Russian": {
       "total": 50,
-      "working": 36,
-      "hd": 18
+      "working": 37,
+      "hd": 19
     },
     "Santali": {
       "total": 1,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 129,
+      "working": 130,
       "hd": 54
     },
     "Thai": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 228,
-      "working": 195
+      "working": 194
     },
     "Documentary": {
       "total": 12,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 247,
-      "working": 182
+      "working": 184
     },
     "General": {
       "total": 178,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 501,
-      "working": 300
+      "working": 301
     },
     "Travel": {
       "total": 7,
@@ -802,11 +802,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -1062,11 +1057,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -1100,6 +1090,11 @@
       "name": "Makkal TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -2227,11 +2222,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Setanta Sports 1 Eurasia (1080p)",
-      "url": "http://stream.mcquack.net/234/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "5Plus (1080p)",
       "url": "http://89.33.29.115:8080/sportplus/index.m3u8",
       "reason": "HTTP 403"
@@ -2809,7 +2799,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
