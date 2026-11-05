@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 22:33 UTC",
-  "fingerprint": "f47404df4ac5cea322ecd06aece5b847",
+  "updated_at": "2026-11-05 23:16 UTC",
+  "fingerprint": "ac778ec951451e39cb375eed2bde69d5",
   "total": 2150,
-  "working": 1652,
-  "in_grace_period": 5,
-  "dead": 498,
-  "hd_channels": 758,
+  "working": 1653,
+  "in_grace_period": 7,
+  "dead": 497,
+  "hd_channels": 759,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 554,
+      "working": 555,
       "hd": 220
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 35,
       "working": 21,
-      "hd": 12
+      "hd": 13
     },
     "Polish": {
       "total": 6,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 228,
-      "working": 194
+      "working": 195
     },
     "Documentary": {
       "total": 12,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 178,
-      "working": 149
+      "working": 148
     },
     "Kids": {
       "total": 25,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 123,
-      "working": 91
+      "working": 92
     },
     "Music": {
       "total": 135,
@@ -442,11 +442,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
@@ -479,6 +474,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1090,11 +1090,6 @@
       "name": "Makkal TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -2799,7 +2794,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
