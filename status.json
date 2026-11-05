@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04 23:53 UTC",
-  "fingerprint": "6b3d31e6aef20c5dfe12cec82d727afa",
-  "total": 2149,
-  "working": 1615,
-  "in_grace_period": 14,
-  "dead": 534,
-  "hd_channels": 754,
+  "updated_at": "2026-11-05 00:30 UTC",
+  "fingerprint": "c0c31be04b2d2ca79f65fa877f0a7a4f",
+  "total": 2150,
+  "working": 1613,
+  "in_grace_period": 6,
+  "dead": 537,
+  "hd_channels": 751,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -68,9 +68,9 @@
       "hd": 0
     },
     "English": {
-      "total": 289,
-      "working": 195,
-      "hd": 110
+      "total": 290,
+      "working": 196,
+      "hd": 109
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 544,
+      "working": 543,
       "hd": 215
     },
     "Hungarian": {
@@ -154,8 +154,8 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 82,
-      "hd": 34
+      "working": 81,
+      "hd": 33
     },
     "Marathi": {
       "total": 45,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 107,
-      "working": 62,
-      "hd": 45
+      "working": 61,
+      "hd": 44
     },
     "Swedish": {
       "total": 1,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 178,
-      "working": 147
+      "working": 145
     },
     "Kids": {
       "total": 25,
@@ -362,7 +362,7 @@
       "working": 2
     },
     "Sports": {
-      "total": 500,
+      "total": 501,
       "working": 299
     },
     "Travel": {
@@ -640,6 +640,16 @@
       "name": "Pear TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Pravasi Channel (1080p)",
+      "url": "https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Raftaar Media (240p)",
+      "url": "https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc43b001646a.sdp/playlist.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -2132,6 +2142,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Canal Showsport (720p)",
+      "url": "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Racing.com (720p)",
       "url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8",
       "reason": "HTTP 400"
@@ -2409,12 +2424,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2424,7 +2439,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
