@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 19:42 UTC",
-  "fingerprint": "0171a1948b898e8e58f9dd77cef53b7b",
+  "updated_at": "2026-11-05 20:27 UTC",
+  "fingerprint": "6c2562a6247595d6b666f2bfef9379c8",
   "total": 2150,
-  "working": 1660,
-  "in_grace_period": 23,
-  "dead": 490,
-  "hd_channels": 764,
+  "working": 1661,
+  "in_grace_period": 26,
+  "dead": 489,
+  "hd_channels": 760,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -30,7 +30,7 @@
     "Bengali": {
       "total": 112,
       "working": 77,
-      "hd": 41
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 32,
@@ -70,7 +70,7 @@
     "English": {
       "total": 290,
       "working": 208,
-      "hd": 113
+      "hd": 112
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 553,
-      "hd": 221
+      "working": 554,
+      "hd": 220
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 35,
       "working": 21,
-      "hd": 12
+      "hd": 10
     },
     "Polish": {
       "total": 6,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 107,
-      "working": 61,
-      "hd": 44
+      "working": 62,
+      "hd": 45
     },
     "Swedish": {
       "total": 1,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 130,
+      "working": 129,
       "hd": 54
     },
     "Thai": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 228,
-      "working": 194
+      "working": 195
     },
     "Documentary": {
       "total": 12,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 178,
-      "working": 147
+      "working": 148
     },
     "Kids": {
       "total": 25,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 123,
-      "working": 92
+      "working": 91
     },
     "Music": {
       "total": 135,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 643,
-      "working": 562
+      "working": 561
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 501,
-      "working": 307
+      "working": 308
     },
     "Travel": {
       "total": 7,
@@ -530,6 +530,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -770,6 +775,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -1080,11 +1090,6 @@
       "name": "Makkal TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1634,7 +1639,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -1720,11 +1725,6 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Taaza TV (576p)",
-      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Tabbar Hits (576p)",
@@ -2717,11 +2717,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "ESPN 3 Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "ESPN 3 Latin America Argentina",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8",
       "reason": "HTTP 403"
@@ -2769,7 +2764,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
