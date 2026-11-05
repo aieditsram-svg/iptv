@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 06:15 UTC",
-  "fingerprint": "c3a2e5133baa64160200851e81457bf1",
+  "updated_at": "2026-11-05 07:29 UTC",
+  "fingerprint": "34708aa977f39e4eb6f8c7963204b86c",
   "total": 2150,
-  "working": 1648,
-  "in_grace_period": 21,
-  "dead": 502,
-  "hd_channels": 762,
+  "working": 1652,
+  "in_grace_period": 15,
+  "dead": 498,
+  "hd_channels": 765,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 112,
-      "working": 76,
+      "working": 77,
       "hd": 42
     },
     "Bhojpuri": {
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 545,
-      "hd": 217
+      "working": 546,
+      "hd": 219
     },
     "Hungarian": {
       "total": 11,
@@ -154,8 +154,8 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 87,
-      "hd": 34
+      "working": 89,
+      "hd": 35
     },
     "Marathi": {
       "total": 45,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 35,
       "working": 21,
-      "hd": 12
+      "hd": 11
     },
     "Polish": {
       "total": 6,
@@ -240,7 +240,7 @@
     "Telugu": {
       "total": 170,
       "working": 129,
-      "hd": 54
+      "hd": 55
     },
     "Thai": {
       "total": 1,
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 247,
-      "working": 181
+      "working": 182
     },
     "General": {
       "total": 178,
-      "working": 146
+      "working": 147
     },
     "Kids": {
       "total": 25,
@@ -335,11 +335,11 @@
     },
     "Movies": {
       "total": 123,
-      "working": 88
+      "working": 89
     },
     "Music": {
       "total": 135,
-      "working": 108
+      "working": 109
     },
     "News": {
       "total": 643,
@@ -440,11 +440,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -1047,11 +1042,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Kalika TV (576p)",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kalinga TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3KALINGATV/index.m3u8",
       "reason": "HTTP 403"
@@ -1314,7 +1304,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 458"
+      "reason": "HTTP 456"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1365,11 +1355,6 @@
       "name": "Pratham News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHAMNEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Pravasi Channel (1080p)",
-      "url": "https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Prime9 News (576p)",
@@ -1675,11 +1660,6 @@
       "name": "Star Jalsha (576p)",
       "url": "http://103.151.60.162:2122/play/a00w/index.m3u8?hls",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Kiran (576p)",
@@ -2259,7 +2239,7 @@
     {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Al Iraqia Sport (720p)",
@@ -2279,7 +2259,7 @@
     {
       "name": "Lazio Style Channel HD (720p)",
       "url": "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Radio TV Serie A",
@@ -2289,22 +2269,22 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
       "url": "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2829,7 +2809,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
