@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-05 15:26 UTC",
-  "fingerprint": "f05d306229fc40270c015dc06dccf80d",
+  "updated_at": "2026-11-05 16:28 UTC",
+  "fingerprint": "eebf61586df897a22d693119b2b91ca8",
   "total": 2150,
-  "working": 1661,
-  "in_grace_period": 231,
-  "dead": 489,
+  "working": 1660,
+  "in_grace_period": 18,
+  "dead": 490,
   "hd_channels": 766,
   "languages": {
     "Albanian": {
@@ -69,7 +69,7 @@
     },
     "English": {
       "total": 290,
-      "working": 207,
+      "working": 208,
       "hd": 113
     },
     "Estonian": {
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 553,
+      "working": 552,
       "hd": 220
     },
     "Hungarian": {
@@ -224,7 +224,7 @@
     },
     "Spanish": {
       "total": 107,
-      "working": 62,
+      "working": 61,
       "hd": 45
     },
     "Swedish": {
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 247,
-      "working": 186
+      "working": 185
     },
     "General": {
       "total": 178,
-      "working": 148
+      "working": 147
     },
     "Kids": {
       "total": 25,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 123,
-      "working": 90
+      "working": 91
     },
     "Music": {
       "total": 135,
@@ -490,11 +490,6 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -914,7 +909,7 @@
     {
       "name": "Hindi Khabar (576p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Hindu Dharmam (1080p)",
@@ -1170,6 +1165,11 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1 India (576p)",
@@ -1475,6 +1475,11 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -2114,7 +2119,7 @@
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 502"
     },
     {
       "name": "Alfa Sport (1080p) [Not 24/7]",
@@ -2152,11 +2157,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Trace Sport Stars SD",
-      "url": "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Adjarasport 1",
       "url": "https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8",
       "reason": "HTTP 403"
@@ -2180,6 +2180,11 @@
       "name": "Deportes TVC (1080p)",
       "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Deportes TVC (720p)",
+      "url": "http://190.61.101.11:7050/play/a06t/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Tigo Sports (1080p)",
@@ -2229,12 +2234,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2244,7 +2249,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2804,7 +2809,7 @@
     {
       "name": "Willow (720p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "WWE Network (1080p)",
