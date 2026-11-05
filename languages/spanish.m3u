@@ -1,5 +1,5 @@
 #EXTM3U
-# Working Spanish channels, updated 2026-11-05 01:43 UTC
+# Working Spanish channels, updated 2026-11-05 02:36 UTC
 #EXTINF:-1 tvg-id="AngelTV.in@Spanish" x-categories="Devotional" tvg-logo="https://i.imgur.com/qKLEGU7.png" x-category="Devotional" tvg-language="Spanish" group-title="Spanish" height="720",Angel TV Spanish (720p)
 https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AS3SportTV.ve@SD" x-categories="Sports" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",AS3 Sport TV (1080p)
@@ -9,19 +9,19 @@ https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-491
 #EXTINF:-1 tvg-id="CDNDeportes.do@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/yU5LqTL.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="720",CDN Deportes (720p) [Not 24/7]
 https://hls.tvabierta.net/hls/036.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/n0kd17r.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",Claro Sports (1080p)
-http://168.196.127.137:6001/play/a08r/index.m3u8
-#EXTINF:-1 tvg-id="ClaroSports.mx@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/n0kd17r.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",Claro Sports (1080p)
 http://45.171.64.30:6060/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/n0kd17r.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",Claro Sports (1080p)
 http://45.228.234.9:8000/play/a06i/index.m3u8
+#EXTINF:-1 tvg-id="ClaroSports.mx@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/n0kd17r.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",Claro Sports (1080p)
+http://168.196.127.137:6001/play/a08r/index.m3u8
 #EXTINF:-1 tvg-id="ColimdoTV.do@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/ZeUgLCa.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="720",ColimdoT TV (720p)
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 #EXTINF:-1 tvg-id="CRTV.cl@SD" x-categories="Sports" tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="720",CRTV (720p)
 https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
-#EXTINF:-1 tvg-id="DeportesTVC.hn@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/Y1t8xkL.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="720",Deportes TVC
-https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
 #EXTINF:-1 tvg-id="DeportesTVC.hn@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/Y1t8xkL.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="720",Deportes TVC (720p)
 http://190.61.101.11:7050/play/a06t/index.m3u8
+#EXTINF:-1 tvg-id="DeportesTVC.hn@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/Y1t8xkL.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="720",Deportes TVC (720p)
+https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
 #EXTINF:-1 tvg-id="DeporTV.ar@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/THk9ARS.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",DeporTV (1080p)
 http://158.172.155.130:8000/play/a09y/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@South" x-categories="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",ESPN 2 Latin America (1080p)
@@ -40,7 +40,7 @@ https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
 #EXTINF:-1 tvg-id="ESPNExtraLatinAmerica.us@Argentine" x-categories="Sports" tvg-logo="https://i.imgur.com/8P8N2Ov.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",ESPN Extra Latin America (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us@South" x-categories="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",ESPN Latin America (1080p)
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Colombia" x-categories="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",ESPN Latin America Colombia (1080p)
