@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 01:42 UTC",
-  "fingerprint": "49991db9e2f62dd5474bf378b679b08e",
+  "updated_at": "2026-11-06 02:35 UTC",
+  "fingerprint": "05bf0ed2abf5290b4d3bdb881ce465a9",
   "total": 2150,
-  "working": 1656,
-  "in_grace_period": 23,
-  "dead": 494,
-  "hd_channels": 759,
+  "working": 1655,
+  "in_grace_period": 24,
+  "dead": 495,
+  "hd_channels": 758,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 554,
-      "hd": 220
+      "working": 552,
+      "hd": 219
     },
     "Hungarian": {
       "total": 11,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 128,
+      "working": 129,
       "hd": 54
     },
     "Thai": {
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 643,
-      "working": 559
+      "working": 558
     },
     "Outdoor": {
       "total": 17,
@@ -530,6 +530,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -795,11 +800,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -1380,6 +1380,11 @@
       "name": "Punjabi Beats HD (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -2144,7 +2149,7 @@
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8",
-      "reason": "HTTP 502"
+      "reason": "HTTP 404"
     },
     {
       "name": "Alfa Sport (1080p) [Not 24/7]",
