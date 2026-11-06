@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-06 19:21 UTC",
-  "fingerprint": "7b9e3f5720bd013f2a20b1172cbfa5d8",
+  "updated_at": "2026-11-06 20:05 UTC",
+  "fingerprint": "96fa4315163f649f56a6b6567dc8c5d4",
   "total": 2150,
-  "working": 1648,
-  "in_grace_period": 20,
-  "dead": 502,
+  "working": 1646,
+  "in_grace_period": 30,
+  "dead": 504,
   "hd_channels": 753,
   "languages": {
     "Albanian": {
@@ -30,7 +30,7 @@
     "Bengali": {
       "total": 112,
       "working": 73,
-      "hd": 39
+      "hd": 38
     },
     "Bhojpuri": {
       "total": 32,
@@ -70,7 +70,7 @@
     "English": {
       "total": 290,
       "working": 208,
-      "hd": 111
+      "hd": 113
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 550,
-      "hd": 215
+      "working": 548,
+      "hd": 214
     },
     "Hungarian": {
       "total": 11,
@@ -234,12 +234,12 @@
     },
     "Tamil": {
       "total": 178,
-      "working": 137,
+      "working": 138,
       "hd": 69
     },
     "Telugu": {
       "total": 170,
-      "working": 131,
+      "working": 130,
       "hd": 55
     },
     "Thai": {
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 123,
-      "working": 90
+      "working": 89
     },
     "Music": {
       "total": 135,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 643,
-      "working": 556
+      "working": 555
     },
     "Outdoor": {
       "total": 17,
@@ -452,11 +452,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "AMN TV (576p)",
-      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 503"
-    },
-    {
       "name": "Anand Wari TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
       "reason": "HTTP 403"
@@ -489,6 +484,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -544,7 +544,7 @@
     {
       "name": "Bharat AtoZ (720p)",
       "url": "https://live.ekamraott.com/4tv/bharata2z/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Bharat Samachar (576p)",
@@ -785,6 +785,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -1055,6 +1060,11 @@
       "name": "Kappa TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "KBP Times (1080p)",
+      "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Kerala Vision (576p)",
@@ -1664,7 +1674,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -2829,7 +2839,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
