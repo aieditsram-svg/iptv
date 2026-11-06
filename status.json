@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 22:00 UTC",
-  "fingerprint": "aa935398d243f0439137c768d5eeec40",
+  "updated_at": "2026-11-06 22:32 UTC",
+  "fingerprint": "8d5997622b146495832cc27ff599543f",
   "total": 2150,
   "working": 1641,
-  "in_grace_period": 11,
+  "in_grace_period": 15,
   "dead": 509,
-  "hd_channels": 754,
+  "hd_channels": 753,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -30,7 +30,7 @@
     "Bengali": {
       "total": 112,
       "working": 73,
-      "hd": 39
+      "hd": 38
     },
     "Bhojpuri": {
       "total": 32,
@@ -70,7 +70,7 @@
     "English": {
       "total": 290,
       "working": 208,
-      "hd": 114
+      "hd": 112
     },
     "Estonian": {
       "total": 1,
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 695,
       "working": 546,
-      "hd": 213
+      "hd": 214
     },
     "Hungarian": {
       "total": 11,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 50,
       "working": 37,
-      "hd": 18
+      "hd": 19
     },
     "Santali": {
       "total": 1,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 178,
-      "working": 148
+      "working": 147
     },
     "Kids": {
       "total": 25,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 123,
-      "working": 86
+      "working": 87
     },
     "Music": {
       "total": 135,
@@ -492,6 +492,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
@@ -544,7 +549,7 @@
     {
       "name": "Bharat AtoZ (720p)",
       "url": "https://live.ekamraott.com/4tv/bharata2z/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Bharat Samachar (576p)",
@@ -902,11 +907,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -1215,11 +1215,6 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1689,7 +1684,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -1780,6 +1775,11 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Tabbar Hits (576p)",
@@ -2319,12 +2319,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2334,7 +2334,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2864,7 +2864,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
