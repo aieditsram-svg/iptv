@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 06:07 UTC",
-  "fingerprint": "0a394e086c1c30bc428ac9f73e21334f",
+  "updated_at": "2026-11-06 07:14 UTC",
+  "fingerprint": "715264c76306bf5d0e76dbe68b2dd588",
   "total": 2150,
-  "working": 1643,
-  "in_grace_period": 7,
-  "dead": 507,
-  "hd_channels": 756,
+  "working": 1647,
+  "in_grace_period": 19,
+  "dead": 503,
+  "hd_channels": 759,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 112,
-      "working": 74,
+      "working": 75,
       "hd": 41
     },
     "Bhojpuri": {
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 695,
       "working": 550,
-      "hd": 218
+      "hd": 219
     },
     "Hungarian": {
       "total": 11,
@@ -154,8 +154,8 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 86,
-      "hd": 33
+      "working": 87,
+      "hd": 34
     },
     "Marathi": {
       "total": 45,
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 133,
-      "working": 116,
+      "working": 117,
       "hd": 49
     },
     "Romanian": {
@@ -239,8 +239,8 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 130,
-      "hd": 54
+      "working": 131,
+      "hd": 55
     },
     "Thai": {
       "total": 1,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 228,
-      "working": 195
+      "working": 196
     },
     "Documentary": {
       "total": 12,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 247,
-      "working": 182
+      "working": 184
     },
     "General": {
       "total": 178,
@@ -335,15 +335,15 @@
     },
     "Movies": {
       "total": 123,
-      "working": 90
+      "working": 89
     },
     "Music": {
       "total": 135,
-      "working": 107
+      "working": 108
     },
     "News": {
       "total": 643,
-      "working": 556
+      "working": 557
     },
     "Outdoor": {
       "total": 17,
@@ -605,11 +605,6 @@
       "name": "CVR English (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HCVRNEWSENGLISH/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "CVR OM Spiritual (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/CVROM/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "CVR OM Spiritual (576p)",
@@ -887,6 +882,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -1057,11 +1057,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "KCL TV (720p)",
-      "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
@@ -1105,11 +1100,6 @@
       "name": "Makkal TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1465,11 +1455,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sangeet Bhojpuri (576p)",
@@ -1884,11 +1869,6 @@
     {
       "name": "Win TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "World Punjabi TV (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -2844,7 +2824,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
