@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 22:32 UTC",
-  "fingerprint": "8d5997622b146495832cc27ff599543f",
+  "updated_at": "2026-11-06 23:11 UTC",
+  "fingerprint": "ff826dba2bac3eea09e60e9289e1d7b3",
   "total": 2150,
-  "working": 1641,
-  "in_grace_period": 15,
-  "dead": 509,
-  "hd_channels": 753,
+  "working": 1642,
+  "in_grace_period": 14,
+  "dead": 508,
+  "hd_channels": 752,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -74,8 +74,8 @@
     },
     "Estonian": {
       "total": 1,
-      "working": 1,
-      "hd": 1
+      "working": 0,
+      "hd": 0
     },
     "French": {
       "total": 10,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 546,
+      "working": 547,
       "hd": 214
     },
     "Hungarian": {
@@ -139,13 +139,13 @@
     },
     "Latvian": {
       "total": 1,
-      "working": 1,
-      "hd": 1
+      "working": 0,
+      "hd": 0
     },
     "Lithuanian": {
       "total": 3,
-      "working": 2,
-      "hd": 2
+      "working": 1,
+      "hd": 1
     },
     "Macedonian": {
       "total": 2,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 129,
+      "working": 130,
       "hd": 55
     },
     "Thai": {
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 178,
-      "working": 147
+      "working": 148
     },
     "Kids": {
       "total": 25,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 123,
-      "working": 87
+      "working": 88
     },
     "Music": {
       "total": 135,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 501,
-      "working": 302
+      "working": 301
     },
     "Travel": {
       "total": 7,
@@ -549,7 +549,7 @@
     {
       "name": "Bharat AtoZ (720p)",
       "url": "https://live.ekamraott.com/4tv/bharata2z/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Bharat Samachar (576p)",
@@ -792,11 +792,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -882,11 +877,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -900,6 +890,11 @@
       "name": "Goldmines Bollywood (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood",
@@ -1777,11 +1772,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Taaza TV (576p)",
-      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Tabbar Hits (576p)",
       "url": "https://fta.ektv.in/live/179/master.m3u8",
       "reason": "HTTP 404"
@@ -2225,6 +2215,11 @@
       "name": "Tigo Sports (1080p)",
       "url": "http://45.167.2.101:8000/play/a0pp/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Go3 Sport 1 (1080p)",
+      "url": "http://stream.mcquack.net/416/index.m3u8",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Canal+ Sport (1080p) [Geo-blocked]",
