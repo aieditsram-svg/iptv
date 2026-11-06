@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-06 07:14 UTC",
-  "fingerprint": "715264c76306bf5d0e76dbe68b2dd588",
+  "updated_at": "2026-11-06 08:22 UTC",
+  "fingerprint": "01983ef8946eecd582d17aeca6605802",
   "total": 2150,
-  "working": 1647,
+  "working": 1644,
   "in_grace_period": 19,
-  "dead": 503,
+  "dead": 506,
   "hd_channels": 759,
   "languages": {
     "Albanian": {
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 550,
+      "working": 549,
       "hd": 219
     },
     "Hungarian": {
@@ -174,7 +174,7 @@
     },
     "Other": {
       "total": 35,
-      "working": 21,
+      "working": 20,
       "hd": 11
     },
     "Polish": {
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 131,
+      "working": 130,
       "hd": 55
     },
     "Thai": {
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 247,
-      "working": 184
+      "working": 182
     },
     "General": {
       "total": 178,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 501,
-      "working": 301
+      "working": 300
     },
     "Travel": {
       "total": 7,
@@ -800,6 +800,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -1385,6 +1390,11 @@
       "name": "Punjabi Beats HD (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -2269,12 +2279,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2284,7 +2294,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2350,6 +2360,11 @@
       "name": "TV Cuatro 4.3 (1080p)",
       "url": "https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "MRTV Sports [Not 24/7]",
+      "url": "https://mrtvott.com/cache/MRTV-SPORT/master.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "ESPN (360p)",
@@ -2824,7 +2839,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
