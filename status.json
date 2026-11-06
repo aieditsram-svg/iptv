@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 05:14 UTC",
-  "fingerprint": "241f747add305a7f4441acdc44ba8da3",
+  "updated_at": "2026-11-06 06:07 UTC",
+  "fingerprint": "0a394e086c1c30bc428ac9f73e21334f",
   "total": 2150,
-  "working": 1644,
-  "in_grace_period": 18,
-  "dead": 506,
-  "hd_channels": 760,
+  "working": 1643,
+  "in_grace_period": 7,
+  "dead": 507,
+  "hd_channels": 756,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 290,
       "working": 202,
-      "hd": 111
+      "hd": 110
     },
     "Estonian": {
       "total": 1,
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 695,
       "working": 550,
-      "hd": 219
+      "hd": 218
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 35,
       "working": 21,
-      "hd": 12
+      "hd": 11
     },
     "Polish": {
       "total": 6,
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 133,
-      "working": 117,
+      "working": 116,
       "hd": 49
     },
     "Romanian": {
@@ -225,7 +225,7 @@
     "Spanish": {
       "total": 107,
       "working": 62,
-      "hd": 46
+      "hd": 45
     },
     "Swedish": {
       "total": 1,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 228,
-      "working": 194
+      "working": 195
     },
     "Documentary": {
       "total": 12,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 247,
-      "working": 181
+      "working": 182
     },
     "General": {
       "total": 178,
@@ -339,11 +339,11 @@
     },
     "Music": {
       "total": 135,
-      "working": 108
+      "working": 107
     },
     "News": {
       "total": 643,
-      "working": 558
+      "working": 556
     },
     "Outdoor": {
       "total": 17,
@@ -395,6 +395,11 @@
       "name": "9X Tashan (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -1102,11 +1107,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
@@ -1237,6 +1237,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "News 24 (576p)",
+      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News Daily 24 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWSDAILY24/index.m3u8",
       "reason": "HTTP 403"
@@ -1255,6 +1260,11 @@
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "News State MP & CHG (576p)",
@@ -1510,11 +1520,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -2839,7 +2844,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
