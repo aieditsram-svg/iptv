@@ -1,5 +1,5 @@
 #EXTM3U
-# Working Spanish channels, updated 2026-11-06 18:24 UTC
+# Working Spanish channels, updated 2026-11-06 19:21 UTC
 #EXTINF:-1 tvg-id="AngelTV.in@Spanish" x-categories="Devotional" tvg-logo="https://i.imgur.com/qKLEGU7.png" x-category="Devotional" tvg-language="Spanish" group-title="Spanish" height="720",Angel TV Spanish (720p)
 https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AS3SportTV.ve@SD" x-categories="Sports" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",AS3 Sport TV (1080p)
@@ -8,10 +8,14 @@ https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalShowsport.ar@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/0L9tW3Z.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="720",Canal Showsport (720p)
 https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
+#EXTINF:-1 tvg-id="CDNDeportes.do@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/yU5LqTL.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="720",CDN Deportes (720p) [Not 24/7]
+https://hls.tvabierta.net/hls/036.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/n0kd17r.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",Claro Sports (1080p)
 http://45.171.64.30:6060/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/n0kd17r.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",Claro Sports (1080p)
 http://168.196.127.137:6001/play/a08r/index.m3u8
+#EXTINF:-1 tvg-id="ColimdoTV.do@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/ZeUgLCa.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="720",ColimdoT TV (720p)
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 #EXTINF:-1 tvg-id="CRTV.cl@SD" x-categories="Sports" tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="720",CRTV (720p)
 https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
 #EXTINF:-1 tvg-id="DeportesTVC.hn@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/Y1t8xkL.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="720",Deportes TVC (720p)
@@ -63,8 +67,6 @@ http://158.172.155.130:8000/play/a09x/index.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
 #EXTINF:-1 tvg-id="FTV.bo@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/YOr1Oac.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="720",FTV (720p)
 https://master.tucableip.com/ftvhd/index.m3u8
-#EXTINF:-1 tvg-id="FUTV.cr@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/f8BkLql.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish",FUTV
-http://190.61.90.17:40000/play/a03v/index.m3u8
 #EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD" x-categories="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",Golf Channel Latin America (1080p)
 http://15.204.246.24:8080/GolfChannelHD/index.m3u8
 #EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD" x-categories="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",Golf Channel Latin America (1080p)
