@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 13:56 UTC",
-  "fingerprint": "f2ae733de315e69525b4274ffc40b667",
+  "updated_at": "2026-11-06 14:42 UTC",
+  "fingerprint": "8e999427f117f1649f2e1890cee7ae7c",
   "total": 2150,
-  "working": 1657,
-  "in_grace_period": 33,
-  "dead": 493,
-  "hd_channels": 765,
+  "working": 1652,
+  "in_grace_period": 25,
+  "dead": 498,
+  "hd_channels": 763,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -94,8 +94,8 @@
     },
     "Gujarati": {
       "total": 34,
-      "working": 31,
-      "hd": 14
+      "working": 30,
+      "hd": 13
     },
     "Hebrew": {
       "total": 3,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 551,
-      "hd": 219
+      "working": 550,
+      "hd": 221
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 35,
       "working": 21,
-      "hd": 12
+      "hd": 11
     },
     "Polish": {
       "total": 6,
@@ -199,8 +199,8 @@
     },
     "Russian": {
       "total": 50,
-      "working": 36,
-      "hd": 18
+      "working": 37,
+      "hd": 19
     },
     "Santali": {
       "total": 1,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 107,
-      "working": 63,
-      "hd": 46
+      "working": 59,
+      "hd": 43
     },
     "Swedish": {
       "total": 1,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 178,
-      "working": 148
+      "working": 149
     },
     "Kids": {
       "total": 25,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 123,
-      "working": 91
+      "working": 90
     },
     "Music": {
       "total": 135,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 643,
-      "working": 558
+      "working": 556
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 501,
-      "working": 308
+      "working": 305
     },
     "Travel": {
       "total": 7,
@@ -469,11 +469,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -852,6 +847,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -1172,6 +1172,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1320,6 +1325,11 @@
       "name": "Pogo (576p)",
       "url": "http://103.151.60.162:2122/play/a01e/index.m3u8?hls",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Pradesh24 Gujarati (1080p)",
+      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Prameya News7 (576p)",
@@ -2122,6 +2132,11 @@
       "reason": "URLError"
     },
     {
+      "name": "FUTV (1080p)",
+      "url": "http://45.228.234.9:8000/play/a06o/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Radio Turrialba TV Sports (720p) [Not 24/7]",
       "url": "https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u8",
       "reason": "URLError"
@@ -2140,6 +2155,11 @@
       "name": "Alfa Sport (1080p) [Not 24/7]",
       "url": "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Tour Spot TV (1280p) [Not 24/7]",
+      "url": "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Awapa Sports TV (1080p) [Not 24/7]",
@@ -2317,8 +2337,18 @@
       "reason": "URLError"
     },
     {
+      "name": "Claro Sports (1080p)",
+      "url": "http://45.228.234.9:8000/play/a06i/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "PX Sports (1080p)",
       "url": "http://38.252.238.18:8000/play/a02f/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Sky Sports 1 (1080p)",
+      "url": "http://45.228.234.9:8000/play/a06b/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -2530,11 +2560,6 @@
       "name": "KHL Prime (1080p)",
       "url": "https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Match! Boets (576p)",
-      "url": "http://stream.mcquack.net/112/index.m3u8",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Match! Planeta (576p)",
