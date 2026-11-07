@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 08:25 UTC",
-  "fingerprint": "4d226d2c2ac60b7b49abaec7b7ec07cb",
+  "updated_at": "2026-11-07 09:12 UTC",
+  "fingerprint": "202d9773ca5d39cac58cc3aaa6f1de6f",
   "total": 2297,
-  "working": 1813,
-  "in_grace_period": 28,
-  "dead": 484,
-  "hd_channels": 794,
+  "working": 1814,
+  "in_grace_period": 31,
+  "dead": 483,
+  "hd_channels": 795,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 132,
-      "working": 97,
+      "working": 98,
       "hd": 45
     },
     "Bhojpuri": {
@@ -70,7 +70,7 @@
     "English": {
       "total": 300,
       "working": 227,
-      "hd": 120
+      "hd": 121
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 635,
-      "hd": 233
+      "working": 636,
+      "hd": 234
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 35,
       "working": 21,
-      "hd": 11
+      "hd": 10
     },
     "Polish": {
       "total": 5,
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 129,
+      "working": 128,
       "hd": 52
     },
     "Romanian": {
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 275,
-      "working": 209
+      "working": 211
     },
     "General": {
       "total": 186,
@@ -339,7 +339,7 @@
     },
     "Music": {
       "total": 138,
-      "working": 113
+      "working": 112
     },
     "News": {
       "total": 694,
@@ -395,6 +395,11 @@
       "name": "9X Tashan (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -1352,11 +1357,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1369,7 +1369,7 @@
     {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Ramdhenu (576p)",
@@ -1590,11 +1590,6 @@
       "name": "Star Jalsha (576p)",
       "url": "http://103.151.60.162:2122/play/a00w/index.m3u8?hls",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Kiran (576p)",
@@ -2064,7 +2059,7 @@
     {
       "name": "FUTV (1080p)",
       "url": "http://45.228.234.9:8000/play/a06o/index.m3u8",
-      "reason": "ConnectionResetError"
+      "reason": "HTTP 404"
     },
     {
       "name": "FUTV",
@@ -2194,12 +2189,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2209,7 +2204,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2279,7 +2274,7 @@
     {
       "name": "Sky Sports 1 (1080p)",
       "url": "http://45.228.234.9:8000/play/a06b/index.m3u8",
-      "reason": "URLError"
+      "reason": "ConnectionResetError"
     },
     {
       "name": "TV Cuatro 4.3 (1080p)",
@@ -2739,7 +2734,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
