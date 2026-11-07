@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 22:44 UTC",
-  "fingerprint": "65c82d90d50190691ae1355b0ccb200a",
+  "updated_at": "2026-11-07 23:15 UTC",
+  "fingerprint": "a76ae7b5b5f7f96bf6521a55ad4eec70",
   "total": 2297,
-  "working": 1781,
-  "in_grace_period": 17,
-  "dead": 516,
-  "hd_channels": 791,
+  "working": 1779,
+  "in_grace_period": 31,
+  "dead": 518,
+  "hd_channels": 790,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,8 +29,8 @@
     },
     "Bengali": {
       "total": 132,
-      "working": 97,
-      "hd": 45
+      "working": 96,
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 33,
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 774,
       "working": 631,
-      "hd": 233
+      "hd": 232
     },
     "Hungarian": {
       "total": 11,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 109,
-      "working": 61,
-      "hd": 45
+      "working": 62,
+      "hd": 46
     },
     "Swedish": {
       "total": 1,
@@ -234,12 +234,12 @@
     },
     "Tamil": {
       "total": 190,
-      "working": 149,
+      "working": 148,
       "hd": 75
     },
     "Telugu": {
       "total": 178,
-      "working": 130,
+      "working": 129,
       "hd": 56
     },
     "Thai": {
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 275,
-      "working": 202
+      "working": 201
     },
     "General": {
       "total": 186,
-      "working": 155
+      "working": 154
     },
     "Kids": {
       "total": 32,
@@ -339,7 +339,7 @@
     },
     "Music": {
       "total": 138,
-      "working": 113
+      "working": 112
     },
     "News": {
       "total": 694,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 505,
-      "working": 321
+      "working": 322
     },
     "Travel": {
       "total": 7,
@@ -835,6 +835,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -1567,6 +1572,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sangeet Bhojpuri (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8",
       "reason": "HTTP 403"
@@ -1835,6 +1845,11 @@
       "name": "Thanthi TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTHANTHITV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Thendral TV (576p)",
+      "url": "https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Times Now (720p) [Geo-blocked]",
@@ -2239,7 +2254,7 @@
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 502"
     },
     {
       "name": "Alfa Sport (1080p) [Not 24/7]",
@@ -2862,11 +2877,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ESPN Extra Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd",
-      "reason": "URLError"
-    },
-    {
       "name": "ESPN Latin America Argentina",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8",
       "reason": "HTTP 403"
@@ -2899,7 +2909,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
