@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 14:59 UTC",
-  "fingerprint": "d45235a19513b5c9b0649b194e7672de",
+  "updated_at": "2026-11-07 15:28 UTC",
+  "fingerprint": "39981c0f67f67f193f073ba56b7002cb",
   "total": 2297,
-  "working": 1809,
-  "in_grace_period": 24,
-  "dead": 488,
-  "hd_channels": 792,
+  "working": 1806,
+  "in_grace_period": 52,
+  "dead": 491,
+  "hd_channels": 788,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -39,8 +39,8 @@
     },
     "Bulgarian": {
       "total": 4,
-      "working": 4,
-      "hd": 3
+      "working": 0,
+      "hd": 0
     },
     "Catalan": {
       "total": 4,
@@ -70,7 +70,7 @@
     "English": {
       "total": 300,
       "working": 227,
-      "hd": 119
+      "hd": 120
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 632,
+      "working": 634,
       "hd": 233
     },
     "Hungarian": {
@@ -155,7 +155,7 @@
     "Malayalam": {
       "total": 119,
       "working": 96,
-      "hd": 39
+      "hd": 38
     },
     "Marathi": {
       "total": 55,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 35,
       "working": 21,
-      "hd": 11
+      "hd": 10
     },
     "Polish": {
       "total": 5,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 51,
       "working": 38,
-      "hd": 19
+      "hd": 20
     },
     "Santali": {
       "total": 1,
@@ -254,8 +254,8 @@
     },
     "Ukrainian": {
       "total": 15,
-      "working": 11,
-      "hd": 9
+      "working": 10,
+      "hd": 8
     },
     "Urdu": {
       "total": 24,
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 275,
-      "working": 207
+      "working": 210
     },
     "General": {
       "total": 186,
-      "working": 155
+      "working": 156
     },
     "Kids": {
       "total": 32,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 156,
-      "working": 124
+      "working": 122
     },
     "Music": {
       "total": 138,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 505,
-      "working": 322
+      "working": 317
     },
     "Travel": {
       "total": 7,
@@ -469,11 +469,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -850,6 +845,11 @@
       "name": "Food Food (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines 2 (576p)",
@@ -1362,11 +1362,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1485,11 +1480,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1892,8 +1882,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -2007,6 +1997,26 @@
       "reason": "URLError"
     },
     {
+      "name": "Max Sport 1 (720p)",
+      "url": "http://213.91.179.28:8000/play/a0as",
+      "reason": "URLError"
+    },
+    {
+      "name": "Max Sport 2 (720p)",
+      "url": "http://213.91.179.28:8000/play/a0at",
+      "reason": "URLError"
+    },
+    {
+      "name": "Max Sport 3 (720p)",
+      "url": "http://213.91.179.28:8000/play/a0ar",
+      "reason": "URLError"
+    },
+    {
+      "name": "Max Sport 4",
+      "url": "http://213.91.179.28:8000/play/a05n",
+      "reason": "URLError"
+    },
+    {
       "name": "Fight Network (1080p)",
       "url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8",
       "reason": "TimeoutError"
@@ -2084,7 +2094,7 @@
     {
       "name": "FUTV (1080p)",
       "url": "http://45.228.234.9:8000/play/a06o/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "FUTV",
@@ -2104,7 +2114,7 @@
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 502"
     },
     {
       "name": "Alfa Sport (1080p) [Not 24/7]",
@@ -2289,7 +2299,7 @@
     {
       "name": "Claro Sports (1080p)",
       "url": "http://45.228.234.9:8000/play/a06i/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "PX Sports (1080p)",
@@ -2299,7 +2309,7 @@
     {
       "name": "Sky Sports 1 (1080p)",
       "url": "http://45.228.234.9:8000/play/a06b/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "TV Cuatro 4.3 (1080p)",
@@ -2607,6 +2617,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Dynamo Kyiv TV (1080p)",
+      "url": "http://stream.mcquack.net/396/index.m3u8",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "MEGOGO Sport (1080p)",
       "url": "http://5.188.159.128:8070/megogo_sport/index.m3u8",
       "reason": "HTTP 404"
@@ -2759,7 +2774,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
