@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 22:13 UTC",
-  "fingerprint": "b25ccbffc367c155b1230e1c4aa4efae",
+  "updated_at": "2026-11-07 22:44 UTC",
+  "fingerprint": "65c82d90d50190691ae1355b0ccb200a",
   "total": 2297,
-  "working": 1775,
-  "in_grace_period": 16,
-  "dead": 522,
-  "hd_channels": 787,
+  "working": 1781,
+  "in_grace_period": 17,
+  "dead": 516,
+  "hd_channels": 791,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 632,
+      "working": 631,
       "hd": 233
     },
     "Hungarian": {
@@ -174,7 +174,7 @@
     },
     "Other": {
       "total": 35,
-      "working": 20,
+      "working": 21,
       "hd": 11
     },
     "Polish": {
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 51,
-      "working": 37,
+      "working": 38,
       "hd": 20
     },
     "Santali": {
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 109,
-      "working": 56,
-      "hd": 40
+      "working": 61,
+      "hd": 45
     },
     "Swedish": {
       "total": 1,
@@ -240,7 +240,7 @@
     "Telugu": {
       "total": 178,
       "working": 130,
-      "hd": 57
+      "hd": 56
     },
     "Thai": {
       "total": 1,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 186,
-      "working": 153
+      "working": 155
     },
     "Kids": {
       "total": 32,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 156,
-      "working": 123
+      "working": 120
     },
     "Music": {
       "total": 138,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 505,
-      "working": 314
+      "working": 321
     },
     "Travel": {
       "total": 7,
@@ -489,11 +489,6 @@
     {
       "name": "Arputhar Yesu TV (576p)",
       "url": "https://account33.livebox.co.in/jesushelpshls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -897,6 +892,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -915,6 +915,11 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -1807,11 +1812,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Taaza TV (576p)",
-      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Tabbar Hits (576p)",
       "url": "https://fta.ektv.in/live/179/master.m3u8",
       "reason": "HTTP 404"
@@ -2027,6 +2027,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
@@ -2234,7 +2239,7 @@
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8",
-      "reason": "HTTP 502"
+      "reason": "HTTP 404"
     },
     {
       "name": "Alfa Sport (1080p) [Not 24/7]",
@@ -2344,12 +2349,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2359,7 +2364,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2663,11 +2668,6 @@
     },
     {
       "name": "viju+ Sport (576p)",
-      "url": "http://stream.mcquack.net/333/index.m3u8",
-      "reason": "not a valid HLS manifest"
-    },
-    {
-      "name": "viju+ Sport (576p)",
       "url": "https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv",
       "reason": "HTTP 403"
     },
@@ -2832,19 +2832,9 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "ESPN 2 Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "ESPN 2 Latin America Argentina",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "ESPN 3 Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "ESPN 3 Latin America Argentina",
@@ -2852,19 +2842,9 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "ESPN 5 Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "ESPN 5 Latin America (720p)",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn5-mux/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "ESPN 6 Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "ESPN 6 Latin America (720p)",
@@ -2884,11 +2864,6 @@
     {
       "name": "ESPN Extra Latin America (1080p)",
       "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd",
-      "reason": "URLError"
-    },
-    {
-      "name": "ESPN Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
       "reason": "URLError"
     },
     {
@@ -2970,11 +2945,6 @@
       "name": "WWE Network (1080p)",
       "url": "http://103.151.60.162:2122/play/a00p/index.m3u8?hls",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Sport",
-      "url": "https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "VTV6 (1080p)",
