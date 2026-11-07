@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 12:14 UTC",
-  "fingerprint": "250f0a571d1baa977366d1ad2cd13ca8",
+  "updated_at": "2026-11-07 12:57 UTC",
+  "fingerprint": "aa92253dd72f66c46052a0e8a3578ee7",
   "total": 2297,
-  "working": 1804,
-  "in_grace_period": 48,
-  "dead": 493,
-  "hd_channels": 777,
+  "working": 1805,
+  "in_grace_period": 59,
+  "dead": 492,
+  "hd_channels": 780,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 774,
       "working": 629,
-      "hd": 228
+      "hd": 229
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 35,
       "working": 21,
-      "hd": 10
+      "hd": 11
     },
     "Polish": {
       "total": 5,
@@ -234,8 +234,8 @@
     },
     "Tamil": {
       "total": 190,
-      "working": 150,
-      "hd": 73
+      "working": 151,
+      "hd": 74
     },
     "Telugu": {
       "total": 178,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 275,
-      "working": 208
+      "working": 209
     },
     "General": {
       "total": 186,
@@ -1099,7 +1099,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "HTTP 400"
+      "reason": "URLError"
     },
     {
       "name": "Makkal TV (576p)",
@@ -1315,11 +1315,6 @@
       "name": "Northeast Live (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NORTHEASTLIVE/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Oli TV (1080p)",
-      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Pasand TV (576p)",
@@ -2109,7 +2104,7 @@
     {
       "name": "FUTV (1080p)",
       "url": "http://45.228.234.9:8000/play/a06o/index.m3u8",
-      "reason": "ConnectionResetError"
+      "reason": "URLError"
     },
     {
       "name": "FUTV",
@@ -2414,7 +2409,7 @@
     {
       "name": "M-Net Sport",
       "url": "https://live.mnet.mk/hls/mnet-sport.m3u8",
-      "reason": "HTTP 500"
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "One Golf (720p)",
@@ -2674,12 +2669,12 @@
     {
       "name": "Sky Sports F1 (720p)",
       "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sky Sports NFL (720p)",
       "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "TNT Sports 1",
@@ -2704,7 +2699,7 @@
     {
       "name": "Sky Sports News (576p)",
       "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "ACC Network (720p)",
@@ -2784,7 +2779,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
