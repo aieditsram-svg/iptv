@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 04:21 UTC",
-  "fingerprint": "0263d8496f7e8311742bfbcbe82ae7bb",
+  "updated_at": "2026-11-07 05:11 UTC",
+  "fingerprint": "7eee4913ed39553be19056eb82e9aabe",
   "total": 2297,
-  "working": 1802,
-  "in_grace_period": 14,
-  "dead": 495,
-  "hd_channels": 788,
+  "working": 1806,
+  "in_grace_period": 22,
+  "dead": 491,
+  "hd_channels": 792,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 300,
       "working": 227,
-      "hd": 119
+      "hd": 121
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 626,
-      "hd": 230
+      "working": 630,
+      "hd": 231
     },
     "Hungarian": {
       "total": 11,
@@ -225,7 +225,7 @@
     "Spanish": {
       "total": 109,
       "working": 61,
-      "hd": 45
+      "hd": 46
     },
     "Swedish": {
       "total": 1,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 275,
-      "working": 207
+      "working": 208
     },
     "General": {
       "total": 186,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 156,
-      "working": 122
+      "working": 124
     },
     "Music": {
       "total": 138,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 694,
-      "working": 607
+      "working": 608
     },
     "Outdoor": {
       "total": 17,
@@ -540,11 +540,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -862,11 +857,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -882,14 +872,14 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -1385,11 +1375,6 @@
       "name": "Punjabi Beats HD (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1927,11 +1912,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
@@ -2139,7 +2119,7 @@
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 502"
     },
     {
       "name": "Alfa Sport (1080p) [Not 24/7]",
@@ -2324,7 +2304,7 @@
     {
       "name": "Claro Sports (1080p)",
       "url": "http://45.228.234.9:8000/play/a06i/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "ConnectionResetError"
     },
     {
       "name": "PX Sports (1080p)",
@@ -2334,7 +2314,7 @@
     {
       "name": "Sky Sports 1 (1080p)",
       "url": "http://45.228.234.9:8000/play/a06b/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "ConnectionResetError"
     },
     {
       "name": "TV Cuatro 4.3 (1080p)",
