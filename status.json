@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 20:30 UTC",
-  "fingerprint": "77218f5d649aa1122e87aea24252728c",
+  "updated_at": "2026-11-07 21:05 UTC",
+  "fingerprint": "7a19d8103d5c1d0a9a63fe8bcd555f56",
   "total": 2297,
-  "working": 1784,
-  "in_grace_period": 17,
-  "dead": 513,
-  "hd_channels": 790,
+  "working": 1780,
+  "in_grace_period": 24,
+  "dead": 517,
+  "hd_channels": 789,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -20,7 +20,7 @@
     "Assamese": {
       "total": 40,
       "working": 30,
-      "hd": 9
+      "hd": 10
     },
     "Belarusian": {
       "total": 2,
@@ -70,7 +70,7 @@
     "English": {
       "total": 300,
       "working": 224,
-      "hd": 120
+      "hd": 121
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 634,
+      "working": 633,
       "hd": 233
     },
     "Hungarian": {
@@ -154,8 +154,8 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 91,
-      "hd": 38
+      "working": 90,
+      "hd": 37
     },
     "Marathi": {
       "total": 55,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 35,
       "working": 21,
-      "hd": 9
+      "hd": 10
     },
     "Polish": {
       "total": 5,
@@ -199,8 +199,8 @@
     },
     "Russian": {
       "total": 51,
-      "working": 38,
-      "hd": 20
+      "working": 37,
+      "hd": 19
     },
     "Santali": {
       "total": 1,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 109,
-      "working": 61,
-      "hd": 46
+      "working": 60,
+      "hd": 44
     },
     "Swedish": {
       "total": 1,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 275,
-      "working": 203
+      "working": 202
     },
     "General": {
       "total": 186,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 694,
-      "working": 600
+      "working": 599
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 505,
-      "working": 321
+      "working": 319
     },
     "Travel": {
       "total": 7,
@@ -1107,6 +1107,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "KCL TV (720p)",
+      "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
@@ -1325,6 +1330,11 @@
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "News State MP & CHG (576p)",
@@ -2072,6 +2082,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Беларусь 5 Интернет (1080p) [Not 24/7]",
+      "url": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+      "reason": "RemoteDisconnected"
+    },
+    {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
       "reason": "not a valid HLS manifest"
@@ -2407,19 +2422,9 @@
       "reason": "URLError"
     },
     {
-      "name": "Claro Sports (1080p)",
-      "url": "http://45.228.234.9:8000/play/a06i/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "PX Sports (1080p)",
       "url": "http://38.252.238.18:8000/play/a02f/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sky Sports 1 (1080p)",
-      "url": "http://45.228.234.9:8000/play/a06b/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "TV Cuatro 4.3 (1080p)",
@@ -2837,6 +2842,16 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "ESPN 4 Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "ESPN 5 Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "ESPN 5 Latin America (720p)",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn5-mux/playlist.m3u8",
       "reason": "HTTP 403"
@@ -2845,6 +2860,11 @@
       "name": "ESPN 6 Latin America (720p)",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "ESPN 7 Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "ESPN Deportes HD (720p)",
@@ -2884,7 +2904,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
