@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 00:17 UTC",
-  "fingerprint": "deea7ea65e51485f3a6b4ede4dfccf5f",
+  "updated_at": "2026-11-07 01:16 UTC",
+  "fingerprint": "4599c524617f15f859fe30218f38d08d",
   "total": 2297,
   "working": 1793,
-  "in_grace_period": 12,
+  "in_grace_period": 18,
   "dead": 504,
-  "hd_channels": 780,
+  "hd_channels": 779,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 774,
       "working": 629,
-      "hd": 229
+      "hd": 228
     },
     "Hungarian": {
       "total": 11,
@@ -154,7 +154,7 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 95,
+      "working": 96,
       "hd": 37
     },
     "Marathi": {
@@ -174,7 +174,7 @@
     },
     "Other": {
       "total": 35,
-      "working": 21,
+      "working": 20,
       "hd": 10
     },
     "Polish": {
@@ -339,7 +339,7 @@
     },
     "Music": {
       "total": 138,
-      "working": 112
+      "working": 113
     },
     "News": {
       "total": 694,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 505,
-      "working": 312
+      "working": 311
     },
     "Travel": {
       "total": 7,
@@ -549,7 +549,7 @@
     {
       "name": "Bharat AtoZ (720p)",
       "url": "https://live.ekamraott.com/4tv/bharata2z/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Bharat Samachar (576p)",
@@ -1040,11 +1040,6 @@
       "name": "Kairali We (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Kalika TV (576p)",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Kalinga TV (576p)",
@@ -2357,6 +2352,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "MRTV Sports [Not 24/7]",
+      "url": "https://mrtvott.com/cache/MRTV-SPORT/master.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "ESPN (360p)",
       "url": "https://lb.iptvnetwork.net/ls28/10041/playlist.m3u8",
       "reason": "URLError"
@@ -2829,7 +2829,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
