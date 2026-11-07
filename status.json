@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 18:49 UTC",
-  "fingerprint": "671fbb53bdbfb566ae67a2055400bdc9",
+  "updated_at": "2026-11-07 19:28 UTC",
+  "fingerprint": "ca26fedc297fffee5dd90c777e0a214a",
   "total": 2297,
-  "working": 1770,
-  "in_grace_period": 17,
-  "dead": 527,
-  "hd_channels": 782,
+  "working": 1773,
+  "in_grace_period": 12,
+  "dead": 524,
+  "hd_channels": 787,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 132,
-      "working": 92,
+      "working": 93,
       "hd": 42
     },
     "Bhojpuri": {
@@ -70,7 +70,7 @@
     "English": {
       "total": 300,
       "working": 224,
-      "hd": 119
+      "hd": 120
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 631,
-      "hd": 233
+      "working": 630,
+      "hd": 232
     },
     "Hungarian": {
       "total": 11,
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 51,
-      "working": 37,
+      "working": 38,
       "hd": 20
     },
     "Santali": {
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 109,
-      "working": 56,
-      "hd": 40
+      "working": 59,
+      "hd": 45
     },
     "Swedish": {
       "total": 1,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 178,
-      "working": 130,
+      "working": 129,
       "hd": 57
     },
     "Thai": {
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 275,
-      "working": 201
+      "working": 200
     },
     "General": {
       "total": 186,
@@ -339,11 +339,11 @@
     },
     "Music": {
       "total": 138,
-      "working": 111
+      "working": 112
     },
     "News": {
       "total": 694,
-      "working": 600
+      "working": 599
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 505,
-      "working": 315
+      "working": 319
     },
     "Travel": {
       "total": 7,
@@ -519,6 +519,11 @@
     {
       "name": "Asom Live 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Awaaz India TV (720p) [Not 24/7]",
+      "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -855,6 +860,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -1572,11 +1582,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Sangeet Bhojpuri (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8",
       "reason": "HTTP 403"
@@ -2112,11 +2117,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Беларусь 5 Интернет (1080p) [Not 24/7]",
-      "url": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
-      "reason": "RemoteDisconnected"
-    },
-    {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
       "reason": "not a valid HLS manifest"
@@ -2254,7 +2254,7 @@
     {
       "name": "FUTV (1080p)",
       "url": "http://45.228.234.9:8000/play/a06o/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "FUTV",
@@ -2459,7 +2459,7 @@
     {
       "name": "Claro Sports (1080p)",
       "url": "http://45.228.234.9:8000/play/a06i/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "PX Sports (1080p)",
@@ -2469,7 +2469,7 @@
     {
       "name": "Sky Sports 1 (1080p)",
       "url": "http://45.228.234.9:8000/play/a06b/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "TV Cuatro 4.3 (1080p)",
@@ -2887,19 +2887,9 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "ESPN 3 Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "ESPN 3 Latin America Argentina",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "ESPN 5 Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "ESPN 5 Latin America (720p)",
@@ -2914,16 +2904,6 @@
     {
       "name": "ESPN Deportes HD (720p)",
       "url": "http://168.228.44.241:9998/play/a0dz/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "ESPN Extra Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd",
-      "reason": "URLError"
-    },
-    {
-      "name": "ESPN Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
       "reason": "URLError"
     },
     {
@@ -2947,6 +2927,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Golf Channel Latin America (1080p)",
+      "url": "http://72.1.184.5:8089/play/a0cw/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Golf Channel Latin America (720p)",
       "url": "http://143.14.178.35/TCM-HD/index.m3u8",
       "reason": "HTTP 404"
@@ -2954,7 +2939,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
