@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 05:11 UTC",
-  "fingerprint": "7eee4913ed39553be19056eb82e9aabe",
+  "updated_at": "2026-11-07 05:52 UTC",
+  "fingerprint": "d9b6db9d696f413f14d240190805545f",
   "total": 2297,
-  "working": 1806,
-  "in_grace_period": 22,
-  "dead": 491,
-  "hd_channels": 792,
+  "working": 1809,
+  "in_grace_period": 24,
+  "dead": 488,
+  "hd_channels": 794,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,8 +29,8 @@
     },
     "Bengali": {
       "total": 132,
-      "working": 95,
-      "hd": 43
+      "working": 97,
+      "hd": 45
     },
     "Bhojpuri": {
       "total": 33,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 630,
-      "hd": 231
+      "working": 633,
+      "hd": 233
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 35,
       "working": 21,
-      "hd": 11
+      "hd": 10
     },
     "Polish": {
       "total": 5,
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 129,
+      "working": 128,
       "hd": 52
     },
     "Romanian": {
@@ -225,7 +225,7 @@
     "Spanish": {
       "total": 109,
       "working": 61,
-      "hd": 46
+      "hd": 45
     },
     "Swedish": {
       "total": 1,
@@ -264,7 +264,7 @@
     },
     "Vietnamese": {
       "total": 7,
-      "working": 6,
+      "working": 5,
       "hd": 4
     }
   },
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 275,
-      "working": 208
+      "working": 211
     },
     "General": {
       "total": 186,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 694,
-      "working": 608
+      "working": 609
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 505,
-      "working": 322
+      "working": 321
     },
     "Travel": {
       "total": 7,
@@ -434,11 +434,16 @@
     {
       "name": "Akhon Kolkata (478p)",
       "url": "https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Amrit Gurbani (720p)",
+      "url": "https://samitaorigin.tangotv.in/AMRITGURBANI/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -852,11 +857,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Friends TV (1080p)",
-      "url": "https://server.playontv.in/friendstv/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -1167,11 +1167,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Nation News (720p)",
-      "url": "https://server.playontv.in/nationnews/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Naxatra News (576p)",
       "url": "https://fta.ektv.in/live/668/master.m3u8",
       "reason": "HTTP 404"
@@ -1190,6 +1185,11 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1382,11 +1382,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Raatdin Bangla (720p)",
-      "url": "https://server.playontv.in/raatdinbangla/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Raj Musix Kannada (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8",
       "reason": "HTTP 403"
@@ -1500,16 +1495,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVSHEMAROOTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://streams.tangotv.in/SHEMAROOTV/ORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1695,11 +1680,6 @@
       "name": "Swadesh News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSWADESHNEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Swastik TV (720p)",
-      "url": "https://server.playontv.in/swastiktv/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "T News (576p)",
@@ -2119,7 +2099,7 @@
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8",
-      "reason": "HTTP 502"
+      "reason": "HTTP 404"
     },
     {
       "name": "Alfa Sport (1080p) [Not 24/7]",
@@ -2229,12 +2209,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2244,7 +2224,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2304,7 +2284,7 @@
     {
       "name": "Claro Sports (1080p)",
       "url": "http://45.228.234.9:8000/play/a06i/index.m3u8",
-      "reason": "ConnectionResetError"
+      "reason": "HTTP 404"
     },
     {
       "name": "PX Sports (1080p)",
@@ -2314,7 +2294,7 @@
     {
       "name": "Sky Sports 1 (1080p)",
       "url": "http://45.228.234.9:8000/play/a06b/index.m3u8",
-      "reason": "ConnectionResetError"
+      "reason": "HTTP 404"
     },
     {
       "name": "TV Cuatro 4.3 (1080p)",
@@ -2774,7 +2754,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
@@ -2820,6 +2800,11 @@
       "name": "WWE Network (1080p)",
       "url": "http://103.151.60.162:2122/play/a00p/index.m3u8?hls",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "HTV Sports (1080i)",
+      "url": "https://vmttv.dpdns.org/tv360?id=htv-the-thao",
+      "reason": "HTTP 404"
     },
     {
       "name": "VTV6 (1080p)",
