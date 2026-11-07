@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-07 09:51 UTC",
-  "fingerprint": "04f21b861eaa46de23e6a4d4521875c1",
+  "updated_at": "2026-11-07 10:26 UTC",
+  "fingerprint": "9c2532c4b46eb9c104b230376ca4fffe",
   "total": 2297,
-  "working": 1814,
-  "in_grace_period": 10,
-  "dead": 483,
+  "working": 1813,
+  "in_grace_period": 12,
+  "dead": 484,
   "hd_channels": 795,
   "languages": {
     "Albanian": {
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 774,
       "working": 637,
-      "hd": 234
+      "hd": 233
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 35,
       "working": 21,
-      "hd": 10
+      "hd": 11
     },
     "Polish": {
       "total": 5,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 178,
-      "working": 140,
+      "working": 139,
       "hd": 57
     },
     "Thai": {
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 275,
-      "working": 211
+      "working": 210
     },
     "General": {
       "total": 186,
@@ -795,6 +795,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -2189,12 +2194,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2204,7 +2209,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
