@@ -1,5 +1,5 @@
 #EXTM3U
-# Devotional channels, one link per channel, all languages, updated 2026-11-07 12:57 UTC
+# Devotional channels, one link per channel, all languages, updated 2026-11-07 13:41 UTC
 #EXTINF:-1 tvg-id="JTBSClassic.in@Main" x-categories="Devotional;Culture" tvg-logo="https://jtbsclassic.dpdns.org/logo.png" x-category="Devotional" tvg-language="Bengali" group-title="Bengali" height="720",JTBS Classic
 https://jtbsclassic.dpdns.org/live.m3u8
 #EXTINF:-1 tvg-id="ZBBhakti.in@HD" x-categories="Devotional" tvg-logo="https://i.imgur.com/MBaKNPC.jpeg" x-category="Devotional" tvg-language="Bengali" group-title="Bengali" height="1080",ZB Bhakti
@@ -72,7 +72,7 @@ https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8
 https://yuppnimrestreammum.akamaized.net/181224/smil:aradanatv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="AwakeningTV.in@SD" x-categories="Devotional" tvg-logo="https://i.imgur.com/p26iWOi.png" x-category="Devotional" tvg-language="Hindi" group-title="Hindi" height="396",Awakening TV
 https://d2gvyg6lvauoko.cloudfront.net/230226/awakeningtv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="BhaktiDhara.in@SD" x-categories="Devotional" tvg-logo="https://papaji.freetvindia.com/media/channels/Bhakti_dhara1.png" x-category="Devotional" tvg-language="Hindi" group-title="Hindi",Bhakti Dhara
+#EXTINF:-1 tvg-id="BhaktiDhara.in@SD" x-categories="Devotional" tvg-logo="https://papaji.freetvindia.com/media/channels/Bhakti_dhara1.png" x-category="Devotional" tvg-language="Hindi" group-title="Hindi" height="1080",Bhakti Dhara
 https://newsliveindia.com:4433/bhaktidhara/index.m3u8
 #EXTINF:-1 tvg-id="BhaktiSagar.in@SD" x-categories="Devotional" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhaktisagar.png" x-category="Devotional" tvg-language="Hindi" group-title="Hindi" height="720",Bhakti Sagar
 https://mumt05.tangotv.in/87NeALx2BHAKTISAGAR/index.m3u8
@@ -93,7 +93,7 @@ https://samitaorigin.tangotv.in/FGNCHANNEL/SAMITAORIGIN/index.m3u8
 https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
 #EXTINF:-1 tvg-id="HosannaTV.in@Hindi" x-categories="Devotional" tvg-logo="https://i.imgur.com/VYorU1L.png" x-category="Devotional" tvg-language="Hindi" group-title="Hindi",Hosanna TV Hindi
 https://ktismaservers.in:3466/live/hosannattvhindhilive.m3u8
-#EXTINF:-1 tvg-id="IshwarBhaktiTV.in@SD" x-categories="Devotional" tvg-logo="https://dtil.tmsimg.com/assets/s143213_ld_h9_aa.png?lock=720x540" x-category="Devotional" tvg-language="Hindi" group-title="Hindi" height="360",Ishwar Bhakti TV
+#EXTINF:-1 tvg-id="IshwarBhaktiTV.in@SD" x-categories="Devotional" tvg-logo="https://dtil.tmsimg.com/assets/s143213_ld_h9_aa.png?lock=720x540" x-category="Devotional" tvg-language="Hindi" group-title="Hindi" height="576",Ishwar Bhakti TV
 https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="JinvaniChannel.in@SD" x-categories="Devotional" tvg-logo="https://dtil.tmsimg.com/assets/s143230_ld_h15_aa.png?lock=720x540" x-category="Devotional" tvg-language="Hindi" group-title="Hindi" height="576",Jinvani Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -111,8 +111,9 @@ https://fta.ektv.in/live/344/master.m3u8
 https://samitaorigin.tangotv.in/PADHAROSA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ParasGold.in@SD" x-categories="Devotional" tvg-logo="https://dtil.tmsimg.com/assets/s143642_ld_h15_aa.png?lock=720x540" x-category="Devotional" tvg-language="Hindi" group-title="Hindi" height="720",Paras Gold
 https://mumt04.tangotv.in/m18aqlK4PARASGOLD/index.m3u8
-#EXTINF:-1 tvg-id="PeaceofMindTV.in@SD" x-categories="Devotional" tvg-logo="https://dtil.tmsimg.com/assets/s143646_ld_h15_aa.png?lock=720x540" x-category="Devotional" tvg-language="Hindi" group-title="Hindi" height="1080",Peace of Mind TV
-https://mumbai-edge.smartplaytv.in/PeaceOfMind/index.m3u8
+#EXTINF:-1 tvg-id="PeaceofMindTV.in@SD" x-categories="Devotional" tvg-logo="https://dtil.tmsimg.com/assets/s143646_ld_h15_aa.png?lock=720x540" x-category="Devotional" tvg-language="Hindi" group-title="Hindi" height="576",Peace of Mind TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/170/master.m3u8
 #EXTINF:-1 tvg-id="Sadhna.in@SD" x-categories="Devotional" tvg-logo="https://i.imgur.com/x13iiuI.png" x-category="Devotional" tvg-language="Hindi" group-title="Hindi" height="360",Sadhna
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SadhnaTV.in@SD" x-categories="Devotional" tvg-logo="https://dtil.tmsimg.com/assets/s143736_ld_h15_aa.png?lock=720x540" x-category="Devotional" tvg-language="Hindi" group-title="Hindi" height="720",Sadhna TV
@@ -169,8 +170,8 @@ https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
 https://janya-digimix.akamaized.net/vglive-sk-109639/nepali/ngrp:angelnepali_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in@Portuguese" x-categories="Devotional" tvg-logo="https://i.imgur.com/qKLEGU7.png" x-category="Devotional" tvg-language="Portuguese" group-title="Portuguese" height="720",Angel TV Portuguese
 https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AmritGurbani.in@SD" x-categories="Devotional" tvg-logo="https://papaji.freetvindia.com/media/Amritgurbani.png" x-category="Devotional" tvg-language="Punjabi" group-title="Punjabi",Amrit Gurbani
-https://samitaorigin.tangotv.in/AMRITGURBANI/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="AmritGurbani.in@SD" x-categories="Devotional" tvg-logo="https://papaji.freetvindia.com/media/Amritgurbani.png" x-category="Devotional" tvg-language="Punjabi" group-title="Punjabi" height="720",Amrit Gurbani
+https://mumt04.tangotv.in/m18aqlK4AMRITGURBANI/index.m3u8
 #EXTINF:-1 tvg-id="AnandpurLive.in@HD" x-categories="Devotional" tvg-logo="https://papaji.freetvindia.com/media/Anandpur_Live.png" x-category="Devotional" tvg-language="Punjabi" group-title="Punjabi" height="720",Anandpur Live
 https://mumt05.tangotv.in/87NeALx2ANANDPURLIVE/index.m3u8
 #EXTINF:-1 tvg-id="ChintpurniLive.in@SD" x-categories="Devotional" tvg-logo="https://papaji.freetvindia.com/media/Chintpurni_Live.png" x-category="Devotional" tvg-language="Punjabi" group-title="Punjabi",Chintpurni Live
@@ -186,7 +187,7 @@ https://knocktv2.wiseplayout.com/Knock_Bhakti_EST/master.m3u8
 #EXTINF:-1 tvg-id="NamdhariTV.in@SD" x-categories="Devotional" tvg-logo="https://i.imgur.com/NalsXTo.png" x-category="Devotional" tvg-language="Punjabi" group-title="Punjabi",Namdhari
 https://namdhari.tv/live/sbs1.m3u8
 #EXTINF:-1 tvg-id="NanaksarLive.in@SD" x-categories="Devotional" tvg-logo="https://papaji.freetvindia.com/media/Nanasar_live.png" x-category="Devotional" tvg-language="Punjabi" group-title="Punjabi",Nanaksar Live
-https://samitaorigin.tangotv.in/NANAKSARLIVE/SAMITAORIGIN/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3NANAKSARLIVE/index.m3u8
 #EXTINF:-1 tvg-id="PTCSimran.in@SD" x-categories="Devotional" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NG05K.png?lock=720x540" x-category="Devotional" tvg-language="Punjabi" group-title="Punjabi" height="720",PTC Simran
 https://mumt05.tangotv.in/87NeALx2PTCSIMRAN/index.m3u8
 #EXTINF:-1 tvg-id="Ragni.in@SD" x-categories="Devotional" tvg-logo="https://papaji.freetvindia.com/media/Ragni.png" x-category="Devotional" tvg-language="Punjabi" group-title="Punjabi",Ragni
