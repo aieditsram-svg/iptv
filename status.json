@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 20:01 UTC",
-  "fingerprint": "728b09db65ea9af73ddbf9f1f512c9cc",
+  "updated_at": "2026-11-07 20:30 UTC",
+  "fingerprint": "77218f5d649aa1122e87aea24252728c",
   "total": 2297,
-  "working": 1782,
-  "in_grace_period": 13,
-  "dead": 515,
-  "hd_channels": 794,
+  "working": 1784,
+  "in_grace_period": 17,
+  "dead": 513,
+  "hd_channels": 790,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -20,7 +20,7 @@
     "Assamese": {
       "total": 40,
       "working": 30,
-      "hd": 10
+      "hd": 9
     },
     "Belarusian": {
       "total": 2,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 132,
-      "working": 96,
+      "working": 97,
       "hd": 45
     },
     "Bhojpuri": {
@@ -70,7 +70,7 @@
     "English": {
       "total": 300,
       "working": 224,
-      "hd": 121
+      "hd": 120
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 633,
+      "working": 634,
       "hd": 233
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 35,
       "working": 21,
-      "hd": 11
+      "hd": 9
     },
     "Polish": {
       "total": 5,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 275,
-      "working": 202
+      "working": 203
     },
     "General": {
       "total": 186,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 156,
-      "working": 122
+      "working": 123
     },
     "Music": {
       "total": 138,
@@ -520,11 +520,6 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -1379,7 +1374,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 403"
+      "reason": "HTTP 456"
     },
     {
       "name": "Nireekshana TV (576p)",
@@ -1724,11 +1719,6 @@
     {
       "name": "Star Jalsha (576p)",
       "url": "http://103.151.60.162:2122/play/a00w/index.m3u8?hls",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
       "reason": "HTTP 403"
     },
     {
@@ -2419,7 +2409,7 @@
     {
       "name": "Claro Sports (1080p)",
       "url": "http://45.228.234.9:8000/play/a06i/index.m3u8",
-      "reason": "ConnectionResetError"
+      "reason": "HTTP 404"
     },
     {
       "name": "PX Sports (1080p)",
@@ -2429,7 +2419,7 @@
     {
       "name": "Sky Sports 1 (1080p)",
       "url": "http://45.228.234.9:8000/play/a06b/index.m3u8",
-      "reason": "ConnectionResetError"
+      "reason": "HTTP 404"
     },
     {
       "name": "TV Cuatro 4.3 (1080p)",
@@ -2894,7 +2884,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
