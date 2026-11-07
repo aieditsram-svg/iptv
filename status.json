@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 17:09 UTC",
-  "fingerprint": "2f7a6bd5572ad49a56b316f410078652",
+  "updated_at": "2026-11-07 17:39 UTC",
+  "fingerprint": "1aeaa2ead4871efd4b4ee3f2f5ecf2b5",
   "total": 2297,
-  "working": 1779,
-  "in_grace_period": 21,
-  "dead": 518,
-  "hd_channels": 792,
+  "working": 1774,
+  "in_grace_period": 24,
+  "dead": 523,
+  "hd_channels": 790,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,8 +29,8 @@
     },
     "Bengali": {
       "total": 132,
-      "working": 96,
-      "hd": 45
+      "working": 93,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -174,8 +174,8 @@
     },
     "Other": {
       "total": 35,
-      "working": 21,
-      "hd": 9
+      "working": 20,
+      "hd": 10
     },
     "Polish": {
       "total": 5,
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 51,
-      "working": 38,
+      "working": 37,
       "hd": 20
     },
     "Santali": {
@@ -283,7 +283,7 @@
     },
     "Classic": {
       "total": 3,
-      "working": 2
+      "working": 1
     },
     "Comedy": {
       "total": 9,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 275,
-      "working": 200
+      "working": 199
     },
     "General": {
       "total": 186,
@@ -323,7 +323,7 @@
     },
     "Kids": {
       "total": 32,
-      "working": 18
+      "working": 17
     },
     "Legislative": {
       "total": 8,
@@ -339,7 +339,7 @@
     },
     "Music": {
       "total": 138,
-      "working": 113
+      "working": 112
     },
     "News": {
       "total": 694,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 505,
-      "working": 322
+      "working": 320
     },
     "Travel": {
       "total": 7,
@@ -927,11 +927,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -1487,6 +1482,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1942,6 +1942,21 @@
       "reason": "URLError"
     },
     {
+      "name": "ZB Cartoon (1080p)",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "ZB Cinema (1080p)",
+      "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "ZB Music (720p)",
+      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Zee 24 Ghanta (576p)",
       "url": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8",
       "reason": "TimeoutError"
@@ -2102,6 +2117,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Беларусь 5 Интернет (1080p) [Not 24/7]",
+      "url": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+      "reason": "RemoteDisconnected"
+    },
+    {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
       "reason": "not a valid HLS manifest"
@@ -2234,7 +2254,7 @@
     {
       "name": "FUTV (1080p)",
       "url": "http://45.228.234.9:8000/play/a06o/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "FUTV",
@@ -2364,12 +2384,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2379,7 +2399,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2439,7 +2459,7 @@
     {
       "name": "Claro Sports (1080p)",
       "url": "http://45.228.234.9:8000/play/a06i/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "PX Sports (1080p)",
@@ -2449,12 +2469,17 @@
     {
       "name": "Sky Sports 1 (1080p)",
       "url": "http://45.228.234.9:8000/play/a06b/index.m3u8",
-      "reason": "ConnectionResetError"
+      "reason": "URLError"
     },
     {
       "name": "TV Cuatro 4.3 (1080p)",
       "url": "https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "MRTV Sports [Not 24/7]",
+      "url": "https://mrtvott.com/cache/MRTV-SPORT/master.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "ESPN (360p)",
@@ -2909,7 +2934,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
