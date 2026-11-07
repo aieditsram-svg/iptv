@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 21:05 UTC",
-  "fingerprint": "7a19d8103d5c1d0a9a63fe8bcd555f56",
+  "updated_at": "2026-11-07 21:37 UTC",
+  "fingerprint": "67c3e3b04c4393047048db333c60edcf",
   "total": 2297,
-  "working": 1780,
-  "in_grace_period": 24,
-  "dead": 517,
-  "hd_channels": 789,
+  "working": 1778,
+  "in_grace_period": 17,
+  "dead": 519,
+  "hd_channels": 790,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -174,7 +174,7 @@
     },
     "Other": {
       "total": 35,
-      "working": 21,
+      "working": 19,
       "hd": 10
     },
     "Polish": {
@@ -189,8 +189,8 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 126,
-      "hd": 51
+      "working": 127,
+      "hd": 52
     },
     "Romanian": {
       "total": 10,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 51,
       "working": 37,
-      "hd": 19
+      "hd": 20
     },
     "Santali": {
       "total": 1,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 109,
-      "working": 60,
-      "hd": 44
+      "working": 59,
+      "hd": 43
     },
     "Swedish": {
       "total": 1,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 233,
-      "working": 193
+      "working": 194
     },
     "Documentary": {
       "total": 13,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 505,
-      "working": 319
+      "working": 316
     },
     "Travel": {
       "total": 7,
@@ -710,11 +710,6 @@
       "name": "Disney Junior (576p)",
       "url": "http://103.151.60.162:2122/play/a016/index.m3u8?hls",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dukhnivaran Patiala Live (720p)",
-      "url": "https://samitaorigin.tangotv.in/DUKHNIWARAN/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Dukhniwaran (576p)",
@@ -2377,6 +2372,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "QazSport (480p) [Geo-blocked]",
+      "url": "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Sport+ Qazaqstan (1080p)",
       "url": "https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv",
       "reason": "HTTP 403"
@@ -2837,14 +2837,14 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "ESPN 3 Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "ESPN 3 Latin America Argentina",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "ESPN 4 Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "ESPN 5 Latin America (1080p)",
@@ -2869,6 +2869,11 @@
     {
       "name": "ESPN Deportes HD (720p)",
       "url": "http://168.228.44.241:9998/play/a0dz/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "ESPN Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
       "reason": "URLError"
     },
     {
@@ -2950,6 +2955,11 @@
       "name": "WWE Network (1080p)",
       "url": "http://103.151.60.162:2122/play/a00p/index.m3u8?hls",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Sport",
+      "url": "https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "VTV6 (1080p)",
