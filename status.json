@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 15:28 UTC",
-  "fingerprint": "39981c0f67f67f193f073ba56b7002cb",
+  "updated_at": "2026-11-07 16:01 UTC",
+  "fingerprint": "c73ff4b1b90816372811c9d3e94c0c3c",
   "total": 2297,
-  "working": 1806,
-  "in_grace_period": 52,
-  "dead": 491,
-  "hd_channels": 788,
+  "working": 1808,
+  "in_grace_period": 47,
+  "dead": 489,
+  "hd_channels": 791,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -19,7 +19,7 @@
     },
     "Assamese": {
       "total": 40,
-      "working": 31,
+      "working": 30,
       "hd": 10
     },
     "Belarusian": {
@@ -30,7 +30,7 @@
     "Bengali": {
       "total": 132,
       "working": 97,
-      "hd": 46
+      "hd": 45
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,8 +39,8 @@
     },
     "Bulgarian": {
       "total": 4,
-      "working": 0,
-      "hd": 0
+      "working": 4,
+      "hd": 3
     },
     "Catalan": {
       "total": 4,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 634,
+      "working": 635,
       "hd": 233
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 35,
       "working": 21,
-      "hd": 10
+      "hd": 11
     },
     "Polish": {
       "total": 5,
@@ -189,8 +189,8 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 129,
-      "hd": 52
+      "working": 127,
+      "hd": 51
     },
     "Romanian": {
       "total": 10,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 109,
-      "working": 61,
-      "hd": 45
+      "working": 60,
+      "hd": 44
     },
     "Swedish": {
       "total": 1,
@@ -234,13 +234,13 @@
     },
     "Tamil": {
       "total": 190,
-      "working": 151,
+      "working": 150,
       "hd": 75
     },
     "Telugu": {
       "total": 178,
-      "working": 139,
-      "hd": 56
+      "working": 140,
+      "hd": 57
     },
     "Thai": {
       "total": 1,
@@ -254,8 +254,8 @@
     },
     "Ukrainian": {
       "total": 15,
-      "working": 10,
-      "hd": 8
+      "working": 11,
+      "hd": 9
     },
     "Urdu": {
       "total": 24,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 233,
-      "working": 200
+      "working": 199
     },
     "Documentary": {
       "total": 13,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 186,
-      "working": 156
+      "working": 155
     },
     "Kids": {
       "total": 32,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 156,
-      "working": 122
+      "working": 121
     },
     "Music": {
       "total": 138,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 694,
-      "working": 610
+      "working": 611
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 505,
-      "working": 317
+      "working": 321
     },
     "Travel": {
       "total": 7,
@@ -437,6 +437,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "AMN TV (576p)",
+      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "Anand Wari TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
       "reason": "HTTP 403"
@@ -479,6 +484,11 @@
     {
       "name": "Asom Live 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Assam Talks (576p)",
+      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -530,11 +540,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "BRK News (720p)",
-      "url": "https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "BRK News (576p)",
@@ -670,6 +675,11 @@
       "name": "Disney Junior (576p)",
       "url": "http://103.151.60.162:2122/play/a016/index.m3u8?hls",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dukhnivaran Patiala Live (720p)",
+      "url": "https://samitaorigin.tangotv.in/DUKHNIWARAN/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Dukhniwaran (576p)",
@@ -1227,11 +1237,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News Nation 81 (1080p)",
-      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "News State MP & CHG (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWSSTATEMPCG/index.m3u8",
       "reason": "HTTP 403"
@@ -1279,7 +1284,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1310,6 +1315,11 @@
       "name": "Pear TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Pitaara (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Pogo (576p)",
@@ -1997,26 +2007,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Max Sport 1 (720p)",
-      "url": "http://213.91.179.28:8000/play/a0as",
-      "reason": "URLError"
-    },
-    {
-      "name": "Max Sport 2 (720p)",
-      "url": "http://213.91.179.28:8000/play/a0at",
-      "reason": "URLError"
-    },
-    {
-      "name": "Max Sport 3 (720p)",
-      "url": "http://213.91.179.28:8000/play/a0ar",
-      "reason": "URLError"
-    },
-    {
-      "name": "Max Sport 4",
-      "url": "http://213.91.179.28:8000/play/a05n",
-      "reason": "URLError"
-    },
-    {
       "name": "Fight Network (1080p)",
       "url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8",
       "reason": "TimeoutError"
@@ -2094,7 +2084,7 @@
     {
       "name": "FUTV (1080p)",
       "url": "http://45.228.234.9:8000/play/a06o/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "FUTV",
@@ -2114,7 +2104,7 @@
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8",
-      "reason": "HTTP 502"
+      "reason": "HTTP 404"
     },
     {
       "name": "Alfa Sport (1080p) [Not 24/7]",
@@ -2299,7 +2289,7 @@
     {
       "name": "Claro Sports (1080p)",
       "url": "http://45.228.234.9:8000/play/a06i/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "PX Sports (1080p)",
@@ -2309,7 +2299,7 @@
     {
       "name": "Sky Sports 1 (1080p)",
       "url": "http://45.228.234.9:8000/play/a06b/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "TV Cuatro 4.3 (1080p)",
@@ -2617,11 +2607,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Dynamo Kyiv TV (1080p)",
-      "url": "http://stream.mcquack.net/396/index.m3u8",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "MEGOGO Sport (1080p)",
       "url": "http://5.188.159.128:8070/megogo_sport/index.m3u8",
       "reason": "HTTP 404"
@@ -2744,6 +2729,11 @@
     {
       "name": "ESPN Deportes HD (720p)",
       "url": "http://168.228.44.241:9998/play/a0dz/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "ESPN Extra Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd",
       "reason": "URLError"
     },
     {
