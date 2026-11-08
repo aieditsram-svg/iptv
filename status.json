@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 18:21 UTC",
-  "fingerprint": "db71b5d20efdafbe5e1d12baa10d61dc",
+  "updated_at": "2026-11-08 19:07 UTC",
+  "fingerprint": "612013e570da06f8e4cdaee3c5c61858",
   "total": 2296,
-  "working": 1765,
-  "in_grace_period": 33,
-  "dead": 531,
-  "hd_channels": 776,
+  "working": 1772,
+  "in_grace_period": 43,
+  "dead": 524,
+  "hd_channels": 784,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 85,
+      "working": 86,
       "hd": 43
     },
     "Bhojpuri": {
@@ -79,8 +79,8 @@
     },
     "French": {
       "total": 12,
-      "working": 8,
-      "hd": 6
+      "working": 10,
+      "hd": 8
     },
     "German": {
       "total": 17,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 612,
-      "hd": 226
+      "working": 611,
+      "hd": 227
     },
     "Hungarian": {
       "total": 11,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 113,
-      "working": 60,
-      "hd": 42
+      "working": 65,
+      "hd": 47
     },
     "Swedish": {
       "total": 1,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 233,
-      "working": 193
+      "working": 192
     },
     "Documentary": {
       "total": 13,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 262,
-      "working": 193
+      "working": 194
     },
     "General": {
       "total": 186,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 531,
-      "working": 337
+      "working": 344
     },
     "Travel": {
       "total": 6,
@@ -1102,11 +1102,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -1160,6 +1155,11 @@
       "name": "Makkal TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -2292,11 +2292,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Canal+ Sport (1080p) [Geo-blocked]",
-      "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Eurosport 1 Turkiye",
       "url": "https://andro.mangeinde4.lat/checklist/androstreamlivees1.m3u8",
       "reason": "URLError"
@@ -2304,11 +2299,6 @@
     {
       "name": "Eurosport 2 Turkiye",
       "url": "https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Golf + (1080p) [Geo-blocked]",
-      "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8",
       "reason": "URLError"
     },
     {
@@ -2379,12 +2369,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2394,7 +2384,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2595,11 +2585,6 @@
       "name": "Movistar Deportes (1080p)",
       "url": "http://195.178.110.110/movistar/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Sqala TV (720p)",
-      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Eurosport 1 Polska (1080p)",
@@ -2882,29 +2867,14 @@
       "reason": "URLError"
     },
     {
-      "name": "ESPN 2 Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "ESPN 2 Latin America Argentina",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8",
       "reason": "HTTP 403"
     },
     {
-      "name": "ESPN 3 Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "ESPN 3 Latin America Argentina",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "ESPN 4 Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "ESPN 5 Latin America (720p)",
@@ -2915,11 +2885,6 @@
       "name": "ESPN 6 Latin America (720p)",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "ESPN 7 Latin America (1080p)",
-      "url": "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "ESPN Deportes HD (720p)",
@@ -2969,7 +2934,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
