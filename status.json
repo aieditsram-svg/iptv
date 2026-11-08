@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-08 07:00 UTC",
-  "fingerprint": "90b4dfc54badc300f3eb9b23e68324de",
+  "updated_at": "2026-11-08 07:52 UTC",
+  "fingerprint": "3be74d11ea4a84c37a56a4c1ddbaedf9",
   "total": 2296,
-  "working": 1803,
-  "in_grace_period": 20,
-  "dead": 493,
+  "working": 1809,
+  "in_grace_period": 25,
+  "dead": 487,
   "hd_channels": 791,
   "languages": {
     "Albanian": {
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 631,
+      "working": 633,
       "hd": 233
     },
     "Hungarian": {
@@ -169,7 +169,7 @@
     },
     "Odia": {
       "total": 34,
-      "working": 23,
+      "working": 25,
       "hd": 11
     },
     "Other": {
@@ -194,7 +194,7 @@
     },
     "Romanian": {
       "total": 12,
-      "working": 11,
+      "working": 12,
       "hd": 5
     },
     "Russian": {
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 174,
-      "working": 132,
+      "working": 133,
       "hd": 59
     },
     "Thai": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 233,
-      "working": 194
+      "working": 195
     },
     "Documentary": {
       "total": 13,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 262,
-      "working": 202
+      "working": 203
     },
     "General": {
       "total": 186,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 147,
-      "working": 122
+      "working": 125
     },
     "Music": {
       "total": 138,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 531,
-      "working": 345
+      "working": 346
     },
     "Travel": {
       "total": 6,
@@ -747,11 +747,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Ekamra Bharat Odia (400p)",
-      "url": "https://live.ekamraott.com/bharat/bharat/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Enterr 10 Bangla (576p)",
       "url": "http://103.165.93.31:8095/enter10Bangla/index.m3u8",
       "reason": "URLError"
@@ -795,11 +790,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -875,11 +865,6 @@
       "name": "Food Food (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines 2 (576p)",
@@ -1152,11 +1137,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -1372,11 +1352,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "One Paschima (400p)",
-      "url": "https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Pasand TV (576p)",
       "url": "https://fta.ektv.in/live/708/master.m3u8",
       "reason": "HTTP 404"
@@ -1429,6 +1404,11 @@
     {
       "name": "Public First (576p)",
       "url": "https://fta.ektv.in/live/237/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Public First (576p)",
+      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1892,11 +1872,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
@@ -2214,12 +2189,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2229,7 +2204,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2480,11 +2455,6 @@
       "name": "Sport TV+",
       "url": "http://znty.dyndns.org:5010/hls/sportv+.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "AntenaSport",
-      "url": "https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Extreme Sports Channel (576p)",
@@ -2779,7 +2749,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
