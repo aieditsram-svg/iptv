@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 03:44 UTC",
-  "fingerprint": "4214a4cccb9f1816033a3d8239460a57",
+  "updated_at": "2026-11-08 04:35 UTC",
+  "fingerprint": "9194d2240b4ddcccb3ce56322faf7e04",
   "total": 2296,
-  "working": 1810,
-  "in_grace_period": 22,
-  "dead": 486,
-  "hd_channels": 793,
+  "working": 1815,
+  "in_grace_period": 17,
+  "dead": 481,
+  "hd_channels": 796,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,8 +29,8 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 97,
-      "hd": 44
+      "working": 99,
+      "hd": 46
     },
     "Bhojpuri": {
       "total": 33,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 629,
+      "working": 631,
       "hd": 234
     },
     "Hungarian": {
@@ -124,8 +124,8 @@
     },
     "Kannada": {
       "total": 75,
-      "working": 59,
-      "hd": 28
+      "working": 60,
+      "hd": 29
     },
     "Konkani": {
       "total": 3,
@@ -154,13 +154,13 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 92,
-      "hd": 38
+      "working": 94,
+      "hd": 40
     },
     "Marathi": {
       "total": 54,
-      "working": 48,
-      "hd": 22
+      "working": 49,
+      "hd": 23
     },
     "Nepali": {
       "total": 6,
@@ -169,13 +169,13 @@
     },
     "Odia": {
       "total": 34,
-      "working": 22,
-      "hd": 10
+      "working": 23,
+      "hd": 11
     },
     "Other": {
       "total": 37,
       "working": 23,
-      "hd": 10
+      "hd": 11
     },
     "Polish": {
       "total": 5,
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 127,
+      "working": 128,
       "hd": 52
     },
     "Romanian": {
@@ -234,13 +234,13 @@
     },
     "Tamil": {
       "total": 184,
-      "working": 149,
-      "hd": 75
+      "working": 150,
+      "hd": 76
     },
     "Telugu": {
       "total": 174,
-      "working": 132,
-      "hd": 58
+      "working": 133,
+      "hd": 59
     },
     "Thai": {
       "total": 1,
@@ -271,7 +271,7 @@
   "categories": {
     "Animation": {
       "total": 9,
-      "working": 8
+      "working": 9
     },
     "Auto": {
       "total": 4,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 262,
-      "working": 202
+      "working": 203
     },
     "General": {
       "total": 186,
@@ -323,7 +323,7 @@
     },
     "Kids": {
       "total": 28,
-      "working": 19
+      "working": 20
     },
     "Legislative": {
       "total": 8,
@@ -335,15 +335,15 @@
     },
     "Movies": {
       "total": 147,
-      "working": 119
+      "working": 120
     },
     "Music": {
       "total": 138,
-      "working": 111
+      "working": 112
     },
     "News": {
       "total": 694,
-      "working": 598
+      "working": 599
     },
     "Outdoor": {
       "total": 17,
@@ -1077,11 +1077,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "KCL TV (720p)",
-      "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
@@ -1268,11 +1263,6 @@
     },
     {
       "name": "News 24 (576p)",
-      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "News 24 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWS24/index.m3u8",
       "reason": "HTTP 403"
     },
@@ -1390,11 +1380,6 @@
       "name": "Pear TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Pitaara (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Prameya News7 (576p)",
@@ -1515,11 +1500,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sangeet Bhojpuri (576p)",
@@ -1880,11 +1860,6 @@
       "name": "Zee Tamil HD (1080p)",
       "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Sony Yay! (576p)",
-      "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Goldmines (576p)",
@@ -2379,7 +2354,7 @@
     {
       "name": "M-Net Sport",
       "url": "https://live.mnet.mk/hls/mnet-sport.m3u8",
-      "reason": "not a valid HLS manifest"
+      "reason": "HTTP 500"
     },
     {
       "name": "One Golf (720p)",
