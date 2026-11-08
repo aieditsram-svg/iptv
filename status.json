@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 09:21 UTC",
-  "fingerprint": "e9e990ec958416009f1b12dcde451019",
+  "updated_at": "2026-11-08 10:05 UTC",
+  "fingerprint": "5aa0a34244100ea2c534b75ea26a5db9",
   "total": 2296,
-  "working": 1813,
-  "in_grace_period": 36,
-  "dead": 483,
-  "hd_channels": 799,
+  "working": 1811,
+  "in_grace_period": 35,
+  "dead": 485,
+  "hd_channels": 794,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -30,7 +30,7 @@
     "Bengali": {
       "total": 124,
       "working": 99,
-      "hd": 47
+      "hd": 45
     },
     "Bhojpuri": {
       "total": 33,
@@ -69,7 +69,7 @@
     },
     "English": {
       "total": 296,
-      "working": 229,
+      "working": 230,
       "hd": 121
     },
     "Estonian": {
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 632,
-      "hd": 235
+      "working": 630,
+      "hd": 233
     },
     "Hungarian": {
       "total": 11,
@@ -125,7 +125,7 @@
     "Kannada": {
       "total": 75,
       "working": 59,
-      "hd": 29
+      "hd": 28
     },
     "Konkani": {
       "total": 3,
@@ -154,13 +154,13 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 92,
-      "hd": 40
+      "working": 93,
+      "hd": 39
     },
     "Marathi": {
       "total": 54,
       "working": 49,
-      "hd": 23
+      "hd": 22
     },
     "Nepali": {
       "total": 6,
@@ -170,12 +170,12 @@
     "Odia": {
       "total": 34,
       "working": 25,
-      "hd": 11
+      "hd": 10
     },
     "Other": {
       "total": 37,
       "working": 23,
-      "hd": 11
+      "hd": 9
     },
     "Polish": {
       "total": 5,
@@ -199,8 +199,8 @@
     },
     "Russian": {
       "total": 51,
-      "working": 38,
-      "hd": 19
+      "working": 37,
+      "hd": 20
     },
     "Santali": {
       "total": 1,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 113,
-      "working": 66,
-      "hd": 48
+      "working": 65,
+      "hd": 47
     },
     "Swedish": {
       "total": 1,
@@ -235,12 +235,12 @@
     "Tamil": {
       "total": 184,
       "working": 150,
-      "hd": 76
+      "hd": 75
     },
     "Telugu": {
       "total": 174,
       "working": 133,
-      "hd": 59
+      "hd": 58
     },
     "Thai": {
       "total": 1,
@@ -259,7 +259,7 @@
     },
     "Urdu": {
       "total": 24,
-      "working": 20,
+      "working": 21,
       "hd": 9
     },
     "Vietnamese": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 233,
-      "working": 191
+      "working": 192
     },
     "Documentary": {
       "total": 13,
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 262,
-      "working": 204
+      "working": 205
     },
     "General": {
       "total": 186,
-      "working": 155
+      "working": 156
     },
     "Kids": {
       "total": 28,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 147,
-      "working": 124
+      "working": 122
     },
     "Music": {
       "total": 138,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 694,
-      "working": 595
+      "working": 594
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 531,
-      "working": 353
+      "working": 351
     },
     "Travel": {
       "total": 6,
@@ -470,11 +470,6 @@
       "name": "Angel TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3ANGELTVHD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Anmol TV (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Anmol TV (576p)",
@@ -865,6 +860,11 @@
       "name": "Food Food (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines 2 (576p)",
@@ -1290,6 +1290,11 @@
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "News State MP & CHG (576p)",
@@ -1777,11 +1782,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Vision (576p)",
-      "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Vistaar News (576p)",
       "url": "https://vistaarnews.com/livetv-stream/test.m3u8",
       "reason": "HTTP 404"
@@ -1800,11 +1800,6 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Zainabia Channel",
-      "url": "https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -1877,6 +1872,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
@@ -1935,6 +1935,11 @@
       "name": "T Sports (1080p)",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Беларусь 5 Интернет (1080p) [Not 24/7]",
+      "url": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+      "reason": "RemoteDisconnected"
     },
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
@@ -2199,12 +2204,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2214,7 +2219,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2410,6 +2415,11 @@
       "name": "Movistar Deportes (1080p)",
       "url": "http://195.178.110.110/movistar/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Sqala TV (720p)",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Eurosport 1 Polska (1080p)",
