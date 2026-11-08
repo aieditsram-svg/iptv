@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 12:25 UTC",
-  "fingerprint": "99201e89a0b67526b5297dc5b52b0f27",
+  "updated_at": "2026-11-08 13:19 UTC",
+  "fingerprint": "2d2c6a9b8ec1e4544bed009e2efe4a8f",
   "total": 2296,
-  "working": 1781,
-  "in_grace_period": 17,
-  "dead": 515,
-  "hd_channels": 787,
+  "working": 1785,
+  "in_grace_period": 15,
+  "dead": 511,
+  "hd_channels": 790,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 623,
-      "hd": 232
+      "working": 624,
+      "hd": 233
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 37,
       "working": 22,
-      "hd": 10
+      "hd": 11
     },
     "Polish": {
       "total": 5,
@@ -209,7 +209,7 @@
     },
     "Serbian": {
       "total": 3,
-      "working": 0,
+      "working": 1,
       "hd": 0
     },
     "Slovak": {
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 113,
-      "working": 64,
-      "hd": 46
+      "working": 65,
+      "hd": 47
     },
     "Swedish": {
       "total": 1,
@@ -254,7 +254,7 @@
     },
     "Ukrainian": {
       "total": 15,
-      "working": 10,
+      "working": 11,
       "hd": 9
     },
     "Urdu": {
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 186,
-      "working": 155
+      "working": 154
     },
     "Kids": {
       "total": 28,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 147,
-      "working": 116
+      "working": 117
     },
     "Music": {
       "total": 138,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 694,
-      "working": 591
+      "working": 592
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 531,
-      "working": 340
+      "working": 343
     },
     "Travel": {
       "total": 6,
@@ -892,11 +892,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
@@ -1247,8 +1242,8 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1474,7 +1469,7 @@
     {
       "name": "Raj Musix Tamil (1080p)",
       "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Raj News Kannada (576p)",
@@ -2012,11 +2007,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ESPN Premium HD (1080p)",
-      "url": "http://158.172.155.130:8000/play/a0ao/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Racing.com (720p)",
       "url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8",
       "reason": "HTTP 400"
@@ -2199,7 +2189,7 @@
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8",
-      "reason": "HTTP 502"
+      "reason": "HTTP 404"
     },
     {
       "name": "Alfa Sport (1080p) [Not 24/7]",
@@ -2239,11 +2229,6 @@
     {
       "name": "Golf + (1080p) [Geo-blocked]",
       "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Eurosport 1 Serbia",
-      "url": "http://87.238.211.217:2209/stream/99/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -2720,11 +2705,6 @@
       "name": "Setanta Sports+ Ukraine (1080p)",
       "url": "http://stream.mcquack.net/390/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Sport 4 (576p)",
-      "url": "http://stream.mcquack.net/394/index.m3u8",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "UPL.TV",
