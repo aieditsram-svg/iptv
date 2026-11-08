@@ -1,5 +1,5 @@
 #EXTM3U
-# Working channels, one best link per channel, updated 2026-11-08 00:16 UTC
+# Working channels, one best link per channel, updated 2026-11-08 01:18 UTC
 #EXTINF:-1 tvg-id="Arryadia.ma@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/XjzK3gZ.png" x-category="Sports" tvg-language="Arabic" group-title="Arabic" height="720",Arryadia (720p)
 http://149.100.11.252:8000/play/a065/index.m3u8
 #EXTINF:-1 tvg-id="BahrainSports1.bh@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/fBpLsbC.png" x-category="Sports" tvg-language="Arabic" group-title="Arabic" height="720",Bahrain Sports 1 (720p) [Not 24/7]
@@ -631,6 +631,8 @@ https://newscapital.com/hls/main4/stream.m3u8
 https://newscapital.com/hls/stream.m3u8?token=Nc360PermanentSecureKey987
 #EXTINF:-1 tvg-id="News18Gujarati.in@SD" x-categories="News" tvg-logo="https://dtil.tmsimg.com/assets/s143609_ld_h15_aa.png?lock=720x540" x-category="News" tvg-language="Gujarati" group-title="Gujarati" height="1080",News18 Gujarati (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Gujarati_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="Pradesh24Gujarati.in@SD" x-categories="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pradesh24_Gujarati.png" x-category="News" tvg-language="Gujarati" group-title="Gujarati" height="1080",Pradesh24 Gujarati (1080p)
+https://stream2.livebox.co.in/pradesh24hls/live.m3u8
 #EXTINF:-1 tvg-id="SadvidyaTV.in@SD" x-categories="Devotional" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sadvidya_TV.png" x-category="Devotional" tvg-language="Gujarati" group-title="Gujarati" height="1080",Sadvidya TV (720p)
 https://server.thelegitpro.in/sadvidya/sadvidya/index.m3u8
 #EXTINF:-1 tvg-id="ShreeSanatanTV.in@SD" x-categories="Devotional" tvg-logo="https://papaji.freetvindia.com/media/channels/shri_Sanatan_TV.png" x-category="Devotional" tvg-language="Gujarati" group-title="Gujarati" height="720",Shree Sanatan TV (720p)
@@ -1624,7 +1626,7 @@ https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
 #EXTINF:-1 tvg-id="PrimaSportCzechia.cz@SD" x-categories="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Prima_Sport_%28Czech_Republic%29.svg/revision/latest?cb=20260728085614" x-category="Sports" tvg-language="Other" group-title="Other",Prima Sport Czechia
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0
-#EXTINF:-1 tvg-id="QazSport.kz@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/UDJ0P5Q.png" x-category="Sports" tvg-language="Other" group-title="Other" height="1080",QazSport (480p) [Geo-blocked]
+#EXTINF:-1 tvg-id="QazSport.kz@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/UDJ0P5Q.png" x-category="Sports" tvg-language="Other" group-title="Other" height="480",QazSport (480p) [Geo-blocked]
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport.uz@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/2WJE9CM.png" x-category="Sports" tvg-language="Other" group-title="Other" height="1080",Sport
 https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
@@ -1835,8 +1837,8 @@ https://live-3.otcnet.ru/sportivny/index.m3u8
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@Russia" x-categories="Travel" tvg-logo="https://i.imgur.com/HUWEnc5.png" x-category="Travel" tvg-language="Russian" group-title="Russian" height="1080",Travelxp Russia (1080p)
 http://stream.mcquack.net/451/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/fXESG0l.png" x-category="Sports" tvg-language="Russian" group-title="Russian" height="1080",viju+ Sport (576p)
-http://stream.mcquack.net/333/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/fXESG0l.png" x-category="Sports" tvg-language="Russian" group-title="Russian" height="576",viju+ Sport (576p)
+http://31.148.5.241/Viasat_Sport/index.m3u8
 #EXTINF:-1 tvg-id="Volleyball.ru@SD" x-categories="Sports" tvg-logo="https://smotreshka.server-img.lfstrm.tv/images/media/59/20/592021ab74bddb93907e2b18997215a9.png" x-category="Sports" tvg-language="Russian" group-title="Russian" height="1080",Volleyball (1080p)
 https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/BKaEtqL.png" x-category="Sports" tvg-language="Russian" group-title="Russian" height="1080",Астрахань.Ru Sport (720p)
@@ -2095,7 +2097,7 @@ https://galaxyott.live/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="OliTV.in@SD" x-categories="Entertainment" tvg-logo="https://i.ibb.co/XfvTQyJn/main-removebg-preview.png" x-category="Entertainment" tvg-language="Tamil" group-title="Tamil" height="1080",Oli TV (1080p)
 https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-id="OMTV.in@SD" x-categories="Devotional" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png" x-category="Devotional" tvg-language="Tamil" group-title="Tamil" height="720",OM TV (576p)
-https://samitaorigin.tangotv.in/OMTV/SAMITAORIGIN/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
 #EXTINF:-1 tvg-id="PeppersTV.in@SD" x-categories="Music" tvg-logo="https://i.imgur.com/5PyJj2n.png" x-category="Music" tvg-language="Tamil" group-title="Tamil" height="720",Peppers TV (576p)
 https://mumt07.tangotv.in/zHjX9OFlPEPPERS/index.m3u8
 #EXTINF:-1 tvg-id="Pogo.in@SD" x-categories="Animation;Kids" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" x-category="Animation" tvg-language="Tamil" group-title="Tamil" height="720",Pogo (720p)
