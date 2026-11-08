@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 23:25 UTC",
-  "fingerprint": "90c3294b7c488e181cda8983be52bc9f",
+  "updated_at": "2026-11-08 23:56 UTC",
+  "fingerprint": "233aa33d1940f836acce92891ea727aa",
   "total": 2296,
-  "working": 1748,
-  "in_grace_period": 9,
-  "dead": 548,
-  "hd_channels": 775,
+  "working": 1747,
+  "in_grace_period": 5,
+  "dead": 549,
+  "hd_channels": 776,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 609,
-      "hd": 224
+      "working": 608,
+      "hd": 225
     },
     "Hungarian": {
       "total": 11,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 186,
-      "working": 152
+      "working": 151
     },
     "Kids": {
       "total": 28,
@@ -494,6 +494,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -2399,12 +2404,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2414,7 +2419,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
