@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 05:24 UTC",
-  "fingerprint": "c5d02323ae9fb6572a513edc21c0894d",
+  "updated_at": "2026-11-08 06:09 UTC",
+  "fingerprint": "9a7026cda63c148db405d171b4cd6603",
   "total": 2296,
-  "working": 1816,
-  "in_grace_period": 23,
-  "dead": 480,
-  "hd_channels": 795,
+  "working": 1814,
+  "in_grace_period": 36,
+  "dead": 482,
+  "hd_channels": 792,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 296,
       "working": 230,
-      "hd": 120
+      "hd": 119
     },
     "Estonian": {
       "total": 1,
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 754,
       "working": 634,
-      "hd": 235
+      "hd": 234
     },
     "Hungarian": {
       "total": 11,
@@ -154,7 +154,7 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 94,
+      "working": 93,
       "hd": 40
     },
     "Marathi": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 37,
       "working": 23,
-      "hd": 10
+      "hd": 11
     },
     "Polish": {
       "total": 5,
@@ -194,13 +194,13 @@
     },
     "Romanian": {
       "total": 12,
-      "working": 12,
+      "working": 11,
       "hd": 5
     },
     "Russian": {
       "total": 51,
       "working": 38,
-      "hd": 20
+      "hd": 17
     },
     "Santali": {
       "total": 1,
@@ -234,7 +234,7 @@
     },
     "Tamil": {
       "total": 184,
-      "working": 150,
+      "working": 149,
       "hd": 76
     },
     "Telugu": {
@@ -254,8 +254,8 @@
     },
     "Ukrainian": {
       "total": 15,
-      "working": 10,
-      "hd": 8
+      "working": 11,
+      "hd": 9
     },
     "Urdu": {
       "total": 24,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 147,
-      "working": 123
+      "working": 122
     },
     "Music": {
       "total": 138,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 694,
-      "working": 598
+      "working": 597
     },
     "Outdoor": {
       "total": 17,
@@ -505,6 +505,11 @@
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Asianet News (576p)",
+      "url": "https://fta.ektv.in/live/699/master.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet Suvarna News (576p)",
@@ -1638,6 +1643,11 @@
     },
     {
       "name": "Suriyan TV (576p)",
+      "url": "https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8",
+      "reason": "HTTP 503"
+    },
+    {
+      "name": "Suriyan TV (576p)",
       "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
       "reason": "URLError"
     },
@@ -2344,7 +2354,7 @@
     {
       "name": "M-Net Sport",
       "url": "https://live.mnet.mk/hls/mnet-sport.m3u8",
-      "reason": "not a valid HLS manifest"
+      "reason": "HTTP 500"
     },
     {
       "name": "One Golf (720p)",
@@ -2440,6 +2450,11 @@
       "name": "Sport TV+",
       "url": "http://znty.dyndns.org:5010/hls/sportv+.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "AntenaSport",
+      "url": "https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Extreme Sports Channel (576p)",
@@ -2560,11 +2575,6 @@
       "name": "TRT Spor (720p)",
       "url": "https://corestream.siteyaptim.live/trt-spor/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "DiviSport (1080p)",
-      "url": "http://stream.mcquack.net/457/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "MEGOGO Sport (1080p)",
@@ -2724,7 +2734,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
