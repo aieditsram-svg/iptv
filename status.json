@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 10:05 UTC",
-  "fingerprint": "5aa0a34244100ea2c534b75ea26a5db9",
+  "updated_at": "2026-11-08 10:42 UTC",
+  "fingerprint": "d7c8d71449e997a100cfbbdee4868d7c",
   "total": 2296,
   "working": 1811,
-  "in_grace_period": 35,
+  "in_grace_period": 44,
   "dead": 485,
-  "hd_channels": 794,
+  "hd_channels": 796,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 754,
       "working": 630,
-      "hd": 233
+      "hd": 234
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 37,
       "working": 23,
-      "hd": 9
+      "hd": 10
     },
     "Polish": {
       "total": 5,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 186,
-      "working": 156
+      "working": 155
     },
     "Kids": {
       "total": 28,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 147,
-      "working": 122
+      "working": 123
     },
     "Music": {
       "total": 138,
@@ -637,6 +637,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
       "reason": "HTTP 404"
@@ -862,11 +867,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -880,6 +880,11 @@
       "name": "Goldmines Bollywood (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood",
@@ -1870,11 +1875,6 @@
       "name": "Zee Tamil HD (1080p)",
       "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
