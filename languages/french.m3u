@@ -1,10 +1,10 @@
 #EXTM3U
-# Working French channels, updated 2026-11-09 19:00 UTC
+# Working French channels, updated 2026-11-09 19:48 UTC
 #EXTINF:-1 tvg-id="Africa24Sport.fr@SD" x-categories="News;Sports" tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1" x-category="News" tvg-language="French" group-title="French" height="1080",Africa 24 Sport (1080p)
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport.fr@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/EOXnU15.png" x-category="Sports" tvg-language="French" group-title="French" height="1080",Canal+ Sport (1080p) [Geo-blocked]
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
-#EXTINF:-1 tvg-id="CRTVSportsandEntertainment.cm@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/DiIei9F.png" x-category="Sports" tvg-language="French" group-title="French" height="1080",CRTV Sports and Entertainment (360p)
+#EXTINF:-1 tvg-id="CRTVSportsandEntertainment.cm@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/DiIei9F.png" x-category="Sports" tvg-language="French" group-title="French" height="360",CRTV Sports and Entertainment (360p)
 #EXTVLCOPT:http-referrer=https://crtv.cm/live/crtv-sport
 https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8
 #EXTINF:-1 tvg-id="Equidia.fr@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/QPpbRcZ.png" x-category="Sports" tvg-language="French" group-title="French" height="1080",Equidia (1080p)
