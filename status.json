@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-09 13:30 UTC",
-  "fingerprint": "ea1e4a3c587df62154c462e09eb5aa9a",
+  "updated_at": "2026-11-09 14:30 UTC",
+  "fingerprint": "646e594c5ff2ac5235c96cd3c8b181cf",
   "total": 2293,
   "working": 1760,
-  "in_grace_period": 16,
+  "in_grace_period": 31,
   "dead": 533,
   "hd_channels": 762,
   "languages": {
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 87,
+      "working": 86,
       "hd": 42
     },
     "Bhojpuri": {
@@ -70,7 +70,7 @@
     "English": {
       "total": 293,
       "working": 197,
-      "hd": 99
+      "hd": 98
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 596,
+      "working": 597,
       "hd": 212
     },
     "Hungarian": {
@@ -154,8 +154,8 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 87,
-      "hd": 32
+      "working": 88,
+      "hd": 33
     },
     "Marathi": {
       "total": 54,
@@ -234,12 +234,12 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 132,
+      "working": 133,
       "hd": 64
     },
     "Telugu": {
       "total": 173,
-      "working": 128,
+      "working": 126,
       "hd": 51
     },
     "Thai": {
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 262,
-      "working": 199
+      "working": 197
     },
     "General": {
       "total": 186,
-      "working": 153
+      "working": 154
     },
     "Kids": {
       "total": 28,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 694,
-      "working": 606
+      "working": 607
     },
     "Outdoor": {
       "total": 17,
@@ -440,11 +440,6 @@
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "AMN TV (576p)",
-      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 503"
     },
     {
       "name": "Anand Wari TV (576p)",
@@ -557,11 +552,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "BRK News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBRKNEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -655,6 +645,11 @@
       "name": "DD Urdu (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/DDUrdu/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "DD Yadagiri (576p)",
+      "url": "https://fta.ektv.in/live/678/master.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Deewana HD (540p)",
@@ -820,6 +815,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -1582,6 +1582,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
       "reason": "URLError"
@@ -1729,11 +1734,6 @@
     {
       "name": "Vasanth TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "VCV (720p) [Not 24/7]",
-      "url": "https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -2304,12 +2304,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2319,7 +2319,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
