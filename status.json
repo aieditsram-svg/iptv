@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 01:41 UTC",
-  "fingerprint": "13530f75e96d521a0691db8cc5ff5a75",
+  "updated_at": "2026-11-09 02:34 UTC",
+  "fingerprint": "5bdfdca78795713aec35bd671e1d808b",
   "total": 2293,
   "working": 1750,
-  "in_grace_period": 20,
+  "in_grace_period": 21,
   "dead": 543,
-  "hd_channels": 772,
+  "hd_channels": 771,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 293,
       "working": 206,
-      "hd": 106
+      "hd": 107
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 604,
+      "working": 605,
       "hd": 220
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 37,
       "working": 22,
-      "hd": 13
+      "hd": 11
     },
     "Polish": {
       "total": 10,
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 126,
+      "working": 125,
       "hd": 52
     },
     "Romanian": {
@@ -339,11 +339,11 @@
     },
     "Music": {
       "total": 138,
-      "working": 111
+      "working": 110
     },
     "News": {
       "total": 694,
-      "working": 591
+      "working": 592
     },
     "Outdoor": {
       "total": 17,
@@ -395,6 +395,11 @@
       "name": "9X Tashan (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -1080,11 +1085,6 @@
       "name": "Kappa TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "KBP Times (1080p)",
-      "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Kerala Vision (576p)",
@@ -2369,12 +2369,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2384,7 +2384,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2994,7 +2994,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
