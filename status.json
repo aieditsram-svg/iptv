@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 11:24 UTC",
-  "fingerprint": "f0a96d48bcdaf846f693485304c703d3",
+  "updated_at": "2026-11-09 12:18 UTC",
+  "fingerprint": "3725641e448f58f3c9f0bc744e8d90a4",
   "total": 2293,
-  "working": 1753,
-  "in_grace_period": 17,
-  "dead": 540,
-  "hd_channels": 759,
+  "working": 1756,
+  "in_grace_period": 19,
+  "dead": 537,
+  "hd_channels": 760,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 592,
+      "working": 593,
       "hd": 212
     },
     "Hungarian": {
@@ -174,7 +174,7 @@
     },
     "Other": {
       "total": 37,
-      "working": 20,
+      "working": 21,
       "hd": 10
     },
     "Polish": {
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 126,
+      "working": 127,
       "hd": 52
     },
     "Romanian": {
@@ -209,7 +209,7 @@
     },
     "Serbian": {
       "total": 3,
-      "working": 1,
+      "working": 0,
       "hd": 0
     },
     "Slovak": {
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 113,
-      "working": 66,
-      "hd": 48
+      "working": 67,
+      "hd": 49
     },
     "Swedish": {
       "total": 1,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 233,
-      "working": 197
+      "working": 198
     },
     "Documentary": {
       "total": 12,
@@ -339,7 +339,7 @@
     },
     "Music": {
       "total": 138,
-      "working": 110
+      "working": 111
     },
     "News": {
       "total": 694,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 536,
-      "working": 322
+      "working": 323
     },
     "Travel": {
       "total": 6,
@@ -395,11 +395,6 @@
       "name": "9X Tashan (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -1132,11 +1127,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -1349,7 +1339,7 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Pasand TV (576p)",
@@ -2232,6 +2222,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Eurosport 1 Serbia",
+      "url": "http://87.238.211.217:2209/stream/99/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "Adjarasport 1",
       "url": "https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8",
       "reason": "URLError"
@@ -2412,11 +2407,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "MRTV Sports [Not 24/7]",
-      "url": "https://mrtvott.com/cache/MRTV-SPORT/master.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "ESPN (360p)",
       "url": "https://lb.iptvnetwork.net/ls28/10041/playlist.m3u8",
       "reason": "URLError"
@@ -2545,11 +2535,6 @@
       "name": "Ten Sports Pakistan",
       "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Tigo Sports+ (1280p)",
-      "url": "https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "Tigo Sports+ (1080p) [Not 24/7]",
@@ -2979,7 +2964,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
