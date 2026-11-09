@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 10:31 UTC",
-  "fingerprint": "df8690c31c5f7115a4c7c8b7d48fed6d",
+  "updated_at": "2026-11-09 11:24 UTC",
+  "fingerprint": "f0a96d48bcdaf846f693485304c703d3",
   "total": 2293,
-  "working": 1756,
+  "working": 1753,
   "in_grace_period": 17,
-  "dead": 537,
-  "hd_channels": 760,
+  "dead": 540,
+  "hd_channels": 759,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 593,
+      "working": 592,
       "hd": 212
     },
     "Hungarian": {
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 127,
+      "working": 126,
       "hd": 52
     },
     "Romanian": {
@@ -234,8 +234,8 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 133,
-      "hd": 64
+      "working": 132,
+      "hd": 63
     },
     "Telugu": {
       "total": 173,
@@ -295,7 +295,7 @@
     },
     "Cricket": {
       "total": 21,
-      "working": 12
+      "working": 13
     },
     "Culture": {
       "total": 18,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 262,
-      "working": 198
+      "working": 196
     },
     "General": {
       "total": 186,
@@ -335,11 +335,11 @@
     },
     "Movies": {
       "total": 140,
-      "working": 107
+      "working": 106
     },
     "Music": {
       "total": 138,
-      "working": 111
+      "working": 110
     },
     "News": {
       "total": 694,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 536,
-      "working": 321
+      "working": 322
     },
     "Travel": {
       "total": 6,
@@ -395,6 +395,11 @@
       "name": "9X Tashan (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -515,6 +520,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -639,11 +649,6 @@
     {
       "name": "DD Punjabi (576p)",
       "url": "https://fta.ektv.in/live/177/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Sports (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlDDSPORTS/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1172,6 +1177,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "MTV (576p)",
+      "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "MTV HD (396p)",
       "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
       "reason": "HTTP 451"
@@ -1334,6 +1344,11 @@
     {
       "name": "Northeast Live (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NORTHEASTLIVE/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "Oli TV (1080p)",
+      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
       "reason": "HTTP 403"
     },
     {
@@ -2959,12 +2974,12 @@
     {
       "name": "Golf Channel Latin America (720p)",
       "url": "http://143.14.178.35/TCM-HD/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
