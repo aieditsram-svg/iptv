@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 19:48 UTC",
-  "fingerprint": "d210aa4a1c39176cf7edafdfe5f006b1",
+  "updated_at": "2026-11-09 20:37 UTC",
+  "fingerprint": "b42c8c679e0ef60e651c05e55fb5d9df",
   "total": 2293,
-  "working": 1769,
-  "in_grace_period": 8,
-  "dead": 524,
-  "hd_channels": 766,
+  "working": 1768,
+  "in_grace_period": 9,
+  "dead": 525,
+  "hd_channels": 769,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -80,7 +80,7 @@
     "French": {
       "total": 12,
       "working": 10,
-      "hd": 7
+      "hd": 8
     },
     "German": {
       "total": 17,
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 746,
       "working": 596,
-      "hd": 212
+      "hd": 213
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 37,
       "working": 20,
-      "hd": 10
+      "hd": 11
     },
     "Polish": {
       "total": 10,
@@ -234,7 +234,7 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 133,
+      "working": 132,
       "hd": 64
     },
     "Telugu": {
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 186,
-      "working": 154
+      "working": 153
     },
     "Kids": {
       "total": 28,
@@ -439,6 +439,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "AMN TV (576p)",
+      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1749,7 +1754,7 @@
     {
       "name": "VTU (1080p)",
       "url": "https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 502"
     },
     {
       "name": "Win TV (576p)",
@@ -2509,7 +2514,7 @@
     {
       "name": "Tigo Sports+ (1080p) [Not 24/7]",
       "url": "https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 502"
     },
     {
       "name": "L1 (1080p)",
