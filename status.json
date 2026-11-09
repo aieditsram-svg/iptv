@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 20:37 UTC",
-  "fingerprint": "b42c8c679e0ef60e651c05e55fb5d9df",
+  "updated_at": "2026-11-09 21:27 UTC",
+  "fingerprint": "ef1c79a36bf9fe28d522d45804bb22a3",
   "total": 2293,
-  "working": 1768,
-  "in_grace_period": 9,
-  "dead": 525,
-  "hd_channels": 769,
+  "working": 1770,
+  "in_grace_period": 14,
+  "dead": 523,
+  "hd_channels": 766,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 85,
+      "working": 86,
       "hd": 40
     },
     "Bhojpuri": {
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 596,
-      "hd": 213
+      "working": 597,
+      "hd": 212
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 37,
       "working": 20,
-      "hd": 11
+      "hd": 10
     },
     "Polish": {
       "total": 10,
@@ -225,7 +225,7 @@
     "Spanish": {
       "total": 113,
       "working": 66,
-      "hd": 49
+      "hd": 48
     },
     "Swedish": {
       "total": 1,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 186,
-      "working": 153
+      "working": 154
     },
     "Kids": {
       "total": 28,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 140,
-      "working": 108
+      "working": 109
     },
     "Music": {
       "total": 138,
@@ -489,11 +489,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -900,11 +895,6 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -1587,11 +1577,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
       "reason": "HTTP 404"
@@ -1840,6 +1825,11 @@
       "name": "Zee Tamil HD (1080p)",
       "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Zee TV HD (720p) [Geo-blocked]",
+      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Hungama TV (576p)",
