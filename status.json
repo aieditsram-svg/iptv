@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 14:30 UTC",
-  "fingerprint": "646e594c5ff2ac5235c96cd3c8b181cf",
+  "updated_at": "2026-11-09 15:24 UTC",
+  "fingerprint": "1d4cbc9defdd01fffc93e065e0e3bcfa",
   "total": 2293,
-  "working": 1760,
-  "in_grace_period": 31,
-  "dead": 533,
-  "hd_channels": 762,
+  "working": 1759,
+  "in_grace_period": 19,
+  "dead": 534,
+  "hd_channels": 763,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 86,
+      "working": 85,
       "hd": 42
     },
     "Bhojpuri": {
@@ -69,7 +69,7 @@
     },
     "English": {
       "total": 293,
-      "working": 197,
+      "working": 198,
       "hd": 98
     },
     "Estonian": {
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 597,
-      "hd": 212
+      "working": 596,
+      "hd": 213
     },
     "Hungarian": {
       "total": 11,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 233,
-      "working": 198
+      "working": 197
     },
     "Documentary": {
       "total": 12,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 186,
-      "working": 154
+      "working": 153
     },
     "Kids": {
       "total": 28,
@@ -339,11 +339,11 @@
     },
     "Music": {
       "total": 138,
-      "working": 111
+      "working": 110
     },
     "News": {
       "total": 694,
-      "working": 607
+      "working": 608
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 536,
-      "working": 323
+      "working": 324
     },
     "Travel": {
       "total": 6,
@@ -610,6 +610,11 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal TV (576p)",
+      "url": "https://streams.tangotv.in/DANGAL/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -1127,6 +1132,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -1217,11 +1227,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1309,7 +1314,7 @@
     {
       "name": "Nick Jr. (576p)",
       "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -1319,7 +1324,7 @@
     {
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
@@ -1477,6 +1482,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sangeet Bhojpuri (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8",
       "reason": "HTTP 403"
@@ -1564,7 +1574,7 @@
     {
       "name": "Sony Pal (576p)",
       "url": "http://59.103.38.46:8000/play/a0ac/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sony SAB (720p)",
@@ -2304,12 +2314,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2319,7 +2329,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2840,11 +2850,6 @@
       "name": "DAZN 2 Germany",
       "url": "http://45.142.104.86/stream/15/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "MUTV",
-      "url": "http://103.253.74.210:7070/stream/136/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "ACC Network (720p)",
