@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 04:23 UTC",
-  "fingerprint": "c6da63ca4669496c233498dc3e1da7f6",
+  "updated_at": "2026-11-09 05:28 UTC",
+  "fingerprint": "f3f5b92c487329dde1455e6cc4a00c09",
   "total": 2293,
   "working": 1749,
-  "in_grace_period": 16,
+  "in_grace_period": 13,
   "dead": 544,
-  "hd_channels": 775,
+  "hd_channels": 774,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 86,
+      "working": 87,
       "hd": 44
     },
     "Bhojpuri": {
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 607,
-      "hd": 222
+      "working": 606,
+      "hd": 221
     },
     "Hungarian": {
       "total": 11,
@@ -335,11 +335,11 @@
     },
     "Movies": {
       "total": 140,
-      "working": 107
+      "working": 106
     },
     "Music": {
       "total": 138,
-      "working": 109
+      "working": 110
     },
     "News": {
       "total": 694,
@@ -887,6 +887,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
@@ -1349,7 +1354,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Nireekshana TV (576p)",
@@ -1530,11 +1535,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sangeet Bhojpuri (576p)",
@@ -2534,17 +2534,17 @@
     {
       "name": "M Sports (1080p)",
       "url": "https://cdn.rabta.stream/M-Sports/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 503"
     },
     {
       "name": "M Sports",
       "url": "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 503"
     },
     {
       "name": "M Sports",
       "url": "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 503"
     },
     {
       "name": "One Golf (720p)",
