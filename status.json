@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 21:27 UTC",
-  "fingerprint": "ef1c79a36bf9fe28d522d45804bb22a3",
+  "updated_at": "2026-11-09 22:09 UTC",
+  "fingerprint": "07f0c15fafbb459261d95f635ed88f97",
   "total": 2293,
-  "working": 1770,
-  "in_grace_period": 14,
-  "dead": 523,
-  "hd_channels": 766,
+  "working": 1769,
+  "in_grace_period": 24,
+  "dead": 524,
+  "hd_channels": 767,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -174,8 +174,8 @@
     },
     "Other": {
       "total": 37,
-      "working": 20,
-      "hd": 10
+      "working": 21,
+      "hd": 12
     },
     "Polish": {
       "total": 10,
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 51,
-      "working": 38,
+      "working": 37,
       "hd": 20
     },
     "Santali": {
@@ -259,8 +259,8 @@
     },
     "Urdu": {
       "total": 24,
-      "working": 21,
-      "hd": 8
+      "working": 20,
+      "hd": 7
     },
     "Vietnamese": {
       "total": 7,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 536,
-      "working": 333
+      "working": 332
     },
     "Travel": {
       "total": 6,
@@ -2022,6 +2022,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Беларусь 5 Интернет (1080p) [Not 24/7]",
+      "url": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+      "reason": "RemoteDisconnected"
+    },
+    {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
       "reason": "not a valid HLS manifest"
@@ -2309,12 +2314,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2324,7 +2329,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2485,6 +2490,11 @@
       "name": "One Golf (720p)",
       "url": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "PK Sports (720p)",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8",
+      "reason": "HTTP 502"
     },
     {
       "name": "PTV Sports (1080p)",
@@ -2924,7 +2934,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
@@ -2975,11 +2985,6 @@
       "name": "Willow (720p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Sport",
-      "url": "https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "VTV6 (1080p)",
