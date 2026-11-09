@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 18:13 UTC",
-  "fingerprint": "bf5a80fd6b79af36a74b9d4618463433",
+  "updated_at": "2026-11-09 19:00 UTC",
+  "fingerprint": "a1a3d5cb111e51b7f917bb02a2cbd5eb",
   "total": 2293,
-  "working": 1761,
-  "in_grace_period": 36,
-  "dead": 532,
-  "hd_channels": 763,
+  "working": 1757,
+  "in_grace_period": 16,
+  "dead": 536,
+  "hd_channels": 760,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 593,
-      "hd": 212
+      "working": 589,
+      "hd": 211
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 37,
       "working": 21,
-      "hd": 10
+      "hd": 9
     },
     "Polish": {
       "total": 10,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 51,
       "working": 38,
-      "hd": 20
+      "hd": 19
     },
     "Santali": {
       "total": 1,
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 262,
-      "working": 197
+      "working": 195
     },
     "General": {
       "total": 186,
-      "working": 153
+      "working": 154
     },
     "Kids": {
       "total": 28,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 140,
-      "working": 108
+      "working": 107
     },
     "Music": {
       "total": 138,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 694,
-      "working": 606
+      "working": 604
     },
     "Outdoor": {
       "total": 17,
@@ -435,6 +435,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -550,6 +555,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -1217,11 +1227,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1 India (576p)",
       "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
@@ -1290,6 +1295,11 @@
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "News State MP & CHG (576p)",
@@ -1545,6 +1555,11 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1977,6 +1992,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
@@ -2319,12 +2339,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2334,7 +2354,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2424,7 +2444,7 @@
     {
       "name": "FightBox Poland (576p)",
       "url": "http://205.237.104.26:8080/stream/356/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sky Sport 1",
