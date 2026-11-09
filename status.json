@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 22:49 UTC",
-  "fingerprint": "e8b24c4018d32925a526e2fef34f0e63",
+  "updated_at": "2026-11-09 23:26 UTC",
+  "fingerprint": "4a06d36c308f1e5e50747a02fbc40213",
   "total": 2293,
-  "working": 1763,
-  "in_grace_period": 12,
-  "dead": 530,
-  "hd_channels": 764,
+  "working": 1764,
+  "in_grace_period": 13,
+  "dead": 529,
+  "hd_channels": 766,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 595,
-      "hd": 211
+      "working": 597,
+      "hd": 212
     },
     "Hungarian": {
       "total": 11,
@@ -184,7 +184,7 @@
     },
     "Portuguese": {
       "total": 32,
-      "working": 13,
+      "working": 12,
       "hd": 9
     },
     "Punjabi": {
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 51,
       "working": 37,
-      "hd": 19
+      "hd": 20
     },
     "Santali": {
       "total": 1,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 140,
-      "working": 107
+      "working": 109
     },
     "Music": {
       "total": 138,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 536,
-      "working": 328
+      "working": 327
     },
     "Travel": {
       "total": 6,
@@ -877,11 +877,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -939,7 +934,7 @@
     {
       "name": "Harvest USA (576p)",
       "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Hi Dost! (576p)",
@@ -1967,11 +1962,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
@@ -2045,6 +2035,11 @@
       "name": "Band Sports (1080p)",
       "url": "https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Band Sports (720p)",
+      "url": "http://45.162.64.114/BAND_SPORTS/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Canal do Inter (720p) [Not 24/7]",
@@ -2324,12 +2319,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2339,7 +2334,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis (1080p)",
