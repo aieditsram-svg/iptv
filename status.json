@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 02:34 UTC",
-  "fingerprint": "5bdfdca78795713aec35bd671e1d808b",
+  "updated_at": "2026-11-09 03:22 UTC",
+  "fingerprint": "7d72348d5f3c513f36d4a5ba102c898c",
   "total": 2293,
-  "working": 1750,
-  "in_grace_period": 21,
-  "dead": 543,
-  "hd_channels": 771,
+  "working": 1746,
+  "in_grace_period": 17,
+  "dead": 547,
+  "hd_channels": 769,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 86,
+      "working": 85,
       "hd": 42
     },
     "Bhojpuri": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 37,
       "working": 22,
-      "hd": 11
+      "hd": 10
     },
     "Polish": {
       "total": 10,
@@ -259,8 +259,8 @@
     },
     "Urdu": {
       "total": 24,
-      "working": 20,
-      "hd": 7
+      "working": 17,
+      "hd": 6
     },
     "Vietnamese": {
       "total": 7,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 233,
-      "working": 194
+      "working": 195
     },
     "Documentary": {
       "total": 12,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 186,
-      "working": 153
+      "working": 152
     },
     "Kids": {
       "total": 28,
@@ -339,7 +339,7 @@
     },
     "Music": {
       "total": 138,
-      "working": 110
+      "working": 109
     },
     "News": {
       "total": 694,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 536,
-      "working": 327
+      "working": 324
     },
     "Travel": {
       "total": 6,
@@ -494,6 +494,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1157,11 +1162,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -1545,6 +1545,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sangeet Bhojpuri (576p)",
@@ -2369,12 +2374,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2384,7 +2389,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2540,6 +2545,21 @@
       "name": "M-Net Sport",
       "url": "https://live.mnet.mk/hls/mnet-sport.m3u8",
       "reason": "HTTP 500"
+    },
+    {
+      "name": "M Sports (1080p)",
+      "url": "https://cdn.rabta.stream/M-Sports/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "M Sports",
+      "url": "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "M Sports",
+      "url": "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "One Golf (720p)",
@@ -2994,7 +3014,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
