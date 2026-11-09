@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 03:22 UTC",
-  "fingerprint": "7d72348d5f3c513f36d4a5ba102c898c",
+  "updated_at": "2026-11-09 04:23 UTC",
+  "fingerprint": "c6da63ca4669496c233498dc3e1da7f6",
   "total": 2293,
-  "working": 1746,
-  "in_grace_period": 17,
-  "dead": 547,
-  "hd_channels": 769,
+  "working": 1749,
+  "in_grace_period": 16,
+  "dead": 544,
+  "hd_channels": 775,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,8 +29,8 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 85,
-      "hd": 42
+      "working": 86,
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 33,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 605,
-      "hd": 220
+      "working": 607,
+      "hd": 222
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 37,
       "working": 22,
-      "hd": 10
+      "hd": 12
     },
     "Polish": {
       "total": 10,
@@ -204,8 +204,8 @@
     },
     "Santali": {
       "total": 1,
-      "working": 0,
-      "hd": 0
+      "working": 1,
+      "hd": 1
     },
     "Serbian": {
       "total": 3,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 186,
-      "working": 152
+      "working": 154
     },
     "Kids": {
       "total": 28,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 140,
-      "working": 108
+      "working": 107
     },
     "Music": {
       "total": 138,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 694,
-      "working": 592
+      "working": 594
     },
     "Outdoor": {
       "total": 17,
@@ -497,11 +497,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Asianet Middle East (576p)",
       "url": "https://fta.ektv.in/live/697/master.m3u8",
       "reason": "HTTP 404"
@@ -570,16 +565,6 @@
       "name": "Bhakthi Siri (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/Bhakthisiri/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Bharat24 (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVBHARAT24/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Bharat24 (576p)",
-      "url": "https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Bharat Samachar (576p)",
@@ -907,6 +892,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -1105,11 +1095,6 @@
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "KTV Bangla (720p)",
-      "url": "https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Live Times (576p)",
@@ -1364,7 +1349,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Nireekshana TV (576p)",
@@ -3014,7 +2999,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
