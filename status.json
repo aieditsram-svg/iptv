@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 23:01 UTC",
-  "fingerprint": "0d18fd4599c249fa218053615655b94b",
+  "updated_at": "2026-11-10 23:30 UTC",
+  "fingerprint": "4f9138fc69e224d16e0de3bf37796b63",
   "total": 2281,
-  "working": 1793,
-  "in_grace_period": 11,
-  "dead": 488,
-  "hd_channels": 786,
+  "working": 1795,
+  "in_grace_period": 31,
+  "dead": 486,
+  "hd_channels": 789,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 293,
       "working": 209,
-      "hd": 107
+      "hd": 108
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 592,
-      "hd": 218
+      "working": 593,
+      "hd": 219
     },
     "Hungarian": {
       "total": 11,
@@ -170,12 +170,12 @@
     "Odia": {
       "total": 34,
       "working": 26,
-      "hd": 10
+      "hd": 9
     },
     "Other": {
       "total": 37,
       "working": 21,
-      "hd": 11
+      "hd": 12
     },
     "Polish": {
       "total": 10,
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 132,
+      "working": 133,
       "hd": 52
     },
     "Romanian": {
@@ -225,7 +225,7 @@
     "Spanish": {
       "total": 116,
       "working": 67,
-      "hd": 48
+      "hd": 49
     },
     "Swedish": {
       "total": 1,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 233,
-      "working": 204
+      "working": 205
     },
     "Documentary": {
       "total": 12,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 262,
-      "working": 203
+      "working": 204
     },
     "General": {
       "total": 186,
@@ -1077,11 +1077,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Namdhari (404p) [Not 24/7]",
-      "url": "https://namdhari.tv/live/sbs1.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Naxatra News (576p)",
       "url": "https://fta.ektv.in/live/668/master.m3u8",
       "reason": "HTTP 404"
@@ -1164,7 +1159,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1419,7 +1414,7 @@
     {
       "name": "SVBC 4 (1080p)",
       "url": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Swadesh News (576p)",
@@ -1745,11 +1740,6 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
@@ -2119,12 +2109,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2134,7 +2124,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2754,7 +2744,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
