@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 19:42 UTC",
-  "fingerprint": "32ca82f9d4e23eb916f07777e9af514e",
+  "updated_at": "2026-11-10 20:28 UTC",
+  "fingerprint": "24d9511fc74036053b4202e9940ce301",
   "total": 2281,
-  "working": 1795,
-  "in_grace_period": 12,
-  "dead": 486,
-  "hd_channels": 788,
+  "working": 1796,
+  "in_grace_period": 7,
+  "dead": 485,
+  "hd_channels": 785,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -30,7 +30,7 @@
     "Bengali": {
       "total": 124,
       "working": 89,
-      "hd": 43
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 594,
-      "hd": 218
+      "working": 592,
+      "hd": 219
     },
     "Hungarian": {
       "total": 11,
@@ -154,8 +154,8 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 89,
-      "hd": 31
+      "working": 87,
+      "hd": 30
     },
     "Marathi": {
       "total": 54,
@@ -175,11 +175,11 @@
     "Other": {
       "total": 37,
       "working": 21,
-      "hd": 11
+      "hd": 10
     },
     "Polish": {
       "total": 10,
-      "working": 1,
+      "working": 5,
       "hd": 0
     },
     "Portuguese": {
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 116,
-      "working": 67,
-      "hd": 47
+      "working": 66,
+      "hd": 46
     },
     "Swedish": {
       "total": 1,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 131,
+      "working": 133,
       "hd": 54
     },
     "Thai": {
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 186,
-      "working": 155
+      "working": 152
     },
     "Kids": {
       "total": 28,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 133,
-      "working": 102
+      "working": 103
     },
     "Music": {
       "total": 138,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 540,
-      "working": 328
+      "working": 331
     },
     "Travel": {
       "total": 6,
@@ -472,6 +472,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
@@ -564,6 +569,11 @@
     {
       "name": "Cartoon Network HD+ (720p)",
       "url": "https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "CCV (480p)",
+      "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -742,11 +752,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -765,11 +770,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -1030,6 +1030,11 @@
       "name": "Mangalmay TV (576p)",
       "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
       "reason": "not a valid HLS manifest"
+    },
+    {
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1504,6 +1509,11 @@
     {
       "name": "Vasanth TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "VCV (720p) [Not 24/7]",
+      "url": "https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -2287,6 +2297,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Tigo Sports+ (1280p)",
+      "url": "https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Tigo Sports+ (1080p) [Not 24/7]",
       "url": "https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8",
       "reason": "HTTP 502"
@@ -2334,26 +2349,6 @@
     {
       "name": "Polsat Sport Fight",
       "url": "http://92.114.85.87:8016/play/a00b/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Canal+ Sport",
-      "url": "http://57.129.96.133:888/stream/92/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Canal+ Sport 2",
-      "url": "http://57.129.96.133:888/stream/94/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Canal+ Sport 3",
-      "url": "http://57.129.96.133:888/stream/93/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Canal+ Sport 4",
-      "url": "http://57.129.96.133:888/stream/95/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -2744,7 +2739,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
