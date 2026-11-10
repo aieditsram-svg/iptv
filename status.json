@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 01:41 UTC",
-  "fingerprint": "c390c89cfa34e9474e3d35ea565bdce9",
+  "updated_at": "2026-11-10 02:31 UTC",
+  "fingerprint": "ba5500b1e2295619949a028f159f3b41",
   "total": 2281,
-  "working": 1752,
-  "in_grace_period": 25,
-  "dead": 529,
-  "hd_channels": 763,
+  "working": 1751,
+  "in_grace_period": 20,
+  "dead": 530,
+  "hd_channels": 762,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 79,
+      "working": 78,
       "hd": 39
     },
     "Bhojpuri": {
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 51,
       "working": 38,
-      "hd": 20
+      "hd": 19
     },
     "Santali": {
       "total": 1,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 262,
-      "working": 191
+      "working": 190
     },
     "General": {
       "total": 186,
@@ -1532,6 +1532,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
       "reason": "HTTP 404"
@@ -2114,7 +2119,7 @@
     {
       "name": "CCTV-5+",
       "url": "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 500"
     },
     {
       "name": "CCTV-16 (1080p)",
@@ -2319,12 +2324,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2334,7 +2339,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
