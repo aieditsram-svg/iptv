@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 20:28 UTC",
-  "fingerprint": "24d9511fc74036053b4202e9940ce301",
+  "updated_at": "2026-11-10 21:13 UTC",
+  "fingerprint": "877c24575f42123e600d5cfb8fa9a0c3",
   "total": 2281,
-  "working": 1796,
-  "in_grace_period": 7,
-  "dead": 485,
-  "hd_channels": 785,
+  "working": 1800,
+  "in_grace_period": 8,
+  "dead": 481,
+  "hd_channels": 789,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 592,
+      "working": 593,
       "hd": 219
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 37,
       "working": 21,
-      "hd": 10
+      "hd": 12
     },
     "Polish": {
       "total": 10,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 116,
-      "working": 66,
-      "hd": 46
+      "working": 68,
+      "hd": 48
     },
     "Swedish": {
       "total": 1,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 133,
+      "working": 134,
       "hd": 54
     },
     "Thai": {
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 262,
-      "working": 203
+      "working": 204
     },
     "General": {
       "total": 186,
-      "working": 152
+      "working": 153
     },
     "Kids": {
       "total": 28,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 540,
-      "working": 331
+      "working": 333
     },
     "Travel": {
       "total": 6,
@@ -655,11 +655,6 @@
       "name": "DD Urdu (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/DDUrdu/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "DD Yadagiri (576p)",
-      "url": "https://fta.ektv.in/live/678/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Deewana HD (540p)",
@@ -1030,11 +1025,6 @@
       "name": "Mangalmay TV (576p)",
       "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
       "reason": "not a valid HLS manifest"
-    },
-    {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1772,11 +1762,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Canal Showsport (720p)",
-      "url": "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Racing.com (720p)",
       "url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8",
       "reason": "HTTP 400"
@@ -2099,12 +2084,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2114,7 +2099,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2325,11 +2310,6 @@
       "name": "Movistar Deportes (1080p)",
       "url": "http://195.178.110.110/movistar/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Sqala TV (720p)",
-      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Eurosport 1 Polska (1080p)",
