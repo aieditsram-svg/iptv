@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-10 21:47 UTC",
-  "fingerprint": "65efed65ccd6647fca688e5c8d823607",
+  "updated_at": "2026-11-10 22:24 UTC",
+  "fingerprint": "f3690b986568186f1fe1a4dee2087e9b",
   "total": 2281,
-  "working": 1798,
-  "in_grace_period": 8,
-  "dead": 483,
+  "working": 1795,
+  "in_grace_period": 11,
+  "dead": 486,
   "hd_channels": 789,
   "languages": {
     "Albanian": {
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 593,
+      "working": 592,
       "hd": 219
     },
     "Hungarian": {
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 51,
-      "working": 37,
+      "working": 36,
       "hd": 20
     },
     "Santali": {
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 134,
+      "working": 133,
       "hd": 54
     },
     "Thai": {
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 262,
-      "working": 204
+      "working": 203
     },
     "General": {
       "total": 186,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 133,
-      "working": 103
+      "working": 102
     },
     "Music": {
       "total": 138,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 540,
-      "working": 332
+      "working": 331
     },
     "Travel": {
       "total": 6,
@@ -745,6 +745,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -1409,7 +1414,7 @@
     {
       "name": "SVBC 4 (1080p)",
       "url": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Swadesh News (576p)",
@@ -1737,6 +1742,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
@@ -1800,6 +1810,11 @@
       "name": "T Sports (1080p)",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Беларусь 5 Интернет (1080p) [Not 24/7]",
+      "url": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+      "reason": "RemoteDisconnected"
     },
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
@@ -2094,12 +2109,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2109,7 +2124,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis (1080p)",
