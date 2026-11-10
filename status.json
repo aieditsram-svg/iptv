@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-10 18:12 UTC",
-  "fingerprint": "82204880e29206952b9b5568fe07be1d",
+  "updated_at": "2026-11-10 18:58 UTC",
+  "fingerprint": "bc29b9ef18cc13932e933e57a25597fd",
   "total": 2281,
-  "working": 1796,
-  "in_grace_period": 17,
-  "dead": 485,
+  "working": 1795,
+  "in_grace_period": 19,
+  "dead": 486,
   "hd_channels": 788,
   "languages": {
     "Albanian": {
@@ -70,7 +70,7 @@
     "English": {
       "total": 293,
       "working": 209,
-      "hd": 106
+      "hd": 107
     },
     "Estonian": {
       "total": 1,
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 730,
       "working": 594,
-      "hd": 219
+      "hd": 218
     },
     "Hungarian": {
       "total": 11,
@@ -155,7 +155,7 @@
     "Malayalam": {
       "total": 119,
       "working": 89,
-      "hd": 32
+      "hd": 31
     },
     "Marathi": {
       "total": 54,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 37,
       "working": 21,
-      "hd": 10
+      "hd": 11
     },
     "Polish": {
       "total": 10,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 132,
+      "working": 131,
       "hd": 54
     },
     "Thai": {
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 262,
-      "working": 204
+      "working": 203
     },
     "General": {
       "total": 186,
@@ -765,6 +765,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -2739,7 +2744,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
