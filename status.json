@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 22:24 UTC",
-  "fingerprint": "f3690b986568186f1fe1a4dee2087e9b",
+  "updated_at": "2026-11-10 23:01 UTC",
+  "fingerprint": "0d18fd4599c249fa218053615655b94b",
   "total": 2281,
-  "working": 1795,
+  "working": 1793,
   "in_grace_period": 11,
-  "dead": 486,
-  "hd_channels": 789,
+  "dead": 488,
+  "hd_channels": 786,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 89,
+      "working": 88,
       "hd": 42
     },
     "Bhojpuri": {
@@ -59,7 +59,7 @@
     },
     "Czech": {
       "total": 13,
-      "working": 13,
+      "working": 12,
       "hd": 1
     },
     "Dutch": {
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 730,
       "working": 592,
-      "hd": 219
+      "hd": 218
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 37,
       "working": 21,
-      "hd": 12
+      "hd": 11
     },
     "Polish": {
       "total": 10,
@@ -225,7 +225,7 @@
     "Spanish": {
       "total": 116,
       "working": 67,
-      "hd": 49
+      "hd": 48
     },
     "Swedish": {
       "total": 1,
@@ -339,7 +339,7 @@
     },
     "Music": {
       "total": 138,
-      "working": 117
+      "working": 116
     },
     "News": {
       "total": 694,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 540,
-      "working": 331
+      "working": 330
     },
     "Travel": {
       "total": 6,
@@ -1164,7 +1164,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1265,6 +1265,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -1977,6 +1982,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Sporty TV",
+      "url": "https://dash2.antik.sk/live/sporty_tv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "ColimdoT TV (720p)",
       "url": "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8",
       "reason": "URLError"
@@ -2109,12 +2119,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2124,7 +2134,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
