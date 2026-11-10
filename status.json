@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 10:18 UTC",
-  "fingerprint": "48f66b4c247a6b299b6ecd20a5ff9c0d",
+  "updated_at": "2026-11-10 11:05 UTC",
+  "fingerprint": "1bfbe8d44406c18b1c6655953cc26188",
   "total": 2281,
-  "working": 1584,
-  "in_grace_period": 13,
-  "dead": 697,
-  "hd_channels": 785,
+  "working": 1587,
+  "in_grace_period": 21,
+  "dead": 694,
+  "hd_channels": 787,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 70,
+      "working": 71,
       "hd": 42
     },
     "Bhojpuri": {
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 479,
-      "hd": 216
+      "working": 481,
+      "hd": 217
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 37,
       "working": 19,
-      "hd": 9
+      "hd": 10
     },
     "Polish": {
       "total": 10,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 262,
-      "working": 167
+      "working": 169
     },
     "General": {
       "total": 186,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 133,
-      "working": 85
+      "working": 86
     },
     "Music": {
       "total": 138,
@@ -2292,11 +2292,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
       "reason": "HTTP 404"
@@ -2782,16 +2777,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
@@ -3144,12 +3129,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -3159,7 +3144,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -3799,7 +3784,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
