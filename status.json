@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 16:46 UTC",
-  "fingerprint": "48204d4ee71356971879bc7ddb9cd4ab",
+  "updated_at": "2026-11-10 17:31 UTC",
+  "fingerprint": "91e1f9ca225d7e9ccbcb4eb54d4cf7b3",
   "total": 2281,
-  "working": 1796,
-  "in_grace_period": 20,
-  "dead": 485,
-  "hd_channels": 789,
+  "working": 1795,
+  "in_grace_period": 14,
+  "dead": 486,
+  "hd_channels": 791,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 293,
-      "working": 210,
-      "hd": 107
+      "working": 209,
+      "hd": 106
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 593,
-      "hd": 219
+      "working": 594,
+      "hd": 220
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 37,
       "working": 21,
-      "hd": 10
+      "hd": 11
     },
     "Polish": {
       "total": 10,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 51,
       "working": 37,
-      "hd": 19
+      "hd": 20
     },
     "Santali": {
       "total": 1,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 133,
+      "working": 132,
       "hd": 54
     },
     "Thai": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 233,
-      "working": 207
+      "working": 206
     },
     "Documentary": {
       "total": 12,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 186,
-      "working": 154
+      "working": 155
     },
     "Kids": {
       "total": 28,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 540,
-      "working": 329
+      "working": 328
     },
     "Travel": {
       "total": 6,
@@ -474,11 +474,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -750,6 +745,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -1212,6 +1212,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1400,6 +1405,11 @@
       "name": "SVBC 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSVBC2TAMIL/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "SVBC 4 (1080p)",
+      "url": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Swadesh News (576p)",
@@ -1720,16 +1730,6 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
@@ -2089,12 +2089,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2104,7 +2104,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2640,6 +2640,11 @@
       "name": "DAZN 2 Germany",
       "url": "http://45.142.104.86/stream/15/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "MUTV",
+      "url": "http://103.253.74.210:7070/stream/136/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "ACC Network (720p)",
