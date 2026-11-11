@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-11 11:53 UTC",
-  "fingerprint": "960eda238d4697262c238872c3b2e0e5",
+  "updated_at": "2026-11-11 12:45 UTC",
+  "fingerprint": "420b1bff70d24cd961ef5deed1e24544",
   "total": 2258,
-  "working": 1806,
-  "in_grace_period": 17,
-  "dead": 452,
+  "working": 1804,
+  "in_grace_period": 20,
+  "dead": 454,
   "hd_channels": 794,
   "languages": {
     "Albanian": {
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 717,
-      "working": 594,
-      "hd": 220
+      "working": 593,
+      "hd": 219
     },
     "Hungarian": {
       "total": 11,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 51,
       "working": 37,
-      "hd": 19
+      "hd": 20
     },
     "Santali": {
       "total": 1,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 168,
-      "working": 134,
+      "working": 133,
       "hd": 55
     },
     "Thai": {
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 258,
-      "working": 202
+      "working": 201
     },
     "General": {
       "total": 186,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 132,
-      "working": 102
+      "working": 101
     },
     "Music": {
       "total": 138,
@@ -687,6 +687,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -944,7 +949,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 400"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1637,6 +1642,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
@@ -1974,12 +1984,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -1989,7 +1999,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2454,12 +2464,12 @@
     {
       "name": "Sky Sports F1 (720p)",
       "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sky Sports NFL (720p)",
       "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "TNT Sports 1",
@@ -2484,7 +2494,7 @@
     {
       "name": "Sky Sports News (576p)",
       "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "DAZN 1 Germany",
