@@ -1,5 +1,5 @@
 #EXTM3U
-# General channels, one link per channel, all languages, updated 2026-11-11 04:15 UTC
+# General channels, one link per channel, all languages, updated 2026-11-11 05:11 UTC
 #EXTINF:-1 tvg-id="Prime.sy@HD" x-categories="General;Sports" tvg-logo="https://prime1tv.com/wp-content/uploads/2025/12/7-1.png" x-category="General" tvg-language="Arabic" group-title="Arabic",Prime
 https://cdn.bestream.io/prime/prime.m3u8
 #EXTINF:-1 tvg-id="DDAssam.in@SD" x-categories="General" tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540" x-category="General" tvg-language="Assamese" group-title="Assamese",DD Assam
@@ -147,13 +147,13 @@ https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ShekinahTV.in@SD" tvg-logo="https://i.imgur.com/6hTshsG.png" x-categories="General" x-category="General" tvg-language="Malayalam" group-title="Malayalam" height="576",Shekinah TV
 https://cdn.pishow.tv/ott/live/447/master.m3u8
-#EXTINF:-1 tvg-id="Starnet.in@SD" x-categories="General" tvg-logo="https://i.imgur.com/J3jB7Kr.png" x-category="General" tvg-language="Malayalam" group-title="Malayalam" height="480",Starnet
+#EXTINF:-1 tvg-id="Starnet.in@SD" x-categories="General" tvg-logo="https://i.imgur.com/J3jB7Kr.png" x-category="General" tvg-language="Malayalam" group-title="Malayalam",Starnet
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 #EXTINF:-1 tvg-id="UTVPalakkad.in@SD" x-categories="General" tvg-logo="https://utvpkd.in/assets/img/logo.png" x-category="General" tvg-language="Malayalam" group-title="Malayalam",UTV Palakkad
 https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="VCV.in@SD" x-categories="General" tvg-logo="https://i.imgur.com/KbU36xI.png" x-category="General" tvg-language="Malayalam" group-title="Malayalam",VCV
 https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
-#EXTINF:-1 tvg-id="Vision.in@SD" x-categories="General" tvg-logo="https://i.imgur.com/YozqNL3.jpg" x-category="General" tvg-language="Malayalam" group-title="Malayalam" height="576",Vision
+#EXTINF:-1 tvg-id="Vision.in@SD" x-categories="General" tvg-logo="https://i.imgur.com/YozqNL3.jpg" x-category="General" tvg-language="Malayalam" group-title="Malayalam",Vision
 http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
 #EXTINF:-1 tvg-id="DDGoa.in@SD" x-categories="General" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD-Goa-Logo_2000_X_1125_Transpharent.png" x-category="General" tvg-language="Marathi" group-title="Marathi",DD Goa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -175,11 +175,10 @@ https://mumt05.tangotv.in/87NeALx2NANDIGHOSHATV/index.m3u8
 https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" x-categories="General" x-category="General" tvg-language="Other" group-title="Other",Sarv Dharam Sangam
 https://live.castmaxcloud.com/live/sdsangam2.m3u8
-#EXTINF:-1 tvg-id="Fast1.in@SD" tvg-logo="https://papaji.freetvindia.com/media/channels/fast1.png" x-categories="General" x-category="General" tvg-language="Punjabi" group-title="Punjabi" height="576",Fast1
-https://cdn.pishow.tv/ott/live/10008/master.m3u8
-#EXTINF:-1 tvg-id="MHOne.in@SD" x-categories="General" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/mh1_Music.png" x-category="General" tvg-language="Punjabi" group-title="Punjabi" height="576",MH One
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/353/master.m3u8
+#EXTINF:-1 tvg-id="Fast1.in@SD" tvg-logo="https://papaji.freetvindia.com/media/channels/fast1.png" x-categories="General" x-category="General" tvg-language="Punjabi" group-title="Punjabi" height="720",Fast1
+https://samitaorigin.tangotv.in/FAST1/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="MHOne.in@SD" x-categories="General" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/mh1_Music.png" x-category="General" tvg-language="Punjabi" group-title="Punjabi" height="720",MH One
+https://samitaorigin.tangotv.in/MHONE/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="TVRSport.ro@SD" x-categories="General;Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png" x-category="General" tvg-language="Romanian" group-title="Romanian" height="1440",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KTVBangla.in@SD" x-categories="General" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2f8e3b371c660faa2f43a7f0942948a4.png" x-category="General" tvg-language="Santali" group-title="Santali" height="720",KTV Bangla
