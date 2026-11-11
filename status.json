@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 13:56 UTC",
-  "fingerprint": "840587a4472159e341b8483997257a8c",
+  "updated_at": "2026-11-11 14:41 UTC",
+  "fingerprint": "555be29ecd73dffe152ee3472cdae35b",
   "total": 2258,
   "working": 1802,
-  "in_grace_period": 20,
+  "in_grace_period": 21,
   "dead": 456,
-  "hd_channels": 790,
+  "hd_channels": 788,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 281,
       "working": 211,
-      "hd": 108
+      "hd": 106
     },
     "Estonian": {
       "total": 1,
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 717,
       "working": 592,
-      "hd": 219
+      "hd": 218
     },
     "Hungarian": {
       "total": 11,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 51,
       "working": 37,
-      "hd": 19
+      "hd": 20
     },
     "Santali": {
       "total": 1,
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 258,
-      "working": 201
+      "working": 202
     },
     "General": {
       "total": 186,
-      "working": 157
+      "working": 155
     },
     "Kids": {
       "total": 24,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 132,
-      "working": 99
+      "working": 100
     },
     "Music": {
       "total": 138,
@@ -427,11 +427,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
@@ -459,6 +454,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1017,6 +1017,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1134,11 +1139,6 @@
     {
       "name": "Punjabi Beats HD (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1514,7 +1514,7 @@
     {
       "name": "Zee Tamil (576p) [Geo-blocked]",
       "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Zee Tamil HD (1080p)",
