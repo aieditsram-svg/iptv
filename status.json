@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 14:41 UTC",
-  "fingerprint": "555be29ecd73dffe152ee3472cdae35b",
+  "updated_at": "2026-11-11 15:26 UTC",
+  "fingerprint": "18a623b12b20bf52544750df6995a831",
   "total": 2258,
-  "working": 1802,
-  "in_grace_period": 21,
-  "dead": 456,
-  "hd_channels": 788,
+  "working": 1801,
+  "in_grace_period": 18,
+  "dead": 457,
+  "hd_channels": 789,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 281,
-      "working": 211,
-      "hd": 106
+      "working": 210,
+      "hd": 107
     },
     "Estonian": {
       "total": 1,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 10
+      "hd": 11
     },
     "Polish": {
       "total": 10,
@@ -240,7 +240,7 @@
     "Telugu": {
       "total": 168,
       "working": 133,
-      "hd": 55
+      "hd": 54
     },
     "Thai": {
       "total": 1,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 186,
-      "working": 155
+      "working": 156
     },
     "Kids": {
       "total": 24,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 132,
-      "working": 100
+      "working": 99
     },
     "Music": {
       "total": 138,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 694,
-      "working": 623
+      "working": 621
     },
     "Outdoor": {
       "total": 17,
@@ -872,6 +872,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Indywood TV (720p)",
+      "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "INews (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -1017,11 +1022,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1050,6 +1050,11 @@
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "News 24 (576p)",
+      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "News Nation (576p)",
@@ -1719,7 +1724,7 @@
     {
       "name": "T Sports (1080p)",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
@@ -1769,7 +1774,7 @@
     {
       "name": "SporTV 3 (720p)",
       "url": "http://170.83.49.66:8083/SPORTV3HD/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "TVMatic Fight (720p)",
@@ -1999,12 +2004,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2014,7 +2019,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis (1080p)",
