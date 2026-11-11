@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 19:42 UTC",
-  "fingerprint": "533c4b32504b7af988c679f031e198f8",
+  "updated_at": "2026-11-11 21:06 UTC",
+  "fingerprint": "114937298f73862827c9f65ffffccd5a",
   "total": 2258,
-  "working": 1806,
-  "in_grace_period": 6,
-  "dead": 452,
-  "hd_channels": 792,
+  "working": 1805,
+  "in_grace_period": 5,
+  "dead": 453,
+  "hd_channels": 791,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 281,
       "working": 211,
-      "hd": 109
+      "hd": 108
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 717,
-      "working": 592,
+      "working": 591,
       "hd": 217
     },
     "Hungarian": {
@@ -224,7 +224,7 @@
     },
     "Spanish": {
       "total": 110,
-      "working": 67,
+      "working": 68,
       "hd": 48
     },
     "Swedish": {
@@ -264,7 +264,7 @@
     },
     "Vietnamese": {
       "total": 6,
-      "working": 6,
+      "working": 5,
       "hd": 4
     }
   },
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 258,
-      "working": 204
+      "working": 203
     },
     "General": {
       "total": 186,
@@ -1642,6 +1642,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
@@ -1664,11 +1669,6 @@
     {
       "name": "El-Heddaf TV (1080p)",
       "url": "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "TyC Sports USA",
-      "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1839,7 +1839,7 @@
     {
       "name": "Alfa Sport (1080p) [Not 24/7]",
       "url": "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx",
-      "reason": "HTTP 403"
+      "reason": "TimeoutError"
     },
     {
       "name": "Sporty TV",
@@ -1979,12 +1979,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -1994,7 +1994,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2584,7 +2584,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
@@ -2630,6 +2630,11 @@
       "name": "Willow (720p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "HTV Sports (1080i)",
+      "url": "https://vmttv.dpdns.org/tv360?id=htv-the-thao",
+      "reason": "HTTP 404"
     }
   ]
 }
