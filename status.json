@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 22:52 UTC",
-  "fingerprint": "749a704014b0ce8ce62d3a712a028c8b",
+  "updated_at": "2026-11-11 23:38 UTC",
+  "fingerprint": "a2dd0f0d62e2dc3101faa8d75aba334b",
   "total": 2258,
-  "working": 1809,
-  "in_grace_period": 6,
-  "dead": 449,
-  "hd_channels": 790,
+  "working": 1808,
+  "in_grace_period": 9,
+  "dead": 450,
+  "hd_channels": 792,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 122,
-      "working": 89,
+      "working": 88,
       "hd": 42
     },
     "Bhojpuri": {
@@ -70,7 +70,7 @@
     "English": {
       "total": 281,
       "working": 211,
-      "hd": 107
+      "hd": 109
     },
     "Estonian": {
       "total": 1,
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 717,
       "working": 595,
-      "hd": 218
+      "hd": 217
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 11
+      "hd": 12
     },
     "Polish": {
       "total": 10,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 258,
-      "working": 204
+      "working": 203
     },
     "General": {
       "total": 186,
@@ -935,6 +935,11 @@
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Kolkata TV (576p)",
@@ -1969,12 +1974,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -1984,7 +1989,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis (1080p)",
