@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-11 17:11 UTC",
-  "fingerprint": "af258dd3deb7801526e80192870295e1",
+  "updated_at": "2026-11-11 17:59 UTC",
+  "fingerprint": "ab734838f8b6196aa9ab10e4e1564114",
   "total": 2258,
-  "working": 1802,
-  "in_grace_period": 13,
-  "dead": 456,
+  "working": 1803,
+  "in_grace_period": 7,
+  "dead": 455,
   "hd_channels": 789,
   "languages": {
     "Albanian": {
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 122,
-      "working": 86,
+      "working": 87,
       "hd": 41
     },
     "Bhojpuri": {
@@ -69,7 +69,7 @@
     },
     "English": {
       "total": 281,
-      "working": 210,
+      "working": 211,
       "hd": 108
     },
     "Estonian": {
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 717,
-      "working": 594,
+      "working": 593,
       "hd": 217
     },
     "Hungarian": {
@@ -199,8 +199,8 @@
     },
     "Russian": {
       "total": 51,
-      "working": 36,
-      "hd": 19
+      "working": 37,
+      "hd": 20
     },
     "Santali": {
       "total": 1,
@@ -295,7 +295,7 @@
     },
     "Cricket": {
       "total": 21,
-      "working": 13
+      "working": 12
     },
     "Culture": {
       "total": 18,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 258,
-      "working": 203
+      "working": 204
     },
     "General": {
       "total": 186,
@@ -619,6 +619,11 @@
     {
       "name": "DD Punjabi (576p)",
       "url": "https://fta.ektv.in/live/177/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Sports (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlDDSPORTS/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1280,11 +1285,6 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Sports Select 2 HD (720p)",
@@ -1972,11 +1972,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Setanta Sports 2 Eurasia (1080p)",
-      "url": "http://stream.mcquack.net/235/index.m3u8",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "5Plus (1080p)",
       "url": "http://89.33.29.115:8080/sportplus/index.m3u8",
       "reason": "HTTP 403"
@@ -1999,12 +1994,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2014,7 +2009,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "SuperTennis (1080p)",
@@ -2604,7 +2599,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
