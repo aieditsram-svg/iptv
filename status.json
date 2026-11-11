@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-11 22:07 UTC",
-  "fingerprint": "679643edf669b0b2e3ded13652013035",
+  "updated_at": "2026-11-11 22:52 UTC",
+  "fingerprint": "749a704014b0ce8ce62d3a712a028c8b",
   "total": 2258,
   "working": 1809,
-  "in_grace_period": 8,
+  "in_grace_period": 6,
   "dead": 449,
   "hd_channels": 790,
   "languages": {
@@ -35,7 +35,7 @@
     "Bhojpuri": {
       "total": 33,
       "working": 31,
-      "hd": 13
+      "hd": 12
     },
     "Bulgarian": {
       "total": 6,
@@ -49,7 +49,7 @@
     },
     "Chhattisgarhi": {
       "total": 3,
-      "working": 2,
+      "working": 3,
       "hd": 0
     },
     "Chinese": {
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 717,
-      "working": 594,
+      "working": 595,
       "hd": 218
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 10
+      "hd": 11
     },
     "Polish": {
       "total": 10,
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 51,
-      "working": 37,
+      "working": 36,
       "hd": 20
     },
     "Santali": {
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 694,
-      "working": 622
+      "working": 623
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 532,
-      "working": 337
+      "working": 336
     },
     "Travel": {
       "total": 6,
@@ -875,11 +875,6 @@
       "name": "INews (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "INH 24x7 (360p)",
-      "url": "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Jaihind TV (576p)",
@@ -1690,6 +1685,11 @@
       "name": "T Sports (1080p)",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Беларусь 5 Интернет (1080p) [Not 24/7]",
+      "url": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+      "reason": "RemoteDisconnected"
     },
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
@@ -2569,7 +2569,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
