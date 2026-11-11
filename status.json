@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 23:30 UTC",
-  "fingerprint": "4f9138fc69e224d16e0de3bf37796b63",
+  "updated_at": "2026-11-11 00:00 UTC",
+  "fingerprint": "8e2b65457e3b5fd6b7f922126a542810",
   "total": 2281,
-  "working": 1795,
-  "in_grace_period": 31,
-  "dead": 486,
-  "hd_channels": 789,
+  "working": 1796,
+  "in_grace_period": 43,
+  "dead": 485,
+  "hd_channels": 786,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -20,7 +20,7 @@
     "Assamese": {
       "total": 40,
       "working": 34,
-      "hd": 12
+      "hd": 10
     },
     "Belarusian": {
       "total": 2,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 88,
+      "working": 89,
       "hd": 42
     },
     "Bhojpuri": {
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 293,
-      "working": 209,
-      "hd": 108
+      "working": 208,
+      "hd": 107
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 593,
-      "hd": 219
+      "working": 592,
+      "hd": 218
     },
     "Hungarian": {
       "total": 11,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 133,
+      "working": 134,
       "hd": 54
     },
     "Thai": {
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 186,
-      "working": 153
+      "working": 152
     },
     "Kids": {
       "total": 28,
@@ -335,11 +335,11 @@
     },
     "Movies": {
       "total": 133,
-      "working": 102
+      "working": 103
     },
     "Music": {
       "total": 138,
-      "working": 116
+      "working": 117
     },
     "News": {
       "total": 694,
@@ -747,11 +747,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -919,6 +914,11 @@
     {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1260,11 +1260,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -2109,12 +2104,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2124,7 +2119,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
