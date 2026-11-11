@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 10:10 UTC",
-  "fingerprint": "29986fa0544c71ebdf46cf813fa66a90",
+  "updated_at": "2026-11-11 11:03 UTC",
+  "fingerprint": "0aa047caf4d27f020d257465c66b6bd9",
   "total": 2258,
-  "working": 1795,
-  "in_grace_period": 7,
-  "dead": 463,
-  "hd_channels": 787,
+  "working": 1798,
+  "in_grace_period": 9,
+  "dead": 460,
+  "hd_channels": 789,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 717,
-      "working": 591,
+      "working": 593,
       "hd": 218
     },
     "Hungarian": {
@@ -154,8 +154,8 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 88,
-      "hd": 30
+      "working": 90,
+      "hd": 32
     },
     "Marathi": {
       "total": 51,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 168,
-      "working": 134,
+      "working": 133,
       "hd": 55
     },
     "Thai": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 233,
-      "working": 208
+      "working": 209
     },
     "Documentary": {
       "total": 9,
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 258,
-      "working": 202
+      "working": 201
     },
     "General": {
       "total": 186,
-      "working": 155
+      "working": 157
     },
     "Kids": {
       "total": 24,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 532,
-      "working": 328
+      "working": 329
     },
     "Travel": {
       "total": 6,
@@ -542,11 +542,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "CCV (480p)",
-      "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Chintpurni Live (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8",
       "reason": "HTTP 403"
@@ -710,6 +705,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -912,11 +912,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Kabaddi 24x7 (720p)",
-      "url": "https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kairali Arabia (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8",
       "reason": "HTTP 403"
@@ -950,11 +945,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1054,7 +1044,7 @@
     {
       "name": "News 24 (576p)",
       "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "RemoteDisconnected"
     },
     {
       "name": "News Nation (576p)",
@@ -1424,11 +1414,6 @@
     {
       "name": "Vasanth TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "VCV (720p) [Not 24/7]",
-      "url": "https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -2639,7 +2624,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
