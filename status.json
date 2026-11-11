@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 17:59 UTC",
-  "fingerprint": "ab734838f8b6196aa9ab10e4e1564114",
+  "updated_at": "2026-11-11 18:43 UTC",
+  "fingerprint": "a5040f76da6311f2d96c7cede016fb99",
   "total": 2258,
-  "working": 1803,
-  "in_grace_period": 7,
-  "dead": 455,
-  "hd_channels": 789,
+  "working": 1806,
+  "in_grace_period": 16,
+  "dead": 452,
+  "hd_channels": 791,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,8 +29,8 @@
     },
     "Bengali": {
       "total": 122,
-      "working": 87,
-      "hd": 41
+      "working": 89,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -184,7 +184,7 @@
     },
     "Portuguese": {
       "total": 31,
-      "working": 11,
+      "working": 12,
       "hd": 9
     },
     "Punjabi": {
@@ -283,7 +283,7 @@
     },
     "Classic": {
       "total": 3,
-      "working": 1
+      "working": 2
     },
     "Comedy": {
       "total": 8,
@@ -335,11 +335,11 @@
     },
     "Movies": {
       "total": 132,
-      "working": 99
+      "working": 100
     },
     "Music": {
       "total": 138,
-      "working": 116
+      "working": 117
     },
     "News": {
       "total": 694,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 532,
-      "working": 334
+      "working": 335
     },
     "Travel": {
       "total": 6,
@@ -1447,16 +1447,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ZB Cinema (1080p)",
-      "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "ZB Music (720p)",
-      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Zee 24 Ghanta (576p)",
       "url": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8",
       "reason": "TimeoutError"
@@ -1722,11 +1712,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Band Sports (720p)",
-      "url": "http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Canal do Inter (720p) [Not 24/7]",
       "url": "https://video01.soultv.com.br/internacional/internacional/playlist.m3u8",
       "reason": "URLError"
@@ -1764,7 +1749,7 @@
     {
       "name": "SporTV 3 (720p)",
       "url": "http://170.83.49.66:8083/SPORTV3HD/index.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "TVMatic Fight (720p)",
@@ -1994,12 +1979,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2009,7 +1994,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis (1080p)",
