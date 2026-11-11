@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 16:17 UTC",
-  "fingerprint": "a4c34e61be01af2b9f0ae40179f85005",
+  "updated_at": "2026-11-11 17:11 UTC",
+  "fingerprint": "af258dd3deb7801526e80192870295e1",
   "total": 2258,
   "working": 1802,
-  "in_grace_period": 14,
+  "in_grace_period": 13,
   "dead": 456,
-  "hd_channels": 788,
+  "hd_channels": 789,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 122,
-      "working": 85,
+      "working": 86,
       "hd": 41
     },
     "Bhojpuri": {
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 717,
-      "working": 593,
-      "hd": 218
+      "working": 594,
+      "hd": 217
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 10
+      "hd": 11
     },
     "Polish": {
       "total": 10,
@@ -184,12 +184,12 @@
     },
     "Portuguese": {
       "total": 31,
-      "working": 12,
+      "working": 11,
       "hd": 9
     },
     "Punjabi": {
       "total": 144,
-      "working": 134,
+      "working": 133,
       "hd": 53
     },
     "Romanian": {
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 51,
-      "working": 37,
+      "working": 36,
       "hd": 19
     },
     "Santali": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 233,
-      "working": 208
+      "working": 209
     },
     "Documentary": {
       "total": 9,
@@ -339,7 +339,7 @@
     },
     "Music": {
       "total": 138,
-      "working": 115
+      "working": 116
     },
     "News": {
       "total": 694,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 532,
-      "working": 336
+      "working": 334
     },
     "Travel": {
       "total": 6,
@@ -697,11 +697,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -832,11 +827,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Harvest USA (576p)",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Hi Dost! (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
       "reason": "HTTP 403"
@@ -850,6 +840,11 @@
       "name": "Hindu Dharmam (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Hindu Dharmam (576p)",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Hosanna TV Hindi (720p)",
@@ -965,11 +960,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1117,6 +1107,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Pitaara (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Pradesh24 Gujarati (1080p)",
       "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
       "reason": "HTTP 404"
@@ -1195,11 +1190,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -1732,6 +1722,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Band Sports (720p)",
+      "url": "http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Canal do Inter (720p) [Not 24/7]",
       "url": "https://video01.soultv.com.br/internacional/internacional/playlist.m3u8",
       "reason": "URLError"
@@ -1975,6 +1970,11 @@
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Setanta Sports 2 Eurasia (1080p)",
+      "url": "http://stream.mcquack.net/235/index.m3u8",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "5Plus (1080p)",
@@ -2604,7 +2604,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
