@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 11:03 UTC",
-  "fingerprint": "0aa047caf4d27f020d257465c66b6bd9",
+  "updated_at": "2026-11-11 11:53 UTC",
+  "fingerprint": "960eda238d4697262c238872c3b2e0e5",
   "total": 2258,
-  "working": 1798,
-  "in_grace_period": 9,
-  "dead": 460,
-  "hd_channels": 789,
+  "working": 1806,
+  "in_grace_period": 17,
+  "dead": 452,
+  "hd_channels": 794,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -39,8 +39,8 @@
     },
     "Bulgarian": {
       "total": 6,
-      "working": 0,
-      "hd": 0
+      "working": 6,
+      "hd": 3
     },
     "Catalan": {
       "total": 4,
@@ -49,7 +49,7 @@
     },
     "Chhattisgarhi": {
       "total": 3,
-      "working": 3,
+      "working": 2,
       "hd": 0
     },
     "Chinese": {
@@ -70,7 +70,7 @@
     "English": {
       "total": 281,
       "working": 211,
-      "hd": 107
+      "hd": 108
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 717,
-      "working": 593,
-      "hd": 218
+      "working": 594,
+      "hd": 220
     },
     "Hungarian": {
       "total": 11,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 51,
       "working": 37,
-      "hd": 20
+      "hd": 19
     },
     "Santali": {
       "total": 1,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 168,
-      "working": 133,
+      "working": 134,
       "hd": 55
     },
     "Thai": {
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 258,
-      "working": 201
+      "working": 202
     },
     "General": {
       "total": 186,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 694,
-      "working": 622
+      "working": 623
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 532,
-      "working": 329
+      "working": 335
     },
     "Travel": {
       "total": 6,
@@ -707,11 +707,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -872,6 +867,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "INH 24x7 (360p)",
+      "url": "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Jaihind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8",
       "reason": "HTTP 403"
@@ -944,7 +944,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "HTTP 400"
+      "reason": "URLError"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1007,11 +1007,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1040,11 +1035,6 @@
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "News 24 (576p)",
-      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
-      "reason": "RemoteDisconnected"
     },
     {
       "name": "News Nation (576p)",
@@ -1762,26 +1752,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Max Sport 1 (720p)",
-      "url": "http://213.91.179.28:8000/play/a0as",
-      "reason": "URLError"
-    },
-    {
-      "name": "Max Sport 2 (720p)",
-      "url": "http://213.91.179.28:8000/play/a0at",
-      "reason": "URLError"
-    },
-    {
-      "name": "Max Sport 3 (720p)",
-      "url": "http://213.91.179.28:8000/play/a0ar",
-      "reason": "URLError"
-    },
-    {
-      "name": "Max Sport 4",
-      "url": "http://213.91.179.28:8000/play/a05n",
-      "reason": "URLError"
-    },
-    {
       "name": "Fight Network (1080p)",
       "url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8",
       "reason": "TimeoutError"
@@ -1899,16 +1869,6 @@
     {
       "name": "Eurosport 2 Turkiye",
       "url": "https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Eurosport 1 Bulgaria",
-      "url": "http://213.91.179.28:8000/play/a05y",
-      "reason": "URLError"
-    },
-    {
-      "name": "Eurosport 2 Bulgaria",
-      "url": "http://213.91.179.28:8000/play/a04b",
       "reason": "URLError"
     },
     {
@@ -2494,12 +2454,12 @@
     {
       "name": "Sky Sports F1 (720p)",
       "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sky Sports NFL (720p)",
       "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "TNT Sports 1",
@@ -2524,7 +2484,7 @@
     {
       "name": "Sky Sports News (576p)",
       "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "DAZN 1 Germany",
@@ -2624,7 +2584,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
