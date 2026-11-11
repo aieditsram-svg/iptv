@@ -1,5 +1,5 @@
 #EXTM3U
-# Working Italian channels, updated 2026-11-11 00:00 UTC
+# Working Italian channels, updated 2026-11-11 00:44 UTC
 #EXTINF:-1 tvg-id="ACISportTV.it@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/U8cHMOt.png" x-category="Sports" tvg-language="Italian" group-title="Italian" height="1080",ACI Sport TV (1080p)
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Italy" x-categories="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg" x-category="Sports" tvg-language="Italian" group-title="Italian" height="720",FIFA+ Italy (720p)
@@ -18,5 +18,8 @@ https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
 https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="SportitaliaSolocalcio.it@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/hu56Ya5.png" x-category="Sports" tvg-language="Italian" group-title="Italian" height="1080",Sportitalia Solocalcio (1080p)
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperTennis.it@SD" x-categories="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png" x-category="Sports" tvg-language="Italian" group-title="Italian",SuperTennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://57.128.225.206/stream/7/index.m3u8
 #EXTINF:-1 tvg-id="TRSport.it@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/ELXmaqg.png" x-category="Sports" tvg-language="Italian" group-title="Italian" height="480",TR Sport (480p)
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
