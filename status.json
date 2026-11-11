@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 08:21 UTC",
-  "fingerprint": "f724665653907366c879d4fc68a2f115",
+  "updated_at": "2026-11-11 09:16 UTC",
+  "fingerprint": "bef7ca5f8ac9fbd847990ddda36bd3c4",
   "total": 2258,
-  "working": 1806,
-  "in_grace_period": 22,
-  "dead": 452,
-  "hd_channels": 793,
+  "working": 1798,
+  "in_grace_period": 24,
+  "dead": 460,
+  "hd_channels": 787,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -30,7 +30,7 @@
     "Bengali": {
       "total": 122,
       "working": 89,
-      "hd": 43
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,8 +39,8 @@
     },
     "Bulgarian": {
       "total": 6,
-      "working": 6,
-      "hd": 3
+      "working": 0,
+      "hd": 0
     },
     "Catalan": {
       "total": 4,
@@ -70,7 +70,7 @@
     "English": {
       "total": 281,
       "working": 211,
-      "hd": 109
+      "hd": 107
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 717,
-      "working": 594,
-      "hd": 218
+      "working": 593,
+      "hd": 219
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 11
+      "hd": 10
     },
     "Polish": {
       "total": 10,
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 134,
+      "working": 133,
       "hd": 53
     },
     "Romanian": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 233,
-      "working": 209
+      "working": 208
     },
     "Documentary": {
       "total": 9,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 186,
-      "working": 153
+      "working": 154
     },
     "Kids": {
       "total": 24,
@@ -339,11 +339,11 @@
     },
     "Music": {
       "total": 138,
-      "working": 117
+      "working": 116
     },
     "News": {
       "total": 694,
-      "working": 625
+      "working": 624
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 532,
-      "working": 334
+      "working": 328
     },
     "Travel": {
       "total": 6,
@@ -390,6 +390,11 @@
       "name": "9X Jhakaas (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -454,11 +459,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -957,6 +957,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -1015,6 +1020,11 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1752,6 +1762,26 @@
       "reason": "URLError"
     },
     {
+      "name": "Max Sport 1 (720p)",
+      "url": "http://213.91.179.28:8000/play/a0as",
+      "reason": "URLError"
+    },
+    {
+      "name": "Max Sport 2 (720p)",
+      "url": "http://213.91.179.28:8000/play/a0at",
+      "reason": "URLError"
+    },
+    {
+      "name": "Max Sport 3 (720p)",
+      "url": "http://213.91.179.28:8000/play/a0ar",
+      "reason": "URLError"
+    },
+    {
+      "name": "Max Sport 4",
+      "url": "http://213.91.179.28:8000/play/a05n",
+      "reason": "URLError"
+    },
+    {
       "name": "Fight Network (1080p)",
       "url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8",
       "reason": "TimeoutError"
@@ -1869,6 +1899,16 @@
     {
       "name": "Eurosport 2 Turkiye",
       "url": "https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Eurosport 1 Bulgaria",
+      "url": "http://213.91.179.28:8000/play/a05y",
+      "reason": "URLError"
+    },
+    {
+      "name": "Eurosport 2 Bulgaria",
+      "url": "http://213.91.179.28:8000/play/a04b",
       "reason": "URLError"
     },
     {
