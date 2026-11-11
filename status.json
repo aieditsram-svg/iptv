@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 12:45 UTC",
-  "fingerprint": "420b1bff70d24cd961ef5deed1e24544",
+  "updated_at": "2026-11-11 13:56 UTC",
+  "fingerprint": "840587a4472159e341b8483997257a8c",
   "total": 2258,
-  "working": 1804,
+  "working": 1802,
   "in_grace_period": 20,
-  "dead": 454,
-  "hd_channels": 794,
+  "dead": 456,
+  "hd_channels": 790,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,8 +29,8 @@
     },
     "Bengali": {
       "total": 122,
-      "working": 87,
-      "hd": 43
+      "working": 85,
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 33,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 717,
-      "working": 593,
+      "working": 592,
       "hd": 219
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 11
+      "hd": 10
     },
     "Polish": {
       "total": 10,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 51,
       "working": 37,
-      "hd": 20
+      "hd": 19
     },
     "Santali": {
       "total": 1,
@@ -224,7 +224,7 @@
     },
     "Spanish": {
       "total": 110,
-      "working": 66,
+      "working": 67,
       "hd": 48
     },
     "Swedish": {
@@ -283,7 +283,7 @@
     },
     "Classic": {
       "total": 3,
-      "working": 2
+      "working": 1
     },
     "Comedy": {
       "total": 8,
@@ -335,11 +335,11 @@
     },
     "Movies": {
       "total": 132,
-      "working": 101
+      "working": 99
     },
     "Music": {
       "total": 138,
-      "working": 116
+      "working": 115
     },
     "News": {
       "total": 694,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 532,
-      "working": 335
+      "working": 336
     },
     "Travel": {
       "total": 6,
@@ -425,6 +425,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -1442,6 +1447,16 @@
       "reason": "URLError"
     },
     {
+      "name": "ZB Cinema (1080p)",
+      "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "ZB Music (720p)",
+      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Zee 24 Ghanta (576p)",
       "url": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8",
       "reason": "TimeoutError"
@@ -1499,7 +1514,7 @@
     {
       "name": "Zee Tamil (576p) [Geo-blocked]",
       "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Zee Tamil HD (1080p)",
@@ -2384,11 +2399,6 @@
     {
       "name": "Teledeporte",
       "url": "https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Real Madrid TV (1080p)",
-      "url": "http://90.163.85.113:8093/stream/26/index.m3u8",
       "reason": "URLError"
     },
     {
