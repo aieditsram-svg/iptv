@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 13:27 UTC",
-  "fingerprint": "5a706e2c06793e25934b5d4bbb48c3d4",
+  "updated_at": "2026-11-12 14:30 UTC",
+  "fingerprint": "c6fedc45e614308248323d744b7de307",
   "total": 2358,
   "working": 1920,
-  "in_grace_period": 16,
+  "in_grace_period": 20,
   "dead": 438,
-  "hd_channels": 822,
+  "hd_channels": 820,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 126,
-      "working": 93,
+      "working": 92,
       "hd": 44
     },
     "Bhojpuri": {
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 628,
+      "working": 630,
       "hd": 228
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 11
+      "hd": 10
     },
     "Polish": {
       "total": 10,
@@ -190,7 +190,7 @@
     "Punjabi": {
       "total": 165,
       "working": 154,
-      "hd": 57
+      "hd": 56
     },
     "Romanian": {
       "total": 14,
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 54,
-      "working": 39,
+      "working": 38,
       "hd": 21
     },
     "Santali": {
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 267,
-      "working": 208
+      "working": 209
     },
     "General": {
       "total": 195,
@@ -339,11 +339,11 @@
     },
     "Music": {
       "total": 142,
-      "working": 120
+      "working": 119
     },
     "News": {
       "total": 756,
-      "working": 681
+      "working": 682
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 530,
-      "working": 343
+      "working": 342
     },
     "Travel": {
       "total": 6,
@@ -1047,11 +1047,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "News 24 (576p)",
-      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
@@ -1205,6 +1200,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -1600,11 +1600,6 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
@@ -2242,6 +2237,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Match! Ultra (1080p)",
+      "url": "http://31.148.5.241/kanal_3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Match! Ultra (576p)",
       "url": "http://flussonic.linkintel.ru/match/index.m3u8",
       "reason": "URLError"
@@ -2514,7 +2514,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
