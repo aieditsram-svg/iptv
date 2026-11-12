@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 10:26 UTC",
-  "fingerprint": "118d42e6bc471aa410e2284e99ef859e",
+  "updated_at": "2026-11-12 11:24 UTC",
+  "fingerprint": "f0bb8558d72dcaf1eb43c78027aa6175",
   "total": 2358,
-  "working": 1922,
-  "in_grace_period": 21,
-  "dead": 436,
-  "hd_channels": 816,
+  "working": 1923,
+  "in_grace_period": 13,
+  "dead": 435,
+  "hd_channels": 820,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 747,
       "working": 631,
-      "hd": 226
+      "hd": 227
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 9
+      "hd": 10
     },
     "Polish": {
       "total": 10,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 54,
       "working": 39,
-      "hd": 21
+      "hd": 22
     },
     "Santali": {
       "total": 2,
@@ -239,8 +239,8 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 140,
-      "hd": 56
+      "working": 141,
+      "hd": 57
     },
     "Thai": {
       "total": 1,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 251,
-      "working": 227
+      "working": 228
     },
     "Documentary": {
       "total": 8,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 195,
-      "working": 167
+      "working": 166
     },
     "Kids": {
       "total": 22,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 756,
-      "working": 682
+      "working": 683
     },
     "Outdoor": {
       "total": 17,
@@ -837,11 +837,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Hindu Dharmam (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
       "reason": "HTTP 404"
@@ -1012,6 +1007,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1119,11 +1119,6 @@
     {
       "name": "Public First (576p)",
       "url": "https://fta.ektv.in/live/237/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Public First (576p)",
-      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -2504,7 +2499,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
