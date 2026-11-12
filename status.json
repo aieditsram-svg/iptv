@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 16:25 UTC",
-  "fingerprint": "2922b1437e6428c9305d3ac21f63a928",
+  "updated_at": "2026-11-12 17:21 UTC",
+  "fingerprint": "e5375f9db8854a1709bd07bd194483e6",
   "total": 2358,
-  "working": 1918,
-  "in_grace_period": 14,
-  "dead": 440,
-  "hd_channels": 821,
+  "working": 1917,
+  "in_grace_period": 13,
+  "dead": 441,
+  "hd_channels": 822,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 284,
       "working": 220,
-      "hd": 111
+      "hd": 112
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 629,
-      "hd": 228
+      "working": 627,
+      "hd": 227
     },
     "Hungarian": {
       "total": 11,
@@ -189,8 +189,8 @@
     },
     "Punjabi": {
       "total": 165,
-      "working": 152,
-      "hd": 55
+      "working": 153,
+      "hd": 56
     },
     "Romanian": {
       "total": 14,
@@ -295,7 +295,7 @@
     },
     "Cricket": {
       "total": 21,
-      "working": 13
+      "working": 12
     },
     "Culture": {
       "total": 19,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 267,
-      "working": 209
+      "working": 208
     },
     "General": {
       "total": 195,
@@ -339,7 +339,7 @@
     },
     "Music": {
       "total": 142,
-      "working": 119
+      "working": 120
     },
     "News": {
       "total": 756,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 530,
-      "working": 341
+      "working": 340
     },
     "Travel": {
       "total": 6,
@@ -619,6 +619,11 @@
     {
       "name": "DD Punjabi (576p)",
       "url": "https://fta.ektv.in/live/177/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Sports (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlDDSPORTS/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -972,11 +977,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Mh 1 Music (720p)",
-      "url": "https://livestream.jswk.online/playlisttest/live/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "MH One Movies (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8",
       "reason": "HTTP 403"
@@ -1084,7 +1084,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1409,7 +1409,7 @@
     {
       "name": "UP NOW (720p)",
       "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Valam TV Dayro (576p)",
@@ -1605,6 +1605,11 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
@@ -1939,7 +1944,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "QazSport (1080p)",
