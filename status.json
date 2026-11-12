@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 23:16 UTC",
-  "fingerprint": "89e9e44359ac1ec7a5bdb819b7bda1e3",
+  "updated_at": "2026-11-12 23:55 UTC",
+  "fingerprint": "454403fdf56be6d75df13dba15ba08e8",
   "total": 2358,
-  "working": 1890,
-  "in_grace_period": 26,
-  "dead": 468,
-  "hd_channels": 818,
+  "working": 1888,
+  "in_grace_period": 23,
+  "dead": 470,
+  "hd_channels": 819,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 126,
-      "working": 92,
+      "working": 91,
       "hd": 43
     },
     "Bhojpuri": {
@@ -69,7 +69,7 @@
     },
     "English": {
       "total": 284,
-      "working": 217,
+      "working": 216,
       "hd": 110
     },
     "Estonian": {
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 627,
-      "hd": 226
+      "working": 625,
+      "hd": 225
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 11
+      "hd": 12
     },
     "Polish": {
       "total": 10,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 112,
-      "working": 69,
-      "hd": 48
+      "working": 70,
+      "hd": 49
     },
     "Swedish": {
       "total": 1,
@@ -299,11 +299,11 @@
     },
     "Culture": {
       "total": 19,
-      "working": 13
+      "working": 12
     },
     "Devotional": {
       "total": 251,
-      "working": 223
+      "working": 222
     },
     "Documentary": {
       "total": 8,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 195,
-      "working": 166
+      "working": 165
     },
     "Kids": {
       "total": 22,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 756,
-      "working": 669
+      "working": 668
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 530,
-      "working": 339
+      "working": 340
     },
     "Travel": {
       "total": 6,
@@ -469,6 +469,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -972,6 +977,11 @@
       "reason": "URLError"
     },
     {
+      "name": "JTBS Classic",
+      "url": "https://jtbsclassic.dpdns.org/live.m3u8",
+      "reason": "HTTP 429"
+    },
+    {
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
       "reason": "HTTP 404"
@@ -1110,6 +1120,11 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1539,7 +1554,7 @@
     {
       "name": "UP NOW (720p)",
       "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "V6 News (576p)",
@@ -2135,11 +2150,6 @@
       "name": "TV Cuatro 4.3 (1080p)",
       "url": "https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "FOX Central (1080p)",
-      "url": "http://181.78.106.127:5000/play/a009/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "ESPN (360p)",
