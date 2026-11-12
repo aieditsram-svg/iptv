@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 00:27 UTC",
-  "fingerprint": "9e84383d609529a781fd5eced48014e8",
+  "updated_at": "2026-11-12 01:43 UTC",
+  "fingerprint": "d862d38dcb9bf1624047079503691e88",
   "total": 2358,
   "working": 1930,
-  "in_grace_period": 12,
+  "in_grace_period": 25,
   "dead": 428,
-  "hd_channels": 821,
+  "hd_channels": 824,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -34,8 +34,8 @@
     },
     "Bhojpuri": {
       "total": 33,
-      "working": 30,
-      "hd": 12
+      "working": 31,
+      "hd": 13
     },
     "Bulgarian": {
       "total": 6,
@@ -70,7 +70,7 @@
     "English": {
       "total": 284,
       "working": 219,
-      "hd": 108
+      "hd": 109
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 633,
-      "hd": 227
+      "working": 632,
+      "hd": 228
     },
     "Hungarian": {
       "total": 11,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 195,
-      "working": 165
+      "working": 164
     },
     "Kids": {
       "total": 22,
@@ -339,7 +339,7 @@
     },
     "Music": {
       "total": 142,
-      "working": 120
+      "working": 121
     },
     "News": {
       "total": 756,
@@ -459,6 +459,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1180,11 +1185,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bhojpuri (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -2464,7 +2464,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
