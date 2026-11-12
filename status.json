@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 11:24 UTC",
-  "fingerprint": "f0bb8558d72dcaf1eb43c78027aa6175",
+  "updated_at": "2026-11-12 12:16 UTC",
+  "fingerprint": "ac278b2928a9a7e3f035e203f131d146",
   "total": 2358,
-  "working": 1923,
+  "working": 1918,
   "in_grace_period": 13,
-  "dead": 435,
-  "hd_channels": 820,
+  "dead": 440,
+  "hd_channels": 821,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 284,
       "working": 220,
-      "hd": 109
+      "hd": 110
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 631,
+      "working": 628,
       "hd": 227
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 10
+      "hd": 11
     },
     "Polish": {
       "total": 10,
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 165,
-      "working": 154,
+      "working": 153,
       "hd": 57
     },
     "Romanian": {
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 54,
       "working": 39,
-      "hd": 22
+      "hd": 21
     },
     "Santali": {
       "total": 2,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 141,
+      "working": 140,
       "hd": 57
     },
     "Thai": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 251,
-      "working": 228
+      "working": 227
     },
     "Documentary": {
       "total": 8,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 267,
-      "working": 209
+      "working": 208
     },
     "General": {
       "total": 195,
@@ -335,15 +335,15 @@
     },
     "Movies": {
       "total": 132,
-      "working": 109
+      "working": 108
     },
     "Music": {
       "total": 142,
-      "working": 120
+      "working": 119
     },
     "News": {
       "total": 756,
-      "working": 683
+      "working": 682
     },
     "Outdoor": {
       "total": 17,
@@ -392,6 +392,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "9XM (1080p)",
       "url": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
       "reason": "HTTP 403"
@@ -425,6 +430,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -712,6 +722,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -942,6 +957,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -1009,6 +1029,11 @@
     {
       "name": "Network 10 (576p)",
       "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -2269,7 +2294,7 @@
     {
       "name": "Match! Planeta (576p)",
       "url": "http://s1.merlive.am/matchplaneta/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Arena Sport 1 Premium (360p)",
@@ -2499,7 +2524,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
