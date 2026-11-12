@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-12 07:17 UTC",
-  "fingerprint": "2e0f3b8aa671b788c81c56f7b1dfba5c",
+  "updated_at": "2026-11-12 08:28 UTC",
+  "fingerprint": "ad7b22e5494b08a88dcb888f372d6880",
   "total": 2358,
-  "working": 1924,
-  "in_grace_period": 18,
-  "dead": 434,
+  "working": 1925,
+  "in_grace_period": 10,
+  "dead": 433,
   "hd_channels": 820,
   "languages": {
     "Albanian": {
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 631,
+      "working": 633,
       "hd": 228
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 10
+      "hd": 11
     },
     "Polish": {
       "total": 10,
@@ -234,8 +234,8 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 140,
-      "hd": 67
+      "working": 139,
+      "hd": 66
     },
     "Telugu": {
       "total": 172,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 267,
-      "working": 208
+      "working": 209
     },
     "General": {
       "total": 195,
@@ -549,7 +549,7 @@
     {
       "name": "Chardikla Time TV (1080p)",
       "url": "https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Chintpurni Live (360p)",
@@ -977,6 +977,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "MNTV (1080p)",
+      "url": "https://mntv.livebox.co.in/mntvhls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "MTV (576p)",
       "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
       "reason": "HTTP 403"
@@ -1134,11 +1139,6 @@
     {
       "name": "Punjabi Beats HD (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1489,7 +1489,7 @@
     {
       "name": "Zee Bharat (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HZEEBHARAT/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee Cine Classic (1080p)",
@@ -1605,11 +1605,6 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
@@ -1919,12 +1914,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -1934,7 +1929,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "QazSport (1080p)",
@@ -2494,7 +2489,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
