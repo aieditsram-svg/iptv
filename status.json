@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 20:29 UTC",
-  "fingerprint": "78d47a54f52c0ca1224a6ef73150cd40",
+  "updated_at": "2026-11-12 21:16 UTC",
+  "fingerprint": "bd0f85c8653c04bb45406a71aa49002d",
   "total": 2358,
-  "working": 1922,
-  "in_grace_period": 54,
-  "dead": 436,
-  "hd_channels": 821,
+  "working": 1918,
+  "in_grace_period": 44,
+  "dead": 440,
+  "hd_channels": 817,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 126,
-      "working": 93,
+      "working": 94,
       "hd": 43
     },
     "Bhojpuri": {
@@ -69,7 +69,7 @@
     },
     "English": {
       "total": 284,
-      "working": 219,
+      "working": 220,
       "hd": 110
     },
     "Estonian": {
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 630,
+      "working": 629,
       "hd": 226
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 10
+      "hd": 11
     },
     "Polish": {
       "total": 10,
@@ -184,8 +184,8 @@
     },
     "Portuguese": {
       "total": 31,
-      "working": 14,
-      "hd": 11
+      "working": 11,
+      "hd": 8
     },
     "Punjabi": {
       "total": 165,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 112,
-      "working": 70,
-      "hd": 49
+      "working": 68,
+      "hd": 47
     },
     "Swedish": {
       "total": 1,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 251,
-      "working": 228
+      "working": 227
     },
     "Documentary": {
       "total": 8,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 267,
-      "working": 210
+      "working": 211
     },
     "General": {
       "total": 195,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 530,
-      "working": 342
+      "working": 338
     },
     "Travel": {
       "total": 6,
@@ -947,6 +947,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -1287,11 +1292,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
       "reason": "URLError"
@@ -1399,7 +1399,7 @@
     {
       "name": "UP NOW (720p)",
       "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Valam TV Dayro (576p)",
@@ -1677,6 +1677,11 @@
       "reason": "URLError"
     },
     {
+      "name": "CazeTV (1080p)",
+      "url": "http://138.204.86.4:8080/CAZE_TV/playlist.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "Combate (720p)",
       "url": "http://143.14.134.107/167/index.m3u8",
       "reason": "URLError"
@@ -1695,6 +1700,16 @@
       "name": "N Sports (1080p)",
       "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "SporTV 2 (1080p)",
+      "url": "http://195.178.110.110/sportv2/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "SporTV 3 (1080p)",
+      "url": "http://195.178.110.110/sportv3/index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "SporTV 3 (720p)",
@@ -1899,12 +1914,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -1914,7 +1929,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "QazSport (1080p)",
@@ -2109,6 +2124,11 @@
     {
       "name": "L1 Max",
       "url": "https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "Movistar Deportes (1080p)",
+      "url": "http://195.178.110.110/movistar/index.m3u8",
       "reason": "HTTP 403"
     },
     {
@@ -2462,6 +2482,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ESPN Extra Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd",
+      "reason": "URLError"
+    },
+    {
       "name": "ESPN Latin America Argentina",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8",
       "reason": "HTTP 403"
@@ -2510,11 +2535,6 @@
       "name": "NBA TV (720p)",
       "url": "http://198.58.104.90:8989/nba/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "NBA TV (720p)",
-      "url": "http://rezofoot.tv/NBATV/index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "NFL Network (720p)",
