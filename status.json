@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-12 19:43 UTC",
-  "fingerprint": "51a0cb384025772ed67f0ad028ed71df",
+  "updated_at": "2026-11-12 20:29 UTC",
+  "fingerprint": "78d47a54f52c0ca1224a6ef73150cd40",
   "total": 2358,
-  "working": 1923,
-  "in_grace_period": 13,
-  "dead": 435,
+  "working": 1922,
+  "in_grace_period": 54,
+  "dead": 436,
   "hd_channels": 821,
   "languages": {
     "Albanian": {
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 284,
-      "working": 220,
-      "hd": 111
+      "working": 219,
+      "hd": 110
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 631,
+      "working": 630,
       "hd": 226
     },
     "Hungarian": {
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 112,
-      "working": 69,
-      "hd": 48
+      "working": 70,
+      "hd": 49
     },
     "Swedish": {
       "total": 1,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 756,
-      "working": 682
+      "working": 681
     },
     "Outdoor": {
       "total": 17,
@@ -1117,6 +1117,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Public First (576p)",
+      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
@@ -1795,11 +1800,6 @@
       "name": "Sporty TV",
       "url": "https://dash2.antik.sk/live/sporty_tv/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ColimdoT TV (720p)",
-      "url": "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Tour Spot TV (1280p) [Not 24/7]",
@@ -2510,6 +2510,11 @@
       "name": "NBA TV (720p)",
       "url": "http://198.58.104.90:8989/nba/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "NBA TV (720p)",
+      "url": "http://rezofoot.tv/NBATV/index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "NFL Network (720p)",
