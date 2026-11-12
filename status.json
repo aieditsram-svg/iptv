@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 18:57 UTC",
-  "fingerprint": "1ffe224c4bac346e9f1306e9980449c6",
+  "updated_at": "2026-11-12 19:43 UTC",
+  "fingerprint": "51a0cb384025772ed67f0ad028ed71df",
   "total": 2358,
-  "working": 1921,
-  "in_grace_period": 24,
-  "dead": 437,
-  "hd_channels": 820,
+  "working": 1923,
+  "in_grace_period": 13,
+  "dead": 435,
+  "hd_channels": 821,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 284,
       "working": 220,
-      "hd": 112
+      "hd": 111
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 629,
-      "hd": 225
+      "working": 631,
+      "hd": 226
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 11
+      "hd": 10
     },
     "Polish": {
       "total": 10,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 54,
       "working": 38,
-      "hd": 20
+      "hd": 21
     },
     "Santali": {
       "total": 2,
@@ -225,7 +225,7 @@
     "Spanish": {
       "total": 112,
       "working": 69,
-      "hd": 47
+      "hd": 48
     },
     "Swedish": {
       "total": 1,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 195,
-      "working": 166
+      "working": 167
     },
     "Kids": {
       "total": 22,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 132,
-      "working": 108
+      "working": 109
     },
     "Music": {
       "total": 142,
@@ -425,11 +425,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -1012,11 +1007,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1404,7 +1394,7 @@
     {
       "name": "UP NOW (720p)",
       "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "Valam TV Dayro (576p)",
@@ -1909,12 +1899,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -1924,7 +1914,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "QazSport (1080p)",
