@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 22:54 UTC",
-  "fingerprint": "297e6d19fb81bce1e37d966e591d2516",
+  "updated_at": "2026-11-13 23:27 UTC",
+  "fingerprint": "ae1f799f2c10157a25f114d4dccb13f7",
   "total": 2375,
-  "working": 1932,
-  "in_grace_period": 16,
-  "dead": 443,
-  "hd_channels": 827,
+  "working": 1921,
+  "in_grace_period": 8,
+  "dead": 454,
+  "hd_channels": 821,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 288,
       "working": 223,
-      "hd": 111
+      "hd": 112
     },
     "Estonian": {
       "total": 1,
@@ -95,7 +95,7 @@
     "Gujarati": {
       "total": 47,
       "working": 43,
-      "hd": 19
+      "hd": 20
     },
     "Hebrew": {
       "total": 3,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 638,
+      "working": 637,
       "hd": 230
     },
     "Hungarian": {
@@ -119,8 +119,8 @@
     },
     "Italian": {
       "total": 17,
-      "working": 13,
-      "hd": 9
+      "working": 12,
+      "hd": 8
     },
     "Kannada": {
       "total": 77,
@@ -174,7 +174,7 @@
     },
     "Other": {
       "total": 37,
-      "working": 23,
+      "working": 22,
       "hd": 13
     },
     "Polish": {
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 52,
       "working": 38,
-      "hd": 20
+      "hd": 21
     },
     "Santali": {
       "total": 2,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 115,
-      "working": 73,
-      "hd": 51
+      "working": 65,
+      "hd": 43
     },
     "Swedish": {
       "total": 1,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 251,
-      "working": 227
+      "working": 226
     },
     "Documentary": {
       "total": 8,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 535,
-      "working": 344
+      "working": 334
     },
     "Travel": {
       "total": 6,
@@ -425,6 +425,11 @@
       "name": "Aakaash Aath (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Aastha HD (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/Aastha/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "AKD Calcutta News (576p)",
@@ -1942,6 +1947,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Lazio Style Channel HD (720p)",
+      "url": "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Radio TV Serie A",
       "url": "https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index.m3u8",
       "reason": "HTTP 403"
@@ -1949,17 +1959,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "QazSport (1080p)",
@@ -2477,8 +2487,18 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ESPN 2 Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "ESPN 2 Latin America Argentina",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "ESPN 3 Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8",
       "reason": "HTTP 403"
     },
     {
@@ -2487,8 +2507,23 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "ESPN 4 Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "ESPN 5 Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "ESPN 5 Latin America (720p)",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn5-mux/playlist.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "ESPN 6 Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8",
       "reason": "HTTP 403"
     },
     {
@@ -2497,9 +2532,24 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "ESPN 7 Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "ESPN Deportes HD (720p)",
       "url": "http://168.228.44.241:9998/play/a0dz/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ESPN Extra Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "ESPN Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "ESPN Latin America Argentina",
@@ -2539,7 +2589,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
@@ -2585,6 +2635,11 @@
       "name": "Willow (720p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Sport",
+      "url": "https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8",
+      "reason": "not a valid HLS manifest"
     }
   ]
 }
