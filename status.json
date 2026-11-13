@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 16:43 UTC",
-  "fingerprint": "540d4dec8381628c15094fbd8d10c0e4",
+  "updated_at": "2026-11-13 17:32 UTC",
+  "fingerprint": "7b8e146b7a9ba864d191822e9ab042af",
   "total": 2375,
   "working": 1934,
-  "in_grace_period": 18,
+  "in_grace_period": 10,
   "dead": 441,
-  "hd_channels": 828,
+  "hd_channels": 830,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 127,
-      "working": 95,
+      "working": 94,
       "hd": 44
     },
     "Bhojpuri": {
@@ -70,7 +70,7 @@
     "English": {
       "total": 288,
       "working": 223,
-      "hd": 110
+      "hd": 111
     },
     "Estonian": {
       "total": 1,
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 754,
       "working": 637,
-      "hd": 230
+      "hd": 231
     },
     "Hungarian": {
       "total": 11,
@@ -154,7 +154,7 @@
     },
     "Malayalam": {
       "total": 117,
-      "working": 95,
+      "working": 96,
       "hd": 34
     },
     "Marathi": {
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 267,
-      "working": 210
+      "working": 208
     },
     "General": {
       "total": 195,
@@ -339,11 +339,11 @@
     },
     "Music": {
       "total": 142,
-      "working": 118
+      "working": 119
     },
     "News": {
       "total": 768,
-      "working": 694
+      "working": 695
     },
     "Outdoor": {
       "total": 17,
@@ -927,11 +927,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Kalika TV (576p)",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kanak News (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8",
       "reason": "TimeoutError"
@@ -960,6 +955,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1137,11 +1137,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Public First (576p)",
-      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
@@ -1305,6 +1300,11 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Sports Select 2 HD (720p)",
