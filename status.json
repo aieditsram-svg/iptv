@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 06:42 UTC",
-  "fingerprint": "90ee0b2c07593e9f2eaf040f126f8bdc",
+  "updated_at": "2026-11-13 07:56 UTC",
+  "fingerprint": "ba74421a3d34da4e951d8acfd3079c78",
   "total": 2375,
-  "working": 1910,
-  "in_grace_period": 11,
-  "dead": 465,
-  "hd_channels": 825,
+  "working": 1912,
+  "in_grace_period": 27,
+  "dead": 463,
+  "hd_channels": 826,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -95,7 +95,7 @@
     "Gujarati": {
       "total": 47,
       "working": 44,
-      "hd": 20
+      "hd": 19
     },
     "Hebrew": {
       "total": 3,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 633,
-      "hd": 227
+      "working": 634,
+      "hd": 228
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 37,
       "working": 23,
-      "hd": 12
+      "hd": 13
     },
     "Polish": {
       "total": 10,
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 152,
+      "working": 153,
       "hd": 57
     },
     "Romanian": {
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 132,
-      "working": 107
+      "working": 108
     },
     "Music": {
       "total": 142,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 768,
-      "working": 680
+      "working": 681
     },
     "Outdoor": {
       "total": 17,
@@ -1179,7 +1179,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Nireekshana TV (576p)",
@@ -1209,11 +1209,6 @@
     {
       "name": "Pear TV (576p)",
       "url": "https://fta.ektv.in/live/695/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Pitaara (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1542,11 +1537,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "UP NOW (720p)",
-      "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "V6 News (576p)",
       "url": "https://fta.ektv.in/live/694/master.m3u8",
       "reason": "HTTP 404"
@@ -1744,7 +1734,7 @@
     {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Taaza TV (576p)",
