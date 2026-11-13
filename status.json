@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 04:56 UTC",
-  "fingerprint": "a65ad071d9a5d9197780477cb2aa8086",
+  "updated_at": "2026-11-13 05:46 UTC",
+  "fingerprint": "4e78da7044ade27e3c02f7b00abee9ea",
   "total": 2375,
-  "working": 1913,
-  "in_grace_period": 25,
-  "dead": 462,
-  "hd_channels": 828,
+  "working": 1910,
+  "in_grace_period": 13,
+  "dead": 465,
+  "hd_channels": 824,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 288,
-      "working": 221,
-      "hd": 114
+      "working": 220,
+      "hd": 112
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 634,
-      "hd": 227
+      "working": 632,
+      "hd": 228
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 37,
       "working": 23,
-      "hd": 13
+      "hd": 12
     },
     "Polish": {
       "total": 10,
@@ -189,8 +189,8 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 154,
-      "hd": 57
+      "working": 153,
+      "hd": 56
     },
     "Romanian": {
       "total": 14,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 52,
       "working": 39,
-      "hd": 21
+      "hd": 20
     },
     "Santali": {
       "total": 2,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 132,
+      "working": 133,
       "hd": 56
     },
     "Thai": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 251,
-      "working": 224
+      "working": 221
     },
     "Documentary": {
       "total": 8,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 132,
-      "working": 107
+      "working": 108
     },
     "Music": {
       "total": 142,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 768,
-      "working": 681
+      "working": 680
     },
     "Outdoor": {
       "total": 17,
@@ -582,6 +582,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Chintpurni Live (720p)",
+      "url": "https://samitaorigin.tangotv.in/CHINTPURNILIVE/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Chintpurni Live (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8",
       "reason": "HTTP 403"
@@ -735,11 +740,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -897,6 +897,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Hosanna TV Global",
+      "url": "https://ktismaservers.in:3349/live/hosannatvlive.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
       "reason": "HTTP 404"
@@ -1032,6 +1037,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -1130,6 +1140,11 @@
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "News 24 (576p)",
+      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News Nation (576p)",
@@ -2634,7 +2649,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
