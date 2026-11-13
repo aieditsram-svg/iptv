@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 14:30 UTC",
-  "fingerprint": "09e1096155d89372eec2cb1627a0f1d9",
+  "updated_at": "2026-11-13 15:15 UTC",
+  "fingerprint": "1f87e433002551e0b3917d80bcfa3bb1",
   "total": 2375,
-  "working": 1937,
-  "in_grace_period": 22,
-  "dead": 438,
-  "hd_channels": 829,
+  "working": 1936,
+  "in_grace_period": 20,
+  "dead": 439,
+  "hd_channels": 831,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 288,
-      "working": 223,
-      "hd": 112
+      "working": 220,
+      "hd": 111
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 637,
+      "working": 638,
       "hd": 230
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 37,
       "working": 23,
-      "hd": 12
+      "hd": 13
     },
     "Polish": {
       "total": 10,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 52,
       "working": 39,
-      "hd": 20
+      "hd": 21
     },
     "Santali": {
       "total": 2,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 115,
-      "working": 72,
-      "hd": 51
+      "working": 73,
+      "hd": 52
     },
     "Swedish": {
       "total": 1,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 132,
-      "working": 108
+      "working": 109
     },
     "Music": {
       "total": 142,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 535,
-      "working": 349
+      "working": 347
     },
     "Travel": {
       "total": 6,
@@ -687,11 +687,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -710,6 +705,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -1602,11 +1602,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
@@ -2207,11 +2202,6 @@
       "reason": "URLError"
     },
     {
-      "name": "WAPA-TV 4.2 (720p) [Not 24/7]",
-      "url": "https://wapa.hostless.app/WAPA-TV-4-2.m3u8",
-      "reason": "HTTP 503"
-    },
-    {
       "name": "Prima 4K (2160p)",
       "url": "http://92.180.26.103/stream/80/index.m3u8",
       "reason": "HTTP 404"
@@ -2427,6 +2417,11 @@
       "reason": "URLError"
     },
     {
+      "name": "beIN Sports USA (576p)",
+      "url": "https://tvsen6.aynaott.com/beinsports/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "DSports (1080p)",
       "url": "http://38.187.7.252:8000/play/a03d/index.m3u8",
       "reason": "URLError"
@@ -2514,7 +2509,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
@@ -2560,6 +2555,16 @@
       "name": "Willow (720p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "NFL Network (576p)",
+      "url": "https://tvsen6.aynaott.com/nfl/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Golf Channel (576p)",
+      "url": "https://tvsen6.aynaott.com/golfchannel/index.m3u8",
+      "reason": "HTTP 404"
     }
   ]
 }
