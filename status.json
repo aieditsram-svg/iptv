@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 18:19 UTC",
-  "fingerprint": "b5cf1b8408126c12c3ec866cae4d8f62",
+  "updated_at": "2026-11-13 19:15 UTC",
+  "fingerprint": "fc1d9aeeee32b6f56a12047d954aa2b5",
   "total": 2375,
-  "working": 1936,
-  "in_grace_period": 22,
-  "dead": 439,
-  "hd_channels": 831,
+  "working": 1937,
+  "in_grace_period": 21,
+  "dead": 438,
+  "hd_channels": 829,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 637,
-      "hd": 231
+      "working": 636,
+      "hd": 230
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 37,
       "working": 23,
-      "hd": 12
+      "hd": 13
     },
     "Polish": {
       "total": 10,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 52,
       "working": 39,
-      "hd": 21
+      "hd": 20
     },
     "Santali": {
       "total": 2,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 115,
-      "working": 73,
-      "hd": 52
+      "working": 74,
+      "hd": 51
     },
     "Swedish": {
       "total": 1,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 141,
+      "working": 142,
       "hd": 56
     },
     "Thai": {
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 535,
-      "working": 345
+      "working": 346
     },
     "Travel": {
       "total": 6,
@@ -712,11 +712,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -829,7 +824,7 @@
     {
       "name": "Harvest USA (576p)",
       "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Hi Dost! (576p)",
@@ -1134,6 +1129,11 @@
     {
       "name": "Punjabi Beats HD (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1589,7 +1589,7 @@
     {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Shemaroo TV (576p)",
@@ -1745,11 +1745,6 @@
       "name": "TSN4 (720p)",
       "url": "http://109.104.153.220/TSN-4/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "TNT Sports Premium HD",
-      "url": "https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8",
-      "reason": "HTTP 502"
     },
     {
       "name": "CCTV-5+",
@@ -1939,17 +1934,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "QazSport (1080p)",
