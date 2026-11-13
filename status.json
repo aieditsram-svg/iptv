@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 01:44 UTC",
-  "fingerprint": "bbd360023d2dc586fbc4041b93bd6ba6",
+  "updated_at": "2026-11-13 02:29 UTC",
+  "fingerprint": "e64320ea00405cbb652ab0f07db63ede",
   "total": 2375,
-  "working": 1908,
-  "in_grace_period": 10,
-  "dead": 467,
-  "hd_channels": 827,
+  "working": 1909,
+  "in_grace_period": 16,
+  "dead": 466,
+  "hd_channels": 828,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 288,
-      "working": 219,
-      "hd": 110
+      "working": 221,
+      "hd": 112
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 632,
-      "hd": 227
+      "working": 633,
+      "hd": 229
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 37,
       "working": 23,
-      "hd": 14
+      "hd": 13
     },
     "Polish": {
       "total": 10,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 115,
-      "working": 73,
-      "hd": 51
+      "working": 72,
+      "hd": 50
     },
     "Swedish": {
       "total": 1,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 251,
-      "working": 222
+      "working": 224
     },
     "Documentary": {
       "total": 8,
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 267,
-      "working": 202
+      "working": 201
     },
     "General": {
       "total": 195,
-      "working": 165
+      "working": 166
     },
     "Kids": {
       "total": 22,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 535,
-      "working": 349
+      "working": 348
     },
     "Travel": {
       "total": 6,
@@ -892,11 +892,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Harvest USA (576p)",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Hi Dost! (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
       "reason": "HTTP 403"
@@ -919,11 +914,6 @@
     {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1055,11 +1045,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1762,6 +1747,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
@@ -2074,12 +2064,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2089,7 +2079,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "QazSport (1080p)",
@@ -2585,6 +2575,11 @@
       "name": "DSports (720p)",
       "url": "http://15.204.146.163:8002/play/a00g/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "DSports",
+      "url": "http://45.186.254.75:8000/play/a0en/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DSports 2 (1080p)",
