@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 15:15 UTC",
-  "fingerprint": "1f87e433002551e0b3917d80bcfa3bb1",
+  "updated_at": "2026-11-13 15:58 UTC",
+  "fingerprint": "038e827d6918017e1ee4516cff23a9bf",
   "total": 2375,
-  "working": 1936,
-  "in_grace_period": 20,
-  "dead": 439,
-  "hd_channels": 831,
+  "working": 1934,
+  "in_grace_period": 21,
+  "dead": 441,
+  "hd_channels": 828,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 288,
-      "working": 220,
-      "hd": 111
+      "working": 219,
+      "hd": 110
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 638,
+      "working": 637,
       "hd": 230
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 37,
       "working": 23,
-      "hd": 13
+      "hd": 12
     },
     "Polish": {
       "total": 10,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 52,
       "working": 39,
-      "hd": 21
+      "hd": 20
     },
     "Santali": {
       "total": 2,
@@ -295,7 +295,7 @@
     },
     "Cricket": {
       "total": 21,
-      "working": 13
+      "working": 12
     },
     "Culture": {
       "total": 19,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 251,
-      "working": 226
+      "working": 227
     },
     "Documentary": {
       "total": 8,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 195,
-      "working": 168
+      "working": 167
     },
     "Kids": {
       "total": 22,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 768,
-      "working": 695
+      "working": 694
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 535,
-      "working": 347
+      "working": 346
     },
     "Travel": {
       "total": 6,
@@ -454,6 +454,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -952,11 +957,6 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -1099,7 +1099,7 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Peace of Mind TV (576p)",
@@ -1129,6 +1129,11 @@
     {
       "name": "Public First (576p)",
       "url": "https://fta.ektv.in/live/237/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Public First (576p)",
+      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1619,7 +1624,7 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
@@ -2550,6 +2555,11 @@
       "name": "Willow (720p)",
       "url": "http://tvsen7.aynascope.net/rEBp38Ax/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Willow (720p)",
+      "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Willow (720p) [Geo-blocked]",
