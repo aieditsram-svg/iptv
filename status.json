@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 05:46 UTC",
-  "fingerprint": "4e78da7044ade27e3c02f7b00abee9ea",
+  "updated_at": "2026-11-13 06:42 UTC",
+  "fingerprint": "90ee0b2c07593e9f2eaf040f126f8bdc",
   "total": 2375,
   "working": 1910,
-  "in_grace_period": 13,
+  "in_grace_period": 11,
   "dead": 465,
-  "hd_channels": 824,
+  "hd_channels": 825,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -30,7 +30,7 @@
     "Bengali": {
       "total": 127,
       "working": 94,
-      "hd": 43
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 33,
@@ -70,7 +70,7 @@
     "English": {
       "total": 288,
       "working": 220,
-      "hd": 112
+      "hd": 111
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 632,
-      "hd": 228
+      "working": 633,
+      "hd": 227
     },
     "Hungarian": {
       "total": 11,
@@ -189,8 +189,8 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 153,
-      "hd": 56
+      "working": 152,
+      "hd": 57
     },
     "Romanian": {
       "total": 14,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 52,
       "working": 39,
-      "hd": 20
+      "hd": 21
     },
     "Santali": {
       "total": 2,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 251,
-      "working": 221
+      "working": 223
     },
     "Documentary": {
       "total": 8,
@@ -335,11 +335,11 @@
     },
     "Movies": {
       "total": 132,
-      "working": 108
+      "working": 107
     },
     "Music": {
       "total": 142,
-      "working": 119
+      "working": 118
     },
     "News": {
       "total": 768,
@@ -390,6 +390,11 @@
       "name": "9X Jhakaas (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -579,11 +584,6 @@
     {
       "name": "Chardikla Time TV (576p)",
       "url": "https://fta.ektv.in/live/645/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Chintpurni Live (720p)",
-      "url": "https://samitaorigin.tangotv.in/CHINTPURNILIVE/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1037,11 +1037,6 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -1217,6 +1212,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Pitaara (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Pradesh24 Gujarati (1080p)",
       "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
       "reason": "HTTP 404"
@@ -1244,7 +1244,7 @@
     {
       "name": "Public First (576p)",
       "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Public Music (576p)",
@@ -1544,7 +1544,7 @@
     {
       "name": "UP NOW (720p)",
       "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "V6 News (576p)",
@@ -2059,12 +2059,12 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (1080p)",
@@ -2074,7 +2074,7 @@
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "QazSport (1080p)",
@@ -2649,7 +2649,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
