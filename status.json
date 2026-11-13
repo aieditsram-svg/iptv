@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-13 03:15 UTC",
-  "fingerprint": "cb9b63b508cb940e3b948c51ba4d8334",
+  "updated_at": "2026-11-13 04:03 UTC",
+  "fingerprint": "65d82c582f52995efebdc907b7405641",
   "total": 2375,
-  "working": 1907,
-  "in_grace_period": 10,
-  "dead": 468,
+  "working": 1908,
+  "in_grace_period": 17,
+  "dead": 467,
   "hd_channels": 825,
   "languages": {
     "Albanian": {
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 127,
-      "working": 93,
+      "working": 94,
       "hd": 43
     },
     "Bhojpuri": {
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 632,
-      "hd": 229
+      "working": 631,
+      "hd": 227
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 37,
       "working": 23,
-      "hd": 13
+      "hd": 12
     },
     "Polish": {
       "total": 10,
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 152,
+      "working": 153,
       "hd": 56
     },
     "Romanian": {
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 52,
       "working": 39,
-      "hd": 18
+      "hd": 21
     },
     "Santali": {
       "total": 2,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 267,
-      "working": 200
+      "working": 201
     },
     "General": {
       "total": 195,
@@ -335,11 +335,11 @@
     },
     "Movies": {
       "total": 132,
-      "working": 108
+      "working": 107
     },
     "Music": {
       "total": 142,
-      "working": 118
+      "working": 119
     },
     "News": {
       "total": 768,
@@ -392,11 +392,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "9XM (1080p)",
       "url": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
       "reason": "HTTP 403"
@@ -424,7 +419,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -440,6 +435,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -499,7 +499,7 @@
     {
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Awakening TV (576p)",
@@ -1154,7 +1154,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News Nation (576p)",
@@ -1437,14 +1437,9 @@
       "reason": "URLError"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1559,7 +1554,7 @@
     {
       "name": "UP NOW (720p)",
       "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "V6 News (576p)",
@@ -2599,7 +2594,7 @@
     {
       "name": "ESPN (432p)",
       "url": "http://tvsen7.aynascope.net/espn/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "ESPN 2 Latin America Argentina",
@@ -2699,12 +2694,12 @@
     {
       "name": "Willow (720p)",
       "url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Willow (720p)",
       "url": "http://tvsen7.aynascope.net/rEBp38Ax/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Willow (720p) [Geo-blocked]",

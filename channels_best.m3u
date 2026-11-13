@@ -1,5 +1,5 @@
 #EXTM3U
-# Working channels, one best link per channel, updated 2026-11-13 03:15 UTC
+# Working channels, one best link per channel, updated 2026-11-13 04:03 UTC
 #EXTINF:-1 tvg-id="AlIraqiaSport.iq@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/DrrlxTO.png" x-category="Sports" tvg-language="Arabic" group-title="Arabic" height="720",Al Iraqia Sport (720p)
 https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 #EXTINF:-1 tvg-id="Arryadia.ma@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/XjzK3gZ.png" x-category="Sports" tvg-language="Arabic" group-title="Arabic" height="720",Arryadia (720p)
@@ -128,8 +128,8 @@ http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8
 https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="SonyAath.in@SD" x-categories="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YP08L.png?lock=720x540" x-category="Entertainment" tvg-language="Bengali" group-title="Bengali" height="1080",Sony Aath (1080p)
 http://27.124.71.27/Sony_Aath/index.m3u8
-#EXTINF:-1 tvg-id="StarJalsha.in@HD" x-categories="Entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4452/1782290464452-h.jpg" x-category="Entertainment" tvg-language="Bengali" group-title="Bengali" height="1080",Star Jalsha HD (1080p)
-https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8
+#EXTINF:-1 tvg-id="StarJalsha.in@SD" x-categories="Entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4452/1782290464452-h.jpg" x-category="Entertainment" tvg-language="Bengali" group-title="Bengali" height="1080",Star Jalsha (1080p) [Geo-blocked]
+http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805
 #EXTINF:-1 tvg-id="Travelxp.in@HD" x-categories="Travel" tvg-logo="https://i.imgur.com/HUWEnc5.png" x-category="Travel" tvg-language="Bengali" group-title="Bengali" height="1080",Travelxp HD (1080p) [Geo-blocked]
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9Bangla.in@SD" x-categories="News" tvg-logo="https://dtil.tmsimg.com/assets/s144026_ld_h15_aa.png?lock=720x540" x-category="News" tvg-language="Bengali" group-title="Bengali" height="1080",TV9 Bangla (1080p)
@@ -142,7 +142,7 @@ https://server.zillarbarta.com/zbbhakti/index.m3u8
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-id="ZBCinema.in@HD" x-categories="Classic;Movies" tvg-logo="https://i.imgur.com/kUg6WSk.jpeg" x-category="Classic" tvg-language="Bengali" group-title="Bengali" height="1080",ZB Cinema (1080p)
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
-#EXTINF:-1 tvg-id="ZBMusic.in@HD" x-categories="Music" tvg-logo="https://i.imgur.com/k1nb8u1.jpeg" x-category="Music" tvg-language="Bengali" group-title="Bengali" height="1080",ZB Music (720p)
+#EXTINF:-1 tvg-id="ZBMusic.in@HD" x-categories="Music" tvg-logo="https://i.imgur.com/k1nb8u1.jpeg" x-category="Music" tvg-language="Bengali" group-title="Bengali" height="720",ZB Music (720p)
 https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1 tvg-id="Zee24Ghanta.in@SD" x-categories="News" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022KGXP.png?lock=720x540" x-category="News" tvg-language="Bengali" group-title="Bengali",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_4.m3u8
@@ -661,7 +661,7 @@ https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 https://yuppnimrestreammum.akamaized.net/181224/smil:aradanatv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="ArgusNews.in@SD" x-categories="News" tvg-logo="https://dtil.tmsimg.com/assets/s142650_ld_h15_aa.png?lock=720x540" x-category="News" tvg-language="Hindi" group-title="Hindi" height="1080",Argus News (576p)
 https://stream.ottlive.co.in/argus/index.m3u8
-#EXTINF:-1 tvg-id="AryanTVNational.in@SD" tvg-logo="https://i.imgur.com/3tePHES.png" x-categories="General" x-category="General" tvg-language="Hindi" group-title="Hindi" height="720",Aryan TV National (576p)
+#EXTINF:-1 tvg-id="AryanTVNational.in@SD" tvg-logo="https://i.imgur.com/3tePHES.png" x-categories="General" x-category="General" tvg-language="Hindi" group-title="Hindi" height="576",Aryan TV National (576p)
 https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8
 #EXTINF:-1 tvg-id="AsianNews.in@SD" x-categories="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asian_News.png" x-category="News" tvg-language="Hindi" group-title="Hindi" height="1080",Asian News (1080p)
 https://stream.ottlive.co.in/asiannews/index.m3u8
@@ -839,8 +839,8 @@ https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8
 https://ktismaservers.in:3466/live/hosannattvhindhilive.m3u8
 #EXTINF:-1 tvg-id="HSTV.in@SD" tvg-logo="https://ibb.co/Ng5nkX6F" x-categories="General" x-category="General" tvg-language="Hindi" group-title="Hindi" height="720",HSTV (720p)
 https://live.castmaxcloud.com/live/hstv.m3u8
-#EXTINF:-1 tvg-id="IBC24.in@SD" x-categories="News" tvg-logo="https://dtil.tmsimg.com/assets/s143156_ld_h6_aa.png?lock=720x540" x-category="News" tvg-language="Hindi" group-title="Hindi" height="1080",IBC 24 (576p)
-https://ott-prasar.ibc24.in/livestream.m3u8
+#EXTINF:-1 tvg-id="IBC24.in@SD" x-categories="News" tvg-logo="https://dtil.tmsimg.com/assets/s143156_ld_h6_aa.png?lock=720x540" x-category="News" tvg-language="Hindi" group-title="Hindi" height="1080",IBC 24 (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/index.m3u8
 #EXTINF:-1 tvg-id="Ind24.in@SD" x-categories="News" tvg-logo="https://i.imgur.com/exRpVmL.png" x-category="News" tvg-language="Hindi" group-title="Hindi" height="720",Ind 24 (720p)
 https://livestream.jswk.online/ind24/live/index.m3u8
 #EXTINF:-1 tvg-id="IndiaDailyLive.in@SD" x-categories="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Daily_24x7.png" x-category="News" tvg-language="Hindi" group-title="Hindi" height="1080",India Daily Live (1080p)
@@ -1015,8 +1015,9 @@ https://mumt07.tangotv.in/zHjX9OFlONLYBHARAT/index.m3u8
 https://samitaorigin.tangotv.in/PADHAROSA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ParasGold.in@SD" x-categories="Devotional" tvg-logo="https://dtil.tmsimg.com/assets/s143642_ld_h15_aa.png?lock=720x540" x-category="Devotional" tvg-language="Hindi" group-title="Hindi" height="720",Paras Gold (576p)
 https://mumt04.tangotv.in/m18aqlK4PARASGOLD/index.m3u8
-#EXTINF:-1 tvg-id="PeaceofMindTV.in@SD" x-categories="Devotional" tvg-logo="https://dtil.tmsimg.com/assets/s143646_ld_h15_aa.png?lock=720x540" x-category="Devotional" tvg-language="Hindi" group-title="Hindi" height="1080",Peace of Mind TV (576p)
-https://mumbai-edge.smartplaytv.in/PeaceOfMind/index.m3u8
+#EXTINF:-1 tvg-id="PeaceofMindTV.in@SD" x-categories="Devotional" tvg-logo="https://dtil.tmsimg.com/assets/s143646_ld_h15_aa.png?lock=720x540" x-category="Devotional" tvg-language="Hindi" group-title="Hindi" height="576",Peace of Mind TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/170/master.m3u8
 #EXTINF:-1 tvg-id="PocketFilms.in@SD" x-categories="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png" x-category="Movies" tvg-language="Hindi" group-title="Hindi",Pocket Films
 https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8
 #EXTINF:-1 tvg-id="PrarthanaBhawanTV.in@SD" tvg-logo="https://i.imgur.com/1OUfPzr.png" x-categories="General" x-category="General" tvg-language="Hindi" group-title="Hindi" height="576",Prarthana Bhawan TV (576p)
@@ -1503,7 +1504,7 @@ https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01
 http://stream.mcquack.net/178/index.m3u8
 #EXTINF:-1 tvg-id="MNBSport.mn@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/z854PC3.png" x-category="Sports" tvg-language="Other" group-title="Other" height="1080",MNB Sport (1080p)
 https://live.mnb.mn/hls/mnb_sport.stream.m3u8
-#EXTINF:-1 tvg-id="MRTVSports.mm@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/cFTR4kC.png" x-category="Sports" tvg-language="Other" group-title="Other" height="1080",MRTV Sports [Not 24/7]
+#EXTINF:-1 tvg-id="MRTVSports.mm@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/cFTR4kC.png" x-category="Sports" tvg-language="Other" group-title="Other",MRTV Sports [Not 24/7]
 https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
 #EXTINF:-1 tvg-id="PrimaSportCzechia.cz@SD" x-categories="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Prima_Sport_%28Czech_Republic%29.svg/revision/latest?cb=20260728085614" x-category="Sports" tvg-language="Other" group-title="Other",Prima Sport Czechia
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0
@@ -1702,13 +1703,13 @@ https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8
 http://176.118.197.101/KHL/index.m3u8
 #EXTINF:-1 tvg-id="MatchArena.ru@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/udTzwzu.png" x-category="Sports" tvg-language="Russian" group-title="Russian" height="1080",Match! Arena (576p)
 http://stream.mcquack.net/163/index.m3u8
-#EXTINF:-1 tvg-id="MatchBoets.ru@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/DogOkA4.png" x-category="Sports" tvg-language="Russian" group-title="Russian" height="576",Match! Boets (576p)
+#EXTINF:-1 tvg-id="MatchBoets.ru@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/DogOkA4.png" x-category="Sports" tvg-language="Russian" group-title="Russian" height="1080",Match! Boets (576p)
 http://stream.mcquack.net/112/index.m3u8
-#EXTINF:-1 tvg-id="MatchIgra.ru@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/5XWpF19.png" x-category="Sports" tvg-language="Russian" group-title="Russian" height="576",Match! Igra (576p)
+#EXTINF:-1 tvg-id="MatchIgra.ru@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/5XWpF19.png" x-category="Sports" tvg-language="Russian" group-title="Russian" height="1080",Match! Igra (576p)
 http://stream.mcquack.net/188/index.m3u8
 #EXTINF:-1 tvg-id="MatchPremier.ru@SD" x-categories="Sports" tvg-logo="https://avatars.mds.yandex.net/i?id=0e4bdacd44c114798f7334dae02683d5b0336bd2-13079178-images-thumbs&n=13" x-category="Sports" tvg-language="Russian" group-title="Russian" height="576",Match! Premier (576p)
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
-#EXTINF:-1 tvg-id="MatchStrana.ru@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/X02s2UE.png" x-category="Sports" tvg-language="Russian" group-title="Russian" height="576",Match! Strana (576p)
+#EXTINF:-1 tvg-id="MatchStrana.ru@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/X02s2UE.png" x-category="Sports" tvg-language="Russian" group-title="Russian" height="1080",Match! Strana (576p)
 http://stream.mcquack.net/143/index.m3u8
 #EXTINF:-1 tvg-id="MatchUltra.ru@4K" x-categories="Sports" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" x-category="Sports" tvg-language="Russian" group-title="Russian" height="1080",Match! Ultra (1080p)
 http://31.148.5.241/kanal_3/index.m3u8
@@ -2243,7 +2244,7 @@ https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=255
 #EXTINF:-1 tvg-id="HTVSports.vn@SD" x-categories="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png" x-category="Sports" tvg-language="Vietnamese" group-title="Vietnamese" height="1080",HTV Sports (1080i)
 https://vmttv.dpdns.org/tv360?id=htv-the-thao
-#EXTINF:-1 tvg-id="VinhLongTV4.vn@SD" x-categories="Culture;Travel;Sports;Entertainment" tvg-logo="https://i.imgur.com/ARhIkvR.png" x-category="Culture" tvg-language="Vietnamese" group-title="Vietnamese" height="720",Vinh Long TV 4 (720p)
+#EXTINF:-1 tvg-id="VinhLongTV4.vn@SD" x-categories="Culture;Travel;Sports;Entertainment" tvg-logo="https://i.imgur.com/ARhIkvR.png" x-category="Culture" tvg-language="Vietnamese" group-title="Vietnamese" height="1080",Vinh Long TV 4 (720p)
 https://dethich.pw/thvl4/index.m3u8
-#EXTINF:-1 tvg-id="VTV6.vn@HD" x-categories="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/VTV6_new_logo_2026.webp" x-category="Sports" tvg-language="Vietnamese" group-title="Vietnamese" height="720",VTV6 (720p)
+#EXTINF:-1 tvg-id="VTV6.vn@HD" x-categories="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/VTV6_new_logo_2026.webp" x-category="Sports" tvg-language="Vietnamese" group-title="Vietnamese" height="1080",VTV6 (720p)
 https://dethich.pw/vtv6/index.m3u8
