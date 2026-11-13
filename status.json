@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 09:40 UTC",
-  "fingerprint": "a1ab9efde2988835f0aa5f2dcae37f80",
+  "updated_at": "2026-11-13 10:37 UTC",
+  "fingerprint": "66f03dea2ab3bf39599704c2834bcc38",
   "total": 2375,
-  "working": 1925,
-  "in_grace_period": 12,
-  "dead": 450,
-  "hd_channels": 822,
+  "working": 1930,
+  "in_grace_period": 18,
+  "dead": 445,
+  "hd_channels": 823,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 127,
-      "working": 87,
+      "working": 88,
       "hd": 43
     },
     "Bhojpuri": {
@@ -69,7 +69,7 @@
     },
     "English": {
       "total": 288,
-      "working": 222,
+      "working": 223,
       "hd": 111
     },
     "Estonian": {
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 632,
-      "hd": 225
+      "working": 634,
+      "hd": 226
     },
     "Hungarian": {
       "total": 11,
@@ -119,7 +119,7 @@
     },
     "Italian": {
       "total": 17,
-      "working": 11,
+      "working": 12,
       "hd": 8
     },
     "Kannada": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 37,
       "working": 23,
-      "hd": 13
+      "hd": 12
     },
     "Polish": {
       "total": 10,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 52,
       "working": 39,
-      "hd": 20
+      "hd": 21
     },
     "Santali": {
       "total": 2,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 251,
-      "working": 227
+      "working": 228
     },
     "Documentary": {
       "total": 8,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 267,
-      "working": 200
+      "working": 202
     },
     "General": {
       "total": 195,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 768,
-      "working": 693
+      "working": 694
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 535,
-      "working": 348
+      "working": 349
     },
     "Travel": {
       "total": 6,
@@ -847,11 +847,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Hosanna TV Global",
-      "url": "https://ktismaservers.in:3349/live/hosannatvlive.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
       "reason": "HTTP 404"
@@ -947,11 +942,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -965,11 +955,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1410,11 +1395,6 @@
       "name": "Travelxp 4K HDR (2160p) [Geo-blocked]",
       "url": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "TTN24 (720p)",
-      "url": "https://stream.joytvindia.com/stream/hls/ttn24/index.m3u8",
-      "reason": "empty HLS manifest"
     },
     {
       "name": "TV5 Kannada (576p)",
@@ -1974,7 +1954,7 @@
     {
       "name": "Lazio Style Channel HD (720p)",
       "url": "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Radio TV Serie A",
@@ -1989,11 +1969,6 @@
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Sportitalia Solocalcio (1080p)",
-      "url": "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
       "reason": "HTTP 403"
     },
     {
@@ -2574,7 +2549,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
