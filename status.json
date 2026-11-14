@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-14 17:56 UTC",
-  "fingerprint": "7a91bebbb7851f9d2127d1480a2b20bf",
+  "updated_at": "2026-11-14 18:23 UTC",
+  "fingerprint": "e3783f30f0b38063ddc2cc96f5000072",
   "total": 2373,
-  "working": 1936,
-  "in_grace_period": 17,
-  "dead": 437,
+  "working": 1937,
+  "in_grace_period": 42,
+  "dead": 436,
   "hd_channels": 821,
   "languages": {
     "Albanian": {
@@ -70,7 +70,7 @@
     "English": {
       "total": 288,
       "working": 228,
-      "hd": 115
+      "hd": 113
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 751,
-      "working": 642,
+      "working": 643,
       "hd": 229
     },
     "Hungarian": {
@@ -129,8 +129,8 @@
     },
     "Konkani": {
       "total": 3,
-      "working": 2,
-      "hd": 1
+      "working": 3,
+      "hd": 2
     },
     "Korean": {
       "total": 1,
@@ -179,7 +179,7 @@
     },
     "Polish": {
       "total": 10,
-      "working": 5,
+      "working": 1,
       "hd": 0
     },
     "Portuguese": {
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 52,
       "working": 39,
-      "hd": 21
+      "hd": 20
     },
     "Santali": {
       "total": 2,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 115,
-      "working": 61,
-      "hd": 41
+      "working": 64,
+      "hd": 42
     },
     "Swedish": {
       "total": 1,
@@ -255,7 +255,7 @@
     "Ukrainian": {
       "total": 15,
       "working": 10,
-      "hd": 8
+      "hd": 9
     },
     "Urdu": {
       "total": 28,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 768,
-      "working": 691
+      "working": 693
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 538,
-      "working": 340
+      "working": 339
     },
     "Travel": {
       "total": 6,
@@ -404,7 +404,7 @@
     {
       "name": "&TV International (1080p)",
       "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
-      "reason": "not a valid HLS manifest"
+      "reason": "HTTP 403"
     },
     {
       "name": "Aaj Tak (1080p)",
@@ -505,11 +505,6 @@
       "name": "Bada Khabar (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Bansal News (720p)",
-      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
-      "reason": "HTTP 401"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
@@ -1167,11 +1162,6 @@
       "reason": "URLError"
     },
     {
-      "name": "RDX Goa (720p) [Geo-blocked]",
-      "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
-      "reason": "HTTP 401"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -1539,12 +1529,12 @@
     {
       "name": "Zee TV HD (1080p)",
       "url": "http://103.135.253.32:8080/ZEE-TV/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Zee Bangla Sonar (576p)",
       "url": "http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Sony Yay! (576p)",
@@ -1614,7 +1604,7 @@
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
-      "reason": "not a valid HLS manifest"
+      "reason": "HTTP 403"
     },
     {
       "name": "Band Sports (1080p)",
@@ -1679,17 +1669,7 @@
     {
       "name": "Olympic Channel [Geo-blocked]",
       "url": "https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Olympics Channel (1080p) [Geo-blocked]",
-      "url": "https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_1.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Olympics Channel (720p) [Geo-blocked]",
-      "url": "https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_2.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "TSN4 (720p)",
@@ -2092,11 +2072,6 @@
       "reason": "URLError"
     },
     {
-      "name": "L1 Max",
-      "url": "https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Movistar Deportes (1080p)",
       "url": "http://195.178.110.110/movistar/index.m3u8",
       "reason": "HTTP 403"
@@ -2119,6 +2094,26 @@
     {
       "name": "Polsat Sport Fight",
       "url": "http://92.114.85.87:8016/play/a00b/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Canal+ Sport",
+      "url": "http://57.129.96.133:888/stream/92/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Canal+ Sport 2",
+      "url": "http://57.129.96.133:888/stream/94/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Canal+ Sport 3",
+      "url": "http://57.129.96.133:888/stream/93/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Canal+ Sport 4",
+      "url": "http://57.129.96.133:888/stream/95/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -2287,11 +2282,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Maincast Cybersport (1080p)",
-      "url": "http://stream.mcquack.net/487/index.m3u8",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "MEGOGO Sport (1080p)",
       "url": "http://5.188.159.128:8070/megogo_sport/index.m3u8",
       "reason": "HTTP 404"
@@ -2300,6 +2290,11 @@
       "name": "Setanta Sports+ Ukraine (1080p)",
       "url": "http://stream.mcquack.net/390/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Sport 4 (576p)",
+      "url": "http://stream.mcquack.net/394/index.m3u8",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "UPL.TV",
