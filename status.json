@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-14 16:51 UTC",
-  "fingerprint": "ae7d05d5a207061d48d3ccc6b3c5d6d6",
+  "updated_at": "2026-11-14 17:23 UTC",
+  "fingerprint": "edfa4cc26426f70049dc38e10248ff64",
   "total": 2373,
-  "working": 1924,
-  "in_grace_period": 23,
-  "dead": 449,
+  "working": 1928,
+  "in_grace_period": 20,
+  "dead": 445,
   "hd_channels": 821,
   "languages": {
     "Albanian": {
@@ -70,7 +70,7 @@
     "English": {
       "total": 288,
       "working": 225,
-      "hd": 113
+      "hd": 114
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 751,
-      "working": 632,
+      "working": 634,
       "hd": 227
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 38,
       "working": 24,
-      "hd": 14
+      "hd": 13
     },
     "Polish": {
       "total": 10,
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 155,
+      "working": 156,
       "hd": 57
     },
     "Romanian": {
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 141,
+      "working": 142,
       "hd": 56
     },
     "Thai": {
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 266,
-      "working": 208
+      "working": 209
     },
     "General": {
       "total": 195,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 128,
-      "working": 107
+      "working": 109
     },
     "Music": {
       "total": 142,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 768,
-      "working": 690
+      "working": 691
     },
     "Outdoor": {
       "total": 17,
@@ -552,11 +552,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Chardikla Time TV (1080p)",
-      "url": "https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "Chintpurni Live (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8",
       "reason": "HTTP 403"
@@ -695,11 +690,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -1154,11 +1144,6 @@
     {
       "name": "Punjabi Beats HD (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1620,11 +1605,6 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
