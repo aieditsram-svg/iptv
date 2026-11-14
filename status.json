@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-14 21:57 UTC",
-  "fingerprint": "b27d167e44592cd23996ed8e7e96791a",
+  "updated_at": "2026-11-14 22:25 UTC",
+  "fingerprint": "ca89b3ce1a578112edc5118125a1c583",
   "total": 2373,
-  "working": 1918,
-  "in_grace_period": 14,
-  "dead": 455,
+  "working": 1917,
+  "in_grace_period": 7,
+  "dead": 456,
   "hd_channels": 817,
   "languages": {
     "Albanian": {
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 92,
+      "working": 91,
       "hd": 43
     },
     "Bhojpuri": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 38,
       "working": 24,
-      "hd": 14
+      "hd": 15
     },
     "Polish": {
       "total": 10,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 52,
       "working": 38,
-      "hd": 21
+      "hd": 20
     },
     "Santali": {
       "total": 2,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 266,
-      "working": 209
+      "working": 208
     },
     "General": {
       "total": 195,
@@ -1315,6 +1315,11 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
     },
     {
       "name": "Starnet (480p)",
