@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 06:24 UTC",
-  "fingerprint": "e5d91a6e39658c20de414cc0d416e807",
+  "updated_at": "2026-11-14 07:30 UTC",
+  "fingerprint": "f56e51e8f39efb286e58b57ca05501a2",
   "total": 2373,
-  "working": 1929,
-  "in_grace_period": 15,
-  "dead": 444,
-  "hd_channels": 824,
+  "working": 1924,
+  "in_grace_period": 12,
+  "dead": 449,
+  "hd_channels": 822,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,8 +29,8 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 92,
-      "hd": 44
+      "working": 90,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -70,7 +70,7 @@
     "English": {
       "total": 288,
       "working": 223,
-      "hd": 111
+      "hd": 112
     },
     "Estonian": {
       "total": 1,
@@ -95,7 +95,7 @@
     "Gujarati": {
       "total": 47,
       "working": 45,
-      "hd": 21
+      "hd": 20
     },
     "Hebrew": {
       "total": 3,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 751,
-      "working": 636,
+      "working": 634,
       "hd": 229
     },
     "Hungarian": {
@@ -119,8 +119,8 @@
     },
     "Italian": {
       "total": 17,
-      "working": 13,
-      "hd": 9
+      "working": 12,
+      "hd": 8
     },
     "Kannada": {
       "total": 77,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 38,
       "working": 23,
-      "hd": 12
+      "hd": 13
     },
     "Polish": {
       "total": 10,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 52,
       "working": 39,
-      "hd": 21
+      "hd": 20
     },
     "Santali": {
       "total": 2,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 266,
-      "working": 207
+      "working": 205
     },
     "General": {
       "total": 195,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 768,
-      "working": 694
+      "working": 692
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 538,
-      "working": 339
+      "working": 338
     },
     "Travel": {
       "total": 6,
@@ -1137,6 +1137,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1194,6 +1199,16 @@
     {
       "name": "Sai TV",
       "url": "https://account31.livebox.co.in/saitvhls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Samay Kolkata (1080p)",
+      "url": "https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Samay Kolkata (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/SamayKolkata/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1284,7 +1299,7 @@
     {
       "name": "Sony Wah (1080p) [Geo-blocked]",
       "url": "https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8",
-      "reason": "not a valid HLS manifest"
+      "reason": "URLError"
     },
     {
       "name": "Spondon (1080p)",
@@ -1577,6 +1592,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
@@ -1609,7 +1629,7 @@
     {
       "name": "Racing.com (720p)",
       "url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 400"
     },
     {
       "name": "Sky Racing 1 (720p)",
@@ -1905,6 +1925,11 @@
       "name": "5Stars (1080p)",
       "url": "http://89.33.29.115:8080/IL_5Stars/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Lazio Style Channel HD (720p)",
+      "url": "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Radio TV Serie A",
@@ -2544,7 +2569,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
