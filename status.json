@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-14 13:46 UTC",
-  "fingerprint": "2a3ee49a8de6be111ab7551f9efd5e5a",
+  "updated_at": "2026-11-14 14:27 UTC",
+  "fingerprint": "bd0b947580824c5f4c47b623d25ec12b",
   "total": 2373,
-  "working": 1919,
-  "in_grace_period": 25,
-  "dead": 454,
+  "working": 1913,
+  "in_grace_period": 19,
+  "dead": 460,
   "hd_channels": 819,
   "languages": {
     "Albanian": {
@@ -29,8 +29,8 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 90,
-      "hd": 43
+      "working": 85,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -69,7 +69,7 @@
     },
     "English": {
       "total": 288,
-      "working": 224,
+      "working": 223,
       "hd": 111
     },
     "Estonian": {
@@ -95,7 +95,7 @@
     "Gujarati": {
       "total": 47,
       "working": 45,
-      "hd": 20
+      "hd": 21
     },
     "Hebrew": {
       "total": 3,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 751,
-      "working": 634,
-      "hd": 228
+      "working": 632,
+      "hd": 227
     },
     "Hungarian": {
       "total": 11,
@@ -174,8 +174,8 @@
     },
     "Other": {
       "total": 38,
-      "working": 23,
-      "hd": 13
+      "working": 24,
+      "hd": 14
     },
     "Polish": {
       "total": 10,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 140,
+      "working": 141,
       "hd": 56
     },
     "Thai": {
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 266,
-      "working": 206
+      "working": 201
     },
     "General": {
       "total": 195,
-      "working": 165
+      "working": 164
     },
     "Kids": {
       "total": 22,
@@ -335,11 +335,11 @@
     },
     "Movies": {
       "total": 128,
-      "working": 106
+      "working": 105
     },
     "Music": {
       "total": 142,
-      "working": 118
+      "working": 119
     },
     "News": {
       "total": 768,
@@ -393,8 +393,8 @@
     },
     {
       "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
+      "url": "http://107.167.16.138/9xtashan/index.m3u8?token=test",
+      "reason": "HTTP 403"
     },
     {
       "name": "9XM (1080p)",
@@ -419,7 +419,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -430,11 +430,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "All Time Movies (576p)",
@@ -472,6 +467,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
@@ -484,7 +484,7 @@
     {
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Awakening TV (576p)",
@@ -595,6 +595,11 @@
       "name": "CVR News (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/CVRNews/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "http://107.167.16.138/Dangal2/index.m3u8?token=test",
+      "reason": "HTTP 403"
     },
     {
       "name": "Dangal 2 (576p)",
@@ -730,11 +735,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -1064,7 +1064,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News Nation (576p)",
@@ -1104,7 +1104,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
+      "reason": "HTTP 403"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1154,11 +1154,6 @@
     {
       "name": "Punjabi Beats HD (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1235,11 +1230,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -1334,7 +1324,7 @@
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
+      "reason": "HTTP 403"
     },
     {
       "name": "Starnet (480p)",
@@ -1622,8 +1612,53 @@
       "reason": "URLError"
     },
     {
+      "name": "Colors HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Colors Bangla HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Colors Bangla Cinema (576p)",
+      "url": "https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Eurosport HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Enterr 10 Bangla (576p)",
+      "url": "https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Jalsha Movies (720p)",
+      "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Sony Aath (576p)",
+      "url": "https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "StarPlus HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -2484,7 +2519,7 @@
     {
       "name": "ESPN (432p)",
       "url": "http://tvsen7.aynascope.net/espn/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "ESPN 2 Latin America (1080p)",
@@ -2624,22 +2659,17 @@
     {
       "name": "Willow (720p)",
       "url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Willow (720p)",
       "url": "http://tvsen7.aynascope.net/rEBp38Ax/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Willow (720p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Sport",
-      "url": "https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8",
-      "reason": "not a valid HLS manifest"
     }
   ]
 }
