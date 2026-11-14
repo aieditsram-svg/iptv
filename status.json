@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-14 23:25 UTC",
-  "fingerprint": "facb3ff31acb84244536de4fe60d7c8a",
+  "updated_at": "2026-11-14 23:55 UTC",
+  "fingerprint": "a93990ff4614e9209aa1aa10b3bea55e",
   "total": 2373,
   "working": 1917,
-  "in_grace_period": 12,
+  "in_grace_period": 13,
   "dead": 456,
   "hd_channels": 815,
   "languages": {
@@ -2594,7 +2594,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",

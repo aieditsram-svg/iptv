@@ -1,5 +1,5 @@
 #EXTM3U
-# One link per channel for Kodi IPTV Simple Client, all languages, updated 2026-11-14 23:25 UTC
+# One link per channel for Kodi IPTV Simple Client, all languages, updated 2026-11-14 23:55 UTC
 #EXTINF:-1 tvg-id="RTSHSport.al@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/J6NKXyJ.png" x-category="Sports" tvg-language="Albanian" group-title="Albanian",RTSH Sport
 http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 #EXTINF:-1 tvg-id="AlIraqiaSport.iq@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/DrrlxTO.png" x-category="Sports" tvg-language="Arabic" group-title="Arabic",Al Iraqia Sport
@@ -77,7 +77,7 @@ https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8
 https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
 #EXTINF:-1 tvg-id="BanglaJago.in@SD" x-categories="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bangla_Jago.png" x-category="News" tvg-language="Bengali" group-title="Bengali",Bangla Jago
 https://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8
-#EXTINF:-1 tvg-id="BHIChannel.in@SD" x-categories="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BHI.png" x-category="News" tvg-language="Bengali" group-title="Bengali" height="360",BHI Channel
+#EXTINF:-1 tvg-id="BHIChannel.in@SD" x-categories="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BHI.png" x-category="News" tvg-language="Bengali" group-title="Bengali" height="720",BHI Channel
 https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8
 #EXTINF:-1 tvg-id="CineJomjomat.in@SD" x-categories="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cine_Jomjomat.png" x-category="Entertainment" tvg-language="Bengali" group-title="Bengali" height="1080",Cine Jomjomat
 https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8
@@ -644,7 +644,7 @@ https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
 #EXTINF:-1 tvg-id="TVSTurbo.us@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/7zYIbU1.png" x-category="Sports" tvg-language="English" group-title="English" height="360",TVS Turbo
 https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
-#EXTINF:-1 tvg-id="TVSWomenSports.us@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/8hC4PfF.png" x-category="Sports" tvg-language="English" group-title="English" height="360",TVS Women Sports
+#EXTINF:-1 tvg-id="TVSWomenSports.us@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/8hC4PfF.png" x-category="Sports" tvg-language="English" group-title="English" height="720",TVS Women Sports
 https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-id="Unbeaten.us@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/LmkNt3v.png" x-category="Sports" tvg-language="English" group-title="English" height="1080",Unbeaten
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports-v2/playlist.m3u8
@@ -1852,7 +1852,7 @@ https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01
 http://stream.mcquack.net/178/index.m3u8
 #EXTINF:-1 tvg-id="MNBSport.mn@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/z854PC3.png" x-category="Sports" tvg-language="Other" group-title="Other",MNB Sport
 https://live.mnb.mn/hls/mnb_sport.stream.m3u8
-#EXTINF:-1 tvg-id="MRTVSports.mm@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/cFTR4kC.png" x-category="Sports" tvg-language="Other" group-title="Other" height="1080",MRTV Sports
+#EXTINF:-1 tvg-id="MRTVSports.mm@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/cFTR4kC.png" x-category="Sports" tvg-language="Other" group-title="Other",MRTV Sports
 https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
 #EXTINF:-1 tvg-id="NDTVProfit.in@HD" x-categories="Business" tvg-logo="https://i.imgur.com/WK4tZ6p.png" x-category="Business" tvg-language="Other" group-title="Other" height="1080",NDTV Profit
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
@@ -1866,7 +1866,7 @@ https://live.castmaxcloud.com/live/sdsangam2.m3u8
 http://85.117.61.84/setanta3/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSportsPlusGeorgia.ge@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/ZtoZQUV.png" x-category="Sports" tvg-language="Other" group-title="Other" height="1080",Setanta Sports+ Georgia
 http://85.117.61.84/setanta2/index.m3u8
-#EXTINF:-1 tvg-id="Sport.uz@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/2WJE9CM.png" x-category="Sports" tvg-language="Other" group-title="Other",Sport
+#EXTINF:-1 tvg-id="Sport.uz@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/2WJE9CM.png" x-category="Sports" tvg-language="Other" group-title="Other" height="1080",Sport
 https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SportPlusQazaqstan.kz@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/vIV7x6n.png" x-category="Sports" tvg-language="Other" group-title="Other",Sport+ Qazaqstan
 https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
@@ -2236,9 +2236,9 @@ https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-491
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="BicolorPlusPremium.pe@SD" x-categories="Sports" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/00/1790183086681/1dff7002a22a_640_360.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish",Bicolor+ Premium
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="BicolorPlusPremium2.pe@SD" x-categories="Sports" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/03/1790194132371/1e57475a9a6b_640_360.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish",Bicolor+ Premium 2
+#EXTINF:-1 tvg-id="BicolorPlusPremium2.pe@SD" x-categories="Sports" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/03/1790194132371/1e57475a9a6b_640_360.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",Bicolor+ Premium 2
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium2_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="BicolorPlusPremium3.pe@SD" x-categories="Sports" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/03/1790194198636/d91910da3254_640_360.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish",Bicolor+ Premium 3
+#EXTINF:-1 tvg-id="BicolorPlusPremium3.pe@SD" x-categories="Sports" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/03/1790194198636/d91910da3254_640_360.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",Bicolor+ Premium 3
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium3_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalShowsport.ar@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/0L9tW3Z.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish",Canal Showsport
 https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
@@ -2646,7 +2646,7 @@ https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8
 https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8
 #EXTINF:-1 tvg-id="ETVNews.in@HD" x-categories="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_News.png" x-category="News" tvg-language="Telugu" group-title="Telugu" height="1080",ETV News
 https://cc-3448kp65yhc5w.akamaized.net/WWBI/Amagi/ETV_News_IN/playlist.m3u8
-#EXTINF:-1 tvg-id="ETVPlus.in@SD" x-categories="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-plus-HD-Logo_2000_X_1125_Transpharent.png" x-category="Entertainment" tvg-language="Telugu" group-title="Telugu" height="396",ETV Plus
+#EXTINF:-1 tvg-id="ETVPlus.in@SD" x-categories="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-plus-HD-Logo_2000_X_1125_Transpharent.png" x-category="Entertainment" tvg-language="Telugu" group-title="Telugu",ETV Plus
 https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="ETVTelangana.in@SD" x-categories="News" tvg-logo="https://dtil.tmsimg.com/assets/s143032_ld_h15_aa.png?lock=720x540" x-category="News" tvg-language="Telugu" group-title="Telugu",ETV Telangana
 https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264_cloud_in/index.m3u8
@@ -2777,10 +2777,10 @@ http://stream.mcquack.net/457/index.m3u8
 #EXTINF:-1 tvg-id="DynamoKyivTV.ua@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/ymxmyyG.png" x-category="Sports" tvg-language="Ukrainian" group-title="Ukrainian" height="1080",Dynamo Kyiv TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/396/index.m3u8
-#EXTINF:-1 tvg-id="Equalympic.ua@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/ixSj4H7.png" x-category="Sports" tvg-language="Ukrainian" group-title="Ukrainian",Equalympic
+#EXTINF:-1 tvg-id="Equalympic.ua@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/ixSj4H7.png" x-category="Sports" tvg-language="Ukrainian" group-title="Ukrainian" height="1080",Equalympic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/485/index.m3u8
-#EXTINF:-1 tvg-id="MaincastCybersport.ua@SD" x-categories="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png" x-category="Sports" tvg-language="Ukrainian" group-title="Ukrainian" height="1080",Maincast Cybersport
+#EXTINF:-1 tvg-id="MaincastCybersport.ua@SD" x-categories="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png" x-category="Sports" tvg-language="Ukrainian" group-title="Ukrainian",Maincast Cybersport
 http://stream.mcquack.net/487/index.m3u8
 #EXTINF:-1 tvg-id="MaincastSport.ua@SD" x-categories="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png" x-category="Sports" tvg-language="Ukrainian" group-title="Ukrainian" height="1080",Maincast Sport
 http://stream.mcquack.net/490/index.m3u8
