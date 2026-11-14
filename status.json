@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 09:08 UTC",
-  "fingerprint": "94a325ec0dd2433254bc835ffdabbc66",
+  "updated_at": "2026-11-14 09:48 UTC",
+  "fingerprint": "6454be5e94031f91aef3134fafd95755",
   "total": 2373,
-  "working": 1925,
+  "working": 1929,
   "in_grace_period": 15,
-  "dead": 448,
-  "hd_channels": 825,
+  "dead": 444,
+  "hd_channels": 824,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 90,
+      "working": 92,
       "hd": 43
     },
     "Bhojpuri": {
@@ -95,7 +95,7 @@
     "Gujarati": {
       "total": 47,
       "working": 45,
-      "hd": 21
+      "hd": 20
     },
     "Hebrew": {
       "total": 3,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 751,
-      "working": 634,
+      "working": 636,
       "hd": 229
     },
     "Hungarian": {
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 266,
-      "working": 207
+      "working": 209
     },
     "General": {
       "total": 195,
@@ -339,11 +339,11 @@
     },
     "Music": {
       "total": 142,
-      "working": 119
+      "working": 120
     },
     "News": {
       "total": 768,
-      "working": 691
+      "working": 692
     },
     "Outdoor": {
       "total": 17,
@@ -937,11 +937,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -955,11 +950,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1020,11 +1010,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1220,11 +1205,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -1934,17 +1914,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "QazSport (1080p)",
