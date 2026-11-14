@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-14 07:30 UTC",
-  "fingerprint": "f56e51e8f39efb286e58b57ca05501a2",
+  "updated_at": "2026-11-14 08:21 UTC",
+  "fingerprint": "1827c8f8aaf47e080637dd51543e6096",
   "total": 2373,
   "working": 1924,
-  "in_grace_period": 12,
+  "in_grace_period": 10,
   "dead": 449,
   "hd_channels": 822,
   "languages": {
@@ -70,7 +70,7 @@
     "English": {
       "total": 288,
       "working": 223,
-      "hd": 112
+      "hd": 111
     },
     "Estonian": {
       "total": 1,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 52,
       "working": 39,
-      "hd": 20
+      "hd": 21
     },
     "Santali": {
       "total": 2,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 266,
-      "working": 205
+      "working": 206
     },
     "General": {
       "total": 195,
@@ -339,7 +339,7 @@
     },
     "Music": {
       "total": 142,
-      "working": 120
+      "working": 119
     },
     "News": {
       "total": 768,
@@ -1217,6 +1217,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
@@ -1299,17 +1304,12 @@
     {
       "name": "Sony Wah (1080p) [Geo-blocked]",
       "url": "https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8",
-      "reason": "URLError"
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "StarPlus HD (1080p)",
