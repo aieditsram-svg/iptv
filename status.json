@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 22:25 UTC",
-  "fingerprint": "ca89b3ce1a578112edc5118125a1c583",
+  "updated_at": "2026-11-14 22:57 UTC",
+  "fingerprint": "bed0273511c72ba5515dc4524547cbb8",
   "total": 2373,
   "working": 1917,
-  "in_grace_period": 7,
+  "in_grace_period": 6,
   "dead": 456,
-  "hd_channels": 817,
+  "hd_channels": 816,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 751,
-      "working": 633,
+      "working": 632,
       "hd": 226
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 38,
       "working": 24,
-      "hd": 15
+      "hd": 13
     },
     "Polish": {
       "total": 10,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 52,
       "working": 38,
-      "hd": 20
+      "hd": 21
     },
     "Santali": {
       "total": 2,
@@ -224,7 +224,7 @@
     },
     "Spanish": {
       "total": 115,
-      "working": 60,
+      "working": 59,
       "hd": 39
     },
     "Swedish": {
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 140,
+      "working": 142,
       "hd": 56
     },
     "Thai": {
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 266,
-      "working": 208
+      "working": 209
     },
     "General": {
       "total": 195,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 538,
-      "working": 335
+      "working": 334
     },
     "Travel": {
       "total": 6,
@@ -697,11 +697,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -720,11 +715,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -1099,7 +1089,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1622,6 +1612,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
@@ -1959,17 +1954,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "QazSport (1080p)",
@@ -2034,7 +2029,7 @@
     {
       "name": "Sky Sports 2 (1080p)",
       "url": "http://200.115.120.1:8000/play/ca82266/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "ESPN (360p)",
@@ -2599,7 +2594,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
@@ -2645,6 +2640,11 @@
       "name": "Willow (720p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Meridiano TV (576p)",
+      "url": "http://181.78.8.199:8000/play/a0fr/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "SportsMax News (1080p)",
