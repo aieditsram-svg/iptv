@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-14 21:24 UTC",
-  "fingerprint": "a579c2b5d48b1ea480cd1ea18d2fa332",
+  "updated_at": "2026-11-14 21:57 UTC",
+  "fingerprint": "b27d167e44592cd23996ed8e7e96791a",
   "total": 2373,
-  "working": 1920,
+  "working": 1918,
   "in_grace_period": 14,
-  "dead": 453,
+  "dead": 455,
   "hd_channels": 817,
   "languages": {
     "Albanian": {
@@ -70,7 +70,7 @@
     "English": {
       "total": 288,
       "working": 225,
-      "hd": 114
+      "hd": 113
     },
     "Estonian": {
       "total": 1,
@@ -95,7 +95,7 @@
     "Gujarati": {
       "total": 47,
       "working": 44,
-      "hd": 19
+      "hd": 20
     },
     "Hebrew": {
       "total": 3,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 751,
-      "working": 632,
-      "hd": 225
+      "working": 633,
+      "hd": 226
     },
     "Hungarian": {
       "total": 11,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 115,
-      "working": 61,
-      "hd": 40
+      "working": 60,
+      "hd": 39
     },
     "Swedish": {
       "total": 1,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 142,
+      "working": 140,
       "hd": 56
     },
     "Thai": {
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 266,
-      "working": 210
+      "working": 209
     },
     "General": {
       "total": 195,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 128,
-      "working": 109
+      "working": 108
     },
     "Music": {
       "total": 142,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 768,
-      "working": 691
+      "working": 692
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 538,
-      "working": 336
+      "working": 335
     },
     "Travel": {
       "total": 6,
@@ -697,6 +697,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -715,6 +720,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -869,11 +879,6 @@
     {
       "name": "India News Punjab/Himachal (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWSPBHPJ&K/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "India Voice (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1949,17 +1954,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "QazSport (1080p)",
@@ -2020,6 +2025,11 @@
       "name": "TV Cuatro 4.3 (1080p)",
       "url": "https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Sky Sports 2 (1080p)",
+      "url": "http://200.115.120.1:8000/play/ca82266/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "ESPN (360p)",
