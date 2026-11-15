@@ -1,16 +1,13 @@
 #EXTM3U
-# Music channels, one link per channel, all languages, updated 2026-11-15 21:51 UTC
-#EXTINF:-1 tvg-id="DhoomMusic.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s142882_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Bengali" group-title="Bengali" height="576",Dhoom Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/378/master.m3u8
-#EXTINF:-1 tvg-id="SangeetBangla.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00211H7T.png?lock=720x540" x-category="Music" tvg-language="Bengali" group-title="Bengali" height="576",Sangeet Bangla
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/379/master.m3u8
+# Music channels, one link per channel, all languages, updated 2026-11-15 22:24 UTC
+#EXTINF:-1 tvg-id="DhoomMusic.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s142882_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Bengali" group-title="Bengali" height="720",Dhoom Music
+https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
+#EXTINF:-1 tvg-id="SangeetBangla.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00211H7T.png?lock=720x540" x-category="Music" tvg-language="Bengali" group-title="Bengali" height="720",Sangeet Bangla
+https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
 #EXTINF:-1 tvg-id="ZBMusic.in@HD" x-categories="Music" tvg-logo="https://i.imgur.com/k1nb8u1.jpeg" x-category="Music" tvg-language="Bengali" group-title="Bengali" height="1080",ZB Music
 https://server.zillarbarta.com/zbmusic/index.m3u8
-#EXTINF:-1 tvg-id="SangeetBhojpuri.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Bhojpuri" group-title="Bhojpuri" height="576",Sangeet Bhojpuri
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/349/master.m3u8
+#EXTINF:-1 tvg-id="SangeetBhojpuri.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Bhojpuri" group-title="Bhojpuri" height="720",Sangeet Bhojpuri
+https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-id="7XMusic.in@SD" x-categories="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png" x-category="Music" tvg-language="Hindi" group-title="Hindi" height="1080",7X Music
 https://7xshreeshyam.akamaized.net/7XPunjabi/index.m3u8
 #EXTINF:-1 tvg-id="9XJalwa.in@SD" x-categories="Music" tvg-logo="https://i.imgur.com/qubgOi5.png" x-category="Music" tvg-language="Hindi" group-title="Hindi" height="1080",9X Jalwa
@@ -30,17 +27,17 @@ https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
 #EXTINF:-1 tvg-id="Dhamaal.in@SD" x-categories="Music" tvg-logo="https://i.imgur.com/J6D56EF.png" x-category="Music" tvg-language="Hindi" group-title="Hindi",Dhamaal
 https://tvsen6.aynaott.com/F4Z6es8E/index.m3u8
 #EXTINF:-1 tvg-id="EpicMusic.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BWBW.png?lock=720x540" x-category="Music" tvg-language="Hindi" group-title="Hindi" height="720",Epic Music
-https://streams.tangotv.in/EPICMUSIC/ORIGIN/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="EpicMusic.in@Digital" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BWBW.png?lock=720x540" x-category="Music" tvg-language="Hindi" group-title="Hindi" height="1080",Epic Music Digital
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
 #EXTINF:-1 tvg-id="HindiHits.in@SD" x-categories="Music" tvg-logo="https://i.imgur.com/J565WH1.png" x-category="Music" tvg-language="Hindi" group-title="Hindi" height="1080",Hindi Hits
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-id="Insync.in@SD" x-categories="Music" tvg-logo="https://i.imgur.com/fAJdazJ.png" x-category="Music" tvg-language="Hindi" group-title="Hindi" height="396",Insync
-https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8
+#EXTINF:-1 tvg-id="Insync.in@SD" x-categories="Music" tvg-logo="https://i.imgur.com/fAJdazJ.png" x-category="Music" tvg-language="Hindi" group-title="Hindi" height="720",Insync
+https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
 #EXTINF:-1 tvg-id="Mastiii.in@SD" x-categories="Music" tvg-logo="https://i.imgur.com/lxgXHx4.png" x-category="Music" tvg-language="Hindi" group-title="Hindi" height="720",Mastiii
 https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
 #EXTINF:-1 tvg-id="MusicIndia.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Hindi" group-title="Hindi" height="720",Music India
-https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
+https://mumt05.tangotv.in/87NeALx2MUSICINDIA/index.m3u8
 #EXTINF:-1 tvg-id="NHBollyRaga.in@HD" x-categories="Music" tvg-logo="https://i.ibb.co/BKB9mv1K/NH-Bolly-Raga.png" x-category="Music" tvg-language="Hindi" group-title="Hindi" height="1080",NH BollyRaga
 https://jmp2.uk/stvp-IN460001373
 #EXTINF:-1 tvg-id="ShemarooFilmiGaane.in@HD" x-categories="Music;Movies" tvg-logo="https://i.imgur.com/2yOij1b.png" x-category="Music" tvg-language="Hindi" group-title="Hindi",Shemaroo Filmi Gaane
@@ -57,20 +54,18 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
 #EXTINF:-1 tvg-id="Zoom.in@SD" x-categories="Music" tvg-logo="https://i.imgur.com/mxx05Z9.png" x-category="Music" tvg-language="Hindi" group-title="Hindi" height="720",Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1 tvg-id="PublicMusic.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143687_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Kannada" group-title="Kannada" height="576",Public Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/240/master.m3u8
+#EXTINF:-1 tvg-id="PublicMusic.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143687_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Kannada" group-title="Kannada" height="720",Public Music
+https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="RajMusixKannada.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143705_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Kannada" group-title="Kannada" height="720",Raj Musix Kannada
-https://samitaorigin.tangotv.in/RAJMUSIXKANDA/SAMITAORIGIN/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
 #EXTINF:-1 tvg-id="KalikaTV.in@SD" x-categories="Music" tvg-logo="https://i.imgur.com/XWXFoJA.png" x-category="Music" tvg-language="Malayalam" group-title="Malayalam",Kalika TV
 http://server.applelive.in/kalikatv/kalikatv.m3u8
-#EXTINF:-1 tvg-id="RajMusixMalayalam.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143706_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Malayalam" group-title="Malayalam" height="576",Raj Musix Malayalam
-https://cdn.pishow.tv/ott/live/1073/master.m3u8
+#EXTINF:-1 tvg-id="RajMusixMalayalam.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143706_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Malayalam" group-title="Malayalam" height="720",Raj Musix Malayalam
+https://mumt04.tangotv.in/m18aqlK4RAJMUSIXMALAYALAM/index.m3u8
 #EXTINF:-1 tvg-id="9XJhakaas.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Marathi" group-title="Marathi" height="1080",9X Jhakaas
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="SangeetMarathi.in@SD" x-categories="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" x-category="Music" tvg-language="Marathi" group-title="Marathi" height="576",Sangeet Marathi
-#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/712/master.m3u8
+#EXTINF:-1 tvg-id="SangeetMarathi.in@SD" x-categories="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" x-category="Music" tvg-language="Marathi" group-title="Marathi" height="720",Sangeet Marathi
+https://mumt07.tangotv.in/zHjX9OFlSANGEETMARATHI/index.m3u8
 #EXTINF:-1 tvg-id="VisionBeats.in@SD" x-categories="Music" tvg-logo="https://i.imgur.com/lxR5FKh.png" x-category="Music" tvg-language="Nepali" group-title="Nepali" height="1080",Vision Beats
 http://a-edge.bliscdn.com/Visionbeats/index.m3u8
 #EXTINF:-1 tvg-id="TarangMusic.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143926_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Odia" group-title="Odia" height="720",Tarang Music
@@ -83,12 +78,11 @@ https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg012
 https://livestream.jswk.online/playlisttest/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Pankh.in@SD" x-categories="Music" tvg-logo="https://papaji.freetvindia.com/media/pankh.png" x-category="Music" tvg-language="Punjabi" group-title="Punjabi" height="720",Pankh
 https://samitaorigin.tangotv.in/PANKH/SAMITAORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="PTCChakde.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143681_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Punjabi" group-title="Punjabi" height="576",PTC Chakde
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/180/master.m3u8
+#EXTINF:-1 tvg-id="PTCChakde.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143681_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Punjabi" group-title="Punjabi" height="720",PTC Chakde
+https://mumt06.tangotv.in/qYyB8fXVPTCCHAKDE/index.m3u8
 #EXTINF:-1 tvg-id="PTCMusic.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143682_ld_h15_ab.png?lock=720x540" x-category="Music" tvg-language="Punjabi" group-title="Punjabi" height="1080",PTC Music
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
-#EXTINF:-1 tvg-id="PunjabiBeatsHD.in@HD" x-categories="Music" tvg-logo="https://i.imgur.com/1Za9gNQ.jpg" x-category="Music" tvg-language="Punjabi" group-title="Punjabi",Punjabi Beats HD
+#EXTINF:-1 tvg-id="PunjabiBeatsHD.in@HD" x-categories="Music" tvg-logo="https://i.imgur.com/1Za9gNQ.jpg" x-category="Music" tvg-language="Punjabi" group-title="Punjabi" height="720",Punjabi Beats HD
 https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiHits.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143691_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Punjabi" group-title="Punjabi" height="1080",Punjabi Hits
 https://legitpro.co.in/punjabihits/punjabihits/index.m3u8
@@ -106,7 +100,7 @@ https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
 #EXTINF:-1 tvg-id="IsaiAruvi.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143212_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Tamil" group-title="Tamil" height="396",Isai Aruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
-#EXTINF:-1 tvg-id="PeppersTV.in@SD" x-categories="Music" tvg-logo="https://i.imgur.com/5PyJj2n.png" x-category="Music" tvg-language="Tamil" group-title="Tamil",Peppers TV
+#EXTINF:-1 tvg-id="PeppersTV.in@SD" x-categories="Music" tvg-logo="https://i.imgur.com/5PyJj2n.png" x-category="Music" tvg-language="Tamil" group-title="Tamil" height="720",Peppers TV
 https://mumt07.tangotv.in/zHjX9OFlPEPPERS/index.m3u8
 #EXTINF:-1 tvg-id="RajMusixTamil.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143707_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Tamil" group-title="Tamil",Raj Musix Tamil
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
@@ -124,3 +118,5 @@ https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.m
 https://jmp2.uk/stvp-IN4900002RV
 #EXTINF:-1 tvg-id="ETVMusic.in@SD" x-categories="Music" tvg-logo="https://etvcoin.s3.ap-south-1.amazonaws.com/uploads/channellogo1787822939Music-Logo-100x100-P.png" x-category="Music" tvg-language="Telugu" group-title="Telugu",ETV Music
 https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8
+#EXTINF:-1 tvg-id="RajMusixTelugu.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143708_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Telugu" group-title="Telugu" height="720",Raj Musix Telugu
+https://mumt07.tangotv.in/zHjX9OFlRAJMUSIXTELUGU/index.m3u8
