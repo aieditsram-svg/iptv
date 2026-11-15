@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 14:36 UTC",
-  "fingerprint": "2d35a5480d947070f3d3af21bf552e34",
+  "updated_at": "2026-11-15 15:17 UTC",
+  "fingerprint": "c363a212171103237e2f0b517998d205",
   "total": 2382,
-  "working": 1935,
-  "in_grace_period": 23,
-  "dead": 447,
-  "hd_channels": 813,
+  "working": 1928,
+  "in_grace_period": 30,
+  "dead": 454,
+  "hd_channels": 810,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 89,
+      "working": 90,
       "hd": 41
     },
     "Bhojpuri": {
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 289,
-      "working": 225,
-      "hd": 110
+      "working": 223,
+      "hd": 109
     },
     "Estonian": {
       "total": 1,
@@ -95,7 +95,7 @@
     "Gujarati": {
       "total": 47,
       "working": 44,
-      "hd": 20
+      "hd": 21
     },
     "Hebrew": {
       "total": 3,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 641,
-      "hd": 227
+      "working": 636,
+      "hd": 226
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 41,
       "working": 27,
-      "hd": 12
+      "hd": 13
     },
     "Polish": {
       "total": 11,
@@ -199,8 +199,8 @@
     },
     "Russian": {
       "total": 52,
-      "working": 39,
-      "hd": 21
+      "working": 38,
+      "hd": 18
     },
     "Santali": {
       "total": 2,
@@ -295,7 +295,7 @@
     },
     "Cricket": {
       "total": 20,
-      "working": 13
+      "working": 12
     },
     "Culture": {
       "total": 19,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 195,
-      "working": 166
+      "working": 165
     },
     "Kids": {
       "total": 22,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 128,
-      "working": 111
+      "working": 109
     },
     "Music": {
       "total": 142,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 764,
-      "working": 691
+      "working": 690
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 551,
-      "working": 347
+      "working": 344
     },
     "Travel": {
       "total": 6,
@@ -465,6 +465,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -722,6 +727,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Gangaur TV (1080p)",
+      "url": "https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -965,6 +975,16 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1250,11 +1270,6 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Starnet (480p)",
@@ -1560,6 +1575,11 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
@@ -2204,7 +2224,7 @@
     {
       "name": "Digi Sport 1 HD",
       "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3174529991",
-      "reason": "HTTP 502"
+      "reason": "HTTP 403"
     },
     {
       "name": "Extreme Sports Channel (576p)",
@@ -2255,6 +2275,11 @@
       "name": "Okko Prajm Sport (1080p)",
       "url": "http://stream.mcquack.net/493/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Sportivnyy (1080p)",
+      "url": "https://live-3.otcnet.ru/sportivny/index.m3u8",
+      "reason": "HTTP 503"
     },
     {
       "name": "UDAR (1080p)",
@@ -2592,9 +2617,19 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Willow (720p)",
+      "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Willow (720p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Golf Channel (576p)",
+      "url": "https://tvsen6.aynaott.com/golfchannel/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Meridiano TV (576p)",
