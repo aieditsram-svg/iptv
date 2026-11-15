@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 13:59 UTC",
-  "fingerprint": "b9d9552f1857600c40bbc77d588f53de",
+  "updated_at": "2026-11-15 14:36 UTC",
+  "fingerprint": "2d35a5480d947070f3d3af21bf552e34",
   "total": 2382,
-  "working": 1934,
-  "in_grace_period": 24,
-  "dead": 448,
-  "hd_channels": 817,
+  "working": 1935,
+  "in_grace_period": 23,
+  "dead": 447,
+  "hd_channels": 813,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 289,
       "working": 225,
-      "hd": 111
+      "hd": 110
     },
     "Estonian": {
       "total": 1,
@@ -95,7 +95,7 @@
     "Gujarati": {
       "total": 47,
       "working": 44,
-      "hd": 21
+      "hd": 20
     },
     "Hebrew": {
       "total": 3,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 41,
       "working": 27,
-      "hd": 14
+      "hd": 12
     },
     "Polish": {
       "total": 11,
@@ -234,12 +234,12 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 140,
+      "working": 139,
       "hd": 67
     },
     "Telugu": {
       "total": 172,
-      "working": 138,
+      "working": 140,
       "hd": 56
     },
     "Thai": {
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 266,
-      "working": 210
+      "working": 211
     },
     "General": {
       "total": 195,
-      "working": 167
+      "working": 166
     },
     "Kids": {
       "total": 22,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 128,
-      "working": 110
+      "working": 111
     },
     "Music": {
       "total": 142,
@@ -647,11 +647,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -670,11 +665,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -1347,6 +1337,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Thendral TV (576p)",
+      "url": "https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Times Now (720p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8",
       "reason": "HTTP 403"
@@ -1914,17 +1909,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "QazSport (1080p)",
@@ -2209,7 +2204,7 @@
     {
       "name": "Digi Sport 1 HD",
       "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3174529991",
-      "reason": "HTTP 403"
+      "reason": "HTTP 502"
     },
     {
       "name": "Extreme Sports Channel (576p)",
@@ -2554,7 +2549,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
