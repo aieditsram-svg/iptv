@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 17:03 UTC",
-  "fingerprint": "12c09af0a87f5198443f0ecc7343f514",
+  "updated_at": "2026-11-15 17:33 UTC",
+  "fingerprint": "6f075637a160a58211aabb5396b95946",
   "total": 2382,
-  "working": 1930,
-  "in_grace_period": 25,
-  "dead": 452,
-  "hd_channels": 815,
+  "working": 1932,
+  "in_grace_period": 32,
+  "dead": 450,
+  "hd_channels": 818,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 289,
       "working": 225,
-      "hd": 111
+      "hd": 112
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 637,
+      "working": 638,
       "hd": 226
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 41,
       "working": 27,
-      "hd": 12
+      "hd": 14
     },
     "Polish": {
       "total": 11,
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 154,
+      "working": 155,
       "hd": 56
     },
     "Romanian": {
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 195,
-      "working": 168
+      "working": 169
     },
     "Kids": {
       "total": 22,
@@ -339,7 +339,7 @@
     },
     "Music": {
       "total": 142,
-      "working": 118
+      "working": 119
     },
     "News": {
       "total": 764,
@@ -390,11 +390,6 @@
       "name": "9X Jhakaas (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -454,11 +449,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1929,17 +1919,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "QazSport (1080p)",
@@ -2224,7 +2214,7 @@
     {
       "name": "Digi Sport 1 HD",
       "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3174529991",
-      "reason": "HTTP 502"
+      "reason": "HTTP 503"
     },
     {
       "name": "Extreme Sports Channel (576p)",
