@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 18:07 UTC",
-  "fingerprint": "ada0d7712d1be9f64ede64379893b4ae",
+  "updated_at": "2026-11-15 18:47 UTC",
+  "fingerprint": "9e2ccf0e373c16039261e67766eae616",
   "total": 2382,
-  "working": 1927,
-  "in_grace_period": 19,
-  "dead": 455,
-  "hd_channels": 815,
+  "working": 1924,
+  "in_grace_period": 17,
+  "dead": 458,
+  "hd_channels": 809,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,8 +29,8 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 84,
-      "hd": 42
+      "working": 83,
+      "hd": 39
     },
     "Bhojpuri": {
       "total": 33,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 638,
-      "hd": 225
+      "working": 637,
+      "hd": 223
     },
     "Hungarian": {
       "total": 11,
@@ -174,8 +174,8 @@
     },
     "Other": {
       "total": 41,
-      "working": 26,
-      "hd": 13
+      "working": 25,
+      "hd": 12
     },
     "Polish": {
       "total": 11,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 764,
-      "working": 691
+      "working": 689
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 551,
-      "working": 346
+      "working": 345
     },
     "Travel": {
       "total": 6,
@@ -422,6 +422,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Aamar Bangla (720p)",
+      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -435,6 +440,11 @@
       "name": "Anand Wari TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Ananda Barta (720p)",
+      "url": "https://account19.livebox.co.in/Anandabarta2hls/live.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Andy Haryana (576p)",
@@ -802,6 +812,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "HNN 24x7 (576p)",
+      "url": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
       "reason": "HTTP 404"
@@ -895,11 +910,6 @@
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Kolkata TV (576p)",
@@ -1685,6 +1695,11 @@
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
       "reason": "not a valid HLS manifest"
+    },
+    {
+      "name": "Adriatic Sport 2",
+      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2665922581",
+      "reason": "HTTP 503"
     },
     {
       "name": "Band Sports (1080p)",
