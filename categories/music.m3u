@@ -1,10 +1,10 @@
 #EXTM3U
-# Music channels, one link per channel, all languages, updated 2026-11-15 15:53 UTC
+# Music channels, one link per channel, all languages, updated 2026-11-15 16:26 UTC
 #EXTINF:-1 tvg-id="DhoomMusic.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s142882_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Bengali" group-title="Bengali" height="720",Dhoom Music
 https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="SangeetBangla.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00211H7T.png?lock=720x540" x-category="Music" tvg-language="Bengali" group-title="Bengali" height="720",Sangeet Bangla
 https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
-#EXTINF:-1 tvg-id="ZBMusic.in@HD" x-categories="Music" tvg-logo="https://i.imgur.com/k1nb8u1.jpeg" x-category="Music" tvg-language="Bengali" group-title="Bengali",ZB Music
+#EXTINF:-1 tvg-id="ZBMusic.in@HD" x-categories="Music" tvg-logo="https://i.imgur.com/k1nb8u1.jpeg" x-category="Music" tvg-language="Bengali" group-title="Bengali" height="1080",ZB Music
 https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1 tvg-id="SangeetBhojpuri.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Bhojpuri" group-title="Bhojpuri" height="720",Sangeet Bhojpuri
 https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
@@ -81,7 +81,8 @@ https://samitaorigin.tangotv.in/PANKH/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PTCChakde.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143681_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Punjabi" group-title="Punjabi" height="720",PTC Chakde
 https://mumt06.tangotv.in/qYyB8fXVPTCCHAKDE/index.m3u8
 #EXTINF:-1 tvg-id="PTCMusic.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143682_ld_h15_ab.png?lock=720x540" x-category="Music" tvg-language="Punjabi" group-title="Punjabi" height="1080",PTC Music
-https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/181/master.m3u8
 #EXTINF:-1 tvg-id="PunjabiBeatsHD.in@HD" x-categories="Music" tvg-logo="https://i.imgur.com/1Za9gNQ.jpg" x-category="Music" tvg-language="Punjabi" group-title="Punjabi" height="720",Punjabi Beats HD
 https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiHits.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143691_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Punjabi" group-title="Punjabi" height="1080",Punjabi Hits
