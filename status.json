@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 15:17 UTC",
-  "fingerprint": "c363a212171103237e2f0b517998d205",
+  "updated_at": "2026-11-15 15:53 UTC",
+  "fingerprint": "f1f7436991c521d9caecb9dd3ca22b73",
   "total": 2382,
-  "working": 1928,
-  "in_grace_period": 30,
-  "dead": 454,
-  "hd_channels": 810,
+  "working": 1927,
+  "in_grace_period": 32,
+  "dead": 455,
+  "hd_channels": 809,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 289,
       "working": 223,
-      "hd": 109
+      "hd": 108
     },
     "Estonian": {
       "total": 1,
@@ -174,7 +174,7 @@
     },
     "Other": {
       "total": 41,
-      "working": 27,
+      "working": 26,
       "hd": 13
     },
     "Polish": {
@@ -189,8 +189,8 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 156,
-      "hd": 57
+      "working": 155,
+      "hd": 56
     },
     "Romanian": {
       "total": 17,
@@ -199,8 +199,8 @@
     },
     "Russian": {
       "total": 52,
-      "working": 38,
-      "hd": 18
+      "working": 39,
+      "hd": 19
     },
     "Santali": {
       "total": 2,
@@ -295,7 +295,7 @@
     },
     "Cricket": {
       "total": 20,
-      "working": 12
+      "working": 11
     },
     "Culture": {
       "total": 19,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 251,
-      "working": 227
+      "working": 226
     },
     "Documentary": {
       "total": 8,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 266,
-      "working": 211
+      "working": 212
     },
     "General": {
       "total": 195,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 551,
-      "working": 344
+      "working": 343
     },
     "Travel": {
       "total": 6,
@@ -527,6 +527,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Chintpurni Live (720p)",
+      "url": "https://samitaorigin.tangotv.in/CHINTPURNILIVE/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Chintpurni Live (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8",
       "reason": "HTTP 403"
@@ -579,6 +584,11 @@
     {
       "name": "DD Punjabi (576p)",
       "url": "https://fta.ektv.in/live/177/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Sports (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlDDSPORTS/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -725,11 +735,6 @@
       "name": "Food Food (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Gangaur TV (1080p)",
-      "url": "https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Goldmines 2 (576p)",
@@ -1929,17 +1934,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "QazSport (1080p)",
@@ -2277,11 +2282,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Sportivnyy (1080p)",
-      "url": "https://live-3.otcnet.ru/sportivny/index.m3u8",
-      "reason": "HTTP 503"
-    },
-    {
       "name": "UDAR (1080p)",
       "url": "http://5.188.159.128:8070/udar/index.m3u8",
       "reason": "HTTP 404"
@@ -2574,7 +2574,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
@@ -2630,6 +2630,11 @@
       "name": "Golf Channel (576p)",
       "url": "https://tvsen6.aynaott.com/golfchannel/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Sport",
+      "url": "https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Meridiano TV (576p)",
