@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 20:03 UTC",
-  "fingerprint": "8021d5387d41098f883fef2a60dde6d7",
+  "updated_at": "2026-11-15 20:38 UTC",
+  "fingerprint": "cae398f7fd6a71f242a2f4fc085d523f",
   "total": 2381,
-  "working": 1928,
-  "in_grace_period": 24,
-  "dead": 453,
-  "hd_channels": 810,
+  "working": 1926,
+  "in_grace_period": 25,
+  "dead": 455,
+  "hd_channels": 807,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 289,
       "working": 224,
-      "hd": 110
+      "hd": 109
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 639,
+      "working": 638,
       "hd": 224
     },
     "Hungarian": {
@@ -119,8 +119,8 @@
     },
     "Italian": {
       "total": 20,
-      "working": 16,
-      "hd": 10
+      "working": 15,
+      "hd": 9
     },
     "Kannada": {
       "total": 77,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 52,
       "working": 39,
-      "hd": 20
+      "hd": 19
     },
     "Santali": {
       "total": 2,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 266,
-      "working": 206
+      "working": 204
     },
     "General": {
       "total": 195,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 128,
-      "working": 108
+      "working": 109
     },
     "Music": {
       "total": 142,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 550,
-      "working": 346
+      "working": 345
     },
     "Travel": {
       "total": 6,
@@ -667,11 +667,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -690,6 +685,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -1109,6 +1109,11 @@
     {
       "name": "Punjabi Beats HD (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1935,6 +1940,11 @@
       "name": "5Stars (1080p)",
       "url": "http://89.33.29.115:8080/IL_5Stars/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Lazio Style Channel HD (720p)",
+      "url": "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Radio TV Serie A",
