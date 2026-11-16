@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-16 21:26 UTC",
-  "fingerprint": "232e89bbc59a522ed7d006c942b7e3fb",
+  "updated_at": "2026-11-16 22:11 UTC",
+  "fingerprint": "4a0ad6be5b4258f7eed13e2ad351e946",
   "total": 2381,
-  "working": 1932,
-  "in_grace_period": 16,
-  "dead": 449,
-  "hd_channels": 810,
+  "working": 1934,
+  "in_grace_period": 13,
+  "dead": 447,
+  "hd_channels": 813,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 640,
-      "hd": 225
+      "working": 642,
+      "hd": 226
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 27,
-      "hd": 12
+      "hd": 14
     },
     "Polish": {
       "total": 11,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 195,
-      "working": 168
+      "working": 169
     },
     "Kids": {
       "total": 22,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 128,
-      "working": 108
+      "working": 109
     },
     "Music": {
       "total": 142,
@@ -454,11 +454,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1582,11 +1577,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
@@ -2554,7 +2544,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
