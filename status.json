@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-16 19:01 UTC",
-  "fingerprint": "f5b052e963d52056ab8a80afc610cf02",
+  "updated_at": "2026-11-16 19:52 UTC",
+  "fingerprint": "59796c1fa2fa808ed4051a05bb5be7df",
   "total": 2381,
   "working": 1929,
-  "in_grace_period": 19,
+  "in_grace_period": 16,
   "dead": 452,
-  "hd_channels": 812,
+  "hd_channels": 813,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 639,
+      "working": 640,
       "hd": 226
     },
     "Hungarian": {
@@ -174,12 +174,12 @@
     },
     "Other": {
       "total": 40,
-      "working": 27,
+      "working": 28,
       "hd": 13
     },
     "Polish": {
       "total": 11,
-      "working": 3,
+      "working": 2,
       "hd": 0
     },
     "Portuguese": {
@@ -194,13 +194,13 @@
     },
     "Romanian": {
       "total": 17,
-      "working": 17,
+      "working": 16,
       "hd": 5
     },
     "Russian": {
       "total": 52,
       "working": 45,
-      "hd": 20
+      "hd": 21
     },
     "Santali": {
       "total": 2,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 266,
-      "working": 202
+      "working": 203
     },
     "General": {
       "total": 195,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 550,
-      "working": 347
+      "working": 346
     },
     "Travel": {
       "total": 6,
@@ -1092,6 +1092,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1207,11 +1212,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -1264,7 +1264,7 @@
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 429"
+      "reason": "HTTP 458"
     },
     {
       "name": "Starnet (480p)",
@@ -1595,11 +1595,6 @@
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
@@ -2212,6 +2207,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Eurosport 4 Polska",
+      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2896573317",
+      "reason": "HTTP 503"
+    },
+    {
       "name": "Sport TV1",
       "url": "http://znty.dyndns.org:5010/hls/stv1.m3u8",
       "reason": "URLError"
@@ -2257,14 +2257,14 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Digi Sport 1 HD",
+      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3174529991",
+      "reason": "HTTP 503"
+    },
+    {
       "name": "Extreme Sports Channel (576p)",
       "url": "http://46.32.176.50/extremesport/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "KHL Prime (1080p)",
-      "url": "http://stream.mcquack.net/178/index.m3u8",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Match! Strana (576p)",
@@ -2574,7 +2574,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
