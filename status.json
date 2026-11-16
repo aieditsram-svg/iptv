@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-16 00:24 UTC",
-  "fingerprint": "1518294edc027c0a0d767629b34a5ea4",
+  "updated_at": "2026-11-16 01:51 UTC",
+  "fingerprint": "dd591ba53ec19d24b625e56c311bc0fd",
   "total": 2381,
   "working": 1926,
-  "in_grace_period": 7,
+  "in_grace_period": 11,
   "dead": 455,
-  "hd_channels": 809,
+  "hd_channels": 810,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 289,
       "working": 224,
-      "hd": 111
+      "hd": 110
     },
     "Estonian": {
       "total": 1,
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 750,
       "working": 639,
-      "hd": 224
+      "hd": 225
     },
     "Hungarian": {
       "total": 11,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 52,
       "working": 39,
-      "hd": 20
+      "hd": 21
     },
     "Santali": {
       "total": 2,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 251,
-      "working": 225
+      "working": 226
     },
     "Documentary": {
       "total": 8,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 195,
-      "working": 169
+      "working": 168
     },
     "Kids": {
       "total": 22,
@@ -459,6 +459,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -910,11 +915,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1954,17 +1954,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "QazSport (1080p)",
