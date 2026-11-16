@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-16 01:51 UTC",
-  "fingerprint": "dd591ba53ec19d24b625e56c311bc0fd",
+  "updated_at": "2026-11-16 02:42 UTC",
+  "fingerprint": "600abffcc3e13b66a9caee645cf07ef3",
   "total": 2381,
-  "working": 1926,
-  "in_grace_period": 11,
-  "dead": 455,
-  "hd_channels": 810,
+  "working": 1930,
+  "in_grace_period": 19,
+  "dead": 451,
+  "hd_channels": 809,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 289,
       "working": 224,
-      "hd": 110
+      "hd": 109
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 639,
+      "working": 641,
       "hd": 225
     },
     "Hungarian": {
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 140,
+      "working": 142,
       "hd": 56
     },
     "Thai": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 251,
-      "working": 226
+      "working": 227
     },
     "Documentary": {
       "total": 8,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 764,
-      "working": 690
+      "working": 693
     },
     "Outdoor": {
       "total": 17,
@@ -715,11 +715,6 @@
       "name": "Fast1 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFast1/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Fateh TV (1080p) [Not 24/7]",
-      "url": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "First India News (576p)",
@@ -1387,11 +1382,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Vistaar News (1080p)",
-      "url": "https://stream.ottlive.co.in/vistaartv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Vistaar News (576p)",
       "url": "https://vistaarnews.com/livetv-stream/test.m3u8",
       "reason": "HTTP 404"
@@ -1610,16 +1600,6 @@
       "name": "Raj Pariwar (576p)",
       "url": "https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/master_1.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Prime9 News (1080p)",
-      "url": "https://stream.ottlive.co.in/prime9news/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Prime9 News (1080p)",
-      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/25259c4f-6592-4611-b1cd-8955943617c6/index.m3u8",
-      "reason": "HTTP 504"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
@@ -1954,17 +1934,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "QazSport (1080p)",
