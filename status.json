@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-16 11:43 UTC",
-  "fingerprint": "053272936333b2c67932f224dc1a8fa8",
+  "updated_at": "2026-11-16 14:08 UTC",
+  "fingerprint": "74ea6b8e1bd5c07df6b39f8777e32bc6",
   "total": 2381,
-  "working": 1934,
-  "in_grace_period": 19,
-  "dead": 447,
-  "hd_channels": 813,
+  "working": 1939,
+  "in_grace_period": 39,
+  "dead": 442,
+  "hd_channels": 817,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 86,
+      "working": 85,
       "hd": 41
     },
     "Bhojpuri": {
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 642,
-      "hd": 227
+      "working": 640,
+      "hd": 228
     },
     "Hungarian": {
       "total": 11,
@@ -174,8 +174,8 @@
     },
     "Other": {
       "total": 40,
-      "working": 26,
-      "hd": 12
+      "working": 28,
+      "hd": 13
     },
     "Polish": {
       "total": 11,
@@ -199,8 +199,8 @@
     },
     "Russian": {
       "total": 52,
-      "working": 39,
-      "hd": 20
+      "working": 45,
+      "hd": 21
     },
     "Santali": {
       "total": 2,
@@ -234,8 +234,8 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 139,
-      "hd": 65
+      "working": 140,
+      "hd": 66
     },
     "Telugu": {
       "total": 172,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 251,
-      "working": 225
+      "working": 226
     },
     "Documentary": {
       "total": 8,
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 266,
-      "working": 206
+      "working": 204
     },
     "General": {
       "total": 195,
-      "working": 167
+      "working": 166
     },
     "Kids": {
       "total": 22,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 550,
-      "working": 346
+      "working": 353
     },
     "Travel": {
       "total": 6,
@@ -804,7 +804,7 @@
     {
       "name": "HNN 24x7 (576p)",
       "url": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Hosanna TV Hindi (720p)",
@@ -977,6 +977,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1084,6 +1089,11 @@
     {
       "name": "Punjabi Beats HD (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1247,6 +1257,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Starnet (480p)",
       "url": "https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8",
       "reason": "HTTP 404"
@@ -1280,11 +1295,6 @@
       "name": "Suriyan TV (576p)",
       "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "SVBC 2 (1080p)",
-      "url": "https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "SVBC 2 (576p)",
@@ -1524,52 +1534,52 @@
     {
       "name": "Colors HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Colors Bangla HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Colors Bangla Cinema (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Eurosport HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Enterr 10 Bangla (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Jalsha Movies (720p)",
       "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sony Aath (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Star Jalsha HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Taaza TV (576p)",
@@ -1932,11 +1942,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Sport+ Qazaqstan (1080p)",
-      "url": "https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "УТРК Спорт (480p) [Not 24/7]",
       "url": "https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8",
       "reason": "HTTP 403"
@@ -2207,29 +2212,14 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "NHL AntenaPlay (576i) [Not 24/7]",
+      "url": "https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Extreme Sports Channel (576p)",
       "url": "http://46.32.176.50/extremesport/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Extreme Sports Channel (576p)",
-      "url": "https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "KHL (576p)",
-      "url": "https://fs.uplink.kz/telekanal_khl/mono.m3u8?token=onlinetv",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "KHL Prime (1080p)",
-      "url": "https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Match! Planeta (576p)",
-      "url": "https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv",
-      "reason": "HTTP 403"
     },
     {
       "name": "Match! Strana (576p)",
@@ -2242,16 +2232,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Match! Ultra (576p)",
-      "url": "https://fs.uplink.kz/match/mono.m3u8?token=onlinetv",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "MMA-TV.com (576p)",
-      "url": "https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Okko Prajm Sport (1080p)",
       "url": "http://stream.mcquack.net/493/index.m3u8",
       "reason": "HTTP 403"
@@ -2260,11 +2240,6 @@
       "name": "UDAR (1080p)",
       "url": "http://5.188.159.128:8070/udar/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "viju+ Sport (576p)",
-      "url": "https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv",
-      "reason": "HTTP 403"
     },
     {
       "name": "Match! Planeta (576p)",
