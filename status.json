@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-17 23:15 UTC",
-  "fingerprint": "b96c323d090654ee634c51b2f4060a6d",
+  "updated_at": "2026-11-17 23:58 UTC",
+  "fingerprint": "f0153b9054211af55c7b31e81046e888",
   "total": 2375,
-  "working": 1922,
-  "in_grace_period": 18,
-  "dead": 453,
-  "hd_channels": 818,
+  "working": 1918,
+  "in_grace_period": 21,
+  "dead": 457,
+  "hd_channels": 816,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -69,7 +69,7 @@
     },
     "English": {
       "total": 290,
-      "working": 226,
+      "working": 224,
       "hd": 112
     },
     "Estonian": {
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 741,
-      "working": 635,
+      "working": 634,
       "hd": 227
     },
     "Hungarian": {
@@ -125,7 +125,7 @@
     "Kannada": {
       "total": 77,
       "working": 60,
-      "hd": 26
+      "hd": 25
     },
     "Konkani": {
       "total": 3,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 25,
-      "hd": 15
+      "hd": 14
     },
     "Polish": {
       "total": 11,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 141,
+      "working": 140,
       "hd": 56
     },
     "Thai": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 249,
-      "working": 227
+      "working": 226
     },
     "Documentary": {
       "total": 8,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 195,
-      "working": 167
+      "working": 166
     },
     "Kids": {
       "total": 22,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 557,
-      "working": 342
+      "working": 340
     },
     "Travel": {
       "total": 6,
@@ -932,6 +932,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1250,6 +1255,11 @@
       "name": "Suriyan TV (576p)",
       "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "SVBC (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/SVBC/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "SVBC 2 (576p)",
@@ -1772,11 +1782,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Tour Spot TV (1280p) [Not 24/7]",
-      "url": "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Awapa Sports TV (1080p) [Not 24/7]",
       "url": "https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8",
       "reason": "HTTP 400"
@@ -1805,6 +1810,11 @@
       "name": "Eurosport 2 Portugal",
       "url": "http://185.228.163.146:8000/play/a048/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Eurosport",
+      "url": "http://103.253.74.210:7070/stream/122/index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Eurosport 1 Serbia",
@@ -2452,6 +2462,11 @@
       "reason": "URLError"
     },
     {
+      "name": "MUTV",
+      "url": "http://103.253.74.210:7070/stream/136/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "DAZN F1",
       "url": "https://tvorb.net/ZTV/6918-live.m3u8",
       "reason": "URLError"
@@ -2584,7 +2599,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
@@ -2635,6 +2650,11 @@
       "name": "Meridiano TV (576p)",
       "url": "http://181.78.8.199:8000/play/a0fr/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "SportsMax News (1080p)",
+      "url": "http://181.79.86.130:8000/play/a081/index.m3u8",
+      "reason": "URLError"
     }
   ]
 }
