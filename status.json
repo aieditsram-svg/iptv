@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-17 17:13 UTC",
-  "fingerprint": "397c5a776a6d2408b1df2176fdf8ccf7",
+  "updated_at": "2026-11-17 18:07 UTC",
+  "fingerprint": "c5d84282d01a644c0528300a2246915b",
   "total": 2375,
-  "working": 1925,
-  "in_grace_period": 17,
-  "dead": 450,
-  "hd_channels": 819,
+  "working": 1927,
+  "in_grace_period": 28,
+  "dead": 448,
+  "hd_channels": 816,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 290,
       "working": 226,
-      "hd": 111
+      "hd": 110
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 741,
-      "working": 636,
-      "hd": 229
+      "working": 638,
+      "hd": 228
     },
     "Hungarian": {
       "total": 11,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 52,
       "working": 45,
-      "hd": 21
+      "hd": 20
     },
     "Santali": {
       "total": 2,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 263,
-      "working": 202
+      "working": 204
     },
     "General": {
       "total": 195,
@@ -889,7 +889,7 @@
     {
       "name": "MTV HD (396p)",
       "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 451"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
@@ -939,7 +939,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News Nation (576p)",
@@ -1135,11 +1135,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1519,11 +1514,6 @@
     {
       "name": "News India 24x7 (1080p)",
       "url": "https://stream.ottlive.co.in/newsindia/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -2459,7 +2449,7 @@
     {
       "name": "ESPN (432p)",
       "url": "http://tvsen7.aynascope.net/espn/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "ESPN 2 Latin America (1080p)",
@@ -2599,12 +2589,12 @@
     {
       "name": "Willow (720p)",
       "url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Willow (720p)",
       "url": "http://tvsen7.aynascope.net/rEBp38Ax/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Willow (720p) [Geo-blocked]",
