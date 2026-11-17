@@ -1,5 +1,5 @@
 #EXTM3U
-# Working channels, one best link per channel, updated 2026-11-17 21:31 UTC
+# Working channels, one best link per channel, updated 2026-11-17 22:24 UTC
 #EXTINF:-1 tvg-id="AlIraqiaSport.iq@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/DrrlxTO.png" x-category="Sports" tvg-language="Arabic" group-title="Arabic" height="720",Al Iraqia Sport (720p)
 https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 #EXTINF:-1 tvg-id="Arryadia.ma@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/XjzK3gZ.png" x-category="Sports" tvg-language="Arabic" group-title="Arabic" height="720",Arryadia (720p)
@@ -1498,7 +1498,7 @@ https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
 #EXTINF:-1 tvg-id="PrimaSportCzechia.cz@SD" x-categories="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Prima_Sport_%28Czech_Republic%29.svg/revision/latest?cb=20260728085614" x-category="Sports" tvg-language="Other" group-title="Other",Prima Sport Czechia
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0
-#EXTINF:-1 tvg-id="QazSport.kz@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/UDJ0P5Q.png" x-category="Sports" tvg-language="Other" group-title="Other" height="480",QazSport (480p) [Geo-blocked]
+#EXTINF:-1 tvg-id="QazSport.kz@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/UDJ0P5Q.png" x-category="Sports" tvg-language="Other" group-title="Other" height="1080",QazSport (480p) [Geo-blocked]
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 #EXTINF:-1 tvg-id="SetantaSports3.ge@SD" x-categories="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Setanta_Sports_3_2023.svg/revision/latest?cb=20230804060013" x-category="Sports" tvg-language="Other" group-title="Other" height="1080",Setanta Sports 3 (1080p)
 http://85.117.61.84/setanta3/index.m3u8
@@ -1730,8 +1730,6 @@ https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/451/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSport.ru@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/fXESG0l.png" x-category="Sports" tvg-language="Russian" group-title="Russian" height="1080",viju+ Sport (576p)
 http://stream.mcquack.net/333/index.m3u8
-#EXTINF:-1 tvg-id="Volleyball.ru@SD" x-categories="Sports" tvg-logo="https://smotreshka.server-img.lfstrm.tv/images/media/59/20/592021ab74bddb93907e2b18997215a9.png" x-category="Sports" tvg-language="Russian" group-title="Russian" height="1080",Volleyball (1080p)
-https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/BKaEtqL.png" x-category="Sports" tvg-language="Russian" group-title="Russian" height="1080",Астрахань.Ru Sport (720p)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus5.by@Internet" x-categories="Sports" tvg-logo="https://i.imgur.com/NJsRFud.png" x-category="Sports" tvg-language="Russian" group-title="Russian" height="1080",Беларусь 5 Интернет (1080p) [Not 24/7]
@@ -1773,9 +1771,9 @@ https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
 #EXTINF:-1 tvg-id="BicolorPlus.pe@SD" x-categories="Sports" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/00/1790182833200/6a8e1eb7f5d6_640_360.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",Bicolor+ (720p)
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="BicolorPlusPremium2.pe@SD" x-categories="Sports" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/03/1790194132371/1e57475a9a6b_640_360.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",Bicolor+ Premium 2 (720p)
+#EXTINF:-1 tvg-id="BicolorPlusPremium2.pe@SD" x-categories="Sports" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/03/1790194132371/1e57475a9a6b_640_360.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="720",Bicolor+ Premium 2 (720p)
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium2_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="BicolorPlusPremium3.pe@SD" x-categories="Sports" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/03/1790194198636/d91910da3254_640_360.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="1080",Bicolor+ Premium 3 (720p)
+#EXTINF:-1 tvg-id="BicolorPlusPremium3.pe@SD" x-categories="Sports" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/03/1790194198636/d91910da3254_640_360.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish" height="720",Bicolor+ Premium 3 (720p)
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium3_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="BicolorPlusPremium.pe@SD" x-categories="Sports" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/00/1790183086681/1dff7002a22a_640_360.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish",Bicolor+ Premium [Geo-blocked]
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8
@@ -1945,7 +1943,7 @@ https://galaxyott.live/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="OliTV.in@SD" x-categories="Entertainment" tvg-logo="https://i.ibb.co/XfvTQyJn/main-removebg-preview.png" x-category="Entertainment" tvg-language="Tamil" group-title="Tamil" height="1080",Oli TV (1080p)
 https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-id="OMTV.in@SD" x-categories="Devotional" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png" x-category="Devotional" tvg-language="Tamil" group-title="Tamil" height="720",OM TV (576p)
-https://samitaorigin.tangotv.in/OMTV/SAMITAORIGIN/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
 #EXTINF:-1 tvg-id="PeppersTV.in@SD" x-categories="Music" tvg-logo="https://i.imgur.com/5PyJj2n.png" x-category="Music" tvg-language="Tamil" group-title="Tamil" height="720",Peppers TV (576p)
 https://mumt07.tangotv.in/zHjX9OFlPEPPERS/index.m3u8
 #EXTINF:-1 tvg-id="PolimerNews.in@SD" x-categories="News" tvg-logo="https://dtil.tmsimg.com/assets/s143664_ld_h9_aa.png?lock=720x540" x-category="News" tvg-language="Tamil" group-title="Tamil" height="720",Polimer News (576p)
@@ -2022,7 +2020,7 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
 #EXTINF:-1 tvg-id="4SiDESTV.in@SD" x-categories="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png" x-category="News" tvg-language="Telugu" group-title="Telugu" height="1080",4 SiDES TV (1080p)
 https://stream.ottlive.co.in/4sidestv/index.m3u8
-#EXTINF:-1 tvg-id="6TVTelugu.in@SD" x-categories="News" tvg-logo="https://i.imgur.com/l3EcRnZ.png" x-category="News" tvg-language="Telugu" group-title="Telugu" height="1080",6 TV Telugu (576p)
+#EXTINF:-1 tvg-id="6TVTelugu.in@SD" x-categories="News" tvg-logo="https://i.imgur.com/l3EcRnZ.png" x-category="News" tvg-language="Telugu" group-title="Telugu" height="576",6 TV Telugu (576p)
 https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8
 #EXTINF:-1 tvg-id="9PlusNews.in@SD" x-categories="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9plusnews.png" x-category="News" tvg-language="Telugu" group-title="Telugu" height="1080",9 Plus News (1080p)
 https://stream.ottlive.co.in/9plusnews/index.m3u8
@@ -2124,7 +2122,7 @@ https://mumt01.tangotv.in/O5aw8Zn3STUDIOYUVA/index.m3u8
 https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SunGemini.in@SD" x-categories="General" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" x-category="General" tvg-language="Telugu" group-title="Telugu" height="576",Sun Gemini (576p)
 http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8
-#EXTINF:-1 tvg-id="SVBC.in@SD" x-categories="Devotional" tvg-logo="https://dtil.tmsimg.com/assets/s143889_ld_h9_ab.png?lock=720x540" x-category="Devotional" tvg-language="Telugu" group-title="Telugu" height="1080",SVBC (720p)
+#EXTINF:-1 tvg-id="SVBC.in@SD" x-categories="Devotional" tvg-logo="https://dtil.tmsimg.com/assets/s143889_ld_h9_ab.png?lock=720x540" x-category="Devotional" tvg-language="Telugu" group-title="Telugu" height="720",SVBC (720p)
 https://mumbai-edge.smartplaytv.in/SVBC/index.m3u8
 #EXTINF:-1 tvg-id="SVBC.in@SD" x-categories="Devotional" tvg-logo="https://dtil.tmsimg.com/assets/s143889_ld_h9_ab.png?lock=720x540" x-category="Devotional" tvg-language="Telugu" group-title="Telugu" height="1080",SVBC Sri Venkateswara Bhakti Channel (1080p)
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
