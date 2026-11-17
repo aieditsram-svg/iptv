@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-17 15:18 UTC",
-  "fingerprint": "164b7d98da3da518667511c66253fd68",
+  "updated_at": "2026-11-17 16:14 UTC",
+  "fingerprint": "25efd8c576c3342aa08912cb81179449",
   "total": 2375,
-  "working": 1926,
-  "in_grace_period": 20,
-  "dead": 449,
-  "hd_channels": 820,
+  "working": 1928,
+  "in_grace_period": 19,
+  "dead": 447,
+  "hd_channels": 821,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 741,
-      "working": 639,
+      "working": 640,
       "hd": 229
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 25,
-      "hd": 13
+      "hd": 14
     },
     "Polish": {
       "total": 11,
@@ -234,7 +234,7 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 139,
+      "working": 140,
       "hd": 67
     },
     "Telugu": {
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 195,
-      "working": 167
+      "working": 168
     },
     "Kids": {
       "total": 22,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 128,
-      "working": 106
+      "working": 107
     },
     "Music": {
       "total": 141,
@@ -715,11 +715,6 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -1250,11 +1245,6 @@
       "name": "Thanthi TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTHANTHITV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Thendral TV (576p)",
-      "url": "https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Times Now (720p) [Geo-blocked]",
@@ -1889,17 +1879,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Rai Sport",
