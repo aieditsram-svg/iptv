@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-17 02:17 UTC",
-  "fingerprint": "e29b2bc7cc38e5675eed7e53a43f041f",
+  "updated_at": "2026-11-17 03:02 UTC",
+  "fingerprint": "376a4c9d5ebf2b9da243ea48b3a300eb",
   "total": 2383,
-  "working": 1934,
+  "working": 1933,
   "in_grace_period": 29,
-  "dead": 449,
+  "dead": 450,
   "hd_channels": 812,
   "languages": {
     "Albanian": {
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 636,
-      "hd": 226
+      "working": 635,
+      "hd": 227
     },
     "Hungarian": {
       "total": 11,
@@ -125,7 +125,7 @@
     "Kannada": {
       "total": 77,
       "working": 60,
-      "hd": 26
+      "hd": 25
     },
     "Konkani": {
       "total": 3,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 264,
-      "working": 205
+      "working": 204
     },
     "General": {
       "total": 195,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 128,
-      "working": 109
+      "working": 108
     },
     "Music": {
       "total": 142,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 761,
-      "working": 691
+      "working": 692
     },
     "Outdoor": {
       "total": 17,
@@ -462,6 +462,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Movies (576p)",
       "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
       "reason": "URLError"
@@ -550,6 +555,11 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -799,7 +809,7 @@
     {
       "name": "HNN 24x7 (576p)",
       "url": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Hosanna TV Hindi (720p)",
@@ -1385,11 +1395,6 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Vistaar News (1080p)",
-      "url": "https://stream.ottlive.co.in/vistaartv/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Vistaar News (576p)",
