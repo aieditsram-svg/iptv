@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-17 01:08 UTC",
-  "fingerprint": "673f87b1ab99c82340f6ea1f8a4050d6",
+  "updated_at": "2026-11-17 02:17 UTC",
+  "fingerprint": "e29b2bc7cc38e5675eed7e53a43f041f",
   "total": 2383,
-  "working": 1935,
-  "in_grace_period": 17,
-  "dead": 448,
-  "hd_channels": 811,
+  "working": 1934,
+  "in_grace_period": 29,
+  "dead": 449,
+  "hd_channels": 812,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 85,
+      "working": 84,
       "hd": 40
     },
     "Bhojpuri": {
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 637,
-      "hd": 224
+      "working": 636,
+      "hd": 226
     },
     "Hungarian": {
       "total": 11,
@@ -174,7 +174,7 @@
     },
     "Other": {
       "total": 40,
-      "working": 27,
+      "working": 28,
       "hd": 14
     },
     "Polish": {
@@ -225,7 +225,7 @@
     "Spanish": {
       "total": 113,
       "working": 56,
-      "hd": 38
+      "hd": 37
     },
     "Swedish": {
       "total": 1,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 251,
-      "working": 225
+      "working": 224
     },
     "Documentary": {
       "total": 8,
@@ -339,7 +339,7 @@
     },
     "Music": {
       "total": 142,
-      "working": 120
+      "working": 119
     },
     "News": {
       "total": 761,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 557,
-      "working": 353
+      "working": 354
     },
     "Travel": {
       "total": 6,
@@ -500,6 +500,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -794,7 +799,7 @@
     {
       "name": "HNN 24x7 (576p)",
       "url": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Hosanna TV Hindi (720p)",
@@ -887,11 +892,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "KBP Times (1080p)",
-      "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
@@ -930,6 +930,11 @@
       "name": "MBC TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Mercy TV (1080p)",
+      "url": "https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Mercy TV (576p)",
@@ -1165,6 +1170,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -1612,6 +1622,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Canal Showsport (720p)",
+      "url": "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Racing.com (720p)",
       "url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8",
       "reason": "HTTP 400"
@@ -1645,11 +1660,6 @@
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
       "reason": "not a valid HLS manifest"
-    },
-    {
-      "name": "Adriatic Sport 3",
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2743527845",
-      "reason": "HTTP 503"
     },
     {
       "name": "Band Sports (1080p)",
@@ -1730,11 +1740,6 @@
       "name": "TSN4 (720p)",
       "url": "http://109.104.153.220/TSN-4/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "TNT Sports (480p)",
-      "url": "http://205.235.6.29:8000/play/a0xa/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "TNT Sports Premium HD",
