@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-17 03:50 UTC",
-  "fingerprint": "4b52864bec2a3fdfd15ea6604d8dbd78",
+  "updated_at": "2026-11-17 04:43 UTC",
+  "fingerprint": "665a03a536a71d6e9912b48ed5210b6b",
   "total": 2383,
   "working": 1933,
-  "in_grace_period": 15,
+  "in_grace_period": 19,
   "dead": 450,
-  "hd_channels": 816,
+  "hd_channels": 817,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 635,
+      "working": 636,
       "hd": 228
     },
     "Hungarian": {
@@ -124,7 +124,7 @@
     },
     "Kannada": {
       "total": 77,
-      "working": 60,
+      "working": 59,
       "hd": 25
     },
     "Konkani": {
@@ -225,7 +225,7 @@
     "Spanish": {
       "total": 113,
       "working": 56,
-      "hd": 37
+      "hd": 38
     },
     "Swedish": {
       "total": 1,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 251,
-      "working": 225
+      "working": 226
     },
     "Documentary": {
       "total": 8,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 128,
-      "working": 108
+      "working": 109
     },
     "Music": {
       "total": 142,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 761,
-      "working": 693
+      "working": 691
     },
     "Outdoor": {
       "total": 17,
@@ -420,11 +420,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -799,7 +794,7 @@
     {
       "name": "HNN 24x7 (576p)",
       "url": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Hosanna TV Hindi (720p)",
@@ -937,11 +932,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Mercy TV (1080p)",
-      "url": "https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Mercy TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMERCYTV/index.m3u8",
       "reason": "HTTP 403"
@@ -985,6 +975,11 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1070,6 +1065,11 @@
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Power TV (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Prameya News7 (576p)",
