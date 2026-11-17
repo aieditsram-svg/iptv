@@ -1,5 +1,5 @@
 #EXTM3U
-# Working German channels, updated 2026-11-17 00:08 UTC
+# Working German channels, updated 2026-11-17 01:08 UTC
 #EXTINF:-1 tvg-id="Eurosport1.fr@Germany" x-categories="Sports" tvg-logo="https://i.imgur.com/olQJgm7.png" x-category="Sports" tvg-language="German" group-title="German",Eurosport 1 Germany
 http://90.183.52.46:4000/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Germany" x-categories="Sports" tvg-logo="https://i.imgur.com/f56dHgR.png" x-category="Sports" tvg-language="German" group-title="German",Eurosport 2 Germany
@@ -19,3 +19,5 @@ https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/in
 https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at@SD" x-categories="Sports;Outdoor" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" x-category="Sports" tvg-language="German" group-title="German" height="720",Red Bull TV SD (720p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="Sport1.de@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/Tsjt7v9.png" x-category="Sports" tvg-language="German" group-title="German" height="540",Sport1 (540p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/sport1/live.livx/playlist.m3u8
