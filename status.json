@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-17 22:24 UTC",
-  "fingerprint": "58e21d66fab37ebc9e79d6ffcbe181ae",
+  "updated_at": "2026-11-17 23:15 UTC",
+  "fingerprint": "b96c323d090654ee634c51b2f4060a6d",
   "total": 2375,
-  "working": 1923,
-  "in_grace_period": 16,
-  "dead": 452,
-  "hd_channels": 816,
+  "working": 1922,
+  "in_grace_period": 18,
+  "dead": 453,
+  "hd_channels": 818,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 290,
       "working": 226,
-      "hd": 111
+      "hd": 112
     },
     "Estonian": {
       "total": 1,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 52,
       "working": 44,
-      "hd": 20
+      "hd": 21
     },
     "Santali": {
       "total": 2,
@@ -225,7 +225,7 @@
     "Spanish": {
       "total": 113,
       "working": 57,
-      "hd": 40
+      "hd": 39
     },
     "Swedish": {
       "total": 1,
@@ -239,8 +239,8 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 142,
-      "hd": 55
+      "working": 141,
+      "hd": 56
     },
     "Thai": {
       "total": 1,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 263,
-      "working": 206
+      "working": 205
     },
     "General": {
       "total": 195,
@@ -650,6 +650,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -1904,17 +1909,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Rai Sport",
@@ -2278,6 +2283,11 @@
     },
     {
       "name": "Match! Ultra (576p)",
+      "url": "http://45.132.87.69:8080/match/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Match! Ultra (576p)",
       "url": "http://flussonic.linkintel.ru/match/index.m3u8",
       "reason": "URLError"
     },
@@ -2290,11 +2300,6 @@
       "name": "UDAR (1080p)",
       "url": "http://5.188.159.128:8070/udar/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Volleyball (1080p)",
-      "url": "https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Match! Planeta (576p)",
@@ -2579,7 +2584,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
