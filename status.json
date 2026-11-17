@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-17 04:43 UTC",
-  "fingerprint": "665a03a536a71d6e9912b48ed5210b6b",
+  "updated_at": "2026-11-17 05:40 UTC",
+  "fingerprint": "12e0d545907e7b2eae1fbf77f3a7142e",
   "total": 2383,
-  "working": 1933,
-  "in_grace_period": 19,
-  "dead": 450,
-  "hd_channels": 817,
+  "working": 1930,
+  "in_grace_period": 12,
+  "dead": 453,
+  "hd_channels": 813,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 290,
       "working": 225,
-      "hd": 112
+      "hd": 110
     },
     "Estonian": {
       "total": 1,
@@ -174,7 +174,7 @@
     },
     "Other": {
       "total": 40,
-      "working": 28,
+      "working": 27,
       "hd": 13
     },
     "Polish": {
@@ -225,7 +225,7 @@
     "Spanish": {
       "total": 113,
       "working": 56,
-      "hd": 38
+      "hd": 37
     },
     "Swedish": {
       "total": 1,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 142,
+      "working": 141,
       "hd": 56
     },
     "Thai": {
@@ -254,8 +254,8 @@
     },
     "Ukrainian": {
       "total": 15,
-      "working": 11,
-      "hd": 9
+      "working": 10,
+      "hd": 8
     },
     "Urdu": {
       "total": 28,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 264,
-      "working": 201
+      "working": 200
     },
     "General": {
       "total": 195,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 128,
-      "working": 109
+      "working": 108
     },
     "Music": {
       "total": 142,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 761,
-      "working": 691
+      "working": 692
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 557,
-      "working": 355
+      "working": 353
     },
     "Travel": {
       "total": 6,
@@ -645,6 +645,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -977,11 +982,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1099,6 +1099,11 @@
     {
       "name": "Punjabi Beats HD (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1954,17 +1959,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "QazSport (1080p)",
@@ -2347,6 +2352,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Equalympic (1080p)",
+      "url": "http://stream.mcquack.net/485/index.m3u8",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "MEGOGO Sport (1080p)",
       "url": "http://5.188.159.128:8070/megogo_sport/index.m3u8",
       "reason": "HTTP 404"
@@ -2610,6 +2620,11 @@
       "name": "Willow (720p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Sport",
+      "url": "https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Meridiano TV (576p)",
