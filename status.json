@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 14:33 UTC",
-  "fingerprint": "c70cdee2da689ec46dafe5c92c7878f5",
+  "updated_at": "2026-11-18 15:27 UTC",
+  "fingerprint": "229e696eea6e9e652570bcaad1caa9dd",
   "total": 2381,
-  "working": 1927,
-  "in_grace_period": 19,
-  "dead": 454,
-  "hd_channels": 824,
+  "working": 1929,
+  "in_grace_period": 20,
+  "dead": 452,
+  "hd_channels": 826,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 86,
+      "working": 85,
       "hd": 43
     },
     "Bhojpuri": {
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 290,
-      "working": 223,
-      "hd": 110
+      "working": 224,
+      "hd": 111
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 640,
-      "hd": 229
+      "working": 641,
+      "hd": 228
     },
     "Hungarian": {
       "total": 11,
@@ -160,7 +160,7 @@
     "Marathi": {
       "total": 53,
       "working": 44,
-      "hd": 19
+      "hd": 20
     },
     "Nepali": {
       "total": 6,
@@ -224,8 +224,8 @@
     },
     "Spanish": {
       "total": 113,
-      "working": 58,
-      "hd": 40
+      "working": 59,
+      "hd": 41
     },
     "Swedish": {
       "total": 1,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 142,
+      "working": 143,
       "hd": 57
     },
     "Thai": {
@@ -249,7 +249,7 @@
     },
     "Turkish": {
       "total": 11,
-      "working": 5,
+      "working": 4,
       "hd": 4
     },
     "Ukrainian": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 249,
-      "working": 226
+      "working": 227
     },
     "Documentary": {
       "total": 8,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 194,
-      "working": 167
+      "working": 168
     },
     "Kids": {
       "total": 23,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 128,
-      "working": 108
+      "working": 109
     },
     "Music": {
       "total": 141,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 757,
-      "working": 691
+      "working": 690
     },
     "Outdoor": {
       "total": 17,
@@ -562,11 +562,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
       "reason": "HTTP 404"
@@ -660,11 +655,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -789,11 +779,6 @@
     {
       "name": "Harvest TV (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Harvest USA (576p)",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1004,6 +989,11 @@
     {
       "name": "News India 24x7 (1080p)",
       "url": "https://stream.ottlive.co.in/newsindia/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News Live Bangla (1080p)",
+      "url": "https://stream.ottlive.co.in/newslivebangla/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1737,6 +1727,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Win+ Futbol (1080p)",
+      "url": "http://190.61.42.218:9000/play/a01s/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Radio Turrialba TV Sports (720p) [Not 24/7]",
       "url": "https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u8",
       "reason": "URLError"
@@ -1848,13 +1843,8 @@
     },
     {
       "name": "Tigo Sports (1080p)",
-      "url": "http://168.196.127.137:6001/play/a0b0/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Tigo Sports (1080p)",
       "url": "http://168.196.127.137:6001/play/a0ay/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Lóverseny közvetítés (420p)",
@@ -1904,17 +1894,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "QazSport (1080p)",
@@ -1949,7 +1939,7 @@
     {
       "name": "AyM Sports (1080p)",
       "url": "http://168.196.127.137:6001/play/a06v/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Azteca Deportes Network (1080p)",
@@ -1959,11 +1949,6 @@
     {
       "name": "Azteca Deportes Network (720p)",
       "url": "http://38.194.226.190:8000/play/a02r/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Claro Sports (1080p)",
-      "url": "http://168.196.127.137:6001/play/a08r/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -2347,6 +2332,11 @@
       "reason": "URLError"
     },
     {
+      "name": "beIN Sports 1 Turk",
+      "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "FB TV (720p)",
       "url": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
       "reason": "not a valid HLS manifest"
@@ -2584,7 +2574,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
