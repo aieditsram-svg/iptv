@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 20:42 UTC",
-  "fingerprint": "56407bfc6c6283aadb10d3fdc5468f2d",
+  "updated_at": "2026-11-18 21:33 UTC",
+  "fingerprint": "bc9ed2267cc26c1eb3d0750c10287f86",
   "total": 2381,
-  "working": 1908,
-  "in_grace_period": 17,
-  "dead": 473,
-  "hd_channels": 820,
+  "working": 1903,
+  "in_grace_period": 23,
+  "dead": 478,
+  "hd_channels": 823,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -69,7 +69,7 @@
     },
     "English": {
       "total": 290,
-      "working": 220,
+      "working": 219,
       "hd": 111
     },
     "Estonian": {
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 626,
-      "hd": 227
+      "working": 624,
+      "hd": 228
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 24,
-      "hd": 14
+      "hd": 15
     },
     "Polish": {
       "total": 11,
@@ -194,7 +194,7 @@
     },
     "Romanian": {
       "total": 24,
-      "working": 14,
+      "working": 11,
       "hd": 5
     },
     "Russian": {
@@ -259,8 +259,8 @@
     },
     "Urdu": {
       "total": 28,
-      "working": 24,
-      "hd": 7
+      "working": 25,
+      "hd": 8
     },
     "Vietnamese": {
       "total": 6,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 249,
-      "working": 227
+      "working": 226
     },
     "Documentary": {
       "total": 8,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 128,
-      "working": 108
+      "working": 107
     },
     "Music": {
       "total": 141,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 564,
-      "working": 344
+      "working": 341
     },
     "Travel": {
       "total": 6,
@@ -597,6 +597,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "DD Kashir (576p)",
+      "url": "https://fta.ektv.in/live/248/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "DD Kisan (576p)",
       "url": "https://fta.ektv.in/live/148/148_0.m3u8",
       "reason": "HTTP 404"
@@ -822,6 +827,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -965,6 +975,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1540,11 +1555,6 @@
       "name": "VR Live (720p)",
       "url": "https://channel.vrlivegujarat.com/hls/vrchannel.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "VTU (1080p)",
-      "url": "https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8",
-      "reason": "HTTP 502"
     },
     {
       "name": "Win TV (576p)",
@@ -2167,11 +2177,6 @@
       "reason": "URLError"
     },
     {
-      "name": "PK Sports (720p)",
-      "url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8",
-      "reason": "HTTP 502"
-    },
-    {
       "name": "PTV Sports (1080p)",
       "url": "http://103.250.28.74:8000/play/a019/index.m3u8",
       "reason": "URLError"
@@ -2194,7 +2199,7 @@
     {
       "name": "Tigo Sports+ (1080p) [Not 24/7]",
       "url": "https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8",
-      "reason": "HTTP 502"
+      "reason": "HTTP 404"
     },
     {
       "name": "L1 (1080p)",
@@ -2302,6 +2307,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "AntenaSport",
+      "url": "https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "Digi Sport 1 HD",
       "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3174529991",
       "reason": "HTTP 404"
@@ -2322,8 +2332,23 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Formula 1 AntenaPlay (576i) [Not 24/7]",
+      "url": "https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
+      "name": "Formula 2 AntenaPlay (576i) [Not 24/7]",
+      "url": "https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "Formula Academy AntenaPlay (576p) [Not 24/7]",
       "url": "https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-general-2026/chunklist.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
+      "name": "NBA AntenaPlay (576p)",
+      "url": "https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8",
       "reason": "TimeoutError"
     },
     {
