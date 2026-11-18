@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 08:46 UTC",
-  "fingerprint": "d5ba47c459e42274250bfa9355050721",
+  "updated_at": "2026-11-18 09:40 UTC",
+  "fingerprint": "268b850ab1b3979a64f656e8dadbbc0f",
   "total": 2381,
-  "working": 1928,
-  "in_grace_period": 26,
-  "dead": 453,
-  "hd_channels": 826,
+  "working": 1924,
+  "in_grace_period": 20,
+  "dead": 457,
+  "hd_channels": 825,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -24,7 +24,7 @@
     },
     "Belarusian": {
       "total": 2,
-      "working": 2,
+      "working": 1,
       "hd": 1
     },
     "Bengali": {
@@ -69,7 +69,7 @@
     },
     "English": {
       "total": 290,
-      "working": 224,
+      "working": 223,
       "hd": 110
     },
     "Estonian": {
@@ -94,8 +94,8 @@
     },
     "Gujarati": {
       "total": 47,
-      "working": 45,
-      "hd": 21
+      "working": 44,
+      "hd": 20
     },
     "Hebrew": {
       "total": 9,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 25,
-      "hd": 14
+      "hd": 13
     },
     "Polish": {
       "total": 11,
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 52,
-      "working": 44,
+      "working": 42,
       "hd": 21
     },
     "Santali": {
@@ -239,8 +239,8 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 142,
-      "hd": 56
+      "working": 143,
+      "hd": 57
     },
     "Thai": {
       "total": 1,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 249,
-      "working": 228
+      "working": 227
     },
     "Documentary": {
       "total": 8,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 564,
-      "working": 348
+      "working": 345
     },
     "Travel": {
       "total": 6,
@@ -371,11 +371,6 @@
     }
   },
   "dead_channels": [
-    {
-      "name": "6 TV Telugu (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8",
-      "reason": "HTTP 404"
-    },
     {
       "name": "7S Music (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
@@ -814,6 +809,11 @@
     {
       "name": "Harvest TV (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Harvest USA (576p)",
+      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1294,7 +1294,7 @@
     {
       "name": "Sony Pal (576p)",
       "url": "http://59.103.38.46:8000/play/a0ac/index.m3u8",
-      "reason": "RemoteDisconnected"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sony Wah (1080p) [Geo-blocked]",
@@ -1457,6 +1457,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "VR Live (720p)",
+      "url": "https://channel.vrlivegujarat.com/hls/vrchannel.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "VTU (1080p)",
       "url": "https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8",
       "reason": "HTTP 502"
@@ -1600,6 +1605,16 @@
       "name": "T Sports (1080p)",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Belarus-5 HD (1080p)",
+      "url": "http://178.124.179.122:8080/BT5/index.m3u8",
+      "reason": "HTTP 400"
+    },
+    {
+      "name": "Sport TV (1080p)",
+      "url": "http://178.124.179.122:8080/SportTV/mpegts",
+      "reason": "HTTP 400"
     },
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
@@ -1874,7 +1889,7 @@
     {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "5Plus (1080p)",
@@ -2285,6 +2300,11 @@
       "name": "Match! Ultra (576p)",
       "url": "http://flussonic.linkintel.ru/match/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Okko Futbol (576p)",
+      "url": "http://178.124.179.122:8080/Setanta1/index.m3u8",
+      "reason": "HTTP 400"
     },
     {
       "name": "Okko Prajm Sport (1080p)",
