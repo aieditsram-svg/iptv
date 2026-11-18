@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-18 23:13 UTC",
-  "fingerprint": "fe58adc44cf36ffbd9b0bf2bfc2a5d4f",
+  "updated_at": "2026-11-18 23:56 UTC",
+  "fingerprint": "bd54c6ebbbfe6db4ea1c2169ced0c17c",
   "total": 2381,
-  "working": 1905,
-  "in_grace_period": 9,
-  "dead": 476,
+  "working": 1903,
+  "in_grace_period": 12,
+  "dead": 478,
   "hd_channels": 820,
   "languages": {
     "Albanian": {
@@ -70,7 +70,7 @@
     "English": {
       "total": 290,
       "working": 219,
-      "hd": 110
+      "hd": 111
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 625,
-      "hd": 227
+      "working": 624,
+      "hd": 226
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 23,
-      "hd": 13
+      "hd": 14
     },
     "Polish": {
       "total": 11,
@@ -259,8 +259,8 @@
     },
     "Urdu": {
       "total": 28,
-      "working": 25,
-      "hd": 8
+      "working": 24,
+      "hd": 7
     },
     "Vietnamese": {
       "total": 6,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 194,
-      "working": 161
+      "working": 160
     },
     "Kids": {
       "total": 23,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 564,
-      "working": 342
+      "working": 341
     },
     "Travel": {
       "total": 6,
@@ -1552,6 +1552,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "VTU (1080p)",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Win TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/WINTV/index.m3u8",
       "reason": "HTTP 404"
@@ -1804,7 +1809,7 @@
     {
       "name": "TNT Sports Premium HD",
       "url": "https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8",
-      "reason": "not a valid HLS manifest"
+      "reason": "HTTP 404"
     },
     {
       "name": "CCTV-5+",
@@ -1974,7 +1979,7 @@
     {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "5Plus (1080p)",
@@ -1989,7 +1994,7 @@
     {
       "name": "Lazio Style Channel HD (720p)",
       "url": "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Radio TV Serie A",
@@ -2009,17 +2014,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "QazSport (1080p)",
@@ -2164,11 +2169,16 @@
     {
       "name": "M-Net Sport",
       "url": "https://live.mnet.mk/hls/mnet-sport.m3u8",
-      "reason": "not a valid HLS manifest"
+      "reason": "HTTP 500"
     },
     {
       "name": "One Golf (720p)",
       "url": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "PK Sports (720p)",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8",
       "reason": "URLError"
     },
     {
@@ -2694,7 +2704,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
