@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 10:37 UTC",
-  "fingerprint": "3bfa72e6cf74fe97a5b8b8ba225fb414",
+  "updated_at": "2026-11-18 11:31 UTC",
+  "fingerprint": "cb9cf0650c6e32698cd8ca3bfe4ed188",
   "total": 2381,
-  "working": 1921,
-  "in_grace_period": 28,
-  "dead": 460,
-  "hd_channels": 823,
+  "working": 1926,
+  "in_grace_period": 11,
+  "dead": 455,
+  "hd_channels": 821,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 86,
+      "working": 87,
       "hd": 43
     },
     "Bhojpuri": {
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 635,
-      "hd": 229
+      "working": 639,
+      "hd": 228
     },
     "Hungarian": {
       "total": 11,
@@ -124,7 +124,7 @@
     },
     "Kannada": {
       "total": 78,
-      "working": 62,
+      "working": 61,
       "hd": 27
     },
     "Konkani": {
@@ -154,12 +154,12 @@
     },
     "Malayalam": {
       "total": 118,
-      "working": 98,
-      "hd": 36
+      "working": 96,
+      "hd": 35
     },
     "Marathi": {
       "total": 53,
-      "working": 45,
+      "working": 44,
       "hd": 20
     },
     "Nepali": {
@@ -170,7 +170,7 @@
     "Odia": {
       "total": 36,
       "working": 28,
-      "hd": 11
+      "hd": 12
     },
     "Other": {
       "total": 40,
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 52,
       "working": 41,
-      "hd": 21
+      "hd": 20
     },
     "Santali": {
       "total": 2,
@@ -234,12 +234,12 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 141,
+      "working": 140,
       "hd": 68
     },
     "Telugu": {
       "total": 171,
-      "working": 143,
+      "working": 142,
       "hd": 57
     },
     "Thai": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 249,
-      "working": 227
+      "working": 226
     },
     "Documentary": {
       "total": 8,
@@ -315,15 +315,15 @@
     },
     "Entertainment": {
       "total": 262,
-      "working": 200
+      "working": 205
     },
     "General": {
       "total": 194,
-      "working": 167
+      "working": 168
     },
     "Kids": {
       "total": 23,
-      "working": 13
+      "working": 12
     },
     "Legislative": {
       "total": 8,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 128,
-      "working": 106
+      "working": 107
     },
     "Music": {
       "total": 141,
@@ -410,11 +410,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -565,16 +560,6 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -912,11 +897,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -932,9 +912,9 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1075,6 +1055,11 @@
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Nickelodeon (576p) [Geo-blocked]",
+      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
+      "reason": "HTTP 456"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1247,16 +1232,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -1327,11 +1302,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Star Jalsha HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
       "reason": "URLError"
@@ -1370,6 +1340,11 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Sun Surya HD (1080p)",
+      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -1619,12 +1594,12 @@
     {
       "name": "Belarus-5 HD (1080p)",
       "url": "http://178.124.179.122:8080/BT5/index.m3u8",
-      "reason": "HTTP 400"
+      "reason": "URLError"
     },
     {
       "name": "Sport TV (1080p)",
       "url": "http://178.124.179.122:8080/SportTV/mpegts",
-      "reason": "HTTP 400"
+      "reason": "URLError"
     },
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
@@ -1934,17 +1909,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "QazSport (1080p)",
@@ -2319,7 +2294,7 @@
     {
       "name": "Okko Futbol (576p)",
       "url": "http://178.124.179.122:8080/Setanta1/index.m3u8",
-      "reason": "HTTP 400"
+      "reason": "URLError"
     },
     {
       "name": "Okko Prajm Sport (1080p)",
