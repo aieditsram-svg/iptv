@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 02:01 UTC",
-  "fingerprint": "101dbb8c51893896900ba341a6e92001",
+  "updated_at": "2026-11-18 02:46 UTC",
+  "fingerprint": "72d010a562fe6af1ce9e1602f9a02419",
   "total": 2382,
-  "working": 1927,
-  "in_grace_period": 26,
-  "dead": 455,
-  "hd_channels": 822,
+  "working": 1921,
+  "in_grace_period": 14,
+  "dead": 461,
+  "hd_channels": 824,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 639,
-      "hd": 229
+      "working": 634,
+      "hd": 230
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 25,
-      "hd": 13
+      "hd": 14
     },
     "Polish": {
       "total": 11,
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 164,
-      "working": 156,
+      "working": 155,
       "hd": 57
     },
     "Romanian": {
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 144,
+      "working": 143,
       "hd": 56
     },
     "Thai": {
@@ -264,7 +264,7 @@
     },
     "Vietnamese": {
       "total": 6,
-      "working": 5,
+      "working": 6,
       "hd": 4
     }
   },
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 263,
-      "working": 207
+      "working": 206
     },
     "General": {
       "total": 194,
-      "working": 167
+      "working": 166
     },
     "Kids": {
       "total": 23,
@@ -335,15 +335,15 @@
     },
     "Movies": {
       "total": 128,
-      "working": 107
+      "working": 105
     },
     "Music": {
       "total": 141,
-      "working": 120
+      "working": 119
     },
     "News": {
       "total": 757,
-      "working": 689
+      "working": 687
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 564,
-      "working": 342
+      "working": 343
     },
     "Travel": {
       "total": 6,
@@ -371,6 +371,11 @@
     }
   },
   "dead_channels": [
+    {
+      "name": "6 TV Telugu (576p)",
+      "url": "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8",
+      "reason": "HTTP 404"
+    },
     {
       "name": "7S Music (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
@@ -385,6 +390,11 @@
       "name": "9X Jhakaas (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -415,6 +425,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -502,6 +517,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "BRK News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBRKNEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -534,7 +554,7 @@
     {
       "name": "Colors Bangla Cinema (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Colors Bangla HD (1080p)",
@@ -549,7 +569,7 @@
     {
       "name": "Colors Bangla HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Colors HD (1080p)",
@@ -559,7 +579,7 @@
     {
       "name": "Colors HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "CTVN AKD Plus (576p)",
@@ -575,6 +595,11 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -644,7 +669,7 @@
     {
       "name": "Enterr 10 Bangla (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Epic Music (576p)",
@@ -719,7 +744,7 @@
     {
       "name": "Eurosport HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "FashionTV (576p)",
@@ -750,6 +775,11 @@
       "name": "Food Food (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines 2 (576p)",
@@ -844,7 +874,7 @@
     {
       "name": "Jalsha Movies (720p)",
       "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Jan TV (576p)",
@@ -1102,6 +1132,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1269,7 +1304,7 @@
     {
       "name": "Sony Aath (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sony Pal (576p)",
@@ -1284,7 +1319,7 @@
     {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Spondon (1080p)",
@@ -1304,7 +1339,7 @@
     {
       "name": "Star Jalsha HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Starnet (480p)",
@@ -1329,7 +1364,7 @@
     {
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "STV Haryana News (576p)",
@@ -1339,7 +1374,7 @@
     {
       "name": "Sun TV HD (1080p)",
       "url": "https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 400"
+      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -1578,8 +1613,8 @@
     },
     {
       "name": "CBC Sport HD [Geo-blocked]",
-      "url": "https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8",
-      "reason": "RemoteDisconnected"
+      "url": "https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "T Sports (1080p)",
@@ -1807,18 +1842,13 @@
       "reason": "URLError"
     },
     {
-      "name": "Sky Sport News",
-      "url": "http://94.130.48.67:8042/stream/49/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Sky Sport F1",
       "url": "http://94.130.48.67:8042/stream/51/index.m3u8",
       "reason": "HTTP 403"
     },
     {
-      "name": "Sky Sport Top Event",
-      "url": "http://94.130.48.67:8042/stream/50/index.m3u8",
+      "name": "Sky Sport Golf",
+      "url": "http://94.130.48.67:8042/stream/56/index.m3u8",
       "reason": "HTTP 403"
     },
     {
@@ -1827,13 +1857,18 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Sky Sport News",
+      "url": "http://94.130.48.67:8042/stream/49/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "Sky Sport Tennis",
       "url": "http://94.130.48.67:8042/stream/55/index.m3u8",
       "reason": "HTTP 403"
     },
     {
-      "name": "Sky Sport Golf",
-      "url": "http://94.130.48.67:8042/stream/56/index.m3u8",
+      "name": "Sky Sport Top Event",
+      "url": "http://94.130.48.67:8042/stream/50/index.m3u8",
       "reason": "HTTP 403"
     },
     {
@@ -1869,7 +1904,7 @@
     {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "5Plus (1080p)",
@@ -1892,6 +1927,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Rai Sport",
+      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=843891896",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sportitalia (1080p)",
       "url": "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8",
       "reason": "HTTP 404"
@@ -1899,21 +1939,16 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Rai Sport",
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=843891896",
       "reason": "HTTP 404"
     },
     {
@@ -1967,14 +2002,14 @@
       "reason": "URLError"
     },
     {
-      "name": "TV Cuatro 4.3 (1080p)",
-      "url": "https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Sky Sports 2 (1080p)",
       "url": "http://200.115.120.1:8000/play/ca82266/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "TV Cuatro 4.3 (1080p)",
+      "url": "https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "ESPN (360p)",
@@ -2064,7 +2099,7 @@
     {
       "name": "M-Net Sport",
       "url": "https://live.mnet.mk/hls/mnet-sport.m3u8",
-      "reason": "not a valid HLS manifest"
+      "reason": "HTTP 500"
     },
     {
       "name": "One Golf (720p)",
@@ -2122,21 +2157,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Eurosport 1 Polska (1080p)",
-      "url": "http://57.128.210.196:8080/264/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Eurosport 2 Polska (1080p)",
-      "url": "http://57.128.210.196:8080/263/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Polsat Sport Fight",
-      "url": "http://92.114.85.87:8016/play/a00b/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Canal+ Sport",
       "url": "http://57.129.96.133:888/stream/92/index.m3u8",
       "reason": "HTTP 403"
@@ -2157,6 +2177,16 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Eurosport 1 Polska (1080p)",
+      "url": "http://57.128.210.196:8080/264/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Eurosport 2 Polska (1080p)",
+      "url": "http://57.128.210.196:8080/263/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Eurosport 3 Polska",
       "url": "http://sultanios.alwaysdata.net/vavo.php?ID=512159637",
       "reason": "HTTP 404"
@@ -2164,6 +2194,11 @@
     {
       "name": "Eurosport 4 Polska",
       "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2896573317",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Polsat Sport Fight",
+      "url": "http://92.114.85.87:8016/play/a00b/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -2207,16 +2242,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Sport Extra HD",
-      "url": "http://92.180.26.103:80/stream/93/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "NHL AntenaPlay (576i) [Not 24/7]",
-      "url": "https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Digi Sport 1 HD",
       "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3174529991",
       "reason": "HTTP 404"
@@ -2237,6 +2262,16 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Formula Academy AntenaPlay (576p) [Not 24/7]",
+      "url": "https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-general-2026/chunklist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "NHL AntenaPlay (576i) [Not 24/7]",
+      "url": "https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Prima Sport 2 HD",
       "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3381201599",
       "reason": "HTTP 404"
@@ -2252,9 +2287,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Formula Academy AntenaPlay (576p) [Not 24/7]",
-      "url": "https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-general-2026/chunklist.m3u8",
-      "reason": "HTTP 404"
+      "name": "Sport Extra HD",
+      "url": "http://92.180.26.103/stream/93/index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Voyo Sport 1 (1080p)",
@@ -2265,6 +2300,11 @@
       "name": "Extreme Sports Channel (576p)",
       "url": "http://46.32.176.50/extremesport/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Match! Planeta (576p)",
+      "url": "http://s1.merlive.am/matchplaneta/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Match! Strana (576p)",
@@ -2289,11 +2329,6 @@
     {
       "name": "UDAR (1080p)",
       "url": "http://5.188.159.128:8070/udar/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Match! Planeta (576p)",
-      "url": "http://s1.merlive.am/matchplaneta/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -2337,7 +2372,7 @@
       "reason": "URLError"
     },
     {
-      "name": "FB TV",
+      "name": "FB TV (720p)",
       "url": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
       "reason": "not a valid HLS manifest"
     },
@@ -2377,9 +2412,19 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "DAZN 1 Germany",
+      "url": "http://45.142.104.86/stream/25/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "DAZN 1 Portugal",
       "url": "http://50.7.120.34:8080/DAZN1/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "DAZN 2 Germany",
+      "url": "http://45.142.104.86/stream/15/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "DAZN 4 (540p)",
@@ -2392,6 +2437,16 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "DAZN F1",
+      "url": "https://tvorb.net/ZTV/6918-live.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "MUTV",
+      "url": "http://103.253.74.210:7070/stream/136/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "Setanta Sports (1080p)",
       "url": "http://stream.mcquack.net/313/index.m3u8",
       "reason": "HTTP 403"
@@ -2399,6 +2454,11 @@
     {
       "name": "Sky Sports F1 (720p)",
       "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "Sky Sports News (576p)",
+      "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8",
       "reason": "HTTP 403"
     },
     {
@@ -2425,31 +2485,6 @@
       "name": "TNT Sports 4",
       "url": "http://37.49.224.5/stream/4/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Sky Sports News (576p)",
-      "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "DAZN 1 Germany",
-      "url": "http://45.142.104.86/stream/25/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "DAZN 2 Germany",
-      "url": "http://45.142.104.86/stream/15/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "MUTV",
-      "url": "http://103.253.74.210:7070/stream/136/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "DAZN F1",
-      "url": "https://tvorb.net/ZTV/6918-live.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "DSports (1080p)",
@@ -2529,7 +2564,7 @@
     {
       "name": "ESPN 7 Latin America (1080p)",
       "url": "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 403"
     },
     {
       "name": "ESPN Deportes HD (720p)",
@@ -2584,7 +2619,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
@@ -2640,11 +2675,6 @@
       "name": "SportsMax News (1080p)",
       "url": "http://181.79.86.130:8000/play/a081/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "HTV Sports (1080i)",
-      "url": "https://vmttv.dpdns.org/tv360?id=htv-the-thao",
-      "reason": "HTTP 404"
     }
   ]
 }

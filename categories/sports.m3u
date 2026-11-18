@@ -1,5 +1,5 @@
 #EXTM3U
-# Sports channels, one link per channel, all languages, updated 2026-11-18 02:01 UTC
+# Sports channels, one link per channel, all languages, updated 2026-11-18 02:46 UTC
 #EXTINF:-1 tvg-id="RTSHSport.al@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/J6NKXyJ.png" x-category="Sports" tvg-language="Albanian" group-title="Albanian",RTSH Sport
 http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 #EXTINF:-1 tvg-id="AlIraqiaSport.iq@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/DrrlxTO.png" x-category="Sports" tvg-language="Arabic" group-title="Arabic",Al Iraqia Sport
@@ -99,7 +99,7 @@ https://lb.iptvnetwork.net/ls28/10044/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericanNinjaWarrior.us@SD" x-categories="Sports" tvg-logo="https://raw.githubusercontent.com/RoqueDJ/iptv-svg/main/1792421696158.png" x-category="Sports" tvg-language="English" group-title="English" height="1080",American Ninja Warrior
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_coppa=0&ads._fw_deviceMake=GitHubAction&ads._fw_deviceType=3-Connected_TV&ads._fw_device_model=PythonScript&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads.afid=405342864&ads.appName=XumoPlay&ads.appVersion=1.0.0&ads.asnw=169843&ads.channelId=99951318&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads.sfid=19647852&ads.xumo_channelId=99951318&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior
 #EXTINF:-1 tvg-id="AntenaPlayEvents.ro@SD" x-categories="Sports" x-category="Sports" tvg-language="English" group-title="English",AntenaPlay Events
-https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8
+https://live77cdn2.antenaplay.ro/live2_sdi03/live2_sdi03_3000k.m3u8
 #EXTINF:-1 tvg-id="beINSportsUSA.us@SD" x-categories="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg" x-category="Sports" tvg-language="English" group-title="English" height="432",beIN Sports USA
 https://tvsen6.aynaott.com/beinsports/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" x-categories="Sports" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" x-category="Sports" tvg-language="English" group-title="English" height="1080",beIN SPORTS XTRA
@@ -126,7 +126,7 @@ http://92.114.85.87:8002/play/a00f/index.m3u8
 http://92.114.85.87:8002/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="ElevenSports4.pl@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/SEKXaAW.png" x-category="Sports" tvg-language="English" group-title="English",Eleven Sports 4
 http://92.114.85.87:8002/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.us@SD" x-categories="Sports" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" x-category="Sports" tvg-language="English" group-title="English",ESPN
+#EXTINF:-1 tvg-id="ESPN.us@SD" x-categories="Sports" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" x-category="Sports" tvg-language="English" group-title="English" height="1080",ESPN
 http://212.5.144.156:8080/espn/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us@HD" x-categories="Sports" tvg-logo="https://i.imgur.com/00tsvjE.png" x-category="Sports" tvg-language="English" group-title="English" height="720",ESPN 2 HD
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
@@ -318,17 +318,17 @@ https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://109.104.153.220/TSN-4/index.m3u8
 #EXTINF:-1 tvg-id="TVSBowlingNetwork.us@SD" x-categories="Sports" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg" x-category="Sports" tvg-language="English" group-title="English" height="720",TVS Bowling Network
 https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
-#EXTINF:-1 tvg-id="TVSBoxing.us@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/30ZoF75.png" x-category="Sports" tvg-language="English" group-title="English" height="720",TVS Boxing
+#EXTINF:-1 tvg-id="TVSBoxing.us@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/30ZoF75.png" x-category="Sports" tvg-language="English" group-title="English" height="960",TVS Boxing
 https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 tvg-id="TVSClassicSports.us@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/auR0Mi6.png" x-category="Sports" tvg-language="English" group-title="English" height="360",TVS Classic Sports
 https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
-#EXTINF:-1 tvg-id="TVSSports.us@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/Lwwq62E.png" x-category="Sports" tvg-language="English" group-title="English" height="528",TVS Sports
+#EXTINF:-1 tvg-id="TVSSports.us@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/Lwwq62E.png" x-category="Sports" tvg-language="English" group-title="English" height="576",TVS Sports
 https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
 #EXTINF:-1 tvg-id="TVSSportsBureau.us@SD" x-categories="Sports" x-category="Sports" tvg-language="English" group-title="English" height="720",TVS Sports Bureau
 https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
 #EXTINF:-1 tvg-id="TVSTurbo.us@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/7zYIbU1.png" x-category="Sports" tvg-language="English" group-title="English" height="360",TVS Turbo
 https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
-#EXTINF:-1 tvg-id="TVSWomenSports.us@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/8hC4PfF.png" x-category="Sports" tvg-language="English" group-title="English" height="720",TVS Women Sports
+#EXTINF:-1 tvg-id="TVSWomenSports.us@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/8hC4PfF.png" x-category="Sports" tvg-language="English" group-title="English" height="540",TVS Women Sports
 https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-id="Unbeaten.us@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/LmkNt3v.png" x-category="Sports" tvg-language="English" group-title="English" height="1080",Unbeaten
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports-v2/playlist.m3u8
@@ -527,7 +527,7 @@ http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqR25
 #EXTINF:-1 tvg-id="ArenaSportPremiumM3.mk@SD" x-categories="Sports" tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m3.png" x-category="Sports" tvg-language="Other" group-title="Other",Arena Sport Premium M3
 http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqSVr5S9_a_TNo_sg7gE1yvH
 #EXTINF:-1 tvg-id="CBCSport.az@HD" x-categories="Sports" tvg-logo="https://i.imgur.com/3mEdjuq.png" x-category="Sports" tvg-language="Other" group-title="Other",CBC Sport HD
-https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@HD" x-categories="Sports;Cricket" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png" x-category="Sports" tvg-language="Other" group-title="Other" height="1080",DD Sports
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Romania" x-categories="Sports" tvg-logo="https://i.imgur.com/olQJgm7.png" x-category="Sports" tvg-language="Other" group-title="Other",Eurosport 1 Romania
@@ -542,17 +542,17 @@ http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/178/index.m3u8
 #EXTINF:-1 tvg-id="MNBSport.mn@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/z854PC3.png" x-category="Sports" tvg-language="Other" group-title="Other",MNB Sport
 https://live.mnb.mn/hls/mnb_sport.stream.m3u8
-#EXTINF:-1 tvg-id="MRTVSports.mm@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/cFTR4kC.png" x-category="Sports" tvg-language="Other" group-title="Other",MRTV Sports
+#EXTINF:-1 tvg-id="MRTVSports.mm@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/cFTR4kC.png" x-category="Sports" tvg-language="Other" group-title="Other" height="1080",MRTV Sports
 https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
 #EXTINF:-1 tvg-id="PrimaSportCzechia.cz@SD" x-categories="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Prima_Sport_%28Czech_Republic%29.svg/revision/latest?cb=20260728085614" x-category="Sports" tvg-language="Other" group-title="Other",Prima Sport Czechia
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0
-#EXTINF:-1 tvg-id="QazSport.kz@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/UDJ0P5Q.png" x-category="Sports" tvg-language="Other" group-title="Other" height="1080",QazSport
+#EXTINF:-1 tvg-id="QazSport.kz@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/UDJ0P5Q.png" x-category="Sports" tvg-language="Other" group-title="Other",QazSport
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 #EXTINF:-1 tvg-id="SetantaSports3.ge@SD" x-categories="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Setanta_Sports_3_2023.svg/revision/latest?cb=20230804060013" x-category="Sports" tvg-language="Other" group-title="Other" height="1080",Setanta Sports 3
 http://85.117.61.84/setanta3/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSportsPlusGeorgia.ge@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/ZtoZQUV.png" x-category="Sports" tvg-language="Other" group-title="Other" height="1080",Setanta Sports+ Georgia
 http://85.117.61.84/setanta2/index.m3u8
-#EXTINF:-1 tvg-id="Sport.uz@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/2WJE9CM.png" x-category="Sports" tvg-language="Other" group-title="Other",Sport
+#EXTINF:-1 tvg-id="Sport.uz@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/2WJE9CM.png" x-category="Sports" tvg-language="Other" group-title="Other" height="1080",Sport
 https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SportPlusQazaqstan.kz@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/vIV7x6n.png" x-category="Sports" tvg-language="Other" group-title="Other",Sport+ Qazaqstan
 https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
@@ -646,7 +646,7 @@ http://195.178.110.110/sportv3/index.m3u8
 #EXTINF:-1 tvg-id="TVMaticFight.br@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/l5PBcKN.png" x-category="Sports" tvg-language="Portuguese" group-title="Portuguese",TVMatic Fight
 http://cdn.tvmatic.net/fight.m3u8
 #EXTINF:-1 tvg-id="AntenaPlayEvents.ro@SD" x-categories="Sports" x-category="Sports" tvg-language="Romanian" group-title="Romanian",AntenaPlay Events
-https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8
+https://live77cdn2.antenaplay.ro/live2_sdi03/live2_sdi03_3000k.m3u8
 #EXTINF:-1 tvg-id="AntenaSport.ro@SD" x-categories="Sports" tvg-logo="https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg" x-category="Sports" tvg-language="Romanian" group-title="Romanian",AntenaSport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-id="DigiSport1.ro@HD" x-categories="Sports" tvg-logo="https://i.imgur.com/5zMxDYq.png" x-category="Sports" tvg-language="Romanian" group-title="Romanian",Digi Sport 1 HD
@@ -674,7 +674,7 @@ http://sultanios.alwaysdata.net/vavo.php?ID=3194919143
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/BaEyZto.png" x-category="Sports" tvg-language="Romanian" group-title="Romanian" height="720",Realitatea Sportiva
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="SportExtra.ro@HD" x-categories="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Sport_Extra_horizontal.svg/revision/latest/scale-to-width-down/1000?cb=20220425110755" x-category="Sports" tvg-language="Romanian" group-title="Romanian",Sport Extra HD
-http://92.180.26.103:80/stream/93/index.m3u8
+http://92.180.26.103/stream/93/index.m3u8
 #EXTINF:-1 tvg-id="SportTotalFM.ro@SD" x-categories="Sports" tvg-logo="https://sptfm.ro/wp-content/uploads/2021/05/logo-sport-total-fm-01.png" x-category="Sports" tvg-language="Romanian" group-title="Romanian" height="720",Sport Total FM
 https://livesptfm.com/SPTFM/Live/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRSport.ro@SD" x-categories="General;Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png" x-category="General" tvg-language="Romanian" group-title="Romanian" height="1080",TVR Sport
@@ -685,7 +685,7 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetS
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
 #EXTINF:-1 tvg-id="Belarus5.by@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/NJsRFud.png" x-category="Sports" tvg-language="Russian" group-title="Russian" height="1080",Belarus-5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BoksTV.ru@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/R1UjyfX.png" x-category="Sports" tvg-language="Russian" group-title="Russian",Boks TV
+#EXTINF:-1 tvg-id="BoksTV.ru@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/R1UjyfX.png" x-category="Sports" tvg-language="Russian" group-title="Russian" height="576",Boks TV
 http://stream.mcquack.net/154/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Russia" x-categories="Sports" tvg-logo="https://i.imgur.com/olQJgm7.png" x-category="Sports" tvg-language="Russian" group-title="Russian" height="1080",Eurosport 1 Russia
 https://s7.iptv-24.net/1439/playlist.m3u8
@@ -694,7 +694,7 @@ https://s7.iptv-24.net/1452/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremeSportsChannel.ru@SD" x-categories="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/960px-Extreme_Sports_Channel.svg.png" x-category="Sports" tvg-language="Russian" group-title="Russian",Extreme Sports Channel
 https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="FONTV.ru@HD" x-categories="Sports" tvg-logo="https://play-lh.googleusercontent.com/J0YeRB884koVfecR2mp43Y2mbNtRVTSSOiq2U1gkITJ9IxzIM4VA71Rqbh3UlREI4mCnlxGHm4wxoujt5ZH1AQ" x-category="Sports" tvg-language="Russian" group-title="Russian" height="1080",FON TV
-https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8
+https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
 #EXTINF:-1 tvg-id="KHL.ru@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/RgdHdOV.png" x-category="Sports" tvg-language="Russian" group-title="Russian" height="576",KHL
 http://176.118.197.101/KHL/index.m3u8
 #EXTINF:-1 tvg-id="MatchArena.ru@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/udTzwzu.png" x-category="Sports" tvg-language="Russian" group-title="Russian" height="1080",Match! Arena
@@ -928,7 +928,7 @@ http://45.167.2.101:8000/play/a0pp/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
 https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
 #EXTINF:-1 tvg-id="TNTSports.cl@SD" x-categories="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" x-category="Sports" tvg-language="Spanish" group-title="Spanish",TNT Sports
-http://209.45.101.130:8040/play/a03s/index.m3u8
+http://205.235.6.29:8000/play/a0xa/index.m3u8
 #EXTINF:-1 tvg-id="TNTSportsPremium.cl@ArgentinaHD" x-categories="Sports" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" x-category="Sports" tvg-language="Spanish" group-title="Spanish",TNT Sports Premium ArgentinaHD
 http://181.78.79.131:8000/play/a0q9
 #EXTINF:-1 tvg-id="TNTSportsPremium.cl@HD" x-categories="Sports" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" x-category="Sports" tvg-language="Spanish" group-title="Spanish",TNT Sports Premium HD
@@ -1010,7 +1010,7 @@ http://stream.mcquack.net/391/index.m3u8
 #EXTINF:-1 tvg-id="Sport1Baltic.ua@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/aBY7QK4.png" x-category="Sports" tvg-language="Ukrainian" group-title="Ukrainian" height="1080",Sport 1 Baltic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/461/index.m3u8
-#EXTINF:-1 tvg-id="Sport2.ua@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/vk0j1mY.png" x-category="Sports" tvg-language="Ukrainian" group-title="Ukrainian" height="1080",Sport 2
+#EXTINF:-1 tvg-id="Sport2.ua@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/vk0j1mY.png" x-category="Sports" tvg-language="Ukrainian" group-title="Ukrainian",Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/392/index.m3u8
 #EXTINF:-1 tvg-id="Sport3.ua@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/qkvavfH.png" x-category="Sports" tvg-language="Ukrainian" group-title="Ukrainian" height="1080",Sport 3
