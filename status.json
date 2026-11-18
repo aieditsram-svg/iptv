@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 22:24 UTC",
-  "fingerprint": "a7bf43fd630bbab19040f70fd45aa711",
+  "updated_at": "2026-11-18 23:13 UTC",
+  "fingerprint": "fe58adc44cf36ffbd9b0bf2bfc2a5d4f",
   "total": 2381,
-  "working": 1902,
-  "in_grace_period": 10,
-  "dead": 479,
-  "hd_channels": 822,
+  "working": 1905,
+  "in_grace_period": 9,
+  "dead": 476,
+  "hd_channels": 820,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 83,
+      "working": 84,
       "hd": 41
     },
     "Bhojpuri": {
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 624,
-      "hd": 228
+      "working": 625,
+      "hd": 227
     },
     "Hungarian": {
       "total": 11,
@@ -124,7 +124,7 @@
     },
     "Kannada": {
       "total": 78,
-      "working": 60,
+      "working": 61,
       "hd": 27
     },
     "Konkani": {
@@ -154,12 +154,12 @@
     },
     "Malayalam": {
       "total": 118,
-      "working": 95,
-      "hd": 35
+      "working": 97,
+      "hd": 36
     },
     "Marathi": {
       "total": 53,
-      "working": 44,
+      "working": 45,
       "hd": 20
     },
     "Nepali": {
@@ -174,8 +174,8 @@
     },
     "Other": {
       "total": 40,
-      "working": 24,
-      "hd": 15
+      "working": 23,
+      "hd": 13
     },
     "Polish": {
       "total": 11,
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 52,
-      "working": 41,
+      "working": 43,
       "hd": 21
     },
     "Santali": {
@@ -234,12 +234,12 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 140,
+      "working": 141,
       "hd": 68
     },
     "Telugu": {
       "total": 171,
-      "working": 141,
+      "working": 142,
       "hd": 57
     },
     "Thai": {
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 262,
-      "working": 201
+      "working": 202
     },
     "General": {
       "total": 194,
@@ -323,7 +323,7 @@
     },
     "Kids": {
       "total": 23,
-      "working": 11
+      "working": 12
     },
     "Legislative": {
       "total": 8,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 564,
-      "working": 341
+      "working": 342
     },
     "Travel": {
       "total": 6,
@@ -1117,11 +1117,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Nickelodeon (576p) [Geo-blocked]",
-      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
-    },
-    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -1450,11 +1445,6 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Sun Surya HD (1080p)",
-      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -1814,7 +1804,7 @@
     {
       "name": "TNT Sports Premium HD",
       "url": "https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8",
-      "reason": "HTTP 404"
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "CCTV-5+",
@@ -1984,7 +1974,7 @@
     {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "5Plus (1080p)",
@@ -2019,17 +2009,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "QazSport (1080p)",
@@ -2174,7 +2164,7 @@
     {
       "name": "M-Net Sport",
       "url": "https://live.mnet.mk/hls/mnet-sport.m3u8",
-      "reason": "HTTP 500"
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "One Golf (720p)",
@@ -2402,11 +2392,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Match! Ultra (1080p)",
-      "url": "http://31.148.5.241/kanal_3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Match! Ultra (576p)",
       "url": "http://flussonic.linkintel.ru/match/index.m3u8",
       "reason": "URLError"
@@ -2424,11 +2409,6 @@
     {
       "name": "UDAR (1080p)",
       "url": "http://5.188.159.128:8070/udar/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "viju+ Sport (576p)",
-      "url": "http://31.148.5.241/Viasat_Sport/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -2465,6 +2445,11 @@
       "name": "Talent TV (720p)",
       "url": "http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8",
       "reason": "empty HLS manifest"
+    },
+    {
+      "name": "Futbol (1080p)",
+      "url": "http://185.121.1.163:8083/FootballHD/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Futbol (1080p)",
@@ -2709,7 +2694,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
