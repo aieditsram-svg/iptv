@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 19:03 UTC",
-  "fingerprint": "bd6ae7efdfe6627c97e79fde50510fbb",
+  "updated_at": "2026-11-18 19:57 UTC",
+  "fingerprint": "d1adabc26f1799c45cf8e13dcbfb241d",
   "total": 2381,
-  "working": 1913,
-  "in_grace_period": 15,
-  "dead": 468,
-  "hd_channels": 826,
+  "working": 1910,
+  "in_grace_period": 27,
+  "dead": 471,
+  "hd_channels": 821,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 743,
       "working": 627,
-      "hd": 228
+      "hd": 227
     },
     "Hungarian": {
       "total": 11,
@@ -189,18 +189,18 @@
     },
     "Punjabi": {
       "total": 164,
-      "working": 155,
-      "hd": 57
+      "working": 152,
+      "hd": 55
     },
     "Romanian": {
       "total": 24,
       "working": 14,
-      "hd": 6
+      "hd": 5
     },
     "Russian": {
       "total": 52,
       "working": 41,
-      "hd": 21
+      "hd": 20
     },
     "Santali": {
       "total": 2,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 249,
-      "working": 228
+      "working": 227
     },
     "Documentary": {
       "total": 8,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 262,
-      "working": 204
+      "working": 202
     },
     "General": {
       "total": 194,
@@ -335,11 +335,11 @@
     },
     "Movies": {
       "total": 128,
-      "working": 108
+      "working": 109
     },
     "Music": {
       "total": 141,
-      "working": 119
+      "working": 118
     },
     "News": {
       "total": 757,
@@ -415,11 +415,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -1127,6 +1122,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Padharo SA (720p)",
+      "url": "https://samitaorigin.tangotv.in/PADHAROSA/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
@@ -1164,6 +1164,21 @@
     {
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
+      "name": "Punjabi Music HD (720p)",
+      "url": "https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Punjabi TV (720p)",
+      "url": "https://samitaorigin.tangotv.in/PUNJABITV/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Punjabi TV (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlPUNJABITV/index.m3u8",
       "reason": "TimeoutError"
     },
     {
@@ -1979,17 +1994,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "QazSport (1080p)",
@@ -2299,12 +2314,12 @@
     {
       "name": "Formula Academy AntenaPlay (576p) [Not 24/7]",
       "url": "https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-general-2026/chunklist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "NHL AntenaPlay (576i) [Not 24/7]",
       "url": "https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Prima Sport 2 HD",
@@ -2654,7 +2669,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
