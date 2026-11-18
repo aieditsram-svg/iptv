@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 11:31 UTC",
-  "fingerprint": "cb9cf0650c6e32698cd8ca3bfe4ed188",
+  "updated_at": "2026-11-18 12:23 UTC",
+  "fingerprint": "385e4e82315730d354746890061bad40",
   "total": 2381,
-  "working": 1926,
-  "in_grace_period": 11,
-  "dead": 455,
-  "hd_channels": 821,
+  "working": 1927,
+  "in_grace_period": 21,
+  "dead": 454,
+  "hd_channels": 823,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 290,
       "working": 223,
-      "hd": 109
+      "hd": 110
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 639,
-      "hd": 228
+      "working": 640,
+      "hd": 229
     },
     "Hungarian": {
       "total": 11,
@@ -160,7 +160,7 @@
     "Marathi": {
       "total": 53,
       "working": 44,
-      "hd": 20
+      "hd": 19
     },
     "Nepali": {
       "total": 6,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 25,
-      "hd": 13
+      "hd": 14
     },
     "Polish": {
       "total": 11,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 262,
-      "working": 205
+      "working": 206
     },
     "General": {
       "total": 194,
@@ -1112,11 +1112,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1594,12 +1589,12 @@
     {
       "name": "Belarus-5 HD (1080p)",
       "url": "http://178.124.179.122:8080/BT5/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 400"
     },
     {
       "name": "Sport TV (1080p)",
       "url": "http://178.124.179.122:8080/SportTV/mpegts",
-      "reason": "URLError"
+      "reason": "HTTP 400"
     },
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
@@ -1909,17 +1904,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "QazSport (1080p)",
@@ -2294,7 +2289,7 @@
     {
       "name": "Okko Futbol (576p)",
       "url": "http://178.124.179.122:8080/Setanta1/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 400"
     },
     {
       "name": "Okko Prajm Sport (1080p)",
@@ -2589,7 +2584,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
