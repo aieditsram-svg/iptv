@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 19:57 UTC",
-  "fingerprint": "d1adabc26f1799c45cf8e13dcbfb241d",
+  "updated_at": "2026-11-18 20:42 UTC",
+  "fingerprint": "56407bfc6c6283aadb10d3fdc5468f2d",
   "total": 2381,
-  "working": 1910,
-  "in_grace_period": 27,
-  "dead": 471,
-  "hd_channels": 821,
+  "working": 1908,
+  "in_grace_period": 17,
+  "dead": 473,
+  "hd_channels": 820,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,8 +29,8 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 84,
-      "hd": 43
+      "working": 83,
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 33,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 627,
+      "working": 626,
       "hd": 227
     },
     "Hungarian": {
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 164,
-      "working": 152,
+      "working": 153,
       "hd": 55
     },
     "Romanian": {
@@ -200,7 +200,7 @@
     "Russian": {
       "total": 52,
       "working": 41,
-      "hd": 20
+      "hd": 21
     },
     "Santali": {
       "total": 2,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 142,
+      "working": 141,
       "hd": 57
     },
     "Thai": {
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 262,
-      "working": 202
+      "working": 201
     },
     "General": {
       "total": 194,
@@ -323,7 +323,7 @@
     },
     "Kids": {
       "total": 23,
-      "working": 12
+      "working": 11
     },
     "Legislative": {
       "total": 8,
@@ -335,11 +335,11 @@
     },
     "Movies": {
       "total": 128,
-      "working": 109
+      "working": 108
     },
     "Music": {
       "total": 141,
-      "working": 118
+      "working": 119
     },
     "News": {
       "total": 757,
@@ -385,11 +385,6 @@
       "name": "9X Jhakaas (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -450,6 +445,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -735,6 +735,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -1555,6 +1560,11 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ZB Cartoon (1080p)",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -2669,7 +2679,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
