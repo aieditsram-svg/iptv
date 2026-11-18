@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 15:27 UTC",
-  "fingerprint": "229e696eea6e9e652570bcaad1caa9dd",
+  "updated_at": "2026-11-18 16:26 UTC",
+  "fingerprint": "7290f0cf28c5e3c3fe5865f704d3707c",
   "total": 2381,
-  "working": 1929,
-  "in_grace_period": 20,
-  "dead": 452,
-  "hd_channels": 826,
+  "working": 1930,
+  "in_grace_period": 36,
+  "dead": 451,
+  "hd_channels": 824,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -160,7 +160,7 @@
     "Marathi": {
       "total": 53,
       "working": 44,
-      "hd": 20
+      "hd": 19
     },
     "Nepali": {
       "total": 6,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 25,
-      "hd": 14
+      "hd": 13
     },
     "Polish": {
       "total": 11,
@@ -224,7 +224,7 @@
     },
     "Spanish": {
       "total": 113,
-      "working": 59,
+      "working": 60,
       "hd": 41
     },
     "Swedish": {
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 564,
-      "working": 344
+      "working": 345
     },
     "Travel": {
       "total": 6,
@@ -1727,11 +1727,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Win+ Futbol (1080p)",
-      "url": "http://190.61.42.218:9000/play/a01s/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Radio Turrialba TV Sports (720p) [Not 24/7]",
       "url": "https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u8",
       "reason": "URLError"
@@ -1894,17 +1889,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "QazSport (1080p)",
