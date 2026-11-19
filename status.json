@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 08:47 UTC",
-  "fingerprint": "521bd9aca26f1fc2fb47b6384f81ddca",
-  "total": 2426,
-  "working": 1974,
-  "in_grace_period": 23,
+  "updated_at": "2026-11-19 09:44 UTC",
+  "fingerprint": "0319d95f99cc7b5225e65c39ba18fbe5",
+  "total": 2425,
+  "working": 1973,
+  "in_grace_period": 18,
   "dead": 452,
-  "hd_channels": 846,
+  "hd_channels": 844,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 82,
+      "working": 83,
       "hd": 42
     },
     "Bhojpuri": {
@@ -70,7 +70,7 @@
     "English": {
       "total": 292,
       "working": 226,
-      "hd": 114
+      "hd": 112
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 650,
-      "hd": 235
+      "working": 649,
+      "hd": 234
     },
     "Hungarian": {
       "total": 11,
@@ -119,7 +119,7 @@
     },
     "Italian": {
       "total": 22,
-      "working": 15,
+      "working": 14,
       "hd": 8
     },
     "Kannada": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 25,
-      "hd": 13
+      "hd": 14
     },
     "Polish": {
       "total": 11,
@@ -208,7 +208,7 @@
       "hd": 1
     },
     "Serbian": {
-      "total": 3,
+      "total": 2,
       "working": 0,
       "hd": 0
     },
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 259,
-      "working": 235
+      "working": 236
     },
     "Documentary": {
       "total": 8,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 269,
-      "working": 208
+      "working": 209
     },
     "General": {
       "total": 197,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 131,
-      "working": 113
+      "working": 112
     },
     "Music": {
       "total": 147,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 766,
-      "working": 699
+      "working": 698
     },
     "Outdoor": {
       "total": 17,
@@ -362,8 +362,8 @@
       "working": 2
     },
     "Sports": {
-      "total": 567,
-      "working": 355
+      "total": 566,
+      "working": 354
     },
     "Travel": {
       "total": 6,
@@ -757,6 +757,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -897,6 +902,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Kashish News (720p)",
+      "url": "https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
@@ -920,11 +930,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -1320,11 +1325,6 @@
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha HD (1080p)",
@@ -1932,6 +1932,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "SuperTennis",
+      "url": "http://57.128.225.206/stream/7/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "QazSport (1080p)",
       "url": "http://stream.mcquack.net/72/index.m3u8",
       "reason": "HTTP 403"
@@ -2297,11 +2302,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Arena Sport 1 Premium (360p)",
-      "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "SOS Kanal Plus (720p)",
       "url": "https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8",
       "reason": "URLError"
@@ -2574,7 +2574,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
