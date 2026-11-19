@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 16:33 UTC",
-  "fingerprint": "db2e5d0b23d43d182f4931a03c14cfff",
+  "updated_at": "2026-11-19 17:29 UTC",
+  "fingerprint": "2f72c00cf1f2755180cfc94705a72299",
   "total": 2425,
-  "working": 1953,
-  "in_grace_period": 17,
-  "dead": 472,
-  "hd_channels": 829,
+  "working": 1956,
+  "in_grace_period": 23,
+  "dead": 469,
+  "hd_channels": 832,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 292,
-      "working": 220,
-      "hd": 109
+      "working": 221,
+      "hd": 110
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 651,
+      "working": 654,
       "hd": 234
     },
     "Hungarian": {
@@ -160,7 +160,7 @@
     "Marathi": {
       "total": 53,
       "working": 45,
-      "hd": 19
+      "hd": 20
     },
     "Nepali": {
       "total": 6,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 23,
-      "hd": 12
+      "hd": 13
     },
     "Polish": {
       "total": 11,
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 269,
-      "working": 213
+      "working": 214
     },
     "General": {
       "total": 197,
-      "working": 170
+      "working": 171
     },
     "Kids": {
       "total": 23,
@@ -327,7 +327,7 @@
     },
     "Legislative": {
       "total": 8,
-      "working": 6
+      "working": 7
     },
     "Lifestyle": {
       "total": 27,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 131,
-      "working": 112
+      "working": 113
     },
     "Music": {
       "total": 147,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 766,
-      "working": 699
+      "working": 698
     },
     "Outdoor": {
       "total": 17,
@@ -567,11 +567,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
       "reason": "HTTP 404"
@@ -745,11 +740,6 @@
       "name": "Food Food (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines 2 (576p)",
@@ -967,11 +957,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1 India (576p)",
       "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
@@ -1102,6 +1087,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Public First (576p)",
+      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
@@ -1170,11 +1160,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sansad TV 1 HD (1080p)",
-      "url": "https://fta.ektv.in/live/718/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -1604,17 +1589,17 @@
     {
       "name": "Adriatic Sport 1",
       "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3645291205",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Adriatic Sport 2",
       "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2665922581",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Adriatic Sport 3",
       "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2743527845",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Band Sports (1080p)",
@@ -1694,7 +1679,7 @@
     {
       "name": "TNT Sports Premium HD",
       "url": "https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8",
-      "reason": "HTTP 404"
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "CCTV-5+",
@@ -1869,7 +1854,7 @@
     {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Setanta Sports 1 Eurasia (1080p)",
@@ -1889,7 +1874,7 @@
     {
       "name": "Rai Sport",
       "url": "http://sultanios.alwaysdata.net/vavo.php?ID=843891896",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia (1080p)",
@@ -2064,7 +2049,7 @@
     {
       "name": "M-Net Sport",
       "url": "https://live.mnet.mk/hls/mnet-sport.m3u8",
-      "reason": "HTTP 500"
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "One Golf (720p)",
@@ -2149,12 +2134,12 @@
     {
       "name": "Eurosport 3 Polska",
       "url": "http://sultanios.alwaysdata.net/vavo.php?ID=512159637",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Eurosport 4 Polska",
       "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2896573317",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Polsat Sport Fight",
@@ -2204,22 +2189,22 @@
     {
       "name": "Digi Sport 1 HD",
       "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3174529991",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Digi Sport 2 HD",
       "url": "http://sultanios.alwaysdata.net/vavo.php?ID=867728420",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Digi Sport 3 HD",
       "url": "http://sultanios.alwaysdata.net/vavo.php?ID=4279401658",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Digi Sport 4",
       "url": "http://sultanios.alwaysdata.net/vavo.php?ID=4124538275",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "NHL AntenaPlay (576i) [Not 24/7]",
@@ -2229,17 +2214,17 @@
     {
       "name": "Prima Sport 2 HD",
       "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3381201599",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Prima Sport 3 HD",
       "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2762629881",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Prima Sport 4 HD",
       "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3194919143",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Sport Extra HD",
