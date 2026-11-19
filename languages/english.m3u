@@ -1,5 +1,5 @@
 #EXTM3U
-# Working English channels, updated 2026-11-19 09:44 UTC
+# Working English channels, updated 2026-11-19 10:36 UTC
 #EXTINF:-1 tvg-id="ABPNews.in@SD" x-categories="News" tvg-logo="https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540" x-category="News" tvg-language="English" group-title="English" height="1080",ABP News (1080p)
 https://abpmitv.akamaized.net/hls/live/2042842/abpnews/master.m3u8
 #EXTINF:-1 tvg-id="ABPNews.in@SD" x-categories="News" tvg-logo="https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540" x-category="News" tvg-language="English" group-title="English" height="1080",ABP News (1080p)
@@ -389,9 +389,6 @@ https://fta.ektv.in/live/298/master.m3u8
 #EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/zlJK7ca.png" x-category="Sports" tvg-language="English" group-title="English" height="1080",Setanta Sports 1 Eurasia (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/234/index.m3u8
-#EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/ouHunnK.png" x-category="Sports" tvg-language="English" group-title="English" height="1080",Setanta Sports 2 Eurasia (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSportsPlusGeorgia.ge@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/ZtoZQUV.png" x-category="Sports" tvg-language="English" group-title="English" height="1080",Setanta Sports+ Georgia (1080p)
 http://85.117.61.84/setanta2/index.m3u8
 #EXTINF:-1 tvg-id="SkyRacing1.au@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/Hf0EiaW.png" x-category="Sports" tvg-language="English" group-title="English" height="720",Sky Racing 1 (720p)
@@ -415,8 +412,6 @@ https://tvsen6.aynaott.com/talkSPORT/index.m3u8
 #EXTINF:-1 tvg-id="TAPSports.ph@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/4GmuJMD.png" x-category="Sports" tvg-language="English" group-title="English" height="1080",TAP Sports (1080p) [Geo-blocked]
 https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/tsljAnY.png" x-category="Sports" tvg-language="English" group-title="English" height="1080",Tennis Channel (1080p)
-http://23.237.104.106:8080/USA_TENNIS/index.m3u8
-#EXTINF:-1 tvg-id="TennisChannel.us@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/tsljAnY.png" x-category="Sports" tvg-language="English" group-title="English" height="1080",Tennis Channel (1080p)
 http://138.59.177.78:9999/play/a0gl/index.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/tsljAnY.png" x-category="Sports" tvg-language="English" group-title="English" height="1080",Tennis Channel (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
@@ -436,7 +431,7 @@ https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:-1 tvg-id="TVSBowlingNetwork.us@SD" x-categories="Sports" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg" x-category="Sports" tvg-language="English" group-title="English" height="720",TVS Bowling Network (720p)
 https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
-#EXTINF:-1 tvg-id="TVSBoxing.us@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/30ZoF75.png" x-category="Sports" tvg-language="English" group-title="English" height="720",TVS Boxing (360p)
+#EXTINF:-1 tvg-id="TVSBoxing.us@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/30ZoF75.png" x-category="Sports" tvg-language="English" group-title="English" height="360",TVS Boxing (360p)
 https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 tvg-id="TVSClassicSports.us@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/auR0Mi6.png" x-category="Sports" tvg-language="English" group-title="English" height="360",TVS Classic Sports (360p)
 https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8

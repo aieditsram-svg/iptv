@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 09:44 UTC",
-  "fingerprint": "0319d95f99cc7b5225e65c39ba18fbe5",
+  "updated_at": "2026-11-19 10:36 UTC",
+  "fingerprint": "526712d702d3d3c685c56b75cc482dd9",
   "total": 2425,
-  "working": 1973,
-  "in_grace_period": 18,
-  "dead": 452,
-  "hd_channels": 844,
+  "working": 1969,
+  "in_grace_period": 15,
+  "dead": 456,
+  "hd_channels": 841,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 292,
-      "working": 226,
-      "hd": 112
+      "working": 224,
+      "hd": 110
     },
     "Estonian": {
       "total": 1,
@@ -124,8 +124,8 @@
     },
     "Kannada": {
       "total": 78,
-      "working": 61,
-      "hd": 27
+      "working": 60,
+      "hd": 26
     },
     "Konkani": {
       "total": 3,
@@ -160,7 +160,7 @@
     "Marathi": {
       "total": 53,
       "working": 44,
-      "hd": 19
+      "hd": 20
     },
     "Nepali": {
       "total": 6,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 25,
-      "hd": 14
+      "hd": 15
     },
     "Polish": {
       "total": 11,
@@ -189,8 +189,8 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 158,
-      "hd": 58
+      "working": 157,
+      "hd": 57
     },
     "Romanian": {
       "total": 25,
@@ -199,8 +199,8 @@
     },
     "Russian": {
       "total": 52,
-      "working": 43,
-      "hd": 21
+      "working": 42,
+      "hd": 20
     },
     "Santali": {
       "total": 2,
@@ -240,7 +240,7 @@
     "Telugu": {
       "total": 195,
       "working": 167,
-      "hd": 64
+      "hd": 63
     },
     "Thai": {
       "total": 1,
@@ -339,11 +339,11 @@
     },
     "Music": {
       "total": 147,
-      "working": 126
+      "working": 125
     },
     "News": {
       "total": 766,
-      "working": 698
+      "working": 697
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 566,
-      "working": 354
+      "working": 352
     },
     "Travel": {
       "total": 6,
@@ -385,6 +385,11 @@
       "name": "9X Jhakaas (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -435,6 +440,11 @@
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Ashwaveega News 24x7 (720p)",
+      "url": "https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Asianet Middle East (576p)",
@@ -1897,6 +1907,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Setanta Sports 2 Eurasia (1080p)",
+      "url": "http://stream.mcquack.net/235/index.m3u8",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Lazio Style Channel HD (720p)",
       "url": "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8",
       "reason": "HTTP 404"
@@ -1919,17 +1934,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis",
@@ -2574,7 +2589,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
@@ -2590,6 +2605,11 @@
       "name": "NFL Network (720p)",
       "url": "http://198.58.104.90:8989/nfl/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Tennis Channel (1080p)",
+      "url": "http://23.237.104.106:8080/USA_TENNIS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Tennis Channel (720p)",
