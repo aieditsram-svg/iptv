@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 01:59 UTC",
-  "fingerprint": "e945f850ba1d999ba7ba7afc7c28ea5d",
-  "total": 2381,
-  "working": 1902,
-  "in_grace_period": 17,
-  "dead": 479,
-  "hd_channels": 818,
+  "updated_at": "2026-11-19 02:44 UTC",
+  "fingerprint": "4c112c5948dfeb20c133e739f769f86d",
+  "total": 2426,
+  "working": 1946,
+  "in_grace_period": 25,
+  "dead": 480,
+  "hd_channels": 835,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -68,9 +68,9 @@
       "hd": 0
     },
     "English": {
-      "total": 290,
-      "working": 219,
-      "hd": 112
+      "total": 292,
+      "working": 221,
+      "hd": 111
     },
     "Estonian": {
       "total": 1,
@@ -93,19 +93,19 @@
       "hd": 0
     },
     "Gujarati": {
-      "total": 47,
-      "working": 44,
-      "hd": 20
+      "total": 48,
+      "working": 45,
+      "hd": 21
     },
     "Hebrew": {
       "total": 9,
-      "working": 7,
-      "hd": 7
+      "working": 9,
+      "hd": 9
     },
     "Hindi": {
-      "total": 743,
-      "working": 624,
-      "hd": 226
+      "total": 757,
+      "working": 636,
+      "hd": 233
     },
     "Hungarian": {
       "total": 11,
@@ -155,7 +155,7 @@
     "Malayalam": {
       "total": 118,
       "working": 95,
-      "hd": 35
+      "hd": 34
     },
     "Marathi": {
       "total": 53,
@@ -188,12 +188,12 @@
       "hd": 8
     },
     "Punjabi": {
-      "total": 164,
-      "working": 153,
-      "hd": 55
+      "total": 166,
+      "working": 155,
+      "hd": 56
     },
     "Romanian": {
-      "total": 24,
+      "total": 25,
       "working": 11,
       "hd": 5
     },
@@ -233,14 +233,14 @@
       "hd": 1
     },
     "Tamil": {
-      "total": 174,
-      "working": 140,
-      "hd": 68
+      "total": 175,
+      "working": 141,
+      "hd": 69
     },
     "Telugu": {
-      "total": 171,
-      "working": 141,
-      "hd": 57
+      "total": 195,
+      "working": 165,
+      "hd": 64
     },
     "Thai": {
       "total": 1,
@@ -278,16 +278,16 @@
       "working": 3
     },
     "Business": {
-      "total": 14,
-      "working": 12
+      "total": 15,
+      "working": 13
     },
     "Classic": {
       "total": 3,
       "working": 2
     },
     "Comedy": {
-      "total": 8,
-      "working": 6
+      "total": 9,
+      "working": 7
     },
     "Cooking": {
       "total": 5,
@@ -302,8 +302,8 @@
       "working": 12
     },
     "Devotional": {
-      "total": 249,
-      "working": 227
+      "total": 259,
+      "working": 235
     },
     "Documentary": {
       "total": 8,
@@ -314,12 +314,12 @@
       "working": 8
     },
     "Entertainment": {
-      "total": 262,
-      "working": 202
+      "total": 269,
+      "working": 209
     },
     "General": {
-      "total": 194,
-      "working": 160
+      "total": 197,
+      "working": 163
     },
     "Kids": {
       "total": 23,
@@ -330,20 +330,20 @@
       "working": 6
     },
     "Lifestyle": {
-      "total": 24,
-      "working": 18
+      "total": 27,
+      "working": 21
     },
     "Movies": {
-      "total": 128,
-      "working": 108
+      "total": 131,
+      "working": 111
     },
     "Music": {
-      "total": 141,
-      "working": 117
+      "total": 147,
+      "working": 123
     },
     "News": {
-      "total": 757,
-      "working": 685
+      "total": 766,
+      "working": 694
     },
     "Outdoor": {
       "total": 17,
@@ -362,8 +362,8 @@
       "working": 2
     },
     "Sports": {
-      "total": 564,
-      "working": 341
+      "total": 567,
+      "working": 345
     },
     "Travel": {
       "total": 6,
@@ -485,6 +485,11 @@
       "name": "Bhakthi Siri (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/Bhakthisiri/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Bhakti Play (1080p)",
+      "url": "https://onetakemedia.vgcdn.net/vglive-sk-548610/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Bharat Samachar (576p)",
@@ -1342,6 +1347,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Sikh Ratnavali (1080p)",
+      "url": "https://livetv.kableone.com/hls/live/2111218/SikhRatnavali/master.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "Siri Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSIRIKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1399,7 +1409,7 @@
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 429"
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
@@ -1987,16 +1997,6 @@
       "reason": "URLError"
     },
     {
-      "name": "5Plus (1080p)",
-      "url": "http://89.33.29.115:8080/sportplus/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "5Stars (1080p)",
-      "url": "http://89.33.29.115:8080/IL_5Stars/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Lazio Style Channel HD (720p)",
       "url": "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8",
       "reason": "HTTP 404"
@@ -2019,17 +2019,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "QazSport (1080p)",
@@ -2353,7 +2353,7 @@
     },
     {
       "name": "Formula Academy AntenaPlay (576p) [Not 24/7]",
-      "url": "https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-general-2026/chunklist.m3u8",
+      "url": "https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-20-2211/chunklist.m3u8",
       "reason": "TimeoutError"
     },
     {
@@ -2382,14 +2382,19 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Prima Sport PPV 1",
+      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki1%2Fusergendx6kal0r2bsm-got.htm",
+      "reason": "TimeoutError"
+    },
+    {
+      "name": "Prima Sport PPV 2",
+      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki2%2Fusergendxpk2s6utg0l-got.htm",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "Sport Extra HD",
       "url": "http://92.180.26.103/stream/93/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Voyo Sport 1 (1080p)",
-      "url": "http://34.92.70.128/VOYO-SPORT-1/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Extreme Sports Channel (576p)",
