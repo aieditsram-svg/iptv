@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 10:36 UTC",
-  "fingerprint": "526712d702d3d3c685c56b75cc482dd9",
+  "updated_at": "2026-11-19 11:29 UTC",
+  "fingerprint": "f28879c0eec1745e7406a428ec8f9b12",
   "total": 2425,
-  "working": 1969,
-  "in_grace_period": 15,
-  "dead": 456,
-  "hd_channels": 841,
+  "working": 1973,
+  "in_grace_period": 28,
+  "dead": 452,
+  "hd_channels": 846,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,8 +29,8 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 83,
-      "hd": 42
+      "working": 84,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -70,7 +70,7 @@
     "English": {
       "total": 292,
       "working": 224,
-      "hd": 110
+      "hd": 111
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 649,
-      "hd": 234
+      "working": 651,
+      "hd": 236
     },
     "Hungarian": {
       "total": 11,
@@ -124,8 +124,8 @@
     },
     "Kannada": {
       "total": 78,
-      "working": 60,
-      "hd": 26
+      "working": 61,
+      "hd": 27
     },
     "Konkani": {
       "total": 3,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 25,
-      "hd": 15
+      "hd": 14
     },
     "Polish": {
       "total": 11,
@@ -190,17 +190,17 @@
     "Punjabi": {
       "total": 166,
       "working": 157,
-      "hd": 57
+      "hd": 58
     },
     "Romanian": {
       "total": 25,
       "working": 17,
-      "hd": 6
+      "hd": 5
     },
     "Russian": {
       "total": 52,
-      "working": 42,
-      "hd": 20
+      "working": 43,
+      "hd": 21
     },
     "Santali": {
       "total": 2,
@@ -240,7 +240,7 @@
     "Telugu": {
       "total": 195,
       "working": 167,
-      "hd": 63
+      "hd": 64
     },
     "Thai": {
       "total": 1,
@@ -299,11 +299,11 @@
     },
     "Culture": {
       "total": 19,
-      "working": 12
+      "working": 13
     },
     "Devotional": {
       "total": 259,
-      "working": 236
+      "working": 235
     },
     "Documentary": {
       "total": 8,
@@ -311,7 +311,7 @@
     },
     "Education": {
       "total": 9,
-      "working": 8
+      "working": 9
     },
     "Entertainment": {
       "total": 269,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 766,
-      "working": 697
+      "working": 700
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 566,
-      "working": 352
+      "working": 353
     },
     "Travel": {
       "total": 6,
@@ -440,11 +440,6 @@
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Ashwaveega News 24x7 (720p)",
-      "url": "https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Asianet Middle East (576p)",
@@ -817,6 +812,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Harvest USA (576p)",
+      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Hi Dost! (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
       "reason": "HTTP 403"
@@ -910,11 +910,6 @@
       "name": "Kappa TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Kashish News (720p)",
-      "url": "https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Kerala Vision (576p)",
@@ -1104,12 +1099,12 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Peace of Mind TV (576p)",
@@ -1139,11 +1134,6 @@
     {
       "name": "Public First (576p)",
       "url": "https://fta.ektv.in/live/237/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Public First (576p)",
-      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1255,11 +1245,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shiksha TV (720p)",
-      "url": "http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8",
-      "reason": "empty HLS manifest"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1907,11 +1892,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Setanta Sports 2 Eurasia (1080p)",
-      "url": "http://stream.mcquack.net/235/index.m3u8",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Lazio Style Channel HD (720p)",
       "url": "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8",
       "reason": "HTTP 404"
@@ -2259,7 +2239,7 @@
     {
       "name": "NHL AntenaPlay (576i) [Not 24/7]",
       "url": "https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Prima Sport 2 HD",
@@ -2589,7 +2569,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
