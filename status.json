@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 17:29 UTC",
-  "fingerprint": "2f72c00cf1f2755180cfc94705a72299",
+  "updated_at": "2026-11-19 18:17 UTC",
+  "fingerprint": "dca1bec7ae276c263f3b1f1016afbee0",
   "total": 2425,
-  "working": 1956,
-  "in_grace_period": 23,
-  "dead": 469,
-  "hd_channels": 832,
+  "working": 1954,
+  "in_grace_period": 22,
+  "dead": 471,
+  "hd_channels": 830,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 86,
+      "working": 85,
       "hd": 43
     },
     "Bhojpuri": {
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 292,
-      "working": 221,
-      "hd": 110
+      "working": 220,
+      "hd": 109
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 654,
+      "working": 653,
       "hd": 234
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 23,
-      "hd": 13
+      "hd": 12
     },
     "Polish": {
       "total": 11,
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 52,
-      "working": 29,
+      "working": 30,
       "hd": 13
     },
     "Santali": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 259,
-      "working": 236
+      "working": 235
     },
     "Documentary": {
       "total": 8,
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 269,
-      "working": 214
+      "working": 213
     },
     "General": {
       "total": 197,
-      "working": 171
+      "working": 170
     },
     "Kids": {
       "total": 23,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 131,
-      "working": 113
+      "working": 112
     },
     "Music": {
       "total": 147,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 766,
-      "working": 698
+      "working": 699
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 566,
-      "working": 327
+      "working": 328
     },
     "Travel": {
       "total": 6,
@@ -565,6 +565,11 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -787,6 +792,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Harvest USA (576p)",
+      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Hi Dost! (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
       "reason": "HTTP 403"
@@ -820,6 +830,11 @@
       "name": "India News Punjab/Himachal (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWSPBHPJ&K/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "India Talkies (360p)",
+      "url": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "INews (576p)",
@@ -885,6 +900,11 @@
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Kolkata TV (576p)",
@@ -955,11 +975,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1679,7 +1694,7 @@
     {
       "name": "TNT Sports Premium HD",
       "url": "https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8",
-      "reason": "not a valid HLS manifest"
+      "reason": "HTTP 404"
     },
     {
       "name": "CCTV-5+",
@@ -1854,7 +1869,7 @@
     {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Setanta Sports 1 Eurasia (1080p)",
@@ -1884,17 +1899,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis",
@@ -2049,7 +2064,7 @@
     {
       "name": "M-Net Sport",
       "url": "https://live.mnet.mk/hls/mnet-sport.m3u8",
-      "reason": "not a valid HLS manifest"
+      "reason": "HTTP 500"
     },
     {
       "name": "One Golf (720p)",
@@ -2240,11 +2255,6 @@
       "name": "Extreme Sports Channel (576p)",
       "url": "http://46.32.176.50/extremesport/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "FON TV (1080p)",
-      "url": "https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "KHL (576p)",
@@ -2654,7 +2664,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
