@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 21:47 UTC",
-  "fingerprint": "804f4357e2d513aa30befcd1bb3ca2a6",
+  "updated_at": "2026-11-19 22:34 UTC",
+  "fingerprint": "17ab9f90a6ec621579e8bf0837e72f55",
   "total": 2425,
-  "working": 1952,
-  "in_grace_period": 13,
-  "dead": 473,
-  "hd_channels": 827,
+  "working": 1947,
+  "in_grace_period": 10,
+  "dead": 478,
+  "hd_channels": 825,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 652,
-      "hd": 232
+      "working": 648,
+      "hd": 230
     },
     "Hungarian": {
       "total": 11,
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 158,
+      "working": 157,
       "hd": 58
     },
     "Romanian": {
@@ -339,11 +339,11 @@
     },
     "Music": {
       "total": 147,
-      "working": 126
+      "working": 125
     },
     "News": {
       "total": 766,
-      "working": 697
+      "working": 693
     },
     "Outdoor": {
       "total": 17,
@@ -1367,6 +1367,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Tabbar Hits (576p)",
+      "url": "https://streams.tangotv.in/TABBARHITS/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Tarang TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tarang/index.m3u8",
       "reason": "TimeoutError"
@@ -1410,6 +1415,26 @@
       "name": "TV5 Kannada (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "TV7 Bharat (1080p)",
+      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/797fcff8-10d6-4c9c-a409-8d0c4fa5c8dd/index.m3u8",
+      "reason": "HTTP 503"
+    },
+    {
+      "name": "TV7 Bharat (576p)",
+      "url": "https://stream.ottlive.co.in/tv7bharat/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "TV7 National (1080p)",
+      "url": "https://stream.ottlive.co.in/tv7national/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "TV7 National (1080p)",
+      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/05ceedc9-7ebd-4417-ba99-654f805a6b9a/index.m3u8",
+      "reason": "HTTP 503"
     },
     {
       "name": "Valam TV Dayro (576p)",
@@ -1909,17 +1934,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis",
@@ -2694,7 +2719,7 @@
     {
       "name": "Tennis Channel (1080p)",
       "url": "http://23.237.104.106:8080/USA_TENNIS/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Tennis Channel (720p)",
