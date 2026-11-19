@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 14:37 UTC",
-  "fingerprint": "54b9e4111ffccc41344734b669a4cf2d",
+  "updated_at": "2026-11-19 15:33 UTC",
+  "fingerprint": "ded09bf72aa3ed901e79afcfb1338a45",
   "total": 2425,
-  "working": 1951,
-  "in_grace_period": 20,
-  "dead": 474,
-  "hd_channels": 832,
+  "working": 1952,
+  "in_grace_period": 29,
+  "dead": 473,
+  "hd_channels": 831,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 85,
+      "working": 86,
       "hd": 43
     },
     "Bhojpuri": {
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 292,
-      "working": 221,
-      "hd": 109
+      "working": 220,
+      "hd": 110
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 650,
-      "hd": 236
+      "working": 652,
+      "hd": 235
     },
     "Hungarian": {
       "total": 11,
@@ -159,7 +159,7 @@
     },
     "Marathi": {
       "total": 53,
-      "working": 45,
+      "working": 44,
       "hd": 19
     },
     "Nepali": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 23,
-      "hd": 13
+      "hd": 12
     },
     "Polish": {
       "total": 11,
@@ -234,7 +234,7 @@
     },
     "Tamil": {
       "total": 175,
-      "working": 146,
+      "working": 145,
       "hd": 72
     },
     "Telugu": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 259,
-      "working": 235
+      "working": 236
     },
     "Documentary": {
       "total": 8,
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 269,
-      "working": 212
+      "working": 213
     },
     "General": {
       "total": 197,
-      "working": 169
+      "working": 170
     },
     "Kids": {
       "total": 23,
@@ -327,7 +327,7 @@
     },
     "Legislative": {
       "total": 8,
-      "working": 7
+      "working": 6
     },
     "Lifestyle": {
       "total": 27,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 131,
-      "working": 111
+      "working": 112
     },
     "Music": {
       "total": 147,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 766,
-      "working": 700
+      "working": 698
     },
     "Outdoor": {
       "total": 17,
@@ -410,11 +410,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -572,11 +567,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
       "reason": "HTTP 404"
@@ -720,6 +710,11 @@
       "name": "Eurosport HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Fakt Marathi (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "FashionTV (576p)",
@@ -902,11 +897,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -920,16 +910,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -992,9 +972,19 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News 7 Tamil (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlNEWS7TAMIL/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News18 Kannada (1080p)",
@@ -1185,6 +1175,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sansad TV 1 HD (1080p)",
+      "url": "https://fta.ektv.in/live/718/master.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -1879,7 +1874,7 @@
     {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Setanta Sports 1 Eurasia (1080p)",
@@ -2699,7 +2694,7 @@
     {
       "name": "Tennis Channel (1080p)",
       "url": "http://23.237.104.106:8080/USA_TENNIS/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Tennis Channel (720p)",
