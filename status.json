@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 15:33 UTC",
-  "fingerprint": "ded09bf72aa3ed901e79afcfb1338a45",
+  "updated_at": "2026-11-19 16:33 UTC",
+  "fingerprint": "db2e5d0b23d43d182f4931a03c14cfff",
   "total": 2425,
-  "working": 1952,
-  "in_grace_period": 29,
-  "dead": 473,
-  "hd_channels": 831,
+  "working": 1953,
+  "in_grace_period": 17,
+  "dead": 472,
+  "hd_channels": 829,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 292,
       "working": 220,
-      "hd": 110
+      "hd": 109
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 652,
-      "hd": 235
+      "working": 651,
+      "hd": 234
     },
     "Hungarian": {
       "total": 11,
@@ -159,7 +159,7 @@
     },
     "Marathi": {
       "total": 53,
-      "working": 44,
+      "working": 45,
       "hd": 19
     },
     "Nepali": {
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 52,
-      "working": 30,
+      "working": 29,
       "hd": 13
     },
     "Santali": {
@@ -224,7 +224,7 @@
     },
     "Spanish": {
       "total": 113,
-      "working": 60,
+      "working": 61,
       "hd": 41
     },
     "Swedish": {
@@ -234,7 +234,7 @@
     },
     "Tamil": {
       "total": 175,
-      "working": 145,
+      "working": 146,
       "hd": 72
     },
     "Telugu": {
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 766,
-      "working": 698
+      "working": 699
     },
     "Outdoor": {
       "total": 17,
@@ -567,6 +567,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
       "reason": "HTTP 404"
@@ -710,11 +715,6 @@
       "name": "Eurosport HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Fakt Marathi (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "FashionTV (576p)",
@@ -980,11 +980,6 @@
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 7 Tamil (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlNEWS7TAMIL/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News18 Kannada (1080p)",
@@ -1904,17 +1899,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis",
@@ -2117,11 +2112,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Monterrico TV",
-      "url": "https://h.jcp.live.opencaster.com/play_src/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Movistar Deportes (1080p)",
       "url": "http://195.178.110.110/movistar/index.m3u8",
       "reason": "HTTP 403"
@@ -2265,6 +2255,11 @@
       "name": "Extreme Sports Channel (576p)",
       "url": "http://46.32.176.50/extremesport/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "FON TV (1080p)",
+      "url": "https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "KHL (576p)",
@@ -2694,7 +2689,7 @@
     {
       "name": "Tennis Channel (1080p)",
       "url": "http://23.237.104.106:8080/USA_TENNIS/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Tennis Channel (720p)",
