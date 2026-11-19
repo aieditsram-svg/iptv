@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-18 23:56 UTC",
-  "fingerprint": "bd54c6ebbbfe6db4ea1c2169ced0c17c",
+  "updated_at": "2026-11-19 00:45 UTC",
+  "fingerprint": "eff3ef6d2006cab962b49ef1db7a1930",
   "total": 2381,
-  "working": 1903,
-  "in_grace_period": 12,
-  "dead": 478,
+  "working": 1901,
+  "in_grace_period": 11,
+  "dead": 480,
   "hd_channels": 820,
   "languages": {
     "Albanian": {
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 624,
+      "working": 623,
       "hd": 226
     },
     "Hungarian": {
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 142,
+      "working": 141,
       "hd": 57
     },
     "Thai": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 249,
-      "working": 226
+      "working": 225
     },
     "Documentary": {
       "total": 8,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 128,
-      "working": 109
+      "working": 108
     },
     "Music": {
       "total": 141,
@@ -524,7 +524,7 @@
     {
       "name": "Colors Bangla Cinema (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Colors Bangla HD (1080p)",
@@ -539,7 +539,7 @@
     {
       "name": "Colors Bangla HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Colors HD (1080p)",
@@ -549,7 +549,7 @@
     {
       "name": "Colors HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "CTVN AKD Plus (576p)",
@@ -672,6 +672,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Dheeran TV (576p)",
+      "url": "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Dhool TV (576p)",
       "url": "https://fta.ektv.in/live/631/master.m3u8",
       "reason": "HTTP 404"
@@ -694,7 +699,7 @@
     {
       "name": "Enterr 10 Bangla (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Epic Music (576p)",
@@ -720,6 +725,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -774,7 +784,7 @@
     {
       "name": "Eurosport HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "FashionTV (576p)",
@@ -899,7 +909,7 @@
     {
       "name": "Jalsha Movies (720p)",
       "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Jan TV (576p)",
@@ -1369,7 +1379,7 @@
     {
       "name": "Sony Aath (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sony Pal (576p)",
@@ -1384,7 +1394,7 @@
     {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Spondon (1080p)",
@@ -1409,7 +1419,7 @@
     {
       "name": "Star Jalsha HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Starnet (480p)",
@@ -1434,7 +1444,7 @@
     {
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Steelbird Music (720p) [Not 24/7]",
@@ -1994,7 +2004,7 @@
     {
       "name": "Lazio Style Channel HD (720p)",
       "url": "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Radio TV Serie A",
