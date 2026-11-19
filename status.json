@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 04:37 UTC",
-  "fingerprint": "dba37078f4eb54f10db4901cee1dc1a6",
+  "updated_at": "2026-11-19 05:36 UTC",
+  "fingerprint": "f269d0874d51dd2b98db234d02eb7fe1",
   "total": 2426,
-  "working": 1945,
-  "in_grace_period": 17,
-  "dead": 481,
-  "hd_channels": 842,
+  "working": 1948,
+  "in_grace_period": 14,
+  "dead": 478,
+  "hd_channels": 844,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -30,7 +30,7 @@
     "Bengali": {
       "total": 125,
       "working": 84,
-      "hd": 42
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -70,7 +70,7 @@
     "English": {
       "total": 292,
       "working": 222,
-      "hd": 114
+      "hd": 115
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 628,
+      "working": 630,
       "hd": 233
     },
     "Hungarian": {
@@ -154,7 +154,7 @@
     },
     "Malayalam": {
       "total": 118,
-      "working": 94,
+      "working": 95,
       "hd": 34
     },
     "Marathi": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 259,
-      "working": 234
+      "working": 235
     },
     "Documentary": {
       "total": 8,
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 197,
-      "working": 161
+      "working": 162
     },
     "Kids": {
       "total": 23,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 131,
-      "working": 108
+      "working": 109
     },
     "Music": {
       "total": 147,
@@ -832,11 +832,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -1010,11 +1005,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -1595,11 +1585,6 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Vision (576p)",
-      "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Vistaar News (576p)",
@@ -2214,7 +2199,7 @@
     {
       "name": "M-Net Sport",
       "url": "https://live.mnet.mk/hls/mnet-sport.m3u8",
-      "reason": "HTTP 500"
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "One Golf (720p)",
