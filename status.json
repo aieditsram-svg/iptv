@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 22:34 UTC",
-  "fingerprint": "17ab9f90a6ec621579e8bf0837e72f55",
+  "updated_at": "2026-11-19 23:18 UTC",
+  "fingerprint": "744c3e1f1d3ed999b9b5e89c60b2339e",
   "total": 2425,
-  "working": 1947,
-  "in_grace_period": 10,
-  "dead": 478,
-  "hd_channels": 825,
+  "working": 1946,
+  "in_grace_period": 13,
+  "dead": 479,
+  "hd_channels": 826,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 292,
       "working": 219,
-      "hd": 108
+      "hd": 109
     },
     "Estonian": {
       "total": 1,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 195,
-      "working": 167,
+      "working": 166,
       "hd": 64
     },
     "Thai": {
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 131,
-      "working": 110
+      "working": 109
     },
     "Music": {
       "total": 147,
@@ -670,6 +670,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -1904,7 +1909,7 @@
     {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Setanta Sports 1 Eurasia (1080p)",
