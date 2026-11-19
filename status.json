@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-19 21:02 UTC",
-  "fingerprint": "9fbc2a8421a9ab537ac5017d05c4f311",
+  "updated_at": "2026-11-19 21:47 UTC",
+  "fingerprint": "804f4357e2d513aa30befcd1bb3ca2a6",
   "total": 2425,
-  "working": 1951,
-  "in_grace_period": 14,
-  "dead": 474,
+  "working": 1952,
+  "in_grace_period": 13,
+  "dead": 473,
   "hd_channels": 827,
   "languages": {
     "Albanian": {
@@ -30,7 +30,7 @@
     "Bengali": {
       "total": 125,
       "working": 87,
-      "hd": 43
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -70,7 +70,7 @@
     "English": {
       "total": 292,
       "working": 219,
-      "hd": 109
+      "hd": 108
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 651,
+      "working": 652,
       "hd": 232
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 23,
-      "hd": 12
+      "hd": 13
     },
     "Polish": {
       "total": 11,
@@ -240,7 +240,7 @@
     "Telugu": {
       "total": 195,
       "working": 167,
-      "hd": 63
+      "hd": 64
     },
     "Thai": {
       "total": 1,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 259,
-      "working": 234
+      "working": 235
     },
     "Documentary": {
       "total": 8,
@@ -920,11 +920,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1684,7 +1679,7 @@
     {
       "name": "Fight Network (1080p)",
       "url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8",
-      "reason": "HTTP 504"
+      "reason": "TimeoutError"
     },
     {
       "name": "Olympic Channel [Geo-blocked]",
@@ -2699,7 +2694,7 @@
     {
       "name": "Tennis Channel (1080p)",
       "url": "http://23.237.104.106:8080/USA_TENNIS/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Tennis Channel (720p)",
