@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 07:52 UTC",
-  "fingerprint": "4e762dcee601d50e6c10632f17bcf15a",
+  "updated_at": "2026-11-19 08:47 UTC",
+  "fingerprint": "521bd9aca26f1fc2fb47b6384f81ddca",
   "total": 2426,
-  "working": 1973,
-  "in_grace_period": 76,
-  "dead": 453,
-  "hd_channels": 848,
+  "working": 1974,
+  "in_grace_period": 23,
+  "dead": 452,
+  "hd_channels": 846,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 649,
+      "working": 650,
       "hd": 235
     },
     "Hungarian": {
@@ -160,7 +160,7 @@
     "Marathi": {
       "total": 53,
       "working": 44,
-      "hd": 20
+      "hd": 19
     },
     "Nepali": {
       "total": 6,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 25,
-      "hd": 14
+      "hd": 13
     },
     "Polish": {
       "total": 11,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 259,
-      "working": 236
+      "working": 235
     },
     "Documentary": {
       "total": 8,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 131,
-      "working": 111
+      "working": 113
     },
     "Music": {
       "total": 147,
@@ -410,11 +410,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -589,27 +584,27 @@
     {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Manipur (576p)",
       "url": "https://fta.ektv.in/live/671/master.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Nagaland (576p)",
       "url": "https://fta.ektv.in/live/670/master.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Punjabi (576p)",
       "url": "https://fta.ektv.in/live/177/master.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Tripura (576p)",
       "url": "https://fta.ektv.in/live/661/master.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Urdu (576p)",
@@ -634,7 +629,7 @@
     {
       "name": "Dhool TV (576p)",
       "url": "https://fta.ektv.in/live/631/master.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Discovery Channel HD (1080p)",
@@ -734,12 +729,12 @@
     {
       "name": "FashionTV (576p)",
       "url": "https://fta.ektv.in/live/144/144_0.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "FashionTV (576p)",
       "url": "https://fta.ektv.in/live/332/master.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Fast1 (576p)",
@@ -780,11 +775,6 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -884,7 +874,7 @@
     {
       "name": "Jonack (576p)",
       "url": "https://fta.ektv.in/live/676/master.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Joy TV (576p)",
@@ -930,6 +920,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -979,7 +974,7 @@
     {
       "name": "Naxatra News (576p)",
       "url": "https://fta.ektv.in/live/668/master.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "NDTV India (576p)",
@@ -1329,7 +1324,7 @@
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha HD (1080p)",
@@ -1624,12 +1619,12 @@
     {
       "name": "Belarus-5 HD (1080p)",
       "url": "http://178.124.179.122:8080/BT5/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 400"
     },
     {
       "name": "Sport TV (1080p)",
       "url": "http://178.124.179.122:8080/SportTV/mpegts",
-      "reason": "URLError"
+      "reason": "HTTP 400"
     },
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
@@ -2289,7 +2284,7 @@
     {
       "name": "Okko Futbol (576p)",
       "url": "http://178.124.179.122:8080/Setanta1/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 400"
     },
     {
       "name": "Okko Prajm Sport (1080p)",
@@ -2579,7 +2574,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
