@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 03:37 UTC",
-  "fingerprint": "a27037989d354ab8b4d7e19795c21b71",
+  "updated_at": "2026-11-19 04:37 UTC",
+  "fingerprint": "dba37078f4eb54f10db4901cee1dc1a6",
   "total": 2426,
-  "working": 1940,
-  "in_grace_period": 16,
-  "dead": 486,
-  "hd_channels": 837,
+  "working": 1945,
+  "in_grace_period": 17,
+  "dead": 481,
+  "hd_channels": 842,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,8 +29,8 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 83,
-      "hd": 41
+      "working": 84,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 292,
-      "working": 221,
-      "hd": 113
+      "working": 222,
+      "hd": 114
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 630,
+      "working": 628,
       "hd": 233
     },
     "Hungarian": {
@@ -154,7 +154,7 @@
     },
     "Malayalam": {
       "total": 118,
-      "working": 95,
+      "working": 94,
       "hd": 34
     },
     "Marathi": {
@@ -174,8 +174,8 @@
     },
     "Other": {
       "total": 40,
-      "working": 22,
-      "hd": 12
+      "working": 24,
+      "hd": 14
     },
     "Polish": {
       "total": 11,
@@ -194,8 +194,8 @@
     },
     "Romanian": {
       "total": 25,
-      "working": 13,
-      "hd": 5
+      "working": 16,
+      "hd": 6
     },
     "Russian": {
       "total": 52,
@@ -224,7 +224,7 @@
     },
     "Spanish": {
       "total": 113,
-      "working": 59,
+      "working": 60,
       "hd": 41
     },
     "Swedish": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 259,
-      "working": 235
+      "working": 234
     },
     "Documentary": {
       "total": 8,
@@ -319,11 +319,11 @@
     },
     "General": {
       "total": 197,
-      "working": 162
+      "working": 161
     },
     "Kids": {
       "total": 23,
-      "working": 11
+      "working": 12
     },
     "Legislative": {
       "total": 8,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 131,
-      "working": 109
+      "working": 108
     },
     "Music": {
       "total": 147,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 567,
-      "working": 345
+      "working": 352
     },
     "Travel": {
       "total": 6,
@@ -520,6 +520,11 @@
       "name": "Cartoon Network HD+ (1080p)",
       "url": "http://103.135.253.32:8080/CN-NETWORK/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "CCV (480p)",
+      "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Chintpurni Live (360p)",
@@ -852,6 +857,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -1000,6 +1010,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -1617,11 +1632,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ZB Cartoon (1080p)",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Zee 24 Ghanta (576p)",
       "url": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8",
       "reason": "TimeoutError"
@@ -1852,11 +1862,6 @@
       "reason": "URLError"
     },
     {
-      "name": "TNT Sports (480p)",
-      "url": "http://209.45.101.130:8040/play/a03s/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "TNT Sports Premium HD",
       "url": "https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8",
       "reason": "HTTP 404"
@@ -2054,17 +2059,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "QazSport (1080p)",
@@ -2120,11 +2125,6 @@
       "name": "TV Cuatro 4.3 (1080p)",
       "url": "https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "MRTV Sports [Not 24/7]",
-      "url": "https://mrtvott.com/cache/MRTV-SPORT/master.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "ESPN (360p)",
@@ -2359,7 +2359,7 @@
     {
       "name": "AntenaSport",
       "url": "https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Digi Sport 1 HD",
@@ -2382,29 +2382,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Formula 1 AntenaPlay (576i) [Not 24/7]",
-      "url": "https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Formula 2 AntenaPlay (576i) [Not 24/7]",
-      "url": "https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Formula Academy AntenaPlay (576p) [Not 24/7]",
-      "url": "https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-20-2211/chunklist.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "NBA AntenaPlay (576p)",
-      "url": "https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "NHL AntenaPlay (576i) [Not 24/7]",
       "url": "https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Prima Sport 2 HD",
@@ -2495,11 +2475,6 @@
       "name": "Talent TV (720p)",
       "url": "http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8",
       "reason": "empty HLS manifest"
-    },
-    {
-      "name": "Futbol (1080p)",
-      "url": "http://185.121.1.163:8083/FootballHD/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Futbol (1080p)",
