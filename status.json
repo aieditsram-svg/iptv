@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 23:18 UTC",
-  "fingerprint": "744c3e1f1d3ed999b9b5e89c60b2339e",
+  "updated_at": "2026-11-19 23:58 UTC",
+  "fingerprint": "874143f39b82bbf17c4e7552463315cb",
   "total": 2425,
-  "working": 1946,
+  "working": 1944,
   "in_grace_period": 13,
-  "dead": 479,
-  "hd_channels": 826,
+  "dead": 481,
+  "hd_channels": 825,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,8 +29,8 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 87,
-      "hd": 42
+      "working": 85,
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 33,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 23,
-      "hd": 13
+      "hd": 14
     },
     "Polish": {
       "total": 11,
@@ -299,7 +299,7 @@
     },
     "Culture": {
       "total": 19,
-      "working": 12
+      "working": 11
     },
     "Devotional": {
       "total": 259,
@@ -311,11 +311,11 @@
     },
     "Education": {
       "total": 9,
-      "working": 9
+      "working": 8
     },
     "Entertainment": {
       "total": 269,
-      "working": 215
+      "working": 214
     },
     "General": {
       "total": 197,
@@ -410,6 +410,11 @@
       "name": "Aakaash Aath (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Aamar Bangla (720p)",
+      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AKD Calcutta News (576p)",
@@ -1227,6 +1232,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Shiksha TV (720p)",
+      "url": "http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8",
+      "reason": "empty HLS manifest"
+    },
+    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -1939,17 +1949,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "SuperTennis",
