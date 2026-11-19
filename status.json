@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-19 12:25 UTC",
-  "fingerprint": "0e9d8790274ff2c5d655d4b0746d8a8f",
+  "updated_at": "2026-11-19 13:44 UTC",
+  "fingerprint": "e9a64dc9c9f44a8a24c86aa054137119",
   "total": 2425,
-  "working": 1970,
-  "in_grace_period": 39,
-  "dead": 455,
+  "working": 1968,
+  "in_grace_period": 36,
+  "dead": 457,
   "hd_channels": 844,
   "languages": {
     "Albanian": {
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 85,
+      "working": 84,
       "hd": 43
     },
     "Bhojpuri": {
@@ -69,7 +69,7 @@
     },
     "English": {
       "total": 292,
-      "working": 224,
+      "working": 223,
       "hd": 112
     },
     "Estonian": {
@@ -119,8 +119,8 @@
     },
     "Italian": {
       "total": 22,
-      "working": 14,
-      "hd": 8
+      "working": 15,
+      "hd": 9
     },
     "Kannada": {
       "total": 78,
@@ -129,8 +129,8 @@
     },
     "Konkani": {
       "total": 3,
-      "working": 2,
-      "hd": 1
+      "working": 1,
+      "hd": 0
     },
     "Korean": {
       "total": 1,
@@ -154,13 +154,13 @@
     },
     "Malayalam": {
       "total": 118,
-      "working": 95,
-      "hd": 34
+      "working": 96,
+      "hd": 35
     },
     "Marathi": {
       "total": 53,
       "working": 44,
-      "hd": 20
+      "hd": 19
     },
     "Nepali": {
       "total": 6,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 25,
-      "hd": 14
+      "hd": 13
     },
     "Polish": {
       "total": 11,
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 52,
-      "working": 43,
+      "working": 42,
       "hd": 17
     },
     "Santali": {
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 195,
-      "working": 166,
+      "working": 167,
       "hd": 64
     },
     "Thai": {
@@ -254,7 +254,7 @@
     },
     "Ukrainian": {
       "total": 15,
-      "working": 10,
+      "working": 9,
       "hd": 8
     },
     "Urdu": {
@@ -264,7 +264,7 @@
     },
     "Vietnamese": {
       "total": 6,
-      "working": 6,
+      "working": 5,
       "hd": 4
     }
   },
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 269,
-      "working": 211
+      "working": 209
     },
     "General": {
       "total": 197,
-      "working": 168
+      "working": 169
     },
     "Kids": {
       "total": 23,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 131,
-      "working": 109
+      "working": 111
     },
     "Music": {
       "total": 147,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 766,
-      "working": 700
+      "working": 699
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 566,
-      "working": 352
+      "working": 350
     },
     "Travel": {
       "total": 6,
@@ -457,11 +457,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Movies (576p)",
       "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
       "reason": "URLError"
@@ -527,11 +522,6 @@
       "reason": "URLError"
     },
     {
-      "name": "CCV (480p)",
-      "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Chintpurni Live (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8",
       "reason": "HTTP 403"
@@ -585,11 +575,6 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Dangal TV (576p)",
@@ -690,11 +675,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -1147,6 +1127,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Prudent Media (1080p)",
+      "url": "https://prudentmcdn.rixcast.com/prudentm.m3u8",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Public First (576p)",
       "url": "https://fta.ektv.in/live/237/master.m3u8",
       "reason": "HTTP 404"
@@ -1257,6 +1242,16 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -1330,6 +1325,11 @@
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
@@ -1902,11 +1902,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Lazio Style Channel HD (720p)",
-      "url": "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Radio TV Serie A",
       "url": "https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index.m3u8",
       "reason": "HTTP 403"
@@ -2272,6 +2267,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Boks TV (576p)",
+      "url": "http://stream.mcquack.net/154/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "Extreme Sports Channel (576p)",
       "url": "http://46.32.176.50/extremesport/index.m3u8",
       "reason": "URLError"
@@ -2374,6 +2374,11 @@
     {
       "name": "Setanta Sports+ Ukraine (1080p)",
       "url": "http://stream.mcquack.net/390/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "Sport 1 (576p)",
+      "url": "http://stream.mcquack.net/391/index.m3u8",
       "reason": "HTTP 403"
     },
     {
@@ -2645,6 +2650,11 @@
       "name": "SportsMax News (1080p)",
       "url": "http://181.79.86.130:8000/play/a081/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "HTV Sports (1080p)",
+      "url": "https://dethich.pw/htvthethao/index.m3u8",
+      "reason": "HTTP 404"
     }
   ]
 }
