@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 11:29 UTC",
-  "fingerprint": "f28879c0eec1745e7406a428ec8f9b12",
+  "updated_at": "2026-11-19 12:25 UTC",
+  "fingerprint": "0e9d8790274ff2c5d655d4b0746d8a8f",
   "total": 2425,
-  "working": 1973,
-  "in_grace_period": 28,
-  "dead": 452,
-  "hd_channels": 846,
+  "working": 1970,
+  "in_grace_period": 39,
+  "dead": 455,
+  "hd_channels": 844,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 84,
+      "working": 85,
       "hd": 43
     },
     "Bhojpuri": {
@@ -70,7 +70,7 @@
     "English": {
       "total": 292,
       "working": 224,
-      "hd": 111
+      "hd": 112
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 651,
+      "working": 647,
       "hd": 236
     },
     "Hungarian": {
@@ -195,12 +195,12 @@
     "Romanian": {
       "total": 25,
       "working": 17,
-      "hd": 5
+      "hd": 6
     },
     "Russian": {
       "total": 52,
       "working": 43,
-      "hd": 21
+      "hd": 17
     },
     "Santali": {
       "total": 2,
@@ -234,12 +234,12 @@
     },
     "Tamil": {
       "total": 175,
-      "working": 143,
-      "hd": 71
+      "working": 145,
+      "hd": 72
     },
     "Telugu": {
       "total": 195,
-      "working": 167,
+      "working": 166,
       "hd": 64
     },
     "Thai": {
@@ -254,8 +254,8 @@
     },
     "Ukrainian": {
       "total": 15,
-      "working": 11,
-      "hd": 9
+      "working": 10,
+      "hd": 8
     },
     "Urdu": {
       "total": 28,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 259,
-      "working": 235
+      "working": 234
     },
     "Documentary": {
       "total": 8,
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 269,
-      "working": 209
+      "working": 211
     },
     "General": {
       "total": 197,
-      "working": 169
+      "working": 168
     },
     "Kids": {
       "total": 23,
@@ -335,11 +335,11 @@
     },
     "Movies": {
       "total": 131,
-      "working": 112
+      "working": 109
     },
     "Music": {
       "total": 147,
-      "working": 125
+      "working": 126
     },
     "News": {
       "total": 766,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 566,
-      "working": 353
+      "working": 352
     },
     "Travel": {
       "total": 6,
@@ -417,6 +417,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "TimeoutError"
@@ -450,6 +455,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -680,6 +690,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -937,6 +952,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
@@ -995,6 +1015,11 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1097,16 +1122,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Oli TV (1080p)",
-      "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Oli TV (1080p)",
-      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
@@ -1205,11 +1220,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -2239,7 +2249,7 @@
     {
       "name": "NHL AntenaPlay (576i) [Not 24/7]",
       "url": "https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Prima Sport 2 HD",
@@ -2350,6 +2360,11 @@
       "name": "TRT Spor (720p)",
       "url": "https://corestream.siteyaptim.live/trt-spor/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Dynamo Kyiv TV (1080p)",
+      "url": "http://stream.mcquack.net/396/index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "MEGOGO Sport (1080p)",
@@ -2589,7 +2604,7 @@
     {
       "name": "Tennis Channel (1080p)",
       "url": "http://23.237.104.106:8080/USA_TENNIS/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Tennis Channel (720p)",
