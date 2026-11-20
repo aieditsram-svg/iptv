@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 13:38 UTC",
-  "fingerprint": "248cea513cfa3bd62caa3d09b84a4649",
+  "updated_at": "2026-11-20 14:33 UTC",
+  "fingerprint": "4603cd2f905ef89a32185ac07aaa3c2e",
   "total": 2449,
   "working": 1968,
-  "in_grace_period": 39,
+  "in_grace_period": 26,
   "dead": 481,
-  "hd_channels": 841,
+  "hd_channels": 840,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,8 +29,8 @@
     },
     "Bengali": {
       "total": 130,
-      "working": 90,
-      "hd": 46
+      "working": 88,
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 33,
@@ -70,7 +70,7 @@
     "English": {
       "total": 311,
       "working": 239,
-      "hd": 120
+      "hd": 121
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 663,
+      "working": 665,
       "hd": 245
     },
     "Hungarian": {
@@ -283,7 +283,7 @@
     },
     "Classic": {
       "total": 3,
-      "working": 2
+      "working": 1
     },
     "Comedy": {
       "total": 9,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 276,
-      "working": 217
+      "working": 219
     },
     "General": {
       "total": 197,
@@ -335,11 +335,11 @@
     },
     "Movies": {
       "total": 141,
-      "working": 119
+      "working": 118
     },
     "Music": {
       "total": 143,
-      "working": 124
+      "working": 123
     },
     "News": {
       "total": 765,
@@ -394,7 +394,7 @@
     {
       "name": "22Scope News (1080p)",
       "url": "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Aagaaz Times (1080p)",
@@ -585,11 +585,6 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -1204,7 +1199,7 @@
     {
       "name": "Samay Kolkata (1080p)",
       "url": "https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Samay Kolkata (720p)",
@@ -1325,11 +1320,6 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "SRK TV (1080p)",
-      "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Star Bharat HD (1080p)",
@@ -1510,6 +1500,16 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ZB Cinema (1080p)",
+      "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "ZB Music (720p)",
+      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
