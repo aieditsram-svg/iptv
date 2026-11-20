@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 22:56 UTC",
-  "fingerprint": "71ec1ca7ac6217833ef12d27656be96f",
+  "updated_at": "2026-11-20 23:35 UTC",
+  "fingerprint": "951942d382a1962d3bae52bb3e987265",
   "total": 2449,
-  "working": 1974,
-  "in_grace_period": 13,
-  "dead": 475,
-  "hd_channels": 838,
+  "working": 1970,
+  "in_grace_period": 8,
+  "dead": 479,
+  "hd_channels": 839,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,8 +29,8 @@
     },
     "Bengali": {
       "total": 130,
-      "working": 89,
-      "hd": 43
+      "working": 88,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -70,7 +70,7 @@
     "English": {
       "total": 311,
       "working": 240,
-      "hd": 121
+      "hd": 122
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 670,
-      "hd": 245
+      "working": 669,
+      "hd": 244
     },
     "Hungarian": {
       "total": 11,
@@ -154,7 +154,7 @@
     },
     "Malayalam": {
       "total": 123,
-      "working": 100,
+      "working": 99,
       "hd": 39
     },
     "Marathi": {
@@ -169,13 +169,13 @@
     },
     "Odia": {
       "total": 36,
-      "working": 28,
+      "working": 26,
       "hd": 12
     },
     "Other": {
       "total": 40,
       "working": 23,
-      "hd": 12
+      "hd": 14
     },
     "Polish": {
       "total": 11,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 203,
-      "working": 173,
+      "working": 174,
       "hd": 69
     },
     "Thai": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 259,
-      "working": 235
+      "working": 234
     },
     "Documentary": {
       "total": 13,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 276,
-      "working": 220
+      "working": 219
     },
     "General": {
       "total": 197,
@@ -339,11 +339,11 @@
     },
     "Music": {
       "total": 143,
-      "working": 122
+      "working": 121
     },
     "News": {
       "total": 765,
-      "working": 693
+      "working": 692
     },
     "Outdoor": {
       "total": 17,
@@ -637,6 +637,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Ekamra Bharat Odia (400p)",
+      "url": "https://live.ekamraott.com/bharat/bharat/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Enterr 10 Bangla (576p)",
       "url": "http://103.165.93.31:8095/enter10Bangla/index.m3u8",
       "reason": "URLError"
@@ -695,11 +700,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -897,6 +897,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Kalika TV (576p)",
+      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kanak News (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8",
       "reason": "TimeoutError"
@@ -1085,6 +1090,11 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "One Paschima (400p)",
+      "url": "https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Peace of Mind TV (576p)",
@@ -1302,6 +1312,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Star Jalsha HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
       "reason": "URLError"
@@ -1355,6 +1370,11 @@
       "name": "SVBC 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSVBC2TAMIL/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "SVBC 4 (1080p)",
+      "url": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Swadesh News (576p)",
@@ -2689,7 +2709,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
