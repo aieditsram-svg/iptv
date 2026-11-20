@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-20 19:58 UTC",
-  "fingerprint": "608c29853dd83fbee4ffafb43c23f4a9",
+  "updated_at": "2026-11-20 20:41 UTC",
+  "fingerprint": "9d18cc3a95d8250c0b2ecf7dc42bfe02",
   "total": 2449,
-  "working": 1975,
-  "in_grace_period": 9,
-  "dead": 474,
+  "working": 1973,
+  "in_grace_period": 11,
+  "dead": 476,
   "hd_channels": 842,
   "languages": {
     "Albanian": {
@@ -29,8 +29,8 @@
     },
     "Bengali": {
       "total": 130,
-      "working": 91,
-      "hd": 44
+      "working": 90,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 23,
-      "hd": 13
+      "hd": 14
     },
     "Polish": {
       "total": 11,
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 167,
-      "working": 159,
+      "working": 158,
       "hd": 58
     },
     "Romanian": {
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 276,
-      "working": 220
+      "working": 222
     },
     "General": {
       "total": 197,
-      "working": 171
+      "working": 170
     },
     "Kids": {
       "total": 29,
@@ -335,15 +335,15 @@
     },
     "Movies": {
       "total": 141,
-      "working": 124
+      "working": 121
     },
     "Music": {
       "total": 143,
-      "working": 122
+      "working": 121
     },
     "News": {
       "total": 765,
-      "working": 692
+      "working": 693
     },
     "Outdoor": {
       "total": 17,
@@ -392,6 +392,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "9XM (1080p)",
       "url": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
       "reason": "HTTP 403"
@@ -415,6 +420,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -757,6 +767,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -845,6 +860,11 @@
       "name": "Jaihind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Jalsha Movies (1080p)",
+      "url": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Jalsha Movies (720p)",
@@ -977,8 +997,8 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1215,16 +1235,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1894,7 +1904,7 @@
     {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Setanta Sports 1 Eurasia (1080p)",
@@ -2479,7 +2489,7 @@
     {
       "name": "UPL.TV",
       "url": "http://dtv.vol.net.ua/UPL-TV/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sharjah Sports (1080p) [Geo-blocked]",
@@ -2529,17 +2539,17 @@
     {
       "name": "Sky Sports F1 (720p)",
       "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "name": "Sky Sports News (576p)",
       "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "name": "Sky Sports NFL (720p)",
       "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "name": "TNT Sports 1",
