@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-20 21:28 UTC",
-  "fingerprint": "b07da8d2aaea4aabe44518a756262d36",
+  "updated_at": "2026-11-20 22:14 UTC",
+  "fingerprint": "4d83ba30a3629d28987c45f7b8d88df0",
   "total": 2449,
   "working": 1975,
-  "in_grace_period": 6,
+  "in_grace_period": 24,
   "dead": 474,
   "hd_channels": 842,
   "languages": {
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 52,
-      "working": 29,
+      "working": 30,
       "hd": 13
     },
     "Santali": {
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 203,
-      "working": 175,
+      "working": 174,
       "hd": 69
     },
     "Thai": {
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 276,
-      "working": 222
+      "working": 221
     },
     "General": {
       "total": 197,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 565,
-      "working": 327
+      "working": 328
     },
     "Travel": {
       "total": 6,
@@ -695,6 +695,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -1617,11 +1622,6 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Беларусь 5 Интернет (1080p) [Not 24/7]",
-      "url": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
-      "reason": "RemoteDisconnected"
-    },
-    {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
       "reason": "not a valid HLS manifest"
@@ -1919,17 +1919,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis",
@@ -2589,7 +2589,7 @@
     {
       "name": "ESPN 2 Latin America Argentina",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "ESPN 3 Latin America (1080p)",
@@ -2614,7 +2614,7 @@
     {
       "name": "ESPN 5 Latin America (720p)",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn5-mux/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "ESPN 6 Latin America (1080p)",
@@ -2624,7 +2624,7 @@
     {
       "name": "ESPN 6 Latin America (720p)",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "ESPN 7 Latin America (1080p)",
@@ -2684,7 +2684,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
