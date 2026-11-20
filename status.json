@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 08:44 UTC",
-  "fingerprint": "51a3ee8294758712175b66edc94f7203",
+  "updated_at": "2026-11-20 09:39 UTC",
+  "fingerprint": "57840ad327ac9904954cc216988e13b4",
   "total": 2449,
-  "working": 1973,
-  "in_grace_period": 18,
-  "dead": 476,
-  "hd_channels": 844,
+  "working": 1971,
+  "in_grace_period": 15,
+  "dead": 478,
+  "hd_channels": 842,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 130,
-      "working": 90,
+      "working": 89,
       "hd": 46
     },
     "Bhojpuri": {
@@ -84,7 +84,7 @@
     },
     "German": {
       "total": 18,
-      "working": 10,
+      "working": 9,
       "hd": 4
     },
     "Greek": {
@@ -105,7 +105,7 @@
     "Hindi": {
       "total": 774,
       "working": 665,
-      "hd": 246
+      "hd": 245
     },
     "Hungarian": {
       "total": 11,
@@ -154,7 +154,7 @@
     },
     "Malayalam": {
       "total": 123,
-      "working": 103,
+      "working": 102,
       "hd": 40
     },
     "Marathi": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 23,
-      "hd": 13
+      "hd": 12
     },
     "Polish": {
       "total": 11,
@@ -194,7 +194,7 @@
     },
     "Romanian": {
       "total": 25,
-      "working": 16,
+      "working": 17,
       "hd": 6
     },
     "Russian": {
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 276,
-      "working": 216
+      "working": 215
     },
     "General": {
       "total": 197,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 141,
-      "working": 121
+      "working": 122
     },
     "Music": {
       "total": 143,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 765,
-      "working": 696
+      "working": 694
     },
     "Outdoor": {
       "total": 17,
@@ -447,11 +447,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Movies (576p)",
       "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
       "reason": "URLError"
@@ -495,6 +490,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (720p)",
@@ -947,6 +947,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Mathrubhumi News (240p)",
+      "url": "https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Mazhavil Manorama (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMAZHAVILMANORAMAINT/index.m3u8",
       "reason": "HTTP 403"
@@ -1270,6 +1275,11 @@
       "name": "Sonic (576p)",
       "url": "http://103.185.24.134:3001/SONIC/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sony Aath (1080p)",
+      "url": "http://27.124.71.27/Sony_Aath/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "Sony Aath (576p)",
@@ -1602,6 +1612,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "ORF Sport+",
+      "url": "https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "CBC Sport HD [Geo-blocked]",
       "url": "https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8",
       "reason": "HTTP 403"
@@ -1899,7 +1914,7 @@
     {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Setanta Sports 1 Eurasia (1080p)",
@@ -1924,17 +1939,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis",
@@ -2225,11 +2240,6 @@
       "name": "beIN Sports 1",
       "url": "https://vg162.adcdsd123321.shop/7.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "AntenaSport",
-      "url": "https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Digi Sport 1 HD",
