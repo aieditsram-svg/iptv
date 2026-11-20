@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 10:35 UTC",
-  "fingerprint": "953bf9a7c3243a7083d96e82650701aa",
+  "updated_at": "2026-11-20 11:29 UTC",
+  "fingerprint": "f7aeb5b03650a40bc9f7f03621a4b688",
   "total": 2449,
-  "working": 1971,
-  "in_grace_period": 11,
-  "dead": 478,
-  "hd_channels": 844,
+  "working": 1968,
+  "in_grace_period": 22,
+  "dead": 481,
+  "hd_channels": 843,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 130,
-      "working": 89,
+      "working": 88,
       "hd": 46
     },
     "Bhojpuri": {
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 665,
+      "working": 663,
       "hd": 245
     },
     "Hungarian": {
@@ -124,7 +124,7 @@
     },
     "Kannada": {
       "total": 83,
-      "working": 67,
+      "working": 66,
       "hd": 31
     },
     "Konkani": {
@@ -154,12 +154,12 @@
     },
     "Malayalam": {
       "total": 123,
-      "working": 102,
-      "hd": 40
+      "working": 100,
+      "hd": 39
     },
     "Marathi": {
       "total": 56,
-      "working": 48,
+      "working": 47,
       "hd": 23
     },
     "Nepali": {
@@ -234,12 +234,12 @@
     },
     "Tamil": {
       "total": 187,
-      "working": 158,
+      "working": 157,
       "hd": 81
     },
     "Telugu": {
       "total": 203,
-      "working": 175,
+      "working": 174,
       "hd": 69
     },
     "Thai": {
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 276,
-      "working": 213
+      "working": 212
     },
     "General": {
       "total": 197,
@@ -323,7 +323,7 @@
     },
     "Kids": {
       "total": 29,
-      "working": 19
+      "working": 18
     },
     "Legislative": {
       "total": 8,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 765,
-      "working": 695
+      "working": 694
     },
     "Outdoor": {
       "total": 17,
@@ -390,6 +390,11 @@
       "name": "9XM (1080p)",
       "url": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "22Scope News (1080p)",
+      "url": "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Aagaaz Times (1080p)",
@@ -1077,6 +1082,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Nickelodeon (576p) [Geo-blocked]",
+      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
+      "reason": "HTTP 456"
+    },
+    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -1114,11 +1124,6 @@
     {
       "name": "Public First (576p)",
       "url": "https://fta.ektv.in/live/237/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Public First (576p)",
-      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1160,6 +1165,11 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Sach Bedhadak (576p)",
+      "url": "https://sbnews.nexcdn.online/sbnews/live/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sadhna Plus News (576p)",
@@ -1370,6 +1380,11 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Sun Surya HD (1080p)",
+      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -1939,17 +1954,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "SuperTennis",
