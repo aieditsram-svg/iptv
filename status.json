@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-20 12:22 UTC",
-  "fingerprint": "ec4f239d65b0814d22aca26d4cbed3ff",
+  "updated_at": "2026-11-20 13:38 UTC",
+  "fingerprint": "248cea513cfa3bd62caa3d09b84a4649",
   "total": 2449,
-  "working": 1972,
-  "in_grace_period": 15,
-  "dead": 477,
+  "working": 1968,
+  "in_grace_period": 39,
+  "dead": 481,
   "hd_channels": 841,
   "languages": {
     "Albanian": {
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 130,
-      "working": 89,
+      "working": 90,
       "hd": 46
     },
     "Bhojpuri": {
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 311,
-      "working": 240,
-      "hd": 121
+      "working": 239,
+      "hd": 120
     },
     "Estonian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 667,
+      "working": 663,
       "hd": 245
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 23,
-      "hd": 12
+      "hd": 13
     },
     "Polish": {
       "total": 11,
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 203,
-      "working": 174,
+      "working": 173,
       "hd": 69
     },
     "Thai": {
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 276,
-      "working": 216
+      "working": 217
     },
     "General": {
       "total": 197,
@@ -327,7 +327,7 @@
     },
     "Legislative": {
       "total": 8,
-      "working": 7
+      "working": 6
     },
     "Lifestyle": {
       "total": 27,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 141,
-      "working": 123
+      "working": 119
     },
     "Music": {
       "total": 143,
@@ -412,6 +412,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "TimeoutError"
@@ -450,6 +455,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -677,6 +687,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -780,6 +795,11 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -1198,6 +1218,11 @@
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
+      "url": "https://fta.ektv.in/live/718/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
     },
@@ -1265,11 +1290,6 @@
       "name": "Sonic (576p)",
       "url": "http://103.185.24.134:3001/SONIC/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sony Aath (1080p)",
-      "url": "http://27.124.71.27/Sony_Aath/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Sony Aath (576p)",
