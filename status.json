@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 22:14 UTC",
-  "fingerprint": "4d83ba30a3629d28987c45f7b8d88df0",
+  "updated_at": "2026-11-20 22:56 UTC",
+  "fingerprint": "71ec1ca7ac6217833ef12d27656be96f",
   "total": 2449,
-  "working": 1975,
-  "in_grace_period": 24,
-  "dead": 474,
-  "hd_channels": 842,
+  "working": 1974,
+  "in_grace_period": 13,
+  "dead": 475,
+  "hd_channels": 838,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 130,
-      "working": 90,
+      "working": 89,
       "hd": 43
     },
     "Bhojpuri": {
@@ -70,7 +70,7 @@
     "English": {
       "total": 311,
       "working": 240,
-      "hd": 122
+      "hd": 121
     },
     "Estonian": {
       "total": 1,
@@ -124,7 +124,7 @@
     },
     "Kannada": {
       "total": 83,
-      "working": 66,
+      "working": 65,
       "hd": 30
     },
     "Konkani": {
@@ -154,12 +154,12 @@
     },
     "Malayalam": {
       "total": 123,
-      "working": 102,
-      "hd": 40
+      "working": 100,
+      "hd": 39
     },
     "Marathi": {
       "total": 56,
-      "working": 48,
+      "working": 47,
       "hd": 23
     },
     "Nepali": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 23,
-      "hd": 14
+      "hd": 12
     },
     "Polish": {
       "total": 11,
@@ -234,12 +234,12 @@
     },
     "Tamil": {
       "total": 187,
-      "working": 158,
+      "working": 157,
       "hd": 81
     },
     "Telugu": {
       "total": 203,
-      "working": 174,
+      "working": 173,
       "hd": 69
     },
     "Thai": {
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 276,
-      "working": 221
+      "working": 220
     },
     "General": {
       "total": 197,
@@ -323,7 +323,7 @@
     },
     "Kids": {
       "total": 29,
-      "working": 19
+      "working": 18
     },
     "Legislative": {
       "total": 8,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 141,
-      "working": 122
+      "working": 123
     },
     "Music": {
       "total": 143,
@@ -762,11 +762,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -1077,6 +1072,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Nickelodeon (576p) [Geo-blocked]",
+      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
+      "reason": "HTTP 456"
+    },
+    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -1340,6 +1340,11 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Sun Surya HD (1080p)",
+      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -1919,17 +1924,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis",
@@ -2684,7 +2689,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
