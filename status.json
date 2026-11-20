@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-20 07:45 UTC",
-  "fingerprint": "41232f4445f8be02201e1e4f3c868e77",
+  "updated_at": "2026-11-20 08:44 UTC",
+  "fingerprint": "51a3ee8294758712175b66edc94f7203",
   "total": 2449,
-  "working": 1971,
-  "in_grace_period": 13,
-  "dead": 478,
+  "working": 1973,
+  "in_grace_period": 18,
+  "dead": 476,
   "hd_channels": 844,
   "languages": {
     "Albanian": {
@@ -34,7 +34,7 @@
     },
     "Bhojpuri": {
       "total": 33,
-      "working": 30,
+      "working": 31,
       "hd": 13
     },
     "Bulgarian": {
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 664,
+      "working": 665,
       "hd": 246
     },
     "Hungarian": {
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 197,
-      "working": 169
+      "working": 170
     },
     "Kids": {
       "total": 29,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 141,
-      "working": 120
+      "working": 121
     },
     "Music": {
       "total": 143,
@@ -495,11 +495,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Bhojpuri Cinema (576p)",
-      "url": "https://streams.tangotv.in/BHOJPURICINEMA/ORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (720p)",
@@ -1000,11 +995,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1909,7 +1899,7 @@
     {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Setanta Sports 1 Eurasia (1080p)",
@@ -1934,17 +1924,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "SuperTennis",
@@ -2704,7 +2694,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
