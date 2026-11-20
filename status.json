@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 01:53 UTC",
-  "fingerprint": "210ba457cc40d235f642af12f8e164b9",
+  "updated_at": "2026-11-20 02:40 UTC",
+  "fingerprint": "4e865a6666c538420edbb6fefb3d4dc9",
   "total": 2449,
-  "working": 1972,
-  "in_grace_period": 17,
-  "dead": 477,
-  "hd_channels": 840,
+  "working": 1970,
+  "in_grace_period": 23,
+  "dead": 479,
+  "hd_channels": 838,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 667,
+      "working": 665,
       "hd": 244
     },
     "Hungarian": {
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 23,
-      "hd": 14
+      "hd": 12
     },
     "Polish": {
       "total": 11,
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 276,
-      "working": 220
+      "working": 219
     },
     "General": {
       "total": 197,
-      "working": 171
+      "working": 170
     },
     "Kids": {
       "total": 29,
@@ -1112,6 +1112,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1360,6 +1365,11 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
@@ -2694,7 +2704,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
