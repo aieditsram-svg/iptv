@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 11:29 UTC",
-  "fingerprint": "f7aeb5b03650a40bc9f7f03621a4b688",
+  "updated_at": "2026-11-20 12:22 UTC",
+  "fingerprint": "ec4f239d65b0814d22aca26d4cbed3ff",
   "total": 2449,
-  "working": 1968,
-  "in_grace_period": 22,
-  "dead": 481,
-  "hd_channels": 843,
+  "working": 1972,
+  "in_grace_period": 15,
+  "dead": 477,
+  "hd_channels": 841,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 130,
-      "working": 88,
+      "working": 89,
       "hd": 46
     },
     "Bhojpuri": {
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 663,
+      "working": 667,
       "hd": 245
     },
     "Hungarian": {
@@ -124,8 +124,8 @@
     },
     "Kannada": {
       "total": 83,
-      "working": 66,
-      "hd": 31
+      "working": 65,
+      "hd": 30
     },
     "Konkani": {
       "total": 3,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 23,
-      "hd": 13
+      "hd": 12
     },
     "Polish": {
       "total": 11,
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 259,
-      "working": 234
+      "working": 235
     },
     "Documentary": {
       "total": 13,
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 276,
-      "working": 212
+      "working": 216
     },
     "General": {
       "total": 197,
-      "working": 170
+      "working": 171
     },
     "Kids": {
       "total": 29,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 141,
-      "working": 124
+      "working": 123
     },
     "Music": {
       "total": 143,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 765,
-      "working": 694
+      "working": 693
     },
     "Outdoor": {
       "total": 17,
@@ -434,6 +434,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Ashwaveega News 24x7 (720p)",
+      "url": "https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -574,11 +579,6 @@
     {
       "name": "Dangal 2 (576p)",
       "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -757,6 +757,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -907,11 +912,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -925,16 +925,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1240,16 +1230,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1954,17 +1934,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis",
