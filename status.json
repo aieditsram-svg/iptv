@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 05:26 UTC",
-  "fingerprint": "9089980622909cd68710aef5fe16fe3d",
+  "updated_at": "2026-11-20 06:26 UTC",
+  "fingerprint": "2c1ce373e923b9ac75348bb52a4cadc6",
   "total": 2449,
-  "working": 1964,
-  "in_grace_period": 11,
-  "dead": 485,
-  "hd_channels": 842,
+  "working": 1966,
+  "in_grace_period": 8,
+  "dead": 483,
+  "hd_channels": 844,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -30,7 +30,7 @@
     "Bengali": {
       "total": 130,
       "working": 89,
-      "hd": 45
+      "hd": 46
     },
     "Bhojpuri": {
       "total": 33,
@@ -70,7 +70,7 @@
     "English": {
       "total": 311,
       "working": 239,
-      "hd": 121
+      "hd": 120
     },
     "Estonian": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 660,
-      "hd": 244
+      "working": 662,
+      "hd": 245
     },
     "Hungarian": {
       "total": 11,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 23,
-      "hd": 13
+      "hd": 14
     },
     "Polish": {
       "total": 11,
@@ -315,11 +315,11 @@
     },
     "Entertainment": {
       "total": 276,
-      "working": 216
+      "working": 218
     },
     "General": {
       "total": 197,
-      "working": 170
+      "working": 169
     },
     "Kids": {
       "total": 29,
@@ -335,7 +335,7 @@
     },
     "Movies": {
       "total": 141,
-      "working": 118
+      "working": 119
     },
     "Music": {
       "total": 143,
@@ -867,11 +867,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "India Talkies (360p)",
-      "url": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "INews (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -1027,8 +1022,8 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1162,6 +1157,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Public First (576p)",
+      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
@@ -1270,16 +1270,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
