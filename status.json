@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 00:42 UTC",
-  "fingerprint": "56f7f5cffb0ad93345f3a727fd1cd825",
+  "updated_at": "2026-11-20 01:53 UTC",
+  "fingerprint": "210ba457cc40d235f642af12f8e164b9",
   "total": 2449,
-  "working": 1970,
-  "in_grace_period": 10,
-  "dead": 479,
-  "hd_channels": 839,
+  "working": 1972,
+  "in_grace_period": 17,
+  "dead": 477,
+  "hd_channels": 840,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -30,7 +30,7 @@
     "Bengali": {
       "total": 130,
       "working": 89,
-      "hd": 43
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 33,
@@ -80,7 +80,7 @@
     "French": {
       "total": 18,
       "working": 16,
-      "hd": 11
+      "hd": 10
     },
     "German": {
       "total": 18,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 666,
-      "hd": 243
+      "working": 667,
+      "hd": 244
     },
     "Hungarian": {
       "total": 11,
@@ -120,7 +120,7 @@
     "Italian": {
       "total": 21,
       "working": 15,
-      "hd": 9
+      "hd": 8
     },
     "Kannada": {
       "total": 83,
@@ -164,8 +164,8 @@
     },
     "Nepali": {
       "total": 6,
-      "working": 5,
-      "hd": 2
+      "working": 6,
+      "hd": 3
     },
     "Odia": {
       "total": 36,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 40,
       "working": 23,
-      "hd": 13
+      "hd": 14
     },
     "Polish": {
       "total": 11,
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 167,
-      "working": 158,
+      "working": 159,
       "hd": 58
     },
     "Romanian": {
@@ -224,7 +224,7 @@
     },
     "Spanish": {
       "total": 113,
-      "working": 61,
+      "working": 60,
       "hd": 41
     },
     "Swedish": {
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 203,
-      "working": 174,
+      "working": 175,
       "hd": 70
     },
     "Thai": {
@@ -339,11 +339,11 @@
     },
     "Music": {
       "total": 143,
-      "working": 122
+      "working": 124
     },
     "News": {
       "total": 765,
-      "working": 692
+      "working": 693
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 565,
-      "working": 328
+      "working": 327
     },
     "Travel": {
       "total": 6,
@@ -400,11 +400,6 @@
       "name": "Aakaash Aath (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Aamar Bangla (720p)",
-      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AKD Calcutta News (576p)",
@@ -1102,11 +1097,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Prime9 News (1080p)",
-      "url": "https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Public First (576p)",
       "url": "https://fta.ektv.in/live/237/master.m3u8",
       "reason": "HTTP 404"
@@ -1302,6 +1292,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Star Jalsha HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
       "reason": "URLError"
@@ -1374,11 +1369,6 @@
     {
       "name": "Tabbar Hits (576p)",
       "url": "https://fta.ektv.in/live/179/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Tabbar Hits (576p)",
-      "url": "https://streams.tangotv.in/TABBARHITS/ORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1465,11 +1455,6 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Vision Beats (720p)",
-      "url": "http://a-edge.bliscdn.com/Visionbeats/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Vistaar News (576p)",
@@ -1737,6 +1722,11 @@
       "reason": "URLError"
     },
     {
+      "name": "TNT Sports (480p)",
+      "url": "http://209.45.101.130:8040/play/a03s/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "TNT Sports Premium HD",
       "url": "https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8",
       "reason": "HTTP 404"
@@ -1939,17 +1929,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis",
