@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-20 20:41 UTC",
-  "fingerprint": "9d18cc3a95d8250c0b2ecf7dc42bfe02",
+  "updated_at": "2026-11-20 21:28 UTC",
+  "fingerprint": "b07da8d2aaea4aabe44518a756262d36",
   "total": 2449,
-  "working": 1973,
-  "in_grace_period": 11,
-  "dead": 476,
+  "working": 1975,
+  "in_grace_period": 6,
+  "dead": 474,
   "hd_channels": 842,
   "languages": {
     "Albanian": {
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 668,
+      "working": 670,
       "hd": 245
     },
     "Hungarian": {
@@ -189,7 +189,7 @@
     },
     "Punjabi": {
       "total": 167,
-      "working": 158,
+      "working": 159,
       "hd": 58
     },
     "Romanian": {
@@ -199,7 +199,7 @@
     },
     "Russian": {
       "total": 52,
-      "working": 30,
+      "working": 29,
       "hd": 13
     },
     "Santali": {
@@ -319,7 +319,7 @@
     },
     "General": {
       "total": 197,
-      "working": 170
+      "working": 171
     },
     "Kids": {
       "total": 29,
@@ -335,11 +335,11 @@
     },
     "Movies": {
       "total": 141,
-      "working": 121
+      "working": 122
     },
     "Music": {
       "total": 143,
-      "working": 121
+      "working": 122
     },
     "News": {
       "total": 765,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 565,
-      "working": 328
+      "working": 327
     },
     "Travel": {
       "total": 6,
@@ -392,11 +392,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "9XM (1080p)",
       "url": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
       "reason": "HTTP 403"
@@ -420,11 +415,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -995,11 +985,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1632,6 +1617,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Беларусь 5 Интернет (1080p) [Not 24/7]",
+      "url": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+      "reason": "RemoteDisconnected"
+    },
+    {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
       "reason": "not a valid HLS manifest"
@@ -1904,7 +1894,7 @@
     {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Setanta Sports 1 Eurasia (1080p)",
@@ -1929,17 +1919,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis",
@@ -2539,17 +2529,17 @@
     {
       "name": "Sky Sports F1 (720p)",
       "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8",
-      "reason": "HTTP 429"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sky Sports News (576p)",
       "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8",
-      "reason": "HTTP 429"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sky Sports NFL (720p)",
       "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8",
-      "reason": "HTTP 429"
+      "reason": "HTTP 403"
     },
     {
       "name": "TNT Sports 1",
@@ -2599,7 +2589,7 @@
     {
       "name": "ESPN 2 Latin America Argentina",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "ESPN 3 Latin America (1080p)",
@@ -2624,7 +2614,7 @@
     {
       "name": "ESPN 5 Latin America (720p)",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn5-mux/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "ESPN 6 Latin America (1080p)",
@@ -2634,7 +2624,7 @@
     {
       "name": "ESPN 6 Latin America (720p)",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "ESPN 7 Latin America (1080p)",
@@ -2694,7 +2684,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",
