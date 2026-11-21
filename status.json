@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 03:17 UTC",
-  "fingerprint": "e74637f3a3feed6525ba2a1e569d162c",
+  "updated_at": "2026-11-21 04:04 UTC",
+  "fingerprint": "aa13389549f6f2e1af07636befa2db8e",
   "total": 2514,
-  "working": 2042,
-  "in_grace_period": 15,
-  "dead": 472,
-  "hd_channels": 882,
+  "working": 2044,
+  "in_grace_period": 58,
+  "dead": 470,
+  "hd_channels": 862,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 135,
-      "working": 95,
+      "working": 94,
       "hd": 47
     },
     "Bhojpuri": {
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 323,
-      "working": 252,
-      "hd": 131
+      "working": 251,
+      "hd": 130
     },
     "Estonian": {
       "total": 1,
@@ -110,7 +110,7 @@
     "Hindi": {
       "total": 811,
       "working": 696,
-      "hd": 263
+      "hd": 262
     },
     "Hungarian": {
       "total": 11,
@@ -130,7 +130,7 @@
     "Kannada": {
       "total": 88,
       "working": 71,
-      "hd": 35
+      "hd": 30
     },
     "Konkani": {
       "total": 3,
@@ -160,7 +160,7 @@
     "Malayalam": {
       "total": 130,
       "working": 106,
-      "hd": 43
+      "hd": 37
     },
     "Marathi": {
       "total": 59,
@@ -174,7 +174,7 @@
     },
     "Odia": {
       "total": 38,
-      "working": 28,
+      "working": 30,
       "hd": 13
     },
     "Other": {
@@ -194,7 +194,7 @@
     },
     "Punjabi": {
       "total": 168,
-      "working": 159,
+      "working": 160,
       "hd": 58
     },
     "Romanian": {
@@ -204,7 +204,7 @@
     },
     "Russian": {
       "total": 53,
-      "working": 30,
+      "working": 31,
       "hd": 13
     },
     "Santali": {
@@ -240,12 +240,12 @@
     "Tamil": {
       "total": 193,
       "working": 163,
-      "hd": 85
+      "hd": 77
     },
     "Telugu": {
       "total": 209,
-      "working": 180,
-      "hd": 72
+      "working": 179,
+      "hd": 71
     },
     "Thai": {
       "total": 1,
@@ -320,11 +320,11 @@
     },
     "Entertainment": {
       "total": 288,
-      "working": 226
+      "working": 227
     },
     "General": {
       "total": 203,
-      "working": 175
+      "working": 174
     },
     "Kids": {
       "total": 29,
@@ -348,7 +348,7 @@
     },
     "News": {
       "total": 787,
-      "working": 714
+      "working": 715
     },
     "Outdoor": {
       "total": 17,
@@ -368,7 +368,7 @@
     },
     "Sports": {
       "total": 566,
-      "working": 344
+      "working": 345
     },
     "Travel": {
       "total": 6,
@@ -395,11 +395,6 @@
       "name": "9X Jhakaas (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -657,11 +652,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Ekamra Bharat Odia (400p)",
-      "url": "https://live.ekamraott.com/bharat/bharat/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Enterr 10 Bangla (576p)",
       "url": "http://103.165.93.31:8095/enter10Bangla/index.m3u8",
       "reason": "URLError"
@@ -720,6 +710,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -849,6 +844,11 @@
     {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1122,11 +1122,6 @@
       "reason": "URLError"
     },
     {
-      "name": "One Paschima (400p)",
-      "url": "https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
@@ -1165,11 +1160,6 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1240,6 +1230,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -2267,11 +2262,6 @@
       "reason": "URLError"
     },
     {
-      "name": "FON TV (1080p)",
-      "url": "https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "KHL (576p)",
       "url": "http://stream.mcquack.net/166/index.m3u8",
       "reason": "HTTP 403"
@@ -2679,7 +2669,7 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "MSG (720p)",

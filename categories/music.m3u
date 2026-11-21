@@ -1,5 +1,5 @@
 #EXTM3U
-# Music channels, one link per channel, all languages, updated 2026-11-21 03:17 UTC
+# Music channels, one link per channel, all languages, updated 2026-11-21 04:04 UTC
 #EXTINF:-1 tvg-id="DhoomMusic.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s142882_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Bengali" group-title="Bengali" height="720",Dhoom Music
 https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="SangeetBangla.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00211H7T.png?lock=720x540" x-category="Music" tvg-language="Bengali" group-title="Bengali" height="720",Sangeet Bangla
@@ -58,8 +58,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
 #EXTINF:-1 tvg-id="Zoom.in@SD" x-categories="Music" tvg-logo="https://i.imgur.com/mxx05Z9.png" x-category="Music" tvg-language="Hindi" group-title="Hindi" height="720",Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1 tvg-id="PublicMusic.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143687_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Kannada" group-title="Kannada" height="720",Public Music
-https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8
+#EXTINF:-1 tvg-id="PublicMusic.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143687_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Kannada" group-title="Kannada",Public Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/240/master.m3u8
 #EXTINF:-1 tvg-id="RajMusixKannada.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143705_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Kannada" group-title="Kannada" height="720",Raj Musix Kannada
 https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
 #EXTINF:-1 tvg-id="KalikaTV.in@SD" x-categories="Music" tvg-logo="https://i.imgur.com/XWXFoJA.png" x-category="Music" tvg-language="Malayalam" group-title="Malayalam",Kalika TV
@@ -72,7 +73,7 @@ https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01
 https://mumt07.tangotv.in/zHjX9OFlSANGEETMARATHI/index.m3u8
 #EXTINF:-1 tvg-id="VisionBeats.in@SD" x-categories="Music" tvg-logo="https://i.imgur.com/lxR5FKh.png" x-category="Music" tvg-language="Nepali" group-title="Nepali",Vision Beats
 http://a-edge.bliscdn.com/Visionbeats/index.m3u8
-#EXTINF:-1 tvg-id="TarangMusic.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143926_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Odia" group-title="Odia" height="720",Tarang Music
+#EXTINF:-1 tvg-id="TarangMusic.in@SD" x-categories="Music" tvg-logo="https://dtil.tmsimg.com/assets/s143926_ld_h15_aa.png?lock=720x540" x-category="Music" tvg-language="Odia" group-title="Odia",Tarang Music
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ETVMusic.in@HD" x-categories="Music" tvg-logo="https://etvcoin.s3.ap-south-1.amazonaws.com/uploads/channellogo1787822939Music-Logo-100x100-P.png" x-category="Music" tvg-language="Other" group-title="Other" height="1080",ETV Music
 https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
