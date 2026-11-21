@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 16:05 UTC",
-  "fingerprint": "f1bd13eaa83dc870ba460c4bfc467336",
+  "updated_at": "2026-11-21 16:46 UTC",
+  "fingerprint": "242bbe0fff03bf316d4e95d94559f34c",
   "total": 2513,
-  "working": 2026,
-  "in_grace_period": 20,
-  "dead": 487,
-  "hd_channels": 868,
+  "working": 2023,
+  "in_grace_period": 15,
+  "dead": 490,
+  "hd_channels": 865,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -109,7 +109,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 691,
+      "working": 692,
       "hd": 258
     },
     "Hungarian": {
@@ -180,7 +180,7 @@
     "Other": {
       "total": 36,
       "working": 23,
-      "hd": 13
+      "hd": 12
     },
     "Polish": {
       "total": 7,
@@ -194,7 +194,7 @@
     },
     "Punjabi": {
       "total": 168,
-      "working": 157,
+      "working": 156,
       "hd": 57
     },
     "Romanian": {
@@ -204,8 +204,8 @@
     },
     "Russian": {
       "total": 53,
-      "working": 31,
-      "hd": 13
+      "working": 30,
+      "hd": 12
     },
     "Santali": {
       "total": 2,
@@ -239,8 +239,8 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 163,
-      "hd": 85
+      "working": 161,
+      "hd": 84
     },
     "Telugu": {
       "total": 209,
@@ -320,11 +320,11 @@
     },
     "Entertainment": {
       "total": 288,
-      "working": 228
+      "working": 226
     },
     "General": {
       "total": 203,
-      "working": 176
+      "working": 174
     },
     "Kids": {
       "total": 29,
@@ -340,15 +340,15 @@
     },
     "Movies": {
       "total": 154,
-      "working": 133
+      "working": 134
     },
     "Music": {
       "total": 144,
-      "working": 124
+      "working": 123
     },
     "News": {
       "total": 787,
-      "working": 702
+      "working": 704
     },
     "Outdoor": {
       "total": 17,
@@ -368,7 +368,7 @@
     },
     "Sports": {
       "total": 565,
-      "working": 337
+      "working": 336
     },
     "Travel": {
       "total": 6,
@@ -390,6 +390,11 @@
       "name": "9X Jhakaas (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -452,11 +457,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Movies (576p)",
       "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
       "reason": "URLError"
@@ -514,7 +514,7 @@
     {
       "name": "BVG (576p)",
       "url": "https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "C-10 (576p)",
@@ -1037,6 +1037,16 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Network 10 (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/Network10/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Network 10 (720p)",
+      "url": "https://network10.livebox.co.in/network10outhls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1 India (576p)",
       "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
@@ -1069,11 +1079,6 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 24 (576p)",
-      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1150,6 +1155,16 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Oli TV (1080p)",
+      "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Oli TV (1080p)",
+      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Only Bharat (576p)",
@@ -1235,11 +1250,6 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Sadhna News Madhya Pradesh/Chhattisgarh (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sadhna Plus News (576p)",
@@ -2380,6 +2390,11 @@
       "name": "Okko Prajm Sport (1080p)",
       "url": "http://stream.mcquack.net/493/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Sportivnyy (1080p)",
+      "url": "https://live-3.otcnet.ru/sportivny/index.m3u8",
+      "reason": "HTTP 503"
     },
     {
       "name": "UDAR (1080p)",
