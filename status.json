@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-21 19:29 UTC",
-  "fingerprint": "1f90d6c72abeaceff689b7b93131c685",
+  "updated_at": "2026-11-21 20:11 UTC",
+  "fingerprint": "746a1105859de7d872cf3e9b9b3e7030",
   "total": 2513,
-  "working": 2039,
-  "in_grace_period": 20,
-  "dead": 474,
+  "working": 2035,
+  "in_grace_period": 28,
+  "dead": 478,
   "hd_channels": 874,
   "languages": {
     "Albanian": {
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 135,
-      "working": 94,
+      "working": 93,
       "hd": 47
     },
     "Bhojpuri": {
@@ -69,7 +69,7 @@
     },
     "English": {
       "total": 323,
-      "working": 250,
+      "working": 249,
       "hd": 131
     },
     "Estonian": {
@@ -109,8 +109,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 703,
-      "hd": 265
+      "working": 701,
+      "hd": 264
     },
     "Hungarian": {
       "total": 11,
@@ -180,7 +180,7 @@
     "Other": {
       "total": 36,
       "working": 22,
-      "hd": 11
+      "hd": 12
     },
     "Polish": {
       "total": 7,
@@ -244,7 +244,7 @@
     },
     "Telugu": {
       "total": 209,
-      "working": 180,
+      "working": 179,
       "hd": 72
     },
     "Thai": {
@@ -332,7 +332,7 @@
     },
     "Legislative": {
       "total": 8,
-      "working": 7
+      "working": 6
     },
     "Lifestyle": {
       "total": 29,
@@ -340,15 +340,15 @@
     },
     "Movies": {
       "total": 154,
-      "working": 137
+      "working": 136
     },
     "Music": {
       "total": 144,
-      "working": 125
+      "working": 124
     },
     "News": {
       "total": 787,
-      "working": 711
+      "working": 710
     },
     "Outdoor": {
       "total": 17,
@@ -445,6 +445,11 @@
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Awaaz India TV (720p) [Not 24/7]",
+      "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Awakening TV (576p)",
@@ -675,6 +680,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -1214,7 +1224,7 @@
     {
       "name": "Sai TV",
       "url": "https://account31.livebox.co.in/saitvhls/live.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Samay Kolkata (1080p)",
@@ -1230,6 +1240,16 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Sansad TV 1 HD (1080p)",
+      "url": "https://fta.ektv.in/live/718/master.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -1949,17 +1969,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis",
