@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 22:34 UTC",
-  "fingerprint": "838c58d2560c3d103903fce3a98d43cf",
+  "updated_at": "2026-11-21 23:15 UTC",
+  "fingerprint": "8948b2c33af376906fb612c58be4d310",
   "total": 2513,
-  "working": 2030,
-  "in_grace_period": 12,
-  "dead": 483,
-  "hd_channels": 871,
+  "working": 2037,
+  "in_grace_period": 18,
+  "dead": 476,
+  "hd_channels": 872,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 135,
-      "working": 95,
+      "working": 96,
       "hd": 47
     },
     "Bhojpuri": {
@@ -109,8 +109,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 698,
-      "hd": 263
+      "working": 700,
+      "hd": 262
     },
     "Hungarian": {
       "total": 11,
@@ -130,7 +130,7 @@
     "Kannada": {
       "total": 88,
       "working": 72,
-      "hd": 35
+      "hd": 34
     },
     "Konkani": {
       "total": 3,
@@ -229,8 +229,8 @@
     },
     "Spanish": {
       "total": 113,
-      "working": 57,
-      "hd": 39
+      "working": 61,
+      "hd": 42
     },
     "Swedish": {
       "total": 1,
@@ -340,11 +340,11 @@
     },
     "Movies": {
       "total": 154,
-      "working": 135
+      "working": 136
     },
     "Music": {
       "total": 144,
-      "working": 122
+      "working": 124
     },
     "News": {
       "total": 787,
@@ -368,7 +368,7 @@
     },
     "Sports": {
       "total": 565,
-      "working": 332
+      "working": 336
     },
     "Travel": {
       "total": 6,
@@ -380,11 +380,6 @@
       "name": "7S Music (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "7X Music (360p)",
-      "url": "https://cdn2.in/7xPunjabihls/live.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9X Jalwa (576p)",
@@ -455,11 +450,6 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -1257,11 +1247,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://fta.ektv.in/live/718/master.m3u8",
       "reason": "HTTP 404"
@@ -1642,21 +1627,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "DeporTV (1080p)",
-      "url": "http://158.172.155.130:8000/play/a09y/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "ESPN Premium HD (1080p)",
-      "url": "http://158.172.155.130:8000/play/a0ao/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Fox Sports (1080p)",
-      "url": "http://158.172.155.130:8000/play/a09x/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Racing.com (720p)",
       "url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8",
       "reason": "HTTP 400"
@@ -1959,7 +1929,7 @@
     {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Setanta Sports 1 Eurasia (1080p)",
@@ -1989,17 +1959,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis",
@@ -2260,11 +2230,6 @@
       "name": "Sport TV+",
       "url": "http://znty.dyndns.org:5010/hls/sportv+.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "WAPA-TV 4.2 (720p) [Not 24/7]",
-      "url": "https://wapa.hostless.app/WAPA-TV-4-2.m3u8",
-      "reason": "HTTP 503"
     },
     {
       "name": "beIN Sports 1",
@@ -2784,7 +2749,7 @@
     {
       "name": "Meridiano TV (576p)",
       "url": "http://181.78.8.199:8000/play/a0fr/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "SportsMax News (1080p)",
