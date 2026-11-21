@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 20:11 UTC",
-  "fingerprint": "746a1105859de7d872cf3e9b9b3e7030",
+  "updated_at": "2026-11-21 20:48 UTC",
+  "fingerprint": "e52e6df32df3f3858846e0f2072f92b6",
   "total": 2513,
-  "working": 2035,
-  "in_grace_period": 28,
-  "dead": 478,
-  "hd_channels": 874,
+  "working": 2032,
+  "in_grace_period": 13,
+  "dead": 481,
+  "hd_channels": 873,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 135,
-      "working": 93,
+      "working": 95,
       "hd": 47
     },
     "Bhojpuri": {
@@ -94,8 +94,8 @@
     },
     "Gujarati": {
       "total": 49,
-      "working": 45,
-      "hd": 20
+      "working": 44,
+      "hd": 19
     },
     "Haryanvi": {
       "total": 1,
@@ -109,7 +109,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 701,
+      "working": 697,
       "hd": 264
     },
     "Hungarian": {
@@ -179,8 +179,8 @@
     },
     "Other": {
       "total": 36,
-      "working": 22,
-      "hd": 12
+      "working": 23,
+      "hd": 13
     },
     "Polish": {
       "total": 7,
@@ -204,8 +204,8 @@
     },
     "Russian": {
       "total": 53,
-      "working": 30,
-      "hd": 13
+      "working": 29,
+      "hd": 12
     },
     "Santali": {
       "total": 2,
@@ -320,7 +320,7 @@
     },
     "Entertainment": {
       "total": 288,
-      "working": 230
+      "working": 228
     },
     "General": {
       "total": 203,
@@ -340,15 +340,15 @@
     },
     "Movies": {
       "total": 154,
-      "working": 136
+      "working": 135
     },
     "Music": {
       "total": 144,
-      "working": 124
+      "working": 123
     },
     "News": {
       "total": 787,
-      "working": 710
+      "working": 711
     },
     "Outdoor": {
       "total": 17,
@@ -380,6 +380,11 @@
       "name": "7S Music (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "7X Music (360p)",
+      "url": "https://cdn2.in/7xPunjabihls/live.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9X Jalwa (576p)",
@@ -417,6 +422,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "TimeoutError"
@@ -445,11 +455,6 @@
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Awaaz India TV (720p) [Not 24/7]",
-      "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Awakening TV (576p)",
@@ -922,11 +927,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Kolkata TV (576p)",
-      "url": "https://tvsen6.aynaott.com/kolkatatv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Mahaa Max (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMAHAAMAX/index.m3u8",
       "reason": "HTTP 403"
@@ -1129,12 +1129,12 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Peace of Mind TV (576p)",
@@ -1145,6 +1145,11 @@
       "name": "Pogo (576p)",
       "url": "http://103.135.253.32:8080/POGO/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Pradesh24 Gujarati (1080p)",
+      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Prameya News7 (576p)",
@@ -1242,11 +1247,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://fta.ektv.in/live/718/master.m3u8",
       "reason": "HTTP 404"
@@ -1285,6 +1285,16 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1400,6 +1410,11 @@
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Steelbird Music (720p) [Not 24/7]",
+      "url": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "STV Haryana News (576p)",
@@ -2347,6 +2362,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Volleyball (1080p)",
+      "url": "https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "SOS Kanal Plus (720p)",
       "url": "https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8",
       "reason": "URLError"
@@ -2750,11 +2770,6 @@
       "name": "Willow (720p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Sport",
-      "url": "https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Meridiano TV (576p)",
