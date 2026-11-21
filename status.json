@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 04:55 UTC",
-  "fingerprint": "545ecac819ea3cdbb5ff303c532f5c7c",
+  "updated_at": "2026-11-21 05:43 UTC",
+  "fingerprint": "d89121d2568c785fd7c54d1e60c5282e",
   "total": 2514,
-  "working": 2042,
-  "in_grace_period": 53,
-  "dead": 472,
-  "hd_channels": 863,
+  "working": 2044,
+  "in_grace_period": 17,
+  "dead": 470,
+  "hd_channels": 886,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -20,7 +20,7 @@
     "Assamese": {
       "total": 44,
       "working": 40,
-      "hd": 12
+      "hd": 13
     },
     "Belarusian": {
       "total": 2,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 135,
-      "working": 93,
+      "working": 94,
       "hd": 48
     },
     "Bhojpuri": {
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 323,
-      "working": 251,
-      "hd": 129
+      "working": 252,
+      "hd": 133
     },
     "Estonian": {
       "total": 1,
@@ -109,8 +109,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 695,
-      "hd": 262
+      "working": 698,
+      "hd": 264
     },
     "Hungarian": {
       "total": 11,
@@ -130,7 +130,7 @@
     "Kannada": {
       "total": 88,
       "working": 71,
-      "hd": 31
+      "hd": 35
     },
     "Konkani": {
       "total": 3,
@@ -159,8 +159,8 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 106,
-      "hd": 37
+      "working": 104,
+      "hd": 43
     },
     "Marathi": {
       "total": 59,
@@ -169,8 +169,8 @@
     },
     "Nepali": {
       "total": 6,
-      "working": 5,
-      "hd": 2
+      "working": 6,
+      "hd": 3
     },
     "Odia": {
       "total": 38,
@@ -240,12 +240,12 @@
     "Tamil": {
       "total": 193,
       "working": 163,
-      "hd": 79
+      "hd": 85
     },
     "Telugu": {
       "total": 209,
       "working": 179,
-      "hd": 71
+      "hd": 72
     },
     "Thai": {
       "total": 1,
@@ -324,7 +324,7 @@
     },
     "General": {
       "total": 203,
-      "working": 174
+      "working": 175
     },
     "Kids": {
       "total": 29,
@@ -340,15 +340,15 @@
     },
     "Movies": {
       "total": 154,
-      "working": 134
+      "working": 135
     },
     "Music": {
       "total": 144,
-      "working": 121
+      "working": 123
     },
     "News": {
       "total": 787,
-      "working": 715
+      "working": 713
     },
     "Outdoor": {
       "total": 17,
@@ -460,11 +460,6 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -857,11 +852,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "IBC 24 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
       "reason": "HTTP 403"
@@ -900,6 +890,16 @@
       "name": "Janam TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJANAMTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Janam TV (576p)",
+      "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8",
+      "reason": "HTTP 503"
+    },
+    {
+      "name": "Janam TV (576p)",
+      "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtvdev/playlist.m3u8",
+      "reason": "HTTP 503"
     },
     {
       "name": "Jaya Plus (576p)",
@@ -1242,11 +1242,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
@@ -1510,11 +1505,6 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Vision Beats (720p)",
-      "url": "http://a-edge.bliscdn.com/Visionbeats/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Vistaar News (576p)",
@@ -1979,17 +1969,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis",
