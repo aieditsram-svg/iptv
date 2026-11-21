@@ -1,5 +1,5 @@
 #EXTM3U
-# News channels, one link per channel, all languages, updated 2026-11-21 00:22 UTC
+# News channels, one link per channel, all languages, updated 2026-11-21 01:39 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-categories="News" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" x-category="News" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks
 https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="DY365.in@SD" x-categories="News" tvg-logo="https://dtil.tmsimg.com/assets/s143015_ld_h15_aa.png?lock=720x540" x-category="News" tvg-language="Assamese" group-title="Assamese",DY 365
@@ -325,7 +325,8 @@ https://samitaorigin.tangotv.in/PRATHAMNEWS/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PrimeNews.in@SD" x-categories="News" tvg-logo="https://i.imgur.com/RQoDzpN.png" x-category="News" tvg-language="Hindi" group-title="Hindi" height="1080",Prime News
 https://stream.ottlive.co.in/primenews/index.m3u8
 #EXTINF:-1 tvg-id="PublicFirst.in@SD" x-categories="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Public_First.png" x-category="News" tvg-language="Hindi" group-title="Hindi",Public First
-https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/237/master.m3u8
 #EXTINF:-1 tvg-id="RajPariwar.in@SD" x-categories="News" tvg-logo="https://i.imgur.com/lV9ZGx9.png" x-category="News" tvg-language="Hindi" group-title="Hindi",Raj Pariwar
 https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/master_1.m3u8
 #EXTINF:-1 tvg-id="RepublicBharat.in@SD" x-categories="News" tvg-logo="https://dtil.tmsimg.com/assets/s143724_ld_h15_aa.png?lock=720x540" x-category="News" tvg-language="Hindi" group-title="Hindi" height="1080",Republic Bharat
@@ -395,7 +396,7 @@ https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
 #EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in@SD" x-categories="News" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002317GQ.png?lock=720x540" x-category="News" tvg-language="Hindi" group-title="Hindi",Zee Uttar Pradesh/Uttarakhand
 https://duw35ict5q7th.cloudfront.net/index_3.m3u8
-#EXTINF:-1 tvg-id="AshwaveegaNews24x7.in@SD" x-categories="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ashwaveega_News_24x7.png" x-category="News" tvg-language="Kannada" group-title="Kannada",Ashwaveega News 24x7
+#EXTINF:-1 tvg-id="AshwaveegaNews24x7.in@SD" x-categories="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ashwaveega_News_24x7.png" x-category="News" tvg-language="Kannada" group-title="Kannada" height="720",Ashwaveega News 24x7
 https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetSuvarnaNews.in@SD" x-categories="News" tvg-logo="https://dtil.tmsimg.com/assets/s142682_ld_h15_aa.png?lock=720x540" x-category="News" tvg-language="Kannada" group-title="Kannada" height="1080",Asianet Suvarna News
 https://asianet-prasarbharati.vgcdn.net/out/v1/bd05c931d9d94d288bbe455cc0f7e229/playlist.m3u8
