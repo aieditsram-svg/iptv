@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 18:03 UTC",
-  "fingerprint": "b707cb2ac59433b1a22431a648993ea8",
+  "updated_at": "2026-11-21 18:42 UTC",
+  "fingerprint": "decdb25a989954d447d3738b9a5baca9",
   "total": 2513,
-  "working": 2031,
-  "in_grace_period": 13,
-  "dead": 482,
-  "hd_channels": 870,
+  "working": 2038,
+  "in_grace_period": 15,
+  "dead": 475,
+  "hd_channels": 874,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,8 +29,8 @@
     },
     "Bengali": {
       "total": 135,
-      "working": 91,
-      "hd": 45
+      "working": 94,
+      "hd": 48
     },
     "Bhojpuri": {
       "total": 34,
@@ -109,7 +109,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 701,
+      "working": 703,
       "hd": 265
     },
     "Hungarian": {
@@ -180,7 +180,7 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 10
+      "hd": 11
     },
     "Polish": {
       "total": 7,
@@ -239,12 +239,12 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 160,
+      "working": 161,
       "hd": 84
     },
     "Telugu": {
       "total": 209,
-      "working": 179,
+      "working": 180,
       "hd": 72
     },
     "Thai": {
@@ -288,7 +288,7 @@
     },
     "Classic": {
       "total": 4,
-      "working": 2
+      "working": 3
     },
     "Comedy": {
       "total": 9,
@@ -308,7 +308,7 @@
     },
     "Devotional": {
       "total": 266,
-      "working": 242
+      "working": 243
     },
     "Documentary": {
       "total": 13,
@@ -320,15 +320,15 @@
     },
     "Entertainment": {
       "total": 288,
-      "working": 228
+      "working": 230
     },
     "General": {
       "total": 203,
-      "working": 174
+      "working": 173
     },
     "Kids": {
       "total": 29,
-      "working": 17
+      "working": 18
     },
     "Legislative": {
       "total": 8,
@@ -340,15 +340,15 @@
     },
     "Movies": {
       "total": 154,
-      "working": 135
+      "working": 137
     },
     "Music": {
       "total": 144,
-      "working": 124
+      "working": 125
     },
     "News": {
       "total": 787,
-      "working": 710
+      "working": 711
     },
     "Outdoor": {
       "total": 17,
@@ -432,11 +432,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Angel TV (720p)",
-      "url": "https://mumbai-edge.smartplaytv.in/AngelTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Anmol TV (576p)",
       "url": "https://fta.ektv.in/live/256/master.m3u8",
       "reason": "HTTP 404"
@@ -500,11 +495,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (720p)",
@@ -707,11 +697,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -790,11 +775,6 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -1032,6 +1012,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Network 10",
+      "url": "https://network10.livebox.co.in/network10hls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1180,11 +1165,6 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1535,21 +1515,6 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ZB Cartoon (1080p)",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "ZB Cinema (1080p)",
-      "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "ZB Music (720p)",
-      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -1989,17 +1954,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis",
@@ -2649,7 +2614,7 @@
     {
       "name": "ESPN 6 Latin America (720p)",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "ESPN 7 Latin America (1080p)",
