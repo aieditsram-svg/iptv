@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 21:23 UTC",
-  "fingerprint": "934afe63834fc7d62907d0bd7d8175ef",
+  "updated_at": "2026-11-21 22:01 UTC",
+  "fingerprint": "0b881991c644cfbb091f23f67e23d811",
   "total": 2513,
-  "working": 2031,
+  "working": 2029,
   "in_grace_period": 13,
-  "dead": 482,
-  "hd_channels": 873,
+  "dead": 484,
+  "hd_channels": 874,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 135,
-      "working": 94,
+      "working": 95,
       "hd": 47
     },
     "Bhojpuri": {
@@ -70,7 +70,7 @@
     "English": {
       "total": 323,
       "working": 249,
-      "hd": 132
+      "hd": 131
     },
     "Estonian": {
       "total": 1,
@@ -109,7 +109,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 698,
+      "working": 695,
       "hd": 264
     },
     "Hungarian": {
@@ -180,7 +180,7 @@
     "Other": {
       "total": 36,
       "working": 23,
-      "hd": 11
+      "hd": 12
     },
     "Polish": {
       "total": 7,
@@ -204,8 +204,8 @@
     },
     "Russian": {
       "total": 53,
-      "working": 29,
-      "hd": 12
+      "working": 30,
+      "hd": 13
     },
     "Santali": {
       "total": 2,
@@ -229,7 +229,7 @@
     },
     "Spanish": {
       "total": 113,
-      "working": 61,
+      "working": 60,
       "hd": 41
     },
     "Swedish": {
@@ -348,7 +348,7 @@
     },
     "News": {
       "total": 787,
-      "working": 711
+      "working": 709
     },
     "Outdoor": {
       "total": 17,
@@ -505,6 +505,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (720p)",
@@ -922,11 +927,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -1034,6 +1034,11 @@
     {
       "name": "Network 10",
       "url": "https://network10.livebox.co.in/network10hls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1185,6 +1190,11 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1954,7 +1964,7 @@
     {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Setanta Sports 1 Eurasia (1080p)",
@@ -2367,11 +2377,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Volleyball (1080p)",
-      "url": "https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "SOS Kanal Plus (720p)",
       "url": "https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8",
       "reason": "URLError"
@@ -2600,6 +2605,11 @@
       "name": "DSports (720p)",
       "url": "http://15.204.146.163:8002/play/a00g/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "DSports",
+      "url": "http://45.186.254.75:8000/play/a0en/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DSports 2 (1080p)",
