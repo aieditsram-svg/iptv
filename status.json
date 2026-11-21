@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-21 14:36 UTC",
-  "fingerprint": "2c338a1531d54279e15e53ede981158a",
+  "updated_at": "2026-11-21 15:22 UTC",
+  "fingerprint": "703a4b5f4384edd827173b2518775850",
   "total": 2513,
-  "working": 2033,
-  "in_grace_period": 19,
-  "dead": 480,
+  "working": 2030,
+  "in_grace_period": 27,
+  "dead": 483,
   "hd_channels": 868,
   "languages": {
     "Albanian": {
@@ -109,7 +109,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 693,
+      "working": 690,
       "hd": 257
     },
     "Hungarian": {
@@ -324,7 +324,7 @@
     },
     "General": {
       "total": 203,
-      "working": 176
+      "working": 175
     },
     "Kids": {
       "total": 29,
@@ -340,7 +340,7 @@
     },
     "Movies": {
       "total": 154,
-      "working": 134
+      "working": 132
     },
     "Music": {
       "total": 144,
@@ -460,6 +460,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -595,6 +600,11 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -800,6 +810,11 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -1999,17 +2014,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis",
@@ -2494,7 +2509,7 @@
     {
       "name": "UPL.TV",
       "url": "http://dtv.vol.net.ua/UPL-TV/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Sharjah Sports (1080p) [Geo-blocked]",
