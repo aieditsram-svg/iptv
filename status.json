@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 05:43 UTC",
-  "fingerprint": "d89121d2568c785fd7c54d1e60c5282e",
+  "updated_at": "2026-11-21 06:40 UTC",
+  "fingerprint": "45e017d17d6bbfcb48eb826f234f8feb",
   "total": 2514,
-  "working": 2044,
-  "in_grace_period": 17,
-  "dead": 470,
-  "hd_channels": 886,
+  "working": 2045,
+  "in_grace_period": 12,
+  "dead": 469,
+  "hd_channels": 885,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 135,
-      "working": 94,
+      "working": 95,
       "hd": 48
     },
     "Bhojpuri": {
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 323,
-      "working": 252,
-      "hd": 133
+      "working": 250,
+      "hd": 132
     },
     "Estonian": {
       "total": 1,
@@ -109,7 +109,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 698,
+      "working": 700,
       "hd": 264
     },
     "Hungarian": {
@@ -129,7 +129,7 @@
     },
     "Kannada": {
       "total": 88,
-      "working": 71,
+      "working": 72,
       "hd": 35
     },
     "Konkani": {
@@ -159,12 +159,12 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 104,
-      "hd": 43
+      "working": 106,
+      "hd": 44
     },
     "Marathi": {
       "total": 59,
-      "working": 50,
+      "working": 51,
       "hd": 25
     },
     "Nepali": {
@@ -189,8 +189,8 @@
     },
     "Portuguese": {
       "total": 30,
-      "working": 9,
-      "hd": 8
+      "working": 8,
+      "hd": 7
     },
     "Punjabi": {
       "total": 168,
@@ -239,12 +239,12 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 163,
+      "working": 164,
       "hd": 85
     },
     "Telugu": {
       "total": 209,
-      "working": 179,
+      "working": 181,
       "hd": 72
     },
     "Thai": {
@@ -320,7 +320,7 @@
     },
     "Entertainment": {
       "total": 288,
-      "working": 226
+      "working": 229
     },
     "General": {
       "total": 203,
@@ -328,7 +328,7 @@
     },
     "Kids": {
       "total": 29,
-      "working": 18
+      "working": 19
     },
     "Legislative": {
       "total": 8,
@@ -368,7 +368,7 @@
     },
     "Sports": {
       "total": 566,
-      "working": 345
+      "working": 342
     },
     "Travel": {
       "total": 6,
@@ -717,11 +717,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -964,7 +959,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "HTTP 400"
+      "reason": "URLError"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -1117,11 +1112,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Nickelodeon (576p) [Geo-blocked]",
-      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
-    },
-    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -1170,6 +1160,11 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1275,16 +1270,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1405,11 +1390,6 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Sun Surya HD (1080p)",
-      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -1944,7 +1924,7 @@
     {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Setanta Sports 1 Eurasia (1080p)",
@@ -1969,17 +1949,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis",
@@ -2487,6 +2467,11 @@
       "reason": "URLError"
     },
     {
+      "name": "DAZN 3 Portugal (720p)",
+      "url": "http://23.237.104.106:8080/DAZN_3/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "DAZN 4 (540p)",
       "url": "http://23.237.104.106:8080/DAZN_4/index.m3u8",
       "reason": "URLError"
@@ -2514,17 +2499,17 @@
     {
       "name": "Sky Sports F1 (720p)",
       "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sky Sports News (576p)",
       "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sky Sports NFL (720p)",
       "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "TNT Sports 1",
@@ -2678,12 +2663,22 @@
     },
     {
       "name": "NBA TV (720p)",
+      "url": "http://23.237.104.106:8080/USA_NBA/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "NBA TV (720p)",
       "url": "http://198.58.104.90:8989/nba/index.m3u8",
       "reason": "URLError"
     },
     {
       "name": "NFL Network (720p)",
       "url": "http://198.58.104.90:8989/nfl/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Tennis Channel (1080p)",
+      "url": "http://23.237.104.106:8080/USA_TENNIS/index.m3u8",
       "reason": "URLError"
     },
     {
