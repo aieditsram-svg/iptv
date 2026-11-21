@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 04:04 UTC",
-  "fingerprint": "aa13389549f6f2e1af07636befa2db8e",
+  "updated_at": "2026-11-21 04:55 UTC",
+  "fingerprint": "545ecac819ea3cdbb5ff303c532f5c7c",
   "total": 2514,
-  "working": 2044,
-  "in_grace_period": 58,
-  "dead": 470,
-  "hd_channels": 862,
+  "working": 2042,
+  "in_grace_period": 53,
+  "dead": 472,
+  "hd_channels": 863,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -20,7 +20,7 @@
     "Assamese": {
       "total": 44,
       "working": 40,
-      "hd": 13
+      "hd": 12
     },
     "Belarusian": {
       "total": 2,
@@ -29,8 +29,8 @@
     },
     "Bengali": {
       "total": 135,
-      "working": 94,
-      "hd": 47
+      "working": 93,
+      "hd": 48
     },
     "Bhojpuri": {
       "total": 34,
@@ -70,7 +70,7 @@
     "English": {
       "total": 323,
       "working": 251,
-      "hd": 130
+      "hd": 129
     },
     "Estonian": {
       "total": 1,
@@ -109,7 +109,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 696,
+      "working": 695,
       "hd": 262
     },
     "Hungarian": {
@@ -130,7 +130,7 @@
     "Kannada": {
       "total": 88,
       "working": 71,
-      "hd": 30
+      "hd": 31
     },
     "Konkani": {
       "total": 3,
@@ -240,7 +240,7 @@
     "Tamil": {
       "total": 193,
       "working": 163,
-      "hd": 77
+      "hd": 79
     },
     "Telugu": {
       "total": 209,
@@ -320,7 +320,7 @@
     },
     "Entertainment": {
       "total": 288,
-      "working": 227
+      "working": 226
     },
     "General": {
       "total": 203,
@@ -340,7 +340,7 @@
     },
     "Movies": {
       "total": 154,
-      "working": 135
+      "working": 134
     },
     "Music": {
       "total": 144,
@@ -460,6 +460,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -599,6 +604,11 @@
     {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Kashir (576p)",
+      "url": "https://fta.ektv.in/live/248/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1357,6 +1367,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Star Jalsha HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
       "reason": "URLError"
@@ -1420,11 +1435,6 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Taaza TV (576p)",
-      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
@@ -1969,17 +1979,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis",
@@ -2489,12 +2499,12 @@
     {
       "name": "DAZN 4 (540p)",
       "url": "http://23.237.104.106:8080/DAZN_4/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "DAZN 5 (720p)",
       "url": "http://23.237.104.106:8080/DAZN_5/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "DAZN F1",
@@ -2639,7 +2649,7 @@
     {
       "name": "Fox Deportes (720p)",
       "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Fox Sports 1 (720p)",
@@ -2669,12 +2679,12 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "MSG (720p)",
       "url": "http://23.237.104.106:8080/USA_MSG/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "NBA TV (720p)",
