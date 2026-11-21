@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 12:12 UTC",
-  "fingerprint": "c536db4073a72c059ce4eba09d2adb45",
+  "updated_at": "2026-11-21 13:00 UTC",
+  "fingerprint": "c4f0a2585e2eb7d86a83a26ad30d761c",
   "total": 2514,
-  "working": 2023,
-  "in_grace_period": 18,
-  "dead": 491,
-  "hd_channels": 865,
+  "working": 2026,
+  "in_grace_period": 17,
+  "dead": 488,
+  "hd_channels": 866,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 135,
-      "working": 92,
+      "working": 91,
       "hd": 46
     },
     "Bhojpuri": {
@@ -79,8 +79,8 @@
     },
     "French": {
       "total": 18,
-      "working": 14,
-      "hd": 9
+      "working": 16,
+      "hd": 11
     },
     "German": {
       "total": 18,
@@ -109,7 +109,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 690,
+      "working": 692,
       "hd": 257
     },
     "Hungarian": {
@@ -179,7 +179,7 @@
     },
     "Other": {
       "total": 37,
-      "working": 22,
+      "working": 23,
       "hd": 12
     },
     "Polish": {
@@ -194,8 +194,8 @@
     },
     "Punjabi": {
       "total": 168,
-      "working": 157,
-      "hd": 57
+      "working": 156,
+      "hd": 56
     },
     "Romanian": {
       "total": 20,
@@ -204,8 +204,8 @@
     },
     "Russian": {
       "total": 53,
-      "working": 31,
-      "hd": 13
+      "working": 29,
+      "hd": 12
     },
     "Santali": {
       "total": 2,
@@ -239,8 +239,8 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 160,
-      "hd": 84
+      "working": 162,
+      "hd": 85
     },
     "Telugu": {
       "total": 209,
@@ -320,11 +320,11 @@
     },
     "Entertainment": {
       "total": 288,
-      "working": 227
+      "working": 228
     },
     "General": {
       "total": 203,
-      "working": 175
+      "working": 176
     },
     "Kids": {
       "total": 29,
@@ -368,7 +368,7 @@
     },
     "Sports": {
       "total": 566,
-      "working": 338
+      "working": 339
     },
     "Travel": {
       "total": 6,
@@ -602,11 +602,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
       "reason": "HTTP 404"
@@ -787,6 +782,16 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Global Punjab (1080p)",
+      "url": "https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -805,11 +810,6 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -1057,11 +1057,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1165,16 +1160,6 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Oli TV (1080p)",
-      "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Oli TV (1080p)",
-      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Only Bharat (576p)",
@@ -1425,6 +1410,11 @@
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
@@ -1757,6 +1747,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Беларусь 5 Интернет (1080p) [Not 24/7]",
+      "url": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+      "reason": "RemoteDisconnected"
+    },
+    {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
       "reason": "not a valid HLS manifest"
@@ -1922,11 +1917,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Canal+ Sport (1080p) [Geo-blocked]",
-      "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8",
-      "reason": "HTTP 503"
-    },
-    {
       "name": "Eurosport",
       "url": "http://103.253.74.210:7070/stream/122/index.m3u8",
       "reason": "HTTP 403"
@@ -1955,11 +1945,6 @@
       "name": "Eurosport 2 Turkiye",
       "url": "https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Golf + (1080p) [Geo-blocked]",
-      "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8",
-      "reason": "HTTP 503"
     },
     {
       "name": "Adjarasport 1",
@@ -2417,6 +2402,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Volleyball (1080p)",
+      "url": "https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "SOS Kanal Plus (720p)",
       "url": "https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8",
       "reason": "URLError"
@@ -2815,11 +2805,6 @@
       "name": "Willow (720p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Sport",
-      "url": "https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Meridiano TV (576p)",
