@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 22:01 UTC",
-  "fingerprint": "0b881991c644cfbb091f23f67e23d811",
+  "updated_at": "2026-11-21 22:34 UTC",
+  "fingerprint": "838c58d2560c3d103903fce3a98d43cf",
   "total": 2513,
-  "working": 2029,
-  "in_grace_period": 13,
-  "dead": 484,
-  "hd_channels": 874,
+  "working": 2030,
+  "in_grace_period": 12,
+  "dead": 483,
+  "hd_channels": 871,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 323,
       "working": 249,
-      "hd": 131
+      "hd": 129
     },
     "Estonian": {
       "total": 1,
@@ -109,8 +109,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 695,
-      "hd": 264
+      "working": 698,
+      "hd": 263
     },
     "Hungarian": {
       "total": 11,
@@ -180,7 +180,7 @@
     "Other": {
       "total": 36,
       "working": 23,
-      "hd": 12
+      "hd": 14
     },
     "Polish": {
       "total": 7,
@@ -204,7 +204,7 @@
     },
     "Russian": {
       "total": 53,
-      "working": 30,
+      "working": 31,
       "hd": 13
     },
     "Santali": {
@@ -229,8 +229,8 @@
     },
     "Spanish": {
       "total": 113,
-      "working": 60,
-      "hd": 41
+      "working": 57,
+      "hd": 39
     },
     "Swedish": {
       "total": 1,
@@ -320,7 +320,7 @@
     },
     "Entertainment": {
       "total": 288,
-      "working": 228
+      "working": 231
     },
     "General": {
       "total": 203,
@@ -344,11 +344,11 @@
     },
     "Music": {
       "total": 144,
-      "working": 123
+      "working": 122
     },
     "News": {
       "total": 787,
-      "working": 709
+      "working": 710
     },
     "Outdoor": {
       "total": 17,
@@ -368,7 +368,7 @@
     },
     "Sports": {
       "total": 565,
-      "working": 334
+      "working": 332
     },
     "Travel": {
       "total": 6,
@@ -505,11 +505,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (720p)",
@@ -1262,6 +1257,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://fta.ektv.in/live/718/master.m3u8",
       "reason": "HTTP 404"
@@ -1300,16 +1300,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1385,11 +1375,6 @@
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
@@ -1657,6 +1642,21 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "DeporTV (1080p)",
+      "url": "http://158.172.155.130:8000/play/a09y/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "ESPN Premium HD (1080p)",
+      "url": "http://158.172.155.130:8000/play/a0ao/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Fox Sports (1080p)",
+      "url": "http://158.172.155.130:8000/play/a09x/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Racing.com (720p)",
       "url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8",
       "reason": "HTTP 400"
@@ -1705,11 +1705,6 @@
       "name": "Sport TV (1080p)",
       "url": "http://178.124.179.122:8080/SportTV/mpegts",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Беларусь 5 Интернет (1080p) [Not 24/7]",
-      "url": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
-      "reason": "RemoteDisconnected"
     },
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
@@ -1964,7 +1959,7 @@
     {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Setanta Sports 1 Eurasia (1080p)",
