@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-21 18:42 UTC",
-  "fingerprint": "decdb25a989954d447d3738b9a5baca9",
+  "updated_at": "2026-11-21 19:29 UTC",
+  "fingerprint": "1f90d6c72abeaceff689b7b93131c685",
   "total": 2513,
-  "working": 2038,
-  "in_grace_period": 15,
-  "dead": 475,
+  "working": 2039,
+  "in_grace_period": 20,
+  "dead": 474,
   "hd_channels": 874,
   "languages": {
     "Albanian": {
@@ -30,7 +30,7 @@
     "Bengali": {
       "total": 135,
       "working": 94,
-      "hd": 48
+      "hd": 47
     },
     "Bhojpuri": {
       "total": 34,
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 323,
-      "working": 249,
-      "hd": 129
+      "working": 250,
+      "hd": 131
     },
     "Estonian": {
       "total": 1,
@@ -179,7 +179,7 @@
     },
     "Other": {
       "total": 36,
-      "working": 21,
+      "working": 22,
       "hd": 11
     },
     "Polish": {
@@ -368,7 +368,7 @@
     },
     "Sports": {
       "total": 565,
-      "working": 334
+      "working": 335
     },
     "Travel": {
       "total": 6,
@@ -1119,12 +1119,12 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Peace of Mind TV (576p)",
@@ -1214,7 +1214,7 @@
     {
       "name": "Sai TV",
       "url": "https://account31.livebox.co.in/saitvhls/live.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Samay Kolkata (1080p)",
@@ -1862,11 +1862,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Setanta Sports+ Georgia (1080p)",
-      "url": "http://85.117.61.84/setanta2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Sky Sport F1",
       "url": "http://94.130.48.67:8042/stream/51/index.m3u8",
       "reason": "HTTP 403"
@@ -1954,17 +1949,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis",
