@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 23:15 UTC",
-  "fingerprint": "8948b2c33af376906fb612c58be4d310",
+  "updated_at": "2026-11-21 23:49 UTC",
+  "fingerprint": "87ec70252a2fa3c529625c024c0166cb",
   "total": 2513,
-  "working": 2037,
-  "in_grace_period": 18,
-  "dead": 476,
-  "hd_channels": 872,
+  "working": 2033,
+  "in_grace_period": 10,
+  "dead": 480,
+  "hd_channels": 874,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -69,7 +69,7 @@
     },
     "English": {
       "total": 323,
-      "working": 249,
+      "working": 247,
       "hd": 129
     },
     "Estonian": {
@@ -109,8 +109,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 700,
-      "hd": 262
+      "working": 699,
+      "hd": 264
     },
     "Hungarian": {
       "total": 11,
@@ -239,7 +239,7 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 162,
+      "working": 161,
       "hd": 84
     },
     "Telugu": {
@@ -308,7 +308,7 @@
     },
     "Devotional": {
       "total": 266,
-      "working": 243
+      "working": 242
     },
     "Documentary": {
       "total": 13,
@@ -324,7 +324,7 @@
     },
     "General": {
       "total": 203,
-      "working": 172
+      "working": 171
     },
     "Kids": {
       "total": 29,
@@ -348,7 +348,7 @@
     },
     "News": {
       "total": 787,
-      "working": 710
+      "working": 709
     },
     "Outdoor": {
       "total": 17,
@@ -368,7 +368,7 @@
     },
     "Sports": {
       "total": 565,
-      "working": 336
+      "working": 335
     },
     "Travel": {
       "total": 6,
@@ -832,6 +832,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "India Ahead (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "India News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -930,6 +935,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Mantavya News (576p)",
@@ -1132,6 +1142,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "OM TV (576p)",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
@@ -1175,11 +1190,6 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1425,6 +1435,11 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
@@ -1929,7 +1944,7 @@
     {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Setanta Sports 1 Eurasia (1080p)",
@@ -2582,6 +2597,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ESPN (720p) [Geo-blocked]",
+      "url": "http://212.5.144.156:8080/espn/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "ESPN 2 Latin America (1080p)",
       "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
       "reason": "HTTP 403"
@@ -2749,7 +2769,7 @@
     {
       "name": "Meridiano TV (576p)",
       "url": "http://181.78.8.199:8000/play/a0fr/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "SportsMax News (1080p)",
