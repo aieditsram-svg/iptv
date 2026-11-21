@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 07:51 UTC",
-  "fingerprint": "b699f38d5159e73feaf3a6e95a192b7e",
+  "updated_at": "2026-11-21 08:36 UTC",
+  "fingerprint": "22417c9ff5bd5506ddd9d68fbd83a70d",
   "total": 2514,
-  "working": 2049,
+  "working": 2045,
   "in_grace_period": 21,
-  "dead": 465,
-  "hd_channels": 882,
+  "dead": 469,
+  "hd_channels": 877,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 135,
-      "working": 95,
+      "working": 94,
       "hd": 47
     },
     "Bhojpuri": {
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 323,
-      "working": 251,
-      "hd": 131
+      "working": 249,
+      "hd": 130
     },
     "Estonian": {
       "total": 1,
@@ -110,7 +110,7 @@
     "Hindi": {
       "total": 811,
       "working": 702,
-      "hd": 265
+      "hd": 263
     },
     "Hungarian": {
       "total": 11,
@@ -165,7 +165,7 @@
     "Marathi": {
       "total": 59,
       "working": 51,
-      "hd": 25
+      "hd": 24
     },
     "Nepali": {
       "total": 6,
@@ -175,7 +175,7 @@
     "Odia": {
       "total": 38,
       "working": 30,
-      "hd": 13
+      "hd": 12
     },
     "Other": {
       "total": 37,
@@ -195,7 +195,7 @@
     "Punjabi": {
       "total": 168,
       "working": 159,
-      "hd": 58
+      "hd": 57
     },
     "Romanian": {
       "total": 20,
@@ -239,7 +239,7 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 164,
+      "working": 163,
       "hd": 85
     },
     "Telugu": {
@@ -308,7 +308,7 @@
     },
     "Devotional": {
       "total": 266,
-      "working": 243
+      "working": 242
     },
     "Documentary": {
       "total": 13,
@@ -348,7 +348,7 @@
     },
     "News": {
       "total": 787,
-      "working": 716
+      "working": 715
     },
     "Outdoor": {
       "total": 17,
@@ -368,7 +368,7 @@
     },
     "Sports": {
       "total": 566,
-      "working": 342
+      "working": 340
     },
     "Travel": {
       "total": 6,
@@ -937,6 +937,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Kolkata TV (576p)",
+      "url": "https://tvsen6.aynaott.com/kolkatatv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mahaa Max (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMAHAAMAX/index.m3u8",
       "reason": "HTTP 403"
@@ -1105,6 +1110,11 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "OM TV (576p)",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Peace of Mind TV (576p)",
@@ -1904,7 +1914,7 @@
     {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Setanta Sports 1 Eurasia (1080p)",
@@ -1929,17 +1939,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis",
@@ -2284,7 +2294,7 @@
     {
       "name": "UDAR (1080p)",
       "url": "http://5.188.159.128:8070/udar/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "UDAR (1080p)",
@@ -2379,7 +2389,7 @@
     {
       "name": "MEGOGO Sport (1080p)",
       "url": "http://5.188.159.128:8070/megogo_sport/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Setanta Sports+ Ukraine (1080p)",
@@ -2532,6 +2542,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ESPN (720p) [Geo-blocked]",
+      "url": "http://212.5.144.156:8080/espn/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "ESPN 2 Latin America (1080p)",
       "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
       "reason": "HTTP 403"
@@ -2650,6 +2665,11 @@
       "name": "NBA TV (720p)",
       "url": "http://198.58.104.90:8989/nba/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "NBA TV (720p)",
+      "url": "http://rezofoot.tv/NBATV/index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "NFL Network (720p)",
