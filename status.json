@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 07:55 UTC",
-  "fingerprint": "cd53911513965c65cf6d4f11a823e4ca",
+  "updated_at": "2026-11-22 08:39 UTC",
+  "fingerprint": "47c4bcdb87827914de04ac839b1bc78e",
   "total": 2515,
-  "working": 2044,
-  "in_grace_period": 15,
-  "dead": 471,
-  "hd_channels": 879,
+  "working": 2041,
+  "in_grace_period": 14,
+  "dead": 474,
+  "hd_channels": 878,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 135,
-      "working": 94,
+      "working": 93,
       "hd": 48
     },
     "Bhojpuri": {
@@ -70,7 +70,7 @@
     "English": {
       "total": 323,
       "working": 249,
-      "hd": 129
+      "hd": 131
     },
     "Estonian": {
       "total": 1,
@@ -139,8 +139,8 @@
     },
     "Korean": {
       "total": 1,
-      "working": 1,
-      "hd": 1
+      "working": 0,
+      "hd": 0
     },
     "Latvian": {
       "total": 1,
@@ -180,7 +180,7 @@
     "Other": {
       "total": 36,
       "working": 23,
-      "hd": 14
+      "hd": 12
     },
     "Polish": {
       "total": 7,
@@ -244,7 +244,7 @@
     },
     "Telugu": {
       "total": 209,
-      "working": 180,
+      "working": 179,
       "hd": 72
     },
     "Thai": {
@@ -320,7 +320,7 @@
     },
     "Entertainment": {
       "total": 288,
-      "working": 230
+      "working": 229
     },
     "General": {
       "total": 203,
@@ -340,7 +340,7 @@
     },
     "Movies": {
       "total": 154,
-      "working": 136
+      "working": 135
     },
     "Music": {
       "total": 144,
@@ -368,7 +368,7 @@
     },
     "Sports": {
       "total": 567,
-      "working": 343
+      "working": 342
     },
     "Travel": {
       "total": 6,
@@ -424,7 +424,7 @@
     {
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Anand Wari TV (576p)",
@@ -690,6 +690,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -1355,6 +1360,11 @@
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
@@ -2095,6 +2105,11 @@
       "name": "Sky Sport Select",
       "url": "http://37.49.224.5/stream/53/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Sports Television (720p) [Not 24/7]",
+      "url": "https://live.koryocdn.org/sports/index.m3u8",
+      "reason": "HTTP 401"
     },
     {
       "name": "Arena Sport Premium M1",
