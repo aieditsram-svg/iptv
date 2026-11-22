@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 13:48 UTC",
-  "fingerprint": "66ea3968872048f860b26558f157f052",
+  "updated_at": "2026-11-22 14:34 UTC",
+  "fingerprint": "a5c9554764a579562ee960eb95e3370e",
   "total": 2515,
-  "working": 1999,
-  "in_grace_period": 21,
-  "dead": 516,
-  "hd_channels": 846,
+  "working": 1994,
+  "in_grace_period": 30,
+  "dead": 521,
+  "hd_channels": 844,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 323,
-      "working": 221,
-      "hd": 111
+      "working": 219,
+      "hd": 109
     },
     "Estonian": {
       "total": 1,
@@ -109,7 +109,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 668,
+      "working": 667,
       "hd": 240
     },
     "Hungarian": {
@@ -204,7 +204,7 @@
     },
     "Russian": {
       "total": 53,
-      "working": 30,
+      "working": 29,
       "hd": 14
     },
     "Santali": {
@@ -229,7 +229,7 @@
     },
     "Spanish": {
       "total": 112,
-      "working": 61,
+      "working": 60,
       "hd": 41
     },
     "Swedish": {
@@ -264,12 +264,12 @@
     },
     "Urdu": {
       "total": 28,
-      "working": 24,
+      "working": 23,
       "hd": 7
     },
     "Vietnamese": {
       "total": 6,
-      "working": 6,
+      "working": 5,
       "hd": 4
     }
   },
@@ -308,7 +308,7 @@
     },
     "Devotional": {
       "total": 266,
-      "working": 242
+      "working": 241
     },
     "Documentary": {
       "total": 13,
@@ -332,7 +332,7 @@
     },
     "Legislative": {
       "total": 8,
-      "working": 7
+      "working": 6
     },
     "Lifestyle": {
       "total": 29,
@@ -368,7 +368,7 @@
     },
     "Sports": {
       "total": 567,
-      "working": 332
+      "working": 329
     },
     "Travel": {
       "total": 6,
@@ -1318,6 +1318,11 @@
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
+      "url": "https://fta.ektv.in/live/718/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
     },
@@ -1732,6 +1737,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Zainabia Channel",
+      "url": "https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Zee 24 Ghanta (576p)",
       "url": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8",
       "reason": "TimeoutError"
@@ -1849,6 +1859,11 @@
     {
       "name": "El-Heddaf TV (1080p)",
       "url": "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "TyC Sports USA",
+      "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -2154,7 +2169,7 @@
     {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Setanta Sports 1 Eurasia (1080p)",
@@ -2470,6 +2485,11 @@
       "name": "Extreme Sports Channel (576p)",
       "url": "http://46.32.176.50/extremesport/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "FON TV (1080p)",
+      "url": "https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "KHL (576p)",
@@ -2955,6 +2975,11 @@
       "name": "SportsMax News (1080p)",
       "url": "http://181.79.86.130:8000/play/a081/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "HTV Sports (1080i)",
+      "url": "https://vmttv.dpdns.org/tv360?id=htv-the-thao",
+      "reason": "HTTP 404"
     }
   ]
 }
