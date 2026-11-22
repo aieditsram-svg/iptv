@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-22 17:25 UTC",
-  "fingerprint": "b1e923f43f932253da1aad856d8aed02",
+  "updated_at": "2026-11-22 18:01 UTC",
+  "fingerprint": "21daee11076c17a950fa48225b7d5553",
   "total": 2515,
-  "working": 1986,
-  "in_grace_period": 19,
-  "dead": 529,
+  "working": 1985,
+  "in_grace_period": 9,
+  "dead": 530,
   "hd_channels": 839,
   "languages": {
     "Albanian": {
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 135,
-      "working": 90,
+      "working": 89,
       "hd": 45
     },
     "Bhojpuri": {
@@ -180,7 +180,7 @@
     "Other": {
       "total": 36,
       "working": 23,
-      "hd": 12
+      "hd": 13
     },
     "Polish": {
       "total": 7,
@@ -194,7 +194,7 @@
     },
     "Punjabi": {
       "total": 168,
-      "working": 156,
+      "working": 157,
       "hd": 57
     },
     "Romanian": {
@@ -229,7 +229,7 @@
     },
     "Spanish": {
       "total": 112,
-      "working": 61,
+      "working": 60,
       "hd": 41
     },
     "Swedish": {
@@ -239,12 +239,12 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 146,
-      "hd": 72
+      "working": 145,
+      "hd": 71
     },
     "Telugu": {
       "total": 209,
-      "working": 168,
+      "working": 169,
       "hd": 64
     },
     "Thai": {
@@ -308,7 +308,7 @@
     },
     "Devotional": {
       "total": 266,
-      "working": 241
+      "working": 240
     },
     "Documentary": {
       "total": 13,
@@ -320,7 +320,7 @@
     },
     "Entertainment": {
       "total": 288,
-      "working": 220
+      "working": 221
     },
     "General": {
       "total": 203,
@@ -368,7 +368,7 @@
     },
     "Sports": {
       "total": 567,
-      "working": 328
+      "working": 327
     },
     "Travel": {
       "total": 6,
@@ -390,11 +390,6 @@
       "name": "9X Jhakaas (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -732,11 +727,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -840,6 +830,11 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -1007,6 +1002,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -1045,6 +1045,11 @@
       "name": "MH One Movies (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "MNTV (1080p)",
+      "url": "https://mntv.livebox.co.in/mntvhls/live.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "MNX (576p)",
@@ -1332,6 +1337,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
@@ -1365,16 +1375,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1897,6 +1897,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "TyC Sports USA",
+      "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Racing.com (720p)",
       "url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8",
       "reason": "HTTP 400"
@@ -2229,17 +2234,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "SuperTennis",
