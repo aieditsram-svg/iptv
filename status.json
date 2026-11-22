@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 10:51 UTC",
-  "fingerprint": "8d0a5c8884d013cad028b1dc3e9d5a5f",
+  "updated_at": "2026-11-22 11:30 UTC",
+  "fingerprint": "1b42cb94aa2a0579ea04a09dba855ab4",
   "total": 2515,
-  "working": 2051,
-  "in_grace_period": 46,
-  "dead": 464,
-  "hd_channels": 882,
+  "working": 2048,
+  "in_grace_period": 94,
+  "dead": 467,
+  "hd_channels": 881,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 135,
-      "working": 96,
+      "working": 95,
       "hd": 48
     },
     "Bhojpuri": {
@@ -109,7 +109,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 702,
+      "working": 700,
       "hd": 263
     },
     "Hungarian": {
@@ -180,7 +180,7 @@
     "Other": {
       "total": 36,
       "working": 23,
-      "hd": 14
+      "hd": 13
     },
     "Polish": {
       "total": 7,
@@ -320,7 +320,7 @@
     },
     "Entertainment": {
       "total": 288,
-      "working": 231
+      "working": 230
     },
     "General": {
       "total": 203,
@@ -340,7 +340,7 @@
     },
     "Movies": {
       "total": 154,
-      "working": 137
+      "working": 135
     },
     "Music": {
       "total": 144,
@@ -772,6 +772,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -790,6 +795,11 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -1330,6 +1340,11 @@
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
@@ -1899,7 +1914,7 @@
     {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Setanta Sports 1 Eurasia (1080p)",
