@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 14:34 UTC",
-  "fingerprint": "a5c9554764a579562ee960eb95e3370e",
+  "updated_at": "2026-11-22 15:20 UTC",
+  "fingerprint": "eda5e98e42375ae123761a9cc6e9e0b0",
   "total": 2515,
-  "working": 1994,
-  "in_grace_period": 30,
-  "dead": 521,
-  "hd_channels": 844,
+  "working": 1992,
+  "in_grace_period": 22,
+  "dead": 523,
+  "hd_channels": 840,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -109,8 +109,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 667,
-      "hd": 240
+      "working": 666,
+      "hd": 239
     },
     "Hungarian": {
       "total": 11,
@@ -124,7 +124,7 @@
     },
     "Italian": {
       "total": 22,
-      "working": 16,
+      "working": 15,
       "hd": 9
     },
     "Kannada": {
@@ -184,8 +184,8 @@
     },
     "Polish": {
       "total": 7,
-      "working": 3,
-      "hd": 2
+      "working": 1,
+      "hd": 0
     },
     "Portuguese": {
       "total": 30,
@@ -204,7 +204,7 @@
     },
     "Russian": {
       "total": 53,
-      "working": 29,
+      "working": 30,
       "hd": 14
     },
     "Santali": {
@@ -229,7 +229,7 @@
     },
     "Spanish": {
       "total": 112,
-      "working": 60,
+      "working": 61,
       "hd": 41
     },
     "Swedish": {
@@ -254,8 +254,8 @@
     },
     "Turkish": {
       "total": 12,
-      "working": 6,
-      "hd": 5
+      "working": 5,
+      "hd": 4
     },
     "Ukrainian": {
       "total": 15,
@@ -269,7 +269,7 @@
     },
     "Vietnamese": {
       "total": 6,
-      "working": 5,
+      "working": 6,
       "hd": 4
     }
   },
@@ -320,7 +320,7 @@
     },
     "Entertainment": {
       "total": 288,
-      "working": 225
+      "working": 224
     },
     "General": {
       "total": 203,
@@ -368,7 +368,7 @@
     },
     "Sports": {
       "total": 567,
-      "working": 329
+      "working": 328
     },
     "Travel": {
       "total": 6,
@@ -1129,7 +1129,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News India 24x7 (1080p)",
@@ -1842,6 +1842,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Zee TV HD (720p) [Geo-blocked]",
+      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Asianet News Telugu Ⓨ",
       "url": "https://www.youtube.com/@AsianetNewsTelugu/live",
       "reason": "returned HTML page"
@@ -1859,11 +1864,6 @@
     {
       "name": "El-Heddaf TV (1080p)",
       "url": "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "TyC Sports USA",
-      "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -2187,6 +2187,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Sky Sport F1",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22890389722acc4573933d",
+      "reason": "HTTP 429"
+    },
+    {
       "name": "Sportitalia (1080p)",
       "url": "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8",
       "reason": "HTTP 404"
@@ -2422,6 +2427,16 @@
       "reason": "URLError"
     },
     {
+      "name": "Eurosport 3 Polska (1080p)",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5121596371c5191ed9b35",
+      "reason": "HTTP 429"
+    },
+    {
+      "name": "Eurosport 4 Polska (1080p)",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2896573317d9d69e0e2d72",
+      "reason": "HTTP 429"
+    },
+    {
       "name": "Polsat Sport Fight",
       "url": "http://92.114.85.87:8016/play/a00b/index.m3u8",
       "reason": "HTTP 404"
@@ -2485,11 +2500,6 @@
       "name": "Extreme Sports Channel (576p)",
       "url": "http://46.32.176.50/extremesport/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "FON TV (1080p)",
-      "url": "https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "KHL (576p)",
@@ -2600,6 +2610,11 @@
       "name": "Futbol (1080p)",
       "url": "https://live.teleradiocom.tj/8/3m.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "beIN Sports 1 Turk (1080p)",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad",
+      "reason": "HTTP 429"
     },
     {
       "name": "FB TV (720p)",
@@ -2799,7 +2814,7 @@
     {
       "name": "ESPN (432p)",
       "url": "http://tvsen7.aynascope.net/espn/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "ESPN 2 Latin America (1080p)",
@@ -2954,12 +2969,12 @@
     {
       "name": "Willow (720p)",
       "url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Willow (720p)",
       "url": "http://tvsen7.aynascope.net/rEBp38Ax/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Willow (720p) [Geo-blocked]",
@@ -2975,11 +2990,6 @@
       "name": "SportsMax News (1080p)",
       "url": "http://181.79.86.130:8000/play/a081/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "HTV Sports (1080i)",
-      "url": "https://vmttv.dpdns.org/tv360?id=htv-the-thao",
-      "reason": "HTTP 404"
     }
   ]
 }
