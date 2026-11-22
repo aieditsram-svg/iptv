@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 08:39 UTC",
-  "fingerprint": "47c4bcdb87827914de04ac839b1bc78e",
+  "updated_at": "2026-11-22 09:25 UTC",
+  "fingerprint": "89063afb7403a2cf8fa376684552c374",
   "total": 2515,
-  "working": 2041,
-  "in_grace_period": 14,
-  "dead": 474,
-  "hd_channels": 878,
+  "working": 2044,
+  "in_grace_period": 6,
+  "dead": 471,
+  "hd_channels": 877,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 135,
-      "working": 93,
+      "working": 94,
       "hd": 48
     },
     "Bhojpuri": {
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 323,
-      "working": 249,
-      "hd": 131
+      "working": 248,
+      "hd": 130
     },
     "Estonian": {
       "total": 1,
@@ -109,8 +109,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 699,
-      "hd": 264
+      "working": 700,
+      "hd": 262
     },
     "Hungarian": {
       "total": 11,
@@ -180,7 +180,7 @@
     "Other": {
       "total": 36,
       "working": 23,
-      "hd": 12
+      "hd": 13
     },
     "Polish": {
       "total": 7,
@@ -204,7 +204,7 @@
     },
     "Russian": {
       "total": 53,
-      "working": 30,
+      "working": 31,
       "hd": 14
     },
     "Santali": {
@@ -308,7 +308,7 @@
     },
     "Devotional": {
       "total": 266,
-      "working": 241
+      "working": 242
     },
     "Documentary": {
       "total": 13,
@@ -320,7 +320,7 @@
     },
     "Entertainment": {
       "total": 288,
-      "working": 229
+      "working": 230
     },
     "General": {
       "total": 203,
@@ -340,11 +340,11 @@
     },
     "Movies": {
       "total": 154,
-      "working": 135
+      "working": 136
     },
     "Music": {
       "total": 144,
-      "working": 122
+      "working": 121
     },
     "News": {
       "total": 787,
@@ -368,7 +368,7 @@
     },
     "Sports": {
       "total": 567,
-      "working": 342
+      "working": 343
     },
     "Travel": {
       "total": 6,
@@ -380,6 +380,11 @@
       "name": "7S Music (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "7X Music (1080p)",
+      "url": "https://7xshreeshyam.akamaized.net/7XPunjabi/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9X Jalwa (576p)",
@@ -417,14 +422,9 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "TimeoutError"
     },
     {
       "name": "Anand Wari TV (576p)",
@@ -847,6 +847,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "IBC 24 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
       "reason": "HTTP 403"
@@ -952,11 +957,6 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
@@ -1037,11 +1037,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1069,7 +1064,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News India 24x7 (1080p)",
@@ -1360,11 +1355,6 @@
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
@@ -2262,11 +2252,6 @@
       "reason": "URLError"
     },
     {
-      "name": "FON TV (1080p)",
-      "url": "https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "KHL (576p)",
       "url": "http://stream.mcquack.net/166/index.m3u8",
       "reason": "HTTP 403"
@@ -2569,7 +2554,7 @@
     {
       "name": "ESPN (432p)",
       "url": "http://tvsen7.aynascope.net/espn/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "ESPN 2 Latin America (1080p)",
@@ -2724,12 +2709,12 @@
     {
       "name": "Willow (720p)",
       "url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Willow (720p)",
       "url": "http://tvsen7.aynascope.net/rEBp38Ax/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Willow (720p) [Geo-blocked]",
