@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 06:44 UTC",
-  "fingerprint": "4a614994a027c1c9e8c55d96a3507ee8",
+  "updated_at": "2026-11-22 07:55 UTC",
+  "fingerprint": "cd53911513965c65cf6d4f11a823e4ca",
   "total": 2515,
-  "working": 2043,
-  "in_grace_period": 23,
-  "dead": 472,
-  "hd_channels": 875,
+  "working": 2044,
+  "in_grace_period": 15,
+  "dead": 471,
+  "hd_channels": 879,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 135,
-      "working": 95,
+      "working": 94,
       "hd": 48
     },
     "Bhojpuri": {
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 323,
-      "working": 248,
-      "hd": 128
+      "working": 249,
+      "hd": 129
     },
     "Estonian": {
       "total": 1,
@@ -94,8 +94,8 @@
     },
     "Gujarati": {
       "total": 49,
-      "working": 44,
-      "hd": 19
+      "working": 45,
+      "hd": 20
     },
     "Haryanvi": {
       "total": 1,
@@ -180,7 +180,7 @@
     "Other": {
       "total": 36,
       "working": 23,
-      "hd": 13
+      "hd": 14
     },
     "Polish": {
       "total": 7,
@@ -204,8 +204,8 @@
     },
     "Russian": {
       "total": 53,
-      "working": 31,
-      "hd": 13
+      "working": 30,
+      "hd": 14
     },
     "Santali": {
       "total": 2,
@@ -244,8 +244,8 @@
     },
     "Telugu": {
       "total": 209,
-      "working": 178,
-      "hd": 71
+      "working": 180,
+      "hd": 72
     },
     "Thai": {
       "total": 1,
@@ -324,7 +324,7 @@
     },
     "General": {
       "total": 203,
-      "working": 176
+      "working": 175
     },
     "Kids": {
       "total": 29,
@@ -332,7 +332,7 @@
     },
     "Legislative": {
       "total": 8,
-      "working": 6
+      "working": 7
     },
     "Lifestyle": {
       "total": 29,
@@ -344,11 +344,11 @@
     },
     "Music": {
       "total": 144,
-      "working": 123
+      "working": 122
     },
     "News": {
       "total": 787,
-      "working": 709
+      "working": 712
     },
     "Outdoor": {
       "total": 17,
@@ -368,7 +368,7 @@
     },
     "Sports": {
       "total": 567,
-      "working": 344
+      "working": 343
     },
     "Travel": {
       "total": 6,
@@ -410,11 +410,6 @@
       "name": "Aakaash Aath (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "ABN Andhra Jyoti (720p)",
-      "url": "https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AKD Calcutta News (576p)",
@@ -1037,6 +1032,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1137,11 +1137,6 @@
       "reason": "URLError"
     },
     {
-      "name": "NTV Telugu (576p)",
-      "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8",
-      "reason": "HTTP 503"
-    },
-    {
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
@@ -1150,11 +1145,6 @@
       "name": "Pogo (576p)",
       "url": "http://103.135.253.32:8080/POGO/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Pradesh24 Gujarati (1080p)",
-      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Prameya News7 (576p)",
@@ -1252,8 +1242,8 @@
       "reason": "URLError"
     },
     {
-      "name": "Sansad TV 1 HD (1080p)",
-      "url": "https://fta.ektv.in/live/718/master.m3u8",
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1964,17 +1954,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis",
@@ -2255,6 +2245,11 @@
       "name": "Extreme Sports Channel (576p)",
       "url": "http://46.32.176.50/extremesport/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "FON TV (1080p)",
+      "url": "https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "KHL (576p)",
