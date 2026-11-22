@@ -1,5 +1,5 @@
 #EXTM3U
-# One link per channel for Kodi IPTV Simple Client, all languages, updated 2026-11-22 05:01 UTC
+# One link per channel for Kodi IPTV Simple Client, all languages, updated 2026-11-22 05:52 UTC
 #EXTINF:-1 tvg-id="RTSHSport.al@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/J6NKXyJ.png" x-category="Sports" tvg-language="Albanian" group-title="Albanian",RTSH Sport
 http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 #EXTINF:-1 tvg-id="AlIraqiaSport.iq@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/DrrlxTO.png" x-category="Sports" tvg-language="Arabic" group-title="Arabic",Al Iraqia Sport
@@ -46,7 +46,7 @@ https://stream.ottlive.co.in/nktv/index.m3u8
 #EXTINF:-1 tvg-id="PearTV.in@SD" x-categories="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEARS_TV/images/LOGO_HD/image.png" x-category="Entertainment" tvg-language="Assamese" group-title="Assamese" height="720",Pear TV
 https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8
 #EXTINF:-1 tvg-id="PragNews.in@SD" x-categories="News" tvg-logo="https://dtil.tmsimg.com/assets/s143671_ld_h15_aa.png?lock=720x540" x-category="News" tvg-language="Assamese" group-title="Assamese" height="720",Prag News
-https://streams.tangotv.in/PRAGNEWS/ORIGIN/index.m3u8
+https://hls.pragnews.com/master.m3u8
 #EXTINF:-1 tvg-id="PrathamKhabar24x7.in@SD" x-categories="News" tvg-logo="https://i.imgur.com/HNsg5Px.png" x-category="News" tvg-language="Assamese" group-title="Assamese" height="1080",Pratham Khabar 24x7
 https://livelegitpro.in/hls2/newstime/index.m3u8
 #EXTINF:-1 tvg-id="PratidinTime.in@SD" x-categories="News" tvg-logo="https://dtil.tmsimg.com/assets/s143674_ld_h15_aa.png?lock=720x540" x-category="News" tvg-language="Assamese" group-title="Assamese" height="720",Pratidin Time
@@ -413,7 +413,7 @@ https://webtvstream.bhtelecom.ba/fightbox.m3u8
 https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes.us@SD" x-categories="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" x-category="Sports" tvg-language="English" group-title="English",Fox Deportes
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us@HD" x-categories="Sports" tvg-logo="https://i.imgur.com/O9BapV9.png" x-category="Sports" tvg-language="English" group-title="English" height="720",Fox Sports 1
+#EXTINF:-1 tvg-id="FoxSports1.us@HD" x-categories="Sports" tvg-logo="https://i.imgur.com/O9BapV9.png" x-category="Sports" tvg-language="English" group-title="English" height="1080",Fox Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us@HD" x-categories="Sports" tvg-logo="https://i.ibb.co/35bddzKR/IMG-2281.png" x-category="Sports" tvg-language="English" group-title="English",Fox Sports 2
 https://tvsen7.aynascope.net/foxsports2/index.m3u8
@@ -421,7 +421,7 @@ https://tvsen7.aynascope.net/foxsports2/index.m3u8
 https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
 #EXTINF:-1 tvg-id="FTFSports.us@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/yvUjOI3.png" x-category="Sports" tvg-language="English" group-title="English" height="1080",FTF Sports
 https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
-#EXTINF:-1 tvg-id="FuboSportsNetwork.us@HD" x-categories="Sports" tvg-logo="https://i.imgur.com/qFNRJLb.png" x-category="Sports" tvg-language="English" group-title="English" height="720",Fubo Sports Network HD
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us@HD" x-categories="Sports" tvg-logo="https://i.imgur.com/qFNRJLb.png" x-category="Sports" tvg-language="English" group-title="English" height="1080",Fubo Sports Network HD
 http://107.167.16.138/fubosportsnetwork/index.m3u8?token=test
 #EXTINF:-1 tvg-id="FUELTV.pt@EMEA" x-categories="Sports" tvg-logo="https://i.imgur.com/I8mviBy.png" x-category="Sports" tvg-language="English" group-title="English" height="1080",FUEL TV
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
@@ -684,7 +684,7 @@ https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://109.104.153.220/TSN-4/index.m3u8
 #EXTINF:-1 tvg-id="TVSBowlingNetwork.us@SD" x-categories="Sports" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg" x-category="Sports" tvg-language="English" group-title="English" height="720",TVS Bowling Network
 https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
-#EXTINF:-1 tvg-id="TVSBoxing.us@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/30ZoF75.png" x-category="Sports" tvg-language="English" group-title="English" height="720",TVS Boxing
+#EXTINF:-1 tvg-id="TVSBoxing.us@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/30ZoF75.png" x-category="Sports" tvg-language="English" group-title="English" height="480",TVS Boxing
 https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 tvg-id="TVSClassicSports.us@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/auR0Mi6.png" x-category="Sports" tvg-language="English" group-title="English" height="720",TVS Classic Sports
 https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
@@ -1093,7 +1093,7 @@ https://samitaorigin.tangotv.in/FGNCHANNEL/SAMITAORIGIN/index.m3u8
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="FoodFood.in@SD" x-categories="Cooking;Lifestyle" tvg-logo="https://i.imgur.com/J930pA1.png" x-category="Cooking" tvg-language="Hindi" group-title="Hindi" height="504",Food Food
 https://d2lk5u59tns74c.cloudfront.net/out/v1/ffc601b3dc8d41c5b09115702538d75a/index.m3u8
-#EXTINF:-1 tvg-id="GangaurTV.in@SD" x-categories="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gangaur.png" x-category="Entertainment" tvg-language="Hindi" group-title="Hindi" height="1080",Gangaur TV
+#EXTINF:-1 tvg-id="GangaurTV.in@SD" x-categories="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gangaur.png" x-category="Entertainment" tvg-language="Hindi" group-title="Hindi",Gangaur TV
 https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
 #EXTINF:-1 tvg-id="GlobalIndia.in@SD" x-categories="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Global_India.png" x-category="News" tvg-language="Hindi" group-title="Hindi" height="720",Global India
 https://server.livelegitpro.in/globalindiatv/globalindiatv/video.m3u8
@@ -1464,7 +1464,7 @@ https://fta.ektv.in/live/607/master.m3u8
 https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="SuryaSamachar.in@SD" x-categories="News" tvg-logo="https://i.imgur.com/vxs1kRB.png" x-category="News" tvg-language="Hindi" group-title="Hindi" height="396",Surya Samachar
 https://d1msejlow1t3l4.cloudfront.net/fta/suryasamachar/playlist.m3u8
-#EXTINF:-1 tvg-id="SVBC4.in@SD" x-categories="Devotional" tvg-logo="https://i.imgur.com/vCFdZny.png" x-category="Devotional" tvg-language="Hindi" group-title="Hindi",SVBC 4
+#EXTINF:-1 tvg-id="SVBC4.in@SD" x-categories="Devotional" tvg-logo="https://i.imgur.com/vCFdZny.png" x-category="Devotional" tvg-language="Hindi" group-title="Hindi" height="1080",SVBC 4
 https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SwadeshNews.in@SD" x-categories="News" tvg-logo="https://i.imgur.com/iQ2CYsn.png" x-category="News" tvg-language="Hindi" group-title="Hindi" height="576",Swadesh News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -2005,7 +2005,7 @@ https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01
 https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="MNBSport.mn@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/z854PC3.png" x-category="Sports" tvg-language="Other" group-title="Other",MNB Sport
 https://live.mnb.mn/hls/mnb_sport.stream.m3u8
-#EXTINF:-1 tvg-id="MRTVSports.mm@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/cFTR4kC.png" x-category="Sports" tvg-language="Other" group-title="Other" height="1080",MRTV Sports
+#EXTINF:-1 tvg-id="MRTVSports.mm@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/cFTR4kC.png" x-category="Sports" tvg-language="Other" group-title="Other",MRTV Sports
 https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
 #EXTINF:-1 tvg-id="NDTVProfit.in@HD" x-categories="Business" tvg-logo="https://i.imgur.com/WK4tZ6p.png" x-category="Business" tvg-language="Other" group-title="Other" height="1080",NDTV Profit
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
@@ -2287,7 +2287,7 @@ https://s7.iptv-24.net/1439/playlist.m3u8
 https://s7.iptv-24.net/1452/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremeSportsChannel.ru@SD" x-categories="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/960px-Extreme_Sports_Channel.svg.png" x-category="Sports" tvg-language="Russian" group-title="Russian",Extreme Sports Channel
 https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="FONTV.ru@HD" x-categories="Sports" tvg-logo="https://play-lh.googleusercontent.com/J0YeRB884koVfecR2mp43Y2mbNtRVTSSOiq2U1gkITJ9IxzIM4VA71Rqbh3UlREI4mCnlxGHm4wxoujt5ZH1AQ" x-category="Sports" tvg-language="Russian" group-title="Russian" height="1080",FON TV
+#EXTINF:-1 tvg-id="FONTV.ru@HD" x-categories="Sports" tvg-logo="https://play-lh.googleusercontent.com/J0YeRB884koVfecR2mp43Y2mbNtRVTSSOiq2U1gkITJ9IxzIM4VA71Rqbh3UlREI4mCnlxGHm4wxoujt5ZH1AQ" x-category="Sports" tvg-language="Russian" group-title="Russian",FON TV
 https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
 #EXTINF:-1 tvg-id="KHL.ru@SD" x-categories="Sports" tvg-logo="https://i.imgur.com/RgdHdOV.png" x-category="Sports" tvg-language="Russian" group-title="Russian" height="576",KHL
 http://176.118.197.101/KHL/index.m3u8
@@ -2716,7 +2716,7 @@ http://116.90.120.149:8000/play/a120/index.m3u8
 #EXTINF:-1 tvg-id="StarVijay.in@UK" x-categories="Entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/698/1782289770698-h.jpg" x-category="Entertainment" tvg-language="Tamil" group-title="Tamil" height="720",Star Vijay
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SubinTV.in@SD" x-categories="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png" x-category="Entertainment" tvg-language="Tamil" group-title="Tamil" height="1080",Subin TV
-https://stream.ottlive.co.in/subintvtamil/index.m3u8
+https://stream.galaxyott.live/live/subintv/index.m3u8
 #EXTINF:-1 tvg-id="SuriyaTV.in@SD" x-categories="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/suryatvtamil.png" x-category="Entertainment" tvg-language="Tamil" group-title="Tamil" height="1080",Suriya TV
 https://stream.ottlive.co.in/suryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="SuriyanTV.in@SD" x-categories="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-06/2511063356010.jpg" x-category="Movies" tvg-language="Tamil" group-title="Tamil" height="576",Suriyan TV

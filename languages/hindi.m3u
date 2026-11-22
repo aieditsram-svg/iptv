@@ -1,5 +1,5 @@
 #EXTM3U
-# Working Hindi channels, updated 2026-11-22 05:01 UTC
+# Working Hindi channels, updated 2026-11-22 05:52 UTC
 #EXTINF:-1 tvg-id="Andpictures.in@HD" x-categories="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" x-category="Movies" tvg-language="Hindi" group-title="Hindi" height="1080",&pictures HD (1080p)
 http://116.90.120.149:8000/play/a132/index.m3u8
 #EXTINF:-1 tvg-id="AndTV.in@HD" x-categories="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png?lock=720x540" x-category="Movies" tvg-language="Hindi" group-title="Hindi" height="1080",&TV HD (1080p)
@@ -387,6 +387,9 @@ https://cdn.pishow.tv/ott/live/1617/master.m3u8
 https://fta.ektv.in/live/573/master.m3u8
 #EXTINF:-1 tvg-id="DDKashir.in@SD" x-categories="General" tvg-logo="https://dtil.tmsimg.com/assets/s142788_ld_h15_aa.png?lock=720x540" x-category="General" tvg-language="Hindi" group-title="Hindi" height="576",DD Kashir (576p)
 https://cdn.pishow.tv/ott/live/16/master.m3u8
+#EXTINF:-1 tvg-id="DDKashir.in@SD" x-categories="General" tvg-logo="https://dtil.tmsimg.com/assets/s142788_ld_h15_aa.png?lock=720x540" x-category="General" tvg-language="Hindi" group-title="Hindi" height="576",DD Kashir (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/248/master.m3u8
 #EXTINF:-1 tvg-id="DDKisan.in@SD" x-categories="Education;Outdoor" tvg-logo="https://dtil.tmsimg.com/assets/s142789_ld_h9_aa.png?lock=720x540" x-category="Education" tvg-language="Hindi" group-title="Hindi" height="1080",DD Kisan (1080p)
 https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8
 #EXTINF:-1 tvg-id="DDKisan.in@SD" x-categories="Education;Outdoor" tvg-logo="https://dtil.tmsimg.com/assets/s142789_ld_h9_aa.png?lock=720x540" x-category="Education" tvg-language="Hindi" group-title="Hindi" height="576",DD Kisan (576p)

@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 05:01 UTC",
-  "fingerprint": "53eaa16e5d8aeaf2ced2ec534a560427",
+  "updated_at": "2026-11-22 05:52 UTC",
+  "fingerprint": "ff1171fab2cd0cd9d5e58d8d3046c894",
   "total": 2515,
-  "working": 2040,
-  "in_grace_period": 10,
-  "dead": 475,
-  "hd_channels": 878,
+  "working": 2042,
+  "in_grace_period": 13,
+  "dead": 473,
+  "hd_channels": 876,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 323,
       "working": 249,
-      "hd": 130
+      "hd": 129
     },
     "Estonian": {
       "total": 1,
@@ -109,7 +109,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 696,
+      "working": 697,
       "hd": 264
     },
     "Hungarian": {
@@ -180,7 +180,7 @@
     "Other": {
       "total": 36,
       "working": 23,
-      "hd": 13
+      "hd": 12
     },
     "Polish": {
       "total": 7,
@@ -239,7 +239,7 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 162,
+      "working": 163,
       "hd": 85
     },
     "Telugu": {
@@ -320,11 +320,11 @@
     },
     "Entertainment": {
       "total": 288,
-      "working": 228
+      "working": 229
     },
     "General": {
       "total": 203,
-      "working": 175
+      "working": 176
     },
     "Kids": {
       "total": 29,
@@ -609,11 +609,6 @@
     {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Kashir (576p)",
-      "url": "https://fta.ektv.in/live/248/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1417,11 +1412,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Subin TV (1080p)",
-      "url": "https://stream.galaxyott.live/live/subintv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Sun Surya HD (1080p)",
       "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
       "reason": "HTTP 403"
@@ -1979,17 +1969,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis",
