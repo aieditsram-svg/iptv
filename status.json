@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-22 16:01 UTC",
-  "fingerprint": "c49511f29830c544ad6c4afd50bffd9e",
+  "updated_at": "2026-11-22 16:40 UTC",
+  "fingerprint": "cfb97c35d6d283305b33b0a4d981dbf5",
   "total": 2515,
-  "working": 1989,
-  "in_grace_period": 20,
-  "dead": 526,
+  "working": 1984,
+  "in_grace_period": 18,
+  "dead": 531,
   "hd_channels": 840,
   "languages": {
     "Albanian": {
@@ -70,7 +70,7 @@
     "English": {
       "total": 323,
       "working": 219,
-      "hd": 109
+      "hd": 110
     },
     "Estonian": {
       "total": 1,
@@ -109,7 +109,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 666,
+      "working": 664,
       "hd": 240
     },
     "Hungarian": {
@@ -180,7 +180,7 @@
     "Other": {
       "total": 36,
       "working": 23,
-      "hd": 13
+      "hd": 12
     },
     "Polish": {
       "total": 7,
@@ -199,7 +199,7 @@
     },
     "Romanian": {
       "total": 23,
-      "working": 22,
+      "working": 19,
       "hd": 6
     },
     "Russian": {
@@ -324,7 +324,7 @@
     },
     "General": {
       "total": 203,
-      "working": 177
+      "working": 176
     },
     "Kids": {
       "total": 29,
@@ -340,7 +340,7 @@
     },
     "Movies": {
       "total": 154,
-      "working": 118
+      "working": 117
     },
     "Music": {
       "total": 144,
@@ -368,7 +368,7 @@
     },
     "Sports": {
       "total": 567,
-      "working": 328
+      "working": 325
     },
     "Travel": {
       "total": 6,
@@ -435,6 +435,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -1102,6 +1107,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1519,7 +1529,7 @@
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 429"
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
@@ -2500,6 +2510,21 @@
       "name": "NHL AntenaPlay (576i) [Not 24/7]",
       "url": "https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Prima Sport 1 HD",
+      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk1%2Fusergenrx0cir27aq-got.htm",
+      "reason": "HTTP 429"
+    },
+    {
+      "name": "Prima Sport 2 HD",
+      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk2%2Fusergenrnd0clv03fyt-got.htm",
+      "reason": "HTTP 429"
+    },
+    {
+      "name": "Prima Sport 3 HD",
+      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk3%2Fusergenrx4t0l8sybkr-got.htm",
+      "reason": "HTTP 429"
     },
     {
       "name": "Sport Extra HD",
