@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 05:52 UTC",
-  "fingerprint": "ff1171fab2cd0cd9d5e58d8d3046c894",
+  "updated_at": "2026-11-22 06:44 UTC",
+  "fingerprint": "4a614994a027c1c9e8c55d96a3507ee8",
   "total": 2515,
-  "working": 2042,
-  "in_grace_period": 13,
-  "dead": 473,
-  "hd_channels": 876,
+  "working": 2043,
+  "in_grace_period": 23,
+  "dead": 472,
+  "hd_channels": 875,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 323,
-      "working": 249,
-      "hd": 129
+      "working": 248,
+      "hd": 128
     },
     "Estonian": {
       "total": 1,
@@ -109,7 +109,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 697,
+      "working": 699,
       "hd": 264
     },
     "Hungarian": {
@@ -180,7 +180,7 @@
     "Other": {
       "total": 36,
       "working": 23,
-      "hd": 12
+      "hd": 13
     },
     "Polish": {
       "total": 7,
@@ -194,7 +194,7 @@
     },
     "Punjabi": {
       "total": 168,
-      "working": 157,
+      "working": 158,
       "hd": 57
     },
     "Romanian": {
@@ -244,8 +244,8 @@
     },
     "Telugu": {
       "total": 209,
-      "working": 179,
-      "hd": 72
+      "working": 178,
+      "hd": 71
     },
     "Thai": {
       "total": 1,
@@ -308,7 +308,7 @@
     },
     "Devotional": {
       "total": 266,
-      "working": 242
+      "working": 241
     },
     "Documentary": {
       "total": 13,
@@ -320,7 +320,7 @@
     },
     "Entertainment": {
       "total": 288,
-      "working": 229
+      "working": 230
     },
     "General": {
       "total": 203,
@@ -340,15 +340,15 @@
     },
     "Movies": {
       "total": 154,
-      "working": 135
+      "working": 136
     },
     "Music": {
       "total": 144,
-      "working": 122
+      "working": 123
     },
     "News": {
       "total": 787,
-      "working": 710
+      "working": 709
     },
     "Outdoor": {
       "total": 17,
@@ -390,11 +390,6 @@
       "name": "9X Jhakaas (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -802,11 +797,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -829,6 +819,11 @@
     {
       "name": "Harvest TV (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Harvest USA (576p)",
+      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1140,6 +1135,11 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "NTV Telugu (576p)",
+      "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8",
+      "reason": "HTTP 503"
     },
     {
       "name": "Peace of Mind TV (576p)",
@@ -1617,11 +1617,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Zee TV HD (720p) [Geo-blocked]",
-      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Asianet News Telugu Ⓨ",
       "url": "https://www.youtube.com/@AsianetNewsTelugu/live",
       "reason": "returned HTML page"
@@ -1969,17 +1964,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "SuperTennis",
