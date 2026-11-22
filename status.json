@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 16:40 UTC",
-  "fingerprint": "cfb97c35d6d283305b33b0a4d981dbf5",
+  "updated_at": "2026-11-22 17:25 UTC",
+  "fingerprint": "b1e923f43f932253da1aad856d8aed02",
   "total": 2515,
-  "working": 1984,
-  "in_grace_period": 18,
-  "dead": 531,
-  "hd_channels": 840,
+  "working": 1986,
+  "in_grace_period": 19,
+  "dead": 529,
+  "hd_channels": 839,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -70,7 +70,7 @@
     "English": {
       "total": 323,
       "working": 219,
-      "hd": 110
+      "hd": 111
     },
     "Estonian": {
       "total": 1,
@@ -109,8 +109,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 664,
-      "hd": 240
+      "working": 665,
+      "hd": 239
     },
     "Hungarian": {
       "total": 11,
@@ -159,8 +159,8 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 100,
-      "hd": 38
+      "working": 99,
+      "hd": 37
     },
     "Marathi": {
       "total": 59,
@@ -169,8 +169,8 @@
     },
     "Nepali": {
       "total": 6,
-      "working": 6,
-      "hd": 3
+      "working": 5,
+      "hd": 2
     },
     "Odia": {
       "total": 38,
@@ -199,7 +199,7 @@
     },
     "Romanian": {
       "total": 23,
-      "working": 19,
+      "working": 22,
       "hd": 6
     },
     "Russian": {
@@ -244,7 +244,7 @@
     },
     "Telugu": {
       "total": 209,
-      "working": 169,
+      "working": 168,
       "hd": 64
     },
     "Thai": {
@@ -320,11 +320,11 @@
     },
     "Entertainment": {
       "total": 288,
-      "working": 221
+      "working": 220
     },
     "General": {
       "total": 203,
-      "working": 176
+      "working": 177
     },
     "Kids": {
       "total": 29,
@@ -344,7 +344,7 @@
     },
     "Music": {
       "total": 144,
-      "working": 122
+      "working": 121
     },
     "News": {
       "total": 787,
@@ -368,7 +368,7 @@
     },
     "Sports": {
       "total": 567,
-      "working": 325
+      "working": 328
     },
     "Travel": {
       "total": 6,
@@ -435,11 +435,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -737,6 +732,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -982,6 +982,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "KCL TV (720p)",
+      "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
@@ -1105,11 +1110,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1730,6 +1730,11 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Vision Beats (720p)",
+      "url": "http://a-edge.bliscdn.com/Visionbeats/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Vistaar News (576p)",
@@ -2510,21 +2515,6 @@
       "name": "NHL AntenaPlay (576i) [Not 24/7]",
       "url": "https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Prima Sport 1 HD",
-      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk1%2Fusergenrx0cir27aq-got.htm",
-      "reason": "HTTP 429"
-    },
-    {
-      "name": "Prima Sport 2 HD",
-      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk2%2Fusergenrnd0clv03fyt-got.htm",
-      "reason": "HTTP 429"
-    },
-    {
-      "name": "Prima Sport 3 HD",
-      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk3%2Fusergenrx4t0l8sybkr-got.htm",
-      "reason": "HTTP 429"
     },
     {
       "name": "Sport Extra HD",
