@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 10:10 UTC",
-  "fingerprint": "4ae404ba2ac3ef9116edec453e4e4c31",
+  "updated_at": "2026-11-22 10:51 UTC",
+  "fingerprint": "8d0a5c8884d013cad028b1dc3e9d5a5f",
   "total": 2515,
-  "working": 2047,
-  "in_grace_period": 12,
-  "dead": 468,
-  "hd_channels": 873,
+  "working": 2051,
+  "in_grace_period": 46,
+  "dead": 464,
+  "hd_channels": 882,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 135,
-      "working": 95,
+      "working": 96,
       "hd": 48
     },
     "Bhojpuri": {
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 323,
-      "working": 248,
-      "hd": 130
+      "working": 249,
+      "hd": 131
     },
     "Estonian": {
       "total": 1,
@@ -109,8 +109,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 700,
-      "hd": 256
+      "working": 702,
+      "hd": 263
     },
     "Hungarian": {
       "total": 11,
@@ -129,7 +129,7 @@
     },
     "Kannada": {
       "total": 88,
-      "working": 71,
+      "working": 72,
       "hd": 35
     },
     "Konkani": {
@@ -159,13 +159,13 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 107,
-      "hd": 43
+      "working": 109,
+      "hd": 44
     },
     "Marathi": {
       "total": 59,
-      "working": 50,
-      "hd": 24
+      "working": 51,
+      "hd": 25
     },
     "Nepali": {
       "total": 6,
@@ -239,12 +239,12 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 163,
+      "working": 164,
       "hd": 85
     },
     "Telugu": {
       "total": 209,
-      "working": 179,
+      "working": 181,
       "hd": 72
     },
     "Thai": {
@@ -320,15 +320,15 @@
     },
     "Entertainment": {
       "total": 288,
-      "working": 230
+      "working": 231
     },
     "General": {
       "total": 203,
-      "working": 175
+      "working": 176
     },
     "Kids": {
       "total": 29,
-      "working": 18
+      "working": 19
     },
     "Legislative": {
       "total": 8,
@@ -340,7 +340,7 @@
     },
     "Movies": {
       "total": 154,
-      "working": 136
+      "working": 137
     },
     "Music": {
       "total": 144,
@@ -692,11 +692,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -844,11 +839,6 @@
     {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1115,11 +1105,6 @@
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Nickelodeon (576p) [Geo-blocked]",
-      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1390,11 +1375,6 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Sun Surya HD (1080p)",
-      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -1919,7 +1899,7 @@
     {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Setanta Sports 1 Eurasia (1080p)",
