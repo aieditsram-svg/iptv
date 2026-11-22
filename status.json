@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-22 03:18 UTC",
-  "fingerprint": "9b298a7571963589ed20b2706d16bbf1",
+  "updated_at": "2026-11-22 04:10 UTC",
+  "fingerprint": "288fc53120b826abe4dab28eae77da9e",
   "total": 2515,
-  "working": 2037,
-  "in_grace_period": 17,
-  "dead": 478,
+  "working": 2036,
+  "in_grace_period": 4,
+  "dead": 479,
   "hd_channels": 878,
   "languages": {
     "Albanian": {
@@ -29,7 +29,7 @@
     },
     "Bengali": {
       "total": 135,
-      "working": 93,
+      "working": 95,
       "hd": 47
     },
     "Bhojpuri": {
@@ -109,7 +109,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 693,
+      "working": 691,
       "hd": 264
     },
     "Hungarian": {
@@ -180,7 +180,7 @@
     "Other": {
       "total": 36,
       "working": 23,
-      "hd": 12
+      "hd": 13
     },
     "Polish": {
       "total": 7,
@@ -209,7 +209,7 @@
     },
     "Santali": {
       "total": 2,
-      "working": 1,
+      "working": 2,
       "hd": 1
     },
     "Serbian": {
@@ -229,8 +229,8 @@
     },
     "Spanish": {
       "total": 112,
-      "working": 62,
-      "hd": 42
+      "working": 61,
+      "hd": 41
     },
     "Swedish": {
       "total": 1,
@@ -320,11 +320,11 @@
     },
     "Entertainment": {
       "total": 288,
-      "working": 230
+      "working": 229
     },
     "General": {
       "total": 203,
-      "working": 170
+      "working": 172
     },
     "Kids": {
       "total": 29,
@@ -348,7 +348,7 @@
     },
     "News": {
       "total": 787,
-      "working": 710
+      "working": 709
     },
     "Outdoor": {
       "total": 17,
@@ -368,7 +368,7 @@
     },
     "Sports": {
       "total": 567,
-      "working": 345
+      "working": 344
     },
     "Travel": {
       "total": 6,
@@ -595,6 +595,11 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Dangal TV (576p)",
@@ -952,11 +957,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "KTV Bangla (720p)",
-      "url": "https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Mahaa Max (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMAHAAMAX/index.m3u8",
       "reason": "HTTP 403"
@@ -970,6 +970,11 @@
       "name": "Mangalmay TV (576p)",
       "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
       "reason": "not a valid HLS manifest"
+    },
+    {
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Mantavya News (576p)",
@@ -1057,8 +1062,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1385,11 +1390,6 @@
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
@@ -2260,6 +2260,11 @@
       "name": "Sport TV+",
       "url": "http://znty.dyndns.org:5010/hls/sportv+.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "WAPA-TV 4.2 (720p) [Not 24/7]",
+      "url": "https://wapa.hostless.app/WAPA-TV-4-2.m3u8",
+      "reason": "HTTP 503"
     },
     {
       "name": "beIN Sports 1",
