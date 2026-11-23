@@ -1,5 +1,5 @@
 #EXTM3U
-# Entertainment channels, one link per channel, all languages, updated 2026-11-22 23:48 UTC
+# Entertainment channels, one link per channel, all languages, updated 2026-11-23 04:03 UTC
 #EXTINF:-1 tvg-id="PearTV.in@SD" x-categories="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEARS_TV/images/LOGO_HD/image.png" x-category="Entertainment" tvg-language="Assamese" group-title="Assamese" height="720",Pear TV
 https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8
 #EXTINF:-1 tvg-id="Spondon.in@SD" x-categories="Entertainment" tvg-logo="https://www.spondontv.com/wp-content/uploads/2025/10/cropped-SPONDON_Blue-Violet_1-copy-300x100.png" x-category="Entertainment" tvg-language="Assamese" group-title="Assamese" height="1080",Spondon
@@ -12,8 +12,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8
 #EXTINF:-1 tvg-id="ColorsBangla.in@HD" x-categories="Entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8049/1782291598049-h.jpg" x-category="Entertainment" tvg-language="Bengali" group-title="Bengali",Colors Bangla HD
 http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.in@HD" x-categories="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" x-category="Entertainment" tvg-language="Bengali" group-title="Bengali",Discovery Channel HD
-http://103.135.253.32:8080/DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="Enterr10Bangla.in@SD" x-categories="Entertainment" tvg-logo="https://i.imgur.com/uQbYTbh.png" x-category="Entertainment" tvg-language="Bengali" group-title="Bengali" height="720",Enterr 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="FriendsTV.in@SD" x-categories="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Friends_TV.png" x-category="Entertainment" tvg-language="Bengali" group-title="Bengali" height="1080",Friends TV
@@ -39,10 +37,12 @@ https://fta.ektv.in/live/173/master.m3u8
 https://mumt06.tangotv.in/qYyB8fXVMANORANJANPRIME/index.m3u8
 #EXTINF:-1 tvg-id="PasandTV.in@SD" x-categories="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NFYY1.png?lock=720x540" x-category="Entertainment" tvg-language="Bhojpuri" group-title="Bhojpuri" height="720",Pasand TV
 https://mumt01.tangotv.in/O5aw8Zn3PASANDTV/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.in@HD" x-categories="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" x-category="Entertainment" tvg-language="English" group-title="English",Discovery Channel HD
-http://103.135.253.32:8080/DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="HiDost.in@SD" x-categories="Entertainment" tvg-logo="https://i.imgur.com/bnST6y5.png" x-category="Entertainment" tvg-language="English" group-title="English" height="720",Hi Dost!
 https://samitaorigin.tangotv.in/HIDOST/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="MTV.in@International" x-categories="Entertainment" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/8633/1786020488633-h.jpg" x-category="Entertainment" tvg-language="English" group-title="English",MTV International
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 #EXTINF:-1 tvg-id="StarVijay.in@UK" x-categories="Entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/698/1782289770698-h.jpg" x-category="Entertainment" tvg-language="English" group-title="English" height="720",Star Vijay
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ColorsGujarati.in@SD" x-categories="Entertainment" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/6493/1782290866493-h.jpg" x-category="Entertainment" tvg-language="Gujarati" group-title="Gujarati" height="396",Colors Gujarati
@@ -67,8 +67,6 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="DDNational.in@HD" x-categories="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s158252_ld_h9_aa.png?lock=720x540" x-category="Entertainment" tvg-language="Hindi" group-title="Hindi" height="1080",DD National HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/15/master.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.in@HD" x-categories="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" x-category="Entertainment" tvg-language="Hindi" group-title="Hindi",Discovery Channel HD
-http://103.135.253.32:8080/DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="E24.in@SD" x-categories="Entertainment" tvg-logo="https://i.imgur.com/vCaPNTe.png" x-category="Entertainment" tvg-language="Hindi" group-title="Hindi" height="720",E 24
 https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
 #EXTINF:-1 tvg-id="EpicBharat.in@SD" x-categories="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540" x-category="Entertainment" tvg-language="Hindi" group-title="Hindi" height="720",Epic Bharat
@@ -114,16 +112,14 @@ https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeHorrorNights.in@HD" x-categories="Entertainment" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" x-category="Entertainment" tvg-language="Hindi" group-title="Hindi",Zee Horror Nights
 https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTV.in@HD" x-categories="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540" x-category="Entertainment" tvg-language="Hindi" group-title="Hindi",Zee TV HD
-http://103.135.253.32:8080/ZEE-TV/index.m3u8
+#EXTINF:-1 tvg-id="ZeeTV.in@HD" x-categories="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540" x-category="Entertainment" tvg-language="Hindi" group-title="Hindi" height="720",Zee TV HD
+http://41.205.93.154/ZEE-TV/index.m3u8
 #EXTINF:-1 tvg-id="Zingabad.in@SD" x-categories="Entertainment" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/zingabad.png" x-category="Entertainment" tvg-language="Hindi" group-title="Hindi" height="1080",Zingabad
 https://stream.ottlive.co.in/zingabad/index.m3u8
 #EXTINF:-1 tvg-id="ColorsKannada.in@HD" x-categories="Entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3440/1782291243440-h.jpg" x-category="Entertainment" tvg-language="Kannada" group-title="Kannada" height="720",Colors Kannada HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ColorsSuper.in@SD" x-categories="Entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6181/1782290986181-h.jpg" x-category="Entertainment" tvg-language="Kannada" group-title="Kannada" height="396",Colors Super
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:colorssuper1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="DiscoveryChannel.in@HD" x-categories="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" x-category="Entertainment" tvg-language="Kannada" group-title="Kannada",Discovery Channel HD
-http://103.135.253.32:8080/DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="NammaBangalore.in@SD" x-categories="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Namma_Bangalore.png" x-category="Entertainment" tvg-language="Kannada" group-title="Kannada" height="576",Namma Bangalore
 https://stream.ottlive.co.in/nammatv/index.m3u8
 #EXTINF:-1 tvg-id="SiriKannada.in@SD" x-categories="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s143790_ld_h9_aa.png?lock=720x540" x-category="Entertainment" tvg-language="Kannada" group-title="Kannada" height="720",Siri Kannada
@@ -146,8 +142,6 @@ https://mumt04.tangotv.in/m18aqlK4DARSHANATV/index.m3u8
 #EXTINF:-1 tvg-id="DDMalayalam.in@SD" x-categories="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s142791_ld_h15_aa.png?lock=720x540" x-category="Entertainment" tvg-language="Malayalam" group-title="Malayalam" height="576",DD Malayalam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/680/master.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.in@HD" x-categories="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" x-category="Entertainment" tvg-language="Malayalam" group-title="Malayalam",Discovery Channel HD
-http://103.135.253.32:8080/DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="JaihindTV.in@SD" x-categories="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s143217_ld_h15_aa.png?lock=720x540" x-category="Entertainment" tvg-language="Malayalam" group-title="Malayalam" height="720",Jaihind TV
 https://samitaorigin.tangotv.in/JAIHIND/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="KCLTV.in@SD" x-categories="Entertainment" tvg-logo="https://i.imgur.com/bkp9dIm.png" x-category="Entertainment" tvg-language="Malayalam" group-title="Malayalam",KCL TV
@@ -201,10 +195,6 @@ http://cdn12.henico.net:8080/live/sadatv/index.m3u8
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 tvg-id="ColorsTamil.in@HD" x-categories="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s158241_ld_h15_aa.png?lock=720x540" x-category="Entertainment" tvg-language="Tamil" group-title="Tamil" height="720",Colors Tamil HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.in@HD" x-categories="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" x-category="Entertainment" tvg-language="Tamil" group-title="Tamil",Discovery Channel HD
-http://103.135.253.32:8080/DISCOVERY/index.m3u8
-#EXTINF:-1 tvg-id="JayaPlus.in@SD" x-categories="Culture;Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s143227_ld_h15_aa.png?lock=720x540" x-category="Culture" tvg-language="Tamil" group-title="Tamil",Jaya Plus
-https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 #EXTINF:-1 tvg-id="KalaignarMurasu.in@SD" x-categories="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s143561_ld_h15_aa.png?lock=720x540" x-category="Entertainment" tvg-language="Tamil" group-title="Tamil" height="396",Kalaignar Murasu
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
 #EXTINF:-1 tvg-id="MKSix.in@SD" x-categories="Entertainment" tvg-logo="https://i.imgur.com/wZjEssv.png" x-category="Entertainment" tvg-language="Tamil" group-title="Tamil" height="720",MK Six
@@ -235,8 +225,6 @@ https://mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4VENDHARTV/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTamil.in@HD" x-categories="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" x-category="Entertainment" tvg-language="Tamil" group-title="Tamil" height="720",Zee Tamil HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.in@HD" x-categories="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" x-category="Entertainment" tvg-language="Telugu" group-title="Telugu",Discovery Channel HD
-http://103.135.253.32:8080/DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="ETVJosh.in@HD" x-categories="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Josh.png" x-category="Entertainment" tvg-language="Telugu" group-title="Telugu" height="1080",ETV Josh
 https://cc-uyh1ow5zouoio.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uyh1ow5zouoio/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
 #EXTINF:-1 tvg-id="ETVPlus.in@HD" x-categories="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-plus-HD-Logo_2000_X_1125_Transpharent.png" x-category="Entertainment" tvg-language="Telugu" group-title="Telugu" height="1080",ETV Plus HD
@@ -261,5 +249,5 @@ https://mumt07.tangotv.in/zHjX9OFlVISSATV/index.m3u8
 https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ZEETELUGUHD.m3u8
 #EXTINF:-1 tvg-id="DongNaiTV2.vn@SD" x-categories="Sports;Entertainment" tvg-logo="https://i.imgur.com/tNKPSkO.png" x-category="Sports" tvg-language="Vietnamese" group-title="Vietnamese" height="1080",Dong Nai TV 2
 https://freem3u.xyz/api/live/play.m3u8?vid=255
-#EXTINF:-1 tvg-id="VinhLongTV4.vn@SD" x-categories="Culture;Travel;Sports;Entertainment" tvg-logo="https://i.imgur.com/ARhIkvR.png" x-category="Culture" tvg-language="Vietnamese" group-title="Vietnamese",Vinh Long TV 4
+#EXTINF:-1 tvg-id="VinhLongTV4.vn@SD" x-categories="Culture;Travel;Sports;Entertainment" tvg-logo="https://i.imgur.com/ARhIkvR.png" x-category="Culture" tvg-language="Vietnamese" group-title="Vietnamese" height="1080",Vinh Long TV 4
 https://dethich.pw/thvl4/index.m3u8
