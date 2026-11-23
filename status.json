@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-23 04:03 UTC",
-  "fingerprint": "e484d4cfd03f76ea3a33715bc7e7e6c3",
+  "updated_at": "2026-11-23 14:17 UTC",
+  "fingerprint": "bf0a44f4d5aea232d3f0945edc22c1d1",
   "total": 2465,
-  "working": 2006,
-  "in_grace_period": 25,
-  "dead": 459,
-  "hd_channels": 848,
+  "working": 2010,
+  "in_grace_period": 52,
+  "dead": 455,
+  "hd_channels": 853,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -29,8 +29,8 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 90,
-      "hd": 44
+      "working": 89,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 291,
-      "working": 220,
-      "hd": 111
+      "working": 222,
+      "hd": 113
     },
     "Estonian": {
       "total": 1,
@@ -84,8 +84,8 @@
     },
     "German": {
       "total": 18,
-      "working": 9,
-      "hd": 4
+      "working": 10,
+      "hd": 5
     },
     "Greek": {
       "total": 1,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 771,
-      "working": 670,
-      "hd": 241
+      "working": 672,
+      "hd": 243
     },
     "Hungarian": {
       "total": 11,
@@ -155,7 +155,7 @@
     "Malayalam": {
       "total": 116,
       "working": 101,
-      "hd": 39
+      "hd": 38
     },
     "Marathi": {
       "total": 46,
@@ -175,7 +175,7 @@
     "Other": {
       "total": 36,
       "working": 23,
-      "hd": 12
+      "hd": 13
     },
     "Polish": {
       "total": 7,
@@ -189,8 +189,8 @@
     },
     "Punjabi": {
       "total": 168,
-      "working": 157,
-      "hd": 57
+      "working": 159,
+      "hd": 58
     },
     "Romanian": {
       "total": 23,
@@ -224,7 +224,7 @@
     },
     "Spanish": {
       "total": 113,
-      "working": 63,
+      "working": 60,
       "hd": 41
     },
     "Swedish": {
@@ -239,7 +239,7 @@
     },
     "Telugu": {
       "total": 191,
-      "working": 170,
+      "working": 171,
       "hd": 65
     },
     "Thai": {
@@ -259,7 +259,7 @@
     },
     "Urdu": {
       "total": 28,
-      "working": 23,
+      "working": 24,
       "hd": 7
     },
     "Vietnamese": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 267,
-      "working": 242
+      "working": 244
     },
     "Documentary": {
       "total": 8,
@@ -315,7 +315,7 @@
     },
     "Entertainment": {
       "total": 284,
-      "working": 224
+      "working": 223
     },
     "General": {
       "total": 204,
@@ -339,11 +339,11 @@
     },
     "Music": {
       "total": 144,
-      "working": 123
+      "working": 124
     },
     "News": {
       "total": 789,
-      "working": 714
+      "working": 718
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 557,
-      "working": 336
+      "working": 334
     },
     "Travel": {
       "total": 6,
@@ -405,6 +405,11 @@
       "name": "Aakaash Aath (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Aamar Bangla (720p)",
+      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AKD Calcutta News (576p)",
@@ -495,11 +500,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "BRK News (720p)",
-      "url": "https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "BRK News (576p)",
@@ -787,11 +787,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Harvest USA (576p)",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Hi Dost! (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
       "reason": "HTTP 403"
@@ -914,7 +909,7 @@
     {
       "name": "Mathrubhumi News (240p)",
       "url": "https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Mazhavil Manorama (576p)",
@@ -930,16 +925,6 @@
       "name": "Mercy TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMERCYTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Mh 1 News (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4MHONENEWS/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Mh 1 News (576p)",
-      "url": "https://streams.tangotv.in/MHONENEWS/ORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "MH One Movies (576p)",
@@ -1074,11 +1059,6 @@
     {
       "name": "Public First (576p)",
       "url": "https://fta.ektv.in/live/237/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Public First (576p)",
-      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1322,11 +1302,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Steelbird Music (720p) [Not 24/7]",
-      "url": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
@@ -1462,11 +1437,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Zainabia Channel",
-      "url": "https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Zee 24 Ghanta (576p)",
       "url": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8",
       "reason": "TimeoutError"
@@ -1572,6 +1542,21 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "DeporTV (1080p)",
+      "url": "http://158.172.155.130:8000/play/a09y/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "ESPN Premium",
+      "url": "http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Fox Sports (1080p)",
+      "url": "http://158.172.155.130:8000/play/a09x/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Racing.com (720p)",
       "url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8",
       "reason": "HTTP 400"
@@ -1590,11 +1575,6 @@
       "name": "K19",
       "url": "https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "ORF Sport+",
-      "url": "https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "CBC Sport HD [Geo-blocked]",
@@ -1819,32 +1799,32 @@
     {
       "name": "Sky Sport F1",
       "url": "http://94.130.48.67:8042/stream/51/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sky Sport Golf",
       "url": "http://94.130.48.67:8042/stream/56/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sky Sport Mix",
       "url": "http://94.130.48.67:8042/stream/53/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sky Sport News",
       "url": "http://94.130.48.67:8042/stream/49/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sky Sport Tennis",
       "url": "http://94.130.48.67:8042/stream/55/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sky Sport Top Event",
       "url": "http://94.130.48.67:8042/stream/50/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Multivisión Sports (720p) [Not 24/7]",
@@ -1899,17 +1879,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "SuperTennis",
