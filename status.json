@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-23 14:17 UTC",
-  "fingerprint": "bf0a44f4d5aea232d3f0945edc22c1d1",
+  "updated_at": "2026-11-24 01:43 UTC",
+  "fingerprint": "2e67eccc03cea9dd4cba083605283416",
   "total": 2465,
-  "working": 2010,
-  "in_grace_period": 52,
-  "dead": 455,
-  "hd_channels": 853,
+  "working": 2013,
+  "in_grace_period": 32,
+  "dead": 452,
+  "hd_channels": 851,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -35,7 +35,7 @@
     "Bhojpuri": {
       "total": 33,
       "working": 31,
-      "hd": 13
+      "hd": 12
     },
     "Bulgarian": {
       "total": 6,
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 291,
-      "working": 222,
-      "hd": 113
+      "working": 224,
+      "hd": 112
     },
     "Estonian": {
       "total": 1,
@@ -155,7 +155,7 @@
     "Malayalam": {
       "total": 116,
       "working": 101,
-      "hd": 38
+      "hd": 39
     },
     "Marathi": {
       "total": 46,
@@ -184,8 +184,8 @@
     },
     "Portuguese": {
       "total": 30,
-      "working": 8,
-      "hd": 7
+      "working": 9,
+      "hd": 8
     },
     "Punjabi": {
       "total": 168,
@@ -225,7 +225,7 @@
     "Spanish": {
       "total": 113,
       "working": 60,
-      "hd": 41
+      "hd": 40
     },
     "Swedish": {
       "total": 1,
@@ -240,7 +240,7 @@
     "Telugu": {
       "total": 191,
       "working": 171,
-      "hd": 65
+      "hd": 64
     },
     "Thai": {
       "total": 1,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 557,
-      "working": 334
+      "working": 337
     },
     "Travel": {
       "total": 6,
@@ -1547,11 +1547,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ESPN Premium",
-      "url": "http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Fox Sports (1080p)",
       "url": "http://158.172.155.130:8000/play/a09x/index.m3u8",
       "reason": "HTTP 404"
@@ -1879,17 +1874,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis",
@@ -2142,6 +2137,11 @@
       "reason": "URLError"
     },
     {
+      "name": "WAPA-TV 4.2 (720p) [Not 24/7]",
+      "url": "https://wapa.hostless.app/WAPA-TV-4-2.m3u8",
+      "reason": "HTTP 503"
+    },
+    {
       "name": "beIN Sports 1",
       "url": "https://vg162.adcdsd123321.shop/7.m3u8",
       "reason": "HTTP 403"
@@ -2369,7 +2369,7 @@
     {
       "name": "UPL.TV",
       "url": "http://dtv.vol.net.ua/UPL-TV/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Sharjah Sports (1080p) [Geo-blocked]",
@@ -2392,19 +2392,14 @@
       "reason": "URLError"
     },
     {
-      "name": "DAZN 3 Portugal (720p)",
-      "url": "http://23.237.104.106:8080/DAZN_3/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "DAZN 4 (540p)",
       "url": "http://23.237.104.106:8080/DAZN_4/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "DAZN 5 (720p)",
       "url": "http://23.237.104.106:8080/DAZN_5/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "DAZN F1",
@@ -2469,7 +2464,7 @@
     {
       "name": "DSports 2 (1080p)",
       "url": "http://187.102.208.209:8000/play/a0bq/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "ESPN (432p)",
@@ -2549,7 +2544,7 @@
     {
       "name": "Fox Deportes (720p)",
       "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Fox Sports 1 (720p)",
@@ -2579,17 +2574,12 @@
     {
       "name": "MLB Strike Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MSG (720p)",
       "url": "http://23.237.104.106:8080/USA_MSG/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "NBA TV (720p)",
-      "url": "http://23.237.104.106:8080/USA_NBA/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "NBA TV (720p)",
@@ -2599,11 +2589,6 @@
     {
       "name": "NFL Network (720p)",
       "url": "http://198.58.104.90:8989/nfl/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Tennis Channel (1080p)",
-      "url": "http://23.237.104.106:8080/USA_TENNIS/index.m3u8",
       "reason": "URLError"
     },
     {
