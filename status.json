@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-24 11:37 UTC",
-  "fingerprint": "c2b71f6e8ba521ce89de51d4f2168784",
+  "updated_at": "2026-11-24 21:29 UTC",
+  "fingerprint": "89abb3078333ddaccb40fc00b166da00",
   "total": 2376,
-  "working": 1995,
-  "in_grace_period": 53,
-  "dead": 381,
-  "hd_channels": 841,
+  "working": 1991,
+  "in_grace_period": 32,
+  "dead": 385,
+  "hd_channels": 845,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -69,7 +69,7 @@
     },
     "English": {
       "total": 282,
-      "working": 222,
+      "working": 221,
       "hd": 111
     },
     "Estonian": {
@@ -104,7 +104,7 @@
     },
     "Hindi": {
       "total": 733,
-      "working": 662,
+      "working": 661,
       "hd": 240
     },
     "Hungarian": {
@@ -160,7 +160,7 @@
     "Marathi": {
       "total": 45,
       "working": 44,
-      "hd": 19
+      "hd": 20
     },
     "Nepali": {
       "total": 6,
@@ -170,12 +170,12 @@
     "Odia": {
       "total": 34,
       "working": 30,
-      "hd": 11
+      "hd": 12
     },
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 10
+      "hd": 11
     },
     "Polish": {
       "total": 7,
@@ -239,8 +239,8 @@
     },
     "Telugu": {
       "total": 187,
-      "working": 171,
-      "hd": 63
+      "working": 170,
+      "hd": 64
     },
     "Thai": {
       "total": 1,
@@ -249,7 +249,7 @@
     },
     "Turkish": {
       "total": 13,
-      "working": 7,
+      "working": 6,
       "hd": 6
     },
     "Ukrainian": {
@@ -303,7 +303,7 @@
     },
     "Devotional": {
       "total": 268,
-      "working": 245
+      "working": 243
     },
     "Documentary": {
       "total": 8,
@@ -343,7 +343,7 @@
     },
     "News": {
       "total": 762,
-      "working": 715
+      "working": 714
     },
     "Outdoor": {
       "total": 17,
@@ -363,7 +363,7 @@
     },
     "Sports": {
       "total": 544,
-      "working": 327
+      "working": 326
     },
     "Travel": {
       "total": 6,
@@ -371,6 +371,11 @@
     }
   },
   "dead_channels": [
+    {
+      "name": "6 TV Telugu (576p)",
+      "url": "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8",
+      "reason": "HTTP 404"
+    },
     {
       "name": "7S Music (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
@@ -687,6 +692,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Harvest USA (576p)",
+      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Hi Dost! (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
       "reason": "HTTP 403"
@@ -790,6 +800,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1364,7 +1379,7 @@
     {
       "name": "江苏体育 (576p)",
       "url": "http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "江苏体育 (576p)",
@@ -1799,7 +1814,7 @@
     {
       "name": "WAPA-TV 4.2 (720p) [Not 24/7]",
       "url": "https://wapa.hostless.app/WAPA-TV-4-2.m3u8",
-      "reason": "HTTP 503"
+      "reason": "HTTP 403"
     },
     {
       "name": "beIN Sports 1",
@@ -1964,6 +1979,11 @@
     {
       "name": "Futbol (1080p)",
       "url": "https://live.teleradiocom.tj/8/3m.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "beIN Sports 1 Turk",
+      "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
       "reason": "URLError"
     },
     {
