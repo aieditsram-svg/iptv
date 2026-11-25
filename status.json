@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-24 21:29 UTC",
-  "fingerprint": "89abb3078333ddaccb40fc00b166da00",
-  "total": 2376,
-  "working": 1991,
-  "in_grace_period": 32,
-  "dead": 385,
-  "hd_channels": 845,
+  "updated_at": "2026-11-25 04:27 UTC",
+  "fingerprint": "988dd6d238c1daf273bcca2dfcb35b44",
+  "total": 2399,
+  "working": 2010,
+  "in_grace_period": 27,
+  "dead": 389,
+  "hd_channels": 848,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -69,7 +69,7 @@
     },
     "English": {
       "total": 282,
-      "working": 221,
+      "working": 222,
       "hd": 111
     },
     "Estonian": {
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 733,
-      "working": 661,
-      "hd": 240
+      "working": 659,
+      "hd": 238
     },
     "Hungarian": {
       "total": 11,
@@ -125,17 +125,12 @@
     "Kannada": {
       "total": 70,
       "working": 64,
-      "hd": 29
+      "hd": 28
     },
     "Konkani": {
       "total": 3,
       "working": 2,
       "hd": 1
-    },
-    "Korean": {
-      "total": 1,
-      "working": 0,
-      "hd": 0
     },
     "Latvian": {
       "total": 1,
@@ -153,9 +148,9 @@
       "hd": 0
     },
     "Malayalam": {
-      "total": 119,
-      "working": 105,
-      "hd": 42
+      "total": 136,
+      "working": 119,
+      "hd": 51
     },
     "Marathi": {
       "total": 45,
@@ -175,12 +170,12 @@
     "Other": {
       "total": 36,
       "working": 21,
-      "hd": 11
+      "hd": 10
     },
     "Polish": {
       "total": 7,
-      "working": 3,
-      "hd": 2
+      "working": 2,
+      "hd": 1
     },
     "Portuguese": {
       "total": 28,
@@ -193,8 +188,8 @@
       "hd": 58
     },
     "Romanian": {
-      "total": 22,
-      "working": 21,
+      "total": 30,
+      "working": 29,
       "hd": 6
     },
     "Russian": {
@@ -223,9 +218,9 @@
       "hd": 0
     },
     "Spanish": {
-      "total": 106,
-      "working": 60,
-      "hd": 38
+      "total": 105,
+      "working": 59,
+      "hd": 37
     },
     "Swedish": {
       "total": 1,
@@ -303,7 +298,7 @@
     },
     "Devotional": {
       "total": 268,
-      "working": 243
+      "working": 244
     },
     "Documentary": {
       "total": 8,
@@ -314,12 +309,12 @@
       "working": 9
     },
     "Entertainment": {
-      "total": 246,
-      "working": 220
+      "total": 264,
+      "working": 235
     },
     "General": {
-      "total": 205,
-      "working": 179
+      "total": 204,
+      "working": 177
     },
     "Kids": {
       "total": 12,
@@ -335,11 +330,11 @@
     },
     "Movies": {
       "total": 132,
-      "working": 117
+      "working": 116
     },
     "Music": {
       "total": 139,
-      "working": 122
+      "working": 121
     },
     "News": {
       "total": 762,
@@ -362,8 +357,8 @@
       "working": 2
     },
     "Sports": {
-      "total": 544,
-      "working": 326
+      "total": 550,
+      "working": 333
     },
     "Travel": {
       "total": 6,
@@ -463,6 +458,11 @@
     },
     {
       "name": "B4U Music (576p)",
+      "url": "https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
     },
@@ -519,6 +519,11 @@
     {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Kashir (576p)",
+      "url": "https://fta.ektv.in/live/248/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -732,6 +737,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "India Talkies (360p)",
+      "url": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "INews (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -802,9 +812,9 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
+      "name": "Malabar Plus (720p)",
+      "url": "http://cloud.logichost.in:1935/live/mplus/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -900,6 +910,11 @@
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Periyar Vision (1080p)",
+      "url": "https://stream.onecloudlive.in/periyarvision/periyarvision/index.m3u8",
+      "reason": "HTTP 503"
     },
     {
       "name": "Prameya News7 (576p)",
@@ -1085,6 +1100,11 @@
       "name": "Tarang TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tarang/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Thanima (1080p)",
+      "url": "https://live.skystream.in/live/thanimatvtvm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Thanthi TV (576p)",
@@ -1687,11 +1707,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Sports Television (720p) [Not 24/7]",
-      "url": "https://live.koryocdn.org/sports/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Arena Sport Premium M1",
       "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqQgIFxl-Ch6B37eGpkVDb28",
       "reason": "HTTP 403"
@@ -1777,6 +1792,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Eurosport 3 Polska (1080p)",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5121596371c5191ed9b35",
+      "reason": "HTTP 502"
+    },
+    {
       "name": "Polsat Sport Fight",
       "url": "http://92.114.85.87:8016/play/a00b/index.m3u8",
       "reason": "HTTP 404"
@@ -1822,14 +1842,9 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "NHL AntenaPlay (576i) [Not 24/7]",
-      "url": "https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8",
+      "name": "Formula 2 AntenaPlay (576i) [Not 24/7]",
+      "url": "https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Sport Extra HD",
-      "url": "http://92.180.26.103/stream/93/index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "Boks TV (576p)",
