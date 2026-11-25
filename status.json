@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-25 14:45 UTC",
-  "fingerprint": "3f5c483927ad02548f6b8fa29fbae21e",
+  "updated_at": "2026-11-25 23:21 UTC",
+  "fingerprint": "f8809cf98f3f1d5fadad3b7bef949369",
   "total": 2399,
-  "working": 2011,
-  "in_grace_period": 19,
-  "dead": 388,
-  "hd_channels": 852,
+  "working": 2012,
+  "in_grace_period": 33,
+  "dead": 387,
+  "hd_channels": 856,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -30,7 +30,7 @@
     "Bengali": {
       "total": 102,
       "working": 89,
-      "hd": 44
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 31,
@@ -70,7 +70,7 @@
     "English": {
       "total": 282,
       "working": 221,
-      "hd": 109
+      "hd": 111
     },
     "Estonian": {
       "total": 1,
@@ -79,8 +79,8 @@
     },
     "French": {
       "total": 18,
-      "working": 11,
-      "hd": 9
+      "working": 13,
+      "hd": 11
     },
     "German": {
       "total": 18,
@@ -95,7 +95,7 @@
     "Gujarati": {
       "total": 47,
       "working": 45,
-      "hd": 19
+      "hd": 20
     },
     "Hebrew": {
       "total": 9,
@@ -109,8 +109,8 @@
     },
     "Hungarian": {
       "total": 11,
-      "working": 9,
-      "hd": 2
+      "working": 8,
+      "hd": 1
     },
     "Indonesian": {
       "total": 2,
@@ -149,8 +149,8 @@
     },
     "Malayalam": {
       "total": 136,
-      "working": 121,
-      "hd": 53
+      "working": 122,
+      "hd": 54
     },
     "Marathi": {
       "total": 45,
@@ -189,8 +189,8 @@
     },
     "Romanian": {
       "total": 30,
-      "working": 29,
-      "hd": 6
+      "working": 27,
+      "hd": 5
     },
     "Russian": {
       "total": 52,
@@ -298,7 +298,7 @@
     },
     "Devotional": {
       "total": 268,
-      "working": 244
+      "working": 245
     },
     "Documentary": {
       "total": 8,
@@ -310,7 +310,7 @@
     },
     "Entertainment": {
       "total": 264,
-      "working": 237
+      "working": 238
     },
     "General": {
       "total": 204,
@@ -358,7 +358,7 @@
     },
     "Sports": {
       "total": 550,
-      "working": 329
+      "working": 328
     },
     "Travel": {
       "total": 6,
@@ -692,11 +692,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Harvest USA (576p)",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Hi Dost! (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
       "reason": "HTTP 403"
@@ -890,11 +885,6 @@
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Periyar Vision (1080p)",
-      "url": "https://stream.onecloudlive.in/periyarvision/periyarvision/index.m3u8",
-      "reason": "HTTP 503"
     },
     {
       "name": "Prameya News7 (576p)",
@@ -1432,11 +1422,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Canal+ Sport (1080p) [Geo-blocked]",
-      "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Eurosport",
       "url": "http://103.253.74.210:7070/stream/122/index.m3u8",
       "reason": "HTTP 403"
@@ -1467,9 +1452,9 @@
       "reason": "URLError"
     },
     {
-      "name": "Golf + (1080p) [Geo-blocked]",
-      "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8",
-      "reason": "HTTP 403"
+      "name": "Eurosport 4K Romania (2160p) [Geo-blocked]",
+      "url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sky Sport F1",
@@ -1520,6 +1505,11 @@
       "name": "M4 Sport",
       "url": "http://88.212.7.14/live/m4_hun/index.m3u8",
       "reason": "HTTP 503"
+    },
+    {
+      "name": "Match4 (1080p)",
+      "url": "http://141.94.193.53/Match4_HD/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "TVRI Sport (1080p)",
@@ -1829,7 +1819,7 @@
     {
       "name": "WAPA-TV 4.2 (720p) [Not 24/7]",
       "url": "https://wapa.hostless.app/WAPA-TV-4-2.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 403"
     },
     {
       "name": "beIN Sports 1",
@@ -1839,6 +1829,11 @@
     {
       "name": "Formula 2 AntenaPlay (576i) [Not 24/7]",
       "url": "https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Voyo Sport 1 (1080i)",
+      "url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8",
       "reason": "HTTP 404"
     },
     {
