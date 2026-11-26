@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-25 23:21 UTC",
-  "fingerprint": "f8809cf98f3f1d5fadad3b7bef949369",
-  "total": 2399,
-  "working": 2012,
-  "in_grace_period": 33,
-  "dead": 387,
-  "hd_channels": 856,
+  "updated_at": "2026-11-26 05:11 UTC",
+  "fingerprint": "e5d618c0937153b6a43521bfb0714c8b",
+  "total": 2415,
+  "working": 2026,
+  "in_grace_period": 41,
+  "dead": 389,
+  "hd_channels": 867,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -14,13 +14,13 @@
     },
     "Arabic": {
       "total": 12,
-      "working": 9,
-      "hd": 9
+      "working": 8,
+      "hd": 8
     },
     "Assamese": {
-      "total": 43,
-      "working": 41,
-      "hd": 13
+      "total": 44,
+      "working": 42,
+      "hd": 14
     },
     "Belarusian": {
       "total": 2,
@@ -28,9 +28,9 @@
       "hd": 1
     },
     "Bengali": {
-      "total": 102,
-      "working": 89,
-      "hd": 43
+      "total": 105,
+      "working": 92,
+      "hd": 46
     },
     "Bhojpuri": {
       "total": 31,
@@ -68,9 +68,9 @@
       "hd": 0
     },
     "English": {
-      "total": 282,
+      "total": 281,
       "working": 221,
-      "hd": 111
+      "hd": 112
     },
     "Estonian": {
       "total": 1,
@@ -93,8 +93,8 @@
       "hd": 0
     },
     "Gujarati": {
-      "total": 47,
-      "working": 45,
+      "total": 48,
+      "working": 46,
       "hd": 20
     },
     "Hebrew": {
@@ -103,9 +103,9 @@
       "hd": 9
     },
     "Hindi": {
-      "total": 733,
-      "working": 663,
-      "hd": 241
+      "total": 739,
+      "working": 668,
+      "hd": 247
     },
     "Hungarian": {
       "total": 11,
@@ -123,8 +123,8 @@
       "hd": 9
     },
     "Kannada": {
-      "total": 70,
-      "working": 64,
+      "total": 71,
+      "working": 65,
       "hd": 29
     },
     "Konkani": {
@@ -168,14 +168,14 @@
       "hd": 13
     },
     "Other": {
-      "total": 36,
-      "working": 21,
-      "hd": 11
+      "total": 39,
+      "working": 24,
+      "hd": 13
     },
     "Polish": {
       "total": 7,
-      "working": 2,
-      "hd": 1
+      "working": 3,
+      "hd": 2
     },
     "Portuguese": {
       "total": 28,
@@ -189,7 +189,7 @@
     },
     "Romanian": {
       "total": 30,
-      "working": 27,
+      "working": 28,
       "hd": 5
     },
     "Russian": {
@@ -219,8 +219,8 @@
     },
     "Spanish": {
       "total": 105,
-      "working": 59,
-      "hd": 37
+      "working": 57,
+      "hd": 35
     },
     "Swedish": {
       "total": 1,
@@ -233,8 +233,8 @@
       "hd": 73
     },
     "Telugu": {
-      "total": 187,
-      "working": 170,
+      "total": 188,
+      "working": 171,
       "hd": 64
     },
     "Thai": {
@@ -289,15 +289,15 @@
       "working": 4
     },
     "Cricket": {
-      "total": 20,
-      "working": 13
+      "total": 21,
+      "working": 14
     },
     "Culture": {
       "total": 18,
       "working": 12
     },
     "Devotional": {
-      "total": 268,
+      "total": 269,
       "working": 245
     },
     "Documentary": {
@@ -309,12 +309,12 @@
       "working": 9
     },
     "Entertainment": {
-      "total": 264,
-      "working": 238
+      "total": 267,
+      "working": 241
     },
     "General": {
-      "total": 204,
-      "working": 179
+      "total": 205,
+      "working": 180
     },
     "Kids": {
       "total": 12,
@@ -329,16 +329,16 @@
       "working": 20
     },
     "Movies": {
-      "total": 132,
+      "total": 133,
       "working": 117
     },
     "Music": {
-      "total": 139,
+      "total": 138,
       "working": 123
     },
     "News": {
-      "total": 762,
-      "working": 714
+      "total": 772,
+      "working": 724
     },
     "Outdoor": {
       "total": 17,
@@ -357,7 +357,7 @@
       "working": 2
     },
     "Sports": {
-      "total": 550,
+      "total": 551,
       "working": 328
     },
     "Travel": {
@@ -432,6 +432,11 @@
       "reason": "URLError"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Movies (1080p)",
       "url": "https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8",
       "reason": "URLError"
@@ -439,11 +444,6 @@
     {
       "name": "B4U Movies (576p)",
       "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "B4U Music (1080p)",
-      "url": "https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8",
       "reason": "URLError"
     },
     {
@@ -790,6 +790,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1213,6 +1218,11 @@
     },
     {
       "name": "Fox Sports (1080p)",
+      "url": "http://138.59.227.20:8000/play/a085/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Fox Sports (1080p)",
       "url": "http://158.172.155.130:8000/play/a09x/index.m3u8",
       "reason": "URLError"
     },
@@ -1364,7 +1374,7 @@
     {
       "name": "江苏体育 (576p)",
       "url": "http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "江苏体育 (576p)",
@@ -1452,11 +1462,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Eurosport 4K Romania (2160p) [Geo-blocked]",
-      "url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Sky Sport F1",
       "url": "http://94.130.48.67:8042/stream/51/index.m3u8",
       "reason": "HTTP 403"
@@ -1515,6 +1520,11 @@
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Al Iraqia Sport (720p)",
+      "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Setanta Sports 1 Eurasia (1080p)",
@@ -1775,11 +1785,6 @@
       "name": "Eurosport 2 Polska (1080p)",
       "url": "http://57.128.210.196:8080/263/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Eurosport 3 Polska (1080p)",
-      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5121596371c5191ed9b35",
-      "reason": "HTTP 429"
     },
     {
       "name": "Polsat Sport Fight",
@@ -2290,6 +2295,11 @@
       "name": "Willow (720p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "AS3 Sport TV (1080p)",
+      "url": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Meridiano TV (576p)",
