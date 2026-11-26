@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-26 15:07 UTC",
-  "fingerprint": "47c381f1a6156062bfd5c683fddd7c4e",
+  "updated_at": "2026-11-26 23:46 UTC",
+  "fingerprint": "55a8c99c4ab35fb5fa87fbc9884da247",
   "total": 2415,
-  "working": 2018,
-  "in_grace_period": 40,
-  "dead": 397,
-  "hd_channels": 860,
+  "working": 2022,
+  "in_grace_period": 54,
+  "dead": 393,
+  "hd_channels": 863,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -30,7 +30,7 @@
     "Bengali": {
       "total": 105,
       "working": 91,
-      "hd": 46
+      "hd": 45
     },
     "Bhojpuri": {
       "total": 31,
@@ -104,13 +104,13 @@
     },
     "Hindi": {
       "total": 739,
-      "working": 669,
-      "hd": 244
+      "working": 670,
+      "hd": 245
     },
     "Hungarian": {
       "total": 11,
-      "working": 8,
-      "hd": 1
+      "working": 9,
+      "hd": 2
     },
     "Indonesian": {
       "total": 2,
@@ -165,12 +165,12 @@
     "Odia": {
       "total": 34,
       "working": 30,
-      "hd": 13
+      "hd": 12
     },
     "Other": {
       "total": 39,
       "working": 24,
-      "hd": 12
+      "hd": 13
     },
     "Polish": {
       "total": 7,
@@ -219,8 +219,8 @@
     },
     "Spanish": {
       "total": 105,
-      "working": 55,
-      "hd": 35
+      "working": 57,
+      "hd": 37
     },
     "Swedish": {
       "total": 1,
@@ -330,7 +330,7 @@
     },
     "Movies": {
       "total": 133,
-      "working": 117
+      "working": 118
     },
     "Music": {
       "total": 138,
@@ -358,7 +358,7 @@
     },
     "Sports": {
       "total": 551,
-      "working": 320
+      "working": 323
     },
     "Travel": {
       "total": 6,
@@ -395,11 +395,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -1319,7 +1314,7 @@
     {
       "name": "SporTV 3 (720p)",
       "url": "http://170.83.49.66:8083/SPORTV3HD/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "TVMatic Fight (720p)",
@@ -1417,11 +1412,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Tour Spot TV (1280p) [Not 24/7]",
-      "url": "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Awapa Sports TV (1080p) [Not 24/7]",
       "url": "https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8",
       "reason": "HTTP 400"
@@ -1517,11 +1507,6 @@
       "reason": "HTTP 503"
     },
     {
-      "name": "Match4 (1080p)",
-      "url": "http://141.94.193.53/Match4_HD/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
       "reason": "URLError"
@@ -1559,17 +1544,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis",
@@ -1825,11 +1810,6 @@
       "name": "Sport TV+",
       "url": "http://znty.dyndns.org:5010/hls/sportv+.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "WAPA-TV 4.2 (720p) [Not 24/7]",
-      "url": "https://wapa.hostless.app/WAPA-TV-4-2.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "beIN Sports 1",
@@ -2109,7 +2089,7 @@
     {
       "name": "UPL.TV",
       "url": "http://dtv.vol.net.ua/UPL-TV/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Sharjah Sports (1080p) [Geo-blocked]",
