@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-27 05:23 UTC",
-  "fingerprint": "abe96bdb91df48f6a13a503422954385",
+  "updated_at": "2026-11-27 15:20 UTC",
+  "fingerprint": "bb9f22d362189f038c1c552582b75e74",
   "total": 2447,
-  "working": 2045,
-  "in_grace_period": 46,
-  "dead": 402,
-  "hd_channels": 873,
+  "working": 2048,
+  "in_grace_period": 22,
+  "dead": 399,
+  "hd_channels": 874,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -19,7 +19,7 @@
     },
     "Assamese": {
       "total": 44,
-      "working": 42,
+      "working": 43,
       "hd": 14
     },
     "Belarusian": {
@@ -69,8 +69,8 @@
     },
     "English": {
       "total": 282,
-      "working": 219,
-      "hd": 113
+      "working": 220,
+      "hd": 112
     },
     "Estonian": {
       "total": 1,
@@ -95,7 +95,7 @@
     "Gujarati": {
       "total": 48,
       "working": 46,
-      "hd": 20
+      "hd": 19
     },
     "Hebrew": {
       "total": 9,
@@ -104,8 +104,8 @@
     },
     "Hindi": {
       "total": 745,
-      "working": 675,
-      "hd": 245
+      "working": 676,
+      "hd": 246
     },
     "Hungarian": {
       "total": 11,
@@ -149,8 +149,8 @@
     },
     "Malayalam": {
       "total": 149,
-      "working": 133,
-      "hd": 56
+      "working": 134,
+      "hd": 57
     },
     "Marathi": {
       "total": 46,
@@ -165,7 +165,7 @@
     "Odia": {
       "total": 34,
       "working": 30,
-      "hd": 12
+      "hd": 13
     },
     "Other": {
       "total": 42,
@@ -179,7 +179,7 @@
     },
     "Portuguese": {
       "total": 28,
-      "working": 9,
+      "working": 8,
       "hd": 8
     },
     "Punjabi": {
@@ -189,7 +189,7 @@
     },
     "Romanian": {
       "total": 31,
-      "working": 29,
+      "working": 30,
       "hd": 5
     },
     "Russian": {
@@ -219,7 +219,7 @@
     },
     "Spanish": {
       "total": 105,
-      "working": 57,
+      "working": 55,
       "hd": 37
     },
     "Swedish": {
@@ -229,7 +229,7 @@
     },
     "Tamil": {
       "total": 167,
-      "working": 149,
+      "working": 150,
       "hd": 73
     },
     "Telugu": {
@@ -259,7 +259,7 @@
     },
     "Vietnamese": {
       "total": 8,
-      "working": 7,
+      "working": 8,
       "hd": 6
     }
   },
@@ -310,11 +310,11 @@
     },
     "Entertainment": {
       "total": 277,
-      "working": 249
+      "working": 250
     },
     "General": {
       "total": 205,
-      "working": 177
+      "working": 180
     },
     "Kids": {
       "total": 13,
@@ -358,7 +358,7 @@
     },
     "Sports": {
       "total": 557,
-      "working": 330
+      "working": 329
     },
     "Travel": {
       "total": 6,
@@ -500,11 +500,6 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "DD Assam (576p)",
-      "url": "https://fta.ektv.in/live/672/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "DD Manipur (576p)",
@@ -912,11 +907,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Powran Media (720p) [Not 24/7]",
-      "url": "https://stream.onecloudlive.in/powranmedia/livestream/index.m3u8",
-      "reason": "HTTP 503"
-    },
-    {
       "name": "Prameya News7 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8",
       "reason": "HTTP 403"
@@ -1112,11 +1102,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Thendral TV (576p)",
-      "url": "https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Times Now (720p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8",
       "reason": "HTTP 403"
@@ -1130,11 +1115,6 @@
       "name": "Times Now Navbharat (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/navbharat_master.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Total TV Haryana (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4TOTALTV/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Travelxp 4K HDR (2160p) [Geo-blocked]",
@@ -1327,6 +1307,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Band Sports (720p)",
+      "url": "http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Canal do Inter (720p) [Not 24/7]",
       "url": "https://video01.soultv.com.br/internacional/internacional/playlist.m3u8",
       "reason": "URLError"
@@ -1419,7 +1404,7 @@
     {
       "name": "江苏体育 (576p)",
       "url": "http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "江苏体育 (576p)",
@@ -1559,7 +1544,7 @@
     {
       "name": "TVRI Sport (1080p)",
       "url": "http://202.150.172.59/TVRISport/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Setanta Sports 1 Eurasia (1080p)",
@@ -1860,11 +1845,6 @@
       "name": "Sport TV+",
       "url": "http://znty.dyndns.org:5010/hls/sportv+.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Prima PPV 3 (576p)",
-      "url": "https://rundle.tv/proxy5.php?src=https://pulse1.sanseny001.shop/puki2/usergendxpk2s6utg0l.m3u8",
-      "reason": "HTTP 429"
     },
     {
       "name": "Voyo Sport 1 (1080i)",
@@ -2237,6 +2217,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "ESPN 2 Latin America Colombia (1080p)",
+      "url": "http://190.61.47.54:8000/play/a005/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "ESPN 3 Latin America (1080p)",
       "url": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8",
       "reason": "HTTP 403"
@@ -2289,6 +2274,11 @@
     {
       "name": "ESPN Latin America Argentina",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "ESPN Latin America Colombia (1080p)",
+      "url": "http://190.61.47.54:8000/play/a004/index.m3u8",
       "reason": "HTTP 403"
     },
     {
@@ -2370,11 +2360,6 @@
       "name": "SportsMax News (1080p)",
       "url": "http://181.79.86.130:8000/play/a081/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "HTV Sports (1080i)",
-      "url": "https://vmttv.dpdns.org/tv360?id=htv-the-thao",
-      "reason": "HTTP 404"
     }
   ]
 }
