@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-27 15:20 UTC",
-  "fingerprint": "bb9f22d362189f038c1c552582b75e74",
+  "updated_at": "2026-11-27 23:32 UTC",
+  "fingerprint": "79c42e76b0a51cb1e52d6576ae8e0f64",
   "total": 2447,
-  "working": 2048,
-  "in_grace_period": 22,
-  "dead": 399,
-  "hd_channels": 874,
+  "working": 2046,
+  "in_grace_period": 20,
+  "dead": 401,
+  "hd_channels": 872,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -30,7 +30,7 @@
     "Bengali": {
       "total": 108,
       "working": 94,
-      "hd": 47
+      "hd": 46
     },
     "Bhojpuri": {
       "total": 32,
@@ -70,7 +70,7 @@
     "English": {
       "total": 282,
       "working": 220,
-      "hd": 112
+      "hd": 113
     },
     "Estonian": {
       "total": 1,
@@ -149,8 +149,8 @@
     },
     "Malayalam": {
       "total": 149,
-      "working": 134,
-      "hd": 57
+      "working": 133,
+      "hd": 56
     },
     "Marathi": {
       "total": 46,
@@ -170,7 +170,7 @@
     "Other": {
       "total": 42,
       "working": 27,
-      "hd": 15
+      "hd": 16
     },
     "Polish": {
       "total": 7,
@@ -219,8 +219,8 @@
     },
     "Spanish": {
       "total": 105,
-      "working": 55,
-      "hd": 37
+      "working": 54,
+      "hd": 36
     },
     "Swedish": {
       "total": 1,
@@ -235,7 +235,7 @@
     "Telugu": {
       "total": 191,
       "working": 174,
-      "hd": 66
+      "hd": 65
     },
     "Thai": {
       "total": 1,
@@ -310,7 +310,7 @@
     },
     "Entertainment": {
       "total": 277,
-      "working": 250
+      "working": 249
     },
     "General": {
       "total": 205,
@@ -358,7 +358,7 @@
     },
     "Sports": {
       "total": 557,
-      "working": 329
+      "working": 328
     },
     "Travel": {
       "total": 6,
@@ -907,6 +907,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Periyar Vision (1080p)",
+      "url": "https://stream.onecloudlive.in/periyarvision/periyarvision/index.m3u8",
+      "reason": "HTTP 503"
+    },
+    {
       "name": "Prameya News7 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8",
       "reason": "HTTP 403"
@@ -1384,7 +1389,7 @@
     {
       "name": "TNT Sports Premium HD",
       "url": "https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8",
-      "reason": "not a valid HLS manifest"
+      "reason": "HTTP 404"
     },
     {
       "name": "CCTV-5+",
@@ -1404,7 +1409,7 @@
     {
       "name": "江苏体育 (576p)",
       "url": "http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "江苏体育 (576p)",
@@ -1845,6 +1850,11 @@
       "name": "Sport TV+",
       "url": "http://znty.dyndns.org:5010/hls/sportv+.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "WAPA-TV 4.2 (720p) [Not 24/7]",
+      "url": "https://wapa.hostless.app/WAPA-TV-4-2.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Voyo Sport 1 (1080i)",
