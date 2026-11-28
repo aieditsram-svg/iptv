@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-28 04:55 UTC",
-  "fingerprint": "5d72860f9ec2ccbeac641c496b1c6aea",
-  "total": 2454,
-  "working": 2048,
-  "in_grace_period": 29,
-  "dead": 406,
-  "hd_channels": 872,
+  "updated_at": "2026-11-28 13:44 UTC",
+  "fingerprint": "b646d4304d33a6b2161d754d27b87f9e",
+  "total": 2455,
+  "working": 2045,
+  "in_grace_period": 23,
+  "dead": 410,
+  "hd_channels": 873,
   "languages": {
     "Albanian": {
       "total": 1,
@@ -30,7 +30,7 @@
     "Bengali": {
       "total": 108,
       "working": 93,
-      "hd": 46
+      "hd": 47
     },
     "Bhojpuri": {
       "total": 33,
@@ -70,7 +70,7 @@
     "English": {
       "total": 283,
       "working": 220,
-      "hd": 112
+      "hd": 113
     },
     "Estonian": {
       "total": 1,
@@ -149,8 +149,8 @@
     },
     "Malayalam": {
       "total": 149,
-      "working": 132,
-      "hd": 55
+      "working": 131,
+      "hd": 54
     },
     "Marathi": {
       "total": 46,
@@ -234,8 +234,8 @@
     },
     "Telugu": {
       "total": 191,
-      "working": 174,
-      "hd": 65
+      "working": 173,
+      "hd": 66
     },
     "Thai": {
       "total": 1,
@@ -258,8 +258,8 @@
       "hd": 7
     },
     "Vietnamese": {
-      "total": 8,
-      "working": 8,
+      "total": 9,
+      "working": 7,
       "hd": 6
     }
   },
@@ -310,7 +310,7 @@
     },
     "Entertainment": {
       "total": 277,
-      "working": 248
+      "working": 247
     },
     "General": {
       "total": 205,
@@ -338,7 +338,7 @@
     },
     "News": {
       "total": 778,
-      "working": 728
+      "working": 727
     },
     "Outdoor": {
       "total": 17,
@@ -357,8 +357,8 @@
       "working": 2
     },
     "Sports": {
-      "total": 561,
-      "working": 331
+      "total": 562,
+      "working": 330
     },
     "Travel": {
       "total": 6,
@@ -369,11 +369,6 @@
     {
       "name": "4TV News (576p)",
       "url": "https://fta.ektv.in/live/647/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "6 TV Telugu (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -480,6 +475,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "BRK News (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -917,6 +917,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Powran Media (720p) [Not 24/7]",
+      "url": "https://stream.onecloudlive.in/powranmedia/livestream/index.m3u8",
+      "reason": "HTTP 503"
+    },
+    {
       "name": "Prameya News7 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8",
       "reason": "HTTP 403"
@@ -1100,6 +1105,11 @@
       "name": "Swadesh News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSWADESHNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Swatantra TV (1080p)",
+      "url": "https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "T News (576p)",
@@ -1414,7 +1424,7 @@
     {
       "name": "TNT Sports Premium HD",
       "url": "https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8",
-      "reason": "not a valid HLS manifest"
+      "reason": "HTTP 404"
     },
     {
       "name": "CCTV-5+",
@@ -1434,7 +1444,7 @@
     {
       "name": "江苏体育 (576p)",
       "url": "http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "江苏体育 (576p)",
@@ -1589,12 +1599,12 @@
     {
       "name": "Horse TV (576p)",
       "url": "https://cdn78-at.azotosolutions.com/cdnedge39/Canale4/master.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "Nautical Channel (576p)",
       "url": "https://cdn78-at.azotosolutions.com/cdnedge39/Canale2/master.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "Radio TV Serie A",
@@ -1609,17 +1619,17 @@
     {
       "name": "Sportitalia (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Motori (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sportitalia Solocalcio (720p) [Geo-blocked]",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "SuperTennis",
@@ -1844,7 +1854,7 @@
     {
       "name": "Eurosport 3 Polska (1080p)",
       "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5121596371c5191ed9b35",
-      "reason": "TimeoutError"
+      "reason": "HTTP 429"
     },
     {
       "name": "Polsat Sport Fight",
@@ -2395,6 +2405,16 @@
       "name": "SportsMax News (1080p)",
       "url": "http://181.79.86.130:8000/play/a081/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "HTV Sports (1080i)",
+      "url": "https://vmttv.dpdns.org/tv360?id=htv-the-thao",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "ON Golf (1080p)",
+      "url": "https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel",
+      "reason": "HTTP 404"
     }
   ]
 }
